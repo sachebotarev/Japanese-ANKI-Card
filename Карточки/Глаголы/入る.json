@@ -3,7 +3,7 @@
   "Перевод": "входить",
   "Чтение": "はいる",
   "Подсказка": "Перед тобой открытая комната, и ты переходишь через порог внутрь.",
-  "Пример": "雨が強くなったので、近くの店に入りました。",
+  "Пример": "雨が強くなったので、近くの店に<span class='study-word'>入りました</span>。",
   "Пример без слова": "雨が強くなったので、近くの店に_____。",
   "Пример перевод": "Дождь усилился, и я зашел в ближайший магазин.",
   "Картинка": "Japanese style illustration, 512x512, scene based on Russian sentence: \"Поскольку дождь усилился, я захожу в ближайший магазин.\", rainy Japanese street, person entering small shop for shelter, soft natural colors, clean composition, no text",
