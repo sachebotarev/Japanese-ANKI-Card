@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import random
 import re
 import shutil
 import subprocess
@@ -22,11 +23,11 @@ CARDS_DIR = ROOT_DIR / "Карточки"
 PRONUNCIATION_DIR = ROOT_DIR / "Произношение"
 
 DEFAULT_ENGINE_URL = "http://127.0.0.1:10101"
-PREFERRED_SPEAKER_NAME = "Anneli-nsfw"
-FALLBACK_SPEAKER_NAME = "まお"
 DEFAULT_STYLE_NAME = "ノーマル"
 DEFAULT_SPEED_SCALE = 0.9
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+EXAMPLE_SPLIT_RE = re.compile(r"\s*<br\s*/?>\s*|\r?\n")
+NEW_FORMAT_EXAMPLE_COUNT = 3
 
 
 def parse_args() -> argparse.Namespace:
@@ -58,8 +59,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--speaker",
         help=(
-            "Имя голоса. По умолчанию: сначала пытается использовать "
-            f"{PREFERRED_SPEAKER_NAME}, если он доступен, иначе {FALLBACK_SPEAKER_NAME}."
+            "Имя голоса. Если не указано, голос случайно выбирается "
+            "из доступных для выбранного стиля."
         ),
     )
     parser.add_argument(
@@ -87,6 +88,17 @@ def parse_args() -> argparse.Namespace:
 
 def strip_example_markup(text: str) -> str:
     return html.unescape(HTML_TAG_RE.sub("", text)).strip()
+
+
+def parse_examples(raw_text: str) -> list[str]:
+    examples = [strip_example_markup(line) for line in EXAMPLE_SPLIT_RE.split(raw_text)]
+    examples = [line for line in examples if line]
+    if len(examples) != NEW_FORMAT_EXAMPLE_COUNT:
+        raise RuntimeError(
+            "Поле 'Пример' должно содержать ровно 3 непустых примера, "
+            "разделённых тегом <br>."
+        )
+    return examples
 
 
 def load_json(path: Path) -> dict:
@@ -218,10 +230,17 @@ def resolve_voice(engine_url: str, speaker_name: str | None, style_name: str | N
         return speaker_name, chosen_style
 
     speakers = request_json(f"{engine_url.rstrip('/')}/speakers")
-    available_names = {speaker.get("name") for speaker in speakers}
-    if PREFERRED_SPEAKER_NAME in available_names:
-        return PREFERRED_SPEAKER_NAME, chosen_style
-    return FALLBACK_SPEAKER_NAME, chosen_style
+    compatible_speakers = [
+        speaker.get("name")
+        for speaker in speakers
+        if speaker.get("name")
+        and any(style.get("name") == chosen_style for style in speaker.get("styles", []))
+    ]
+    if not compatible_speakers:
+        raise RuntimeError(
+            f"Не найдено ни одного голоса со стилем '{chosen_style}'."
+        )
+    return random.choice(compatible_speakers), chosen_style
 
 
 def pick_style_id(engine_url: str, speaker_name: str, style_name: str) -> int:
@@ -287,13 +306,16 @@ def generate_audio(engine_url: str, style_id: int, text: str, output_mp3: Path) 
 
 
 def sound_tags(word: str) -> str:
-    return f"[sound:{word}_слово.mp3][sound:{word}_пример.mp3]"
+    tags = [f"[sound:{word}_слово.mp3]"]
+    for index in range(1, NEW_FORMAT_EXAMPLE_COUNT + 1):
+        tags.append(f"[sound:{word}_пример_{index}.mp3]")
+    return "".join(tags)
 
 
 def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bool, force: bool) -> None:
     payload = load_json(card_path)
     word = str(payload["Слово"]).strip()
-    example = strip_example_markup(str(payload["Пример"]))
+    examples = parse_examples(str(payload["Пример"]))
 
     relative = card_path.relative_to(CARDS_DIR)
     topic = relative.parts[0]
@@ -301,7 +323,6 @@ def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bo
     output_dir.mkdir(parents=True, exist_ok=True)
 
     word_mp3 = output_dir / f"{word}_слово.mp3"
-    example_mp3 = output_dir / f"{word}_пример.mp3"
 
     if force or not word_mp3.exists():
         generate_audio(engine_url, style_id, word, word_mp3)
@@ -309,11 +330,13 @@ def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bo
     else:
         print(f"Пропуск, файл уже есть: {word_mp3.relative_to(ROOT_DIR)}")
 
-    if force or not example_mp3.exists():
-        generate_audio(engine_url, style_id, example, example_mp3)
-        print(f"Сгенерировано: {example_mp3.relative_to(ROOT_DIR)}")
-    else:
-        print(f"Пропуск, файл уже есть: {example_mp3.relative_to(ROOT_DIR)}")
+    for index, example in enumerate(examples, start=1):
+        example_mp3 = output_dir / f"{word}_пример_{index}.mp3"
+        if force or not example_mp3.exists():
+            generate_audio(engine_url, style_id, example, example_mp3)
+            print(f"Сгенерировано: {example_mp3.relative_to(ROOT_DIR)}")
+        else:
+            print(f"Пропуск, файл уже есть: {example_mp3.relative_to(ROOT_DIR)}")
 
     tags = sound_tags(word)
     print(f"Теги Anki: {tags}")
