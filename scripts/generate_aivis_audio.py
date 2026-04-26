@@ -25,6 +25,7 @@ DEFAULT_ENGINE_URL = "http://127.0.0.1:10101"
 PREFERRED_SPEAKER_NAME = "Anneli-nsfw"
 FALLBACK_SPEAKER_NAME = "まお"
 DEFAULT_STYLE_NAME = "ノーマル"
+DEFAULT_SPEED_SCALE = 0.9
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 
 
@@ -267,6 +268,7 @@ def generate_audio(engine_url: str, style_id: int, text: str, output_mp3: Path) 
     query_params = urllib.parse.urlencode({"speaker": style_id, "text": text})
     query = request_json(f"{engine_url.rstrip('/')}/audio_query?{query_params}", method="POST")
     query["outputStereo"] = False
+    query["speedScale"] = DEFAULT_SPEED_SCALE
     wav_bytes = request_bytes(
         f"{engine_url.rstrip('/')}/synthesis?speaker={style_id}",
         method="POST",
