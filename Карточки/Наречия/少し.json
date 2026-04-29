@@ -6,7 +6,7 @@
   "Пример": "水を<span class='study-word'>少し</span>飲みます。<br>時間が<span class='study-word'>少し</span>あるので、お茶を飲みましょう。<br>日本語の新聞はまだ難しいですが、毎日読むと漢字が<span class='study-word'>少し</span>ずつ分かるようになります。",
   "Пример без слова": "水を_____飲みます。<br>時間が_____あるので、お茶を飲みましょう。<br>日本語の新聞はまだ難しいですが、毎日読むと漢字が_____ずつ分かるようになります。",
   "Пример перевод": "Я выпью немного воды.<br>У нас есть немного времени, давайте выпьем чаю.<br>Японская газета пока трудная, но если читать каждый день, кандзи постепенно начинают понемногу становиться понятными.",
-  "Картинка": "512x512 raster illustration for a Japanese vocabulary flashcard. Scene: a student reading a Japanese newspaper every day, gradually understanding a few more kanji bit by bit. Emphasize a small amount and gradual progress for 少し. No text, no letters, no captions.",
+  "Картинка": "<img src=\"japanese_words_少し.png\">",
   "Произношение": "[sound:少し_слово.mp3][sound:少し_пример_1.mp3][sound:少し_пример_2.mp3][sound:少し_пример_3.mp3]",
   "Заметки": "少し означает небольшое количество или степень. В форме 少しずつ значит «понемногу, мало-помалу».",
   "Кандзи-разбор": "少 — «мало, немного». Слово часто пишется кандзи 少し, чтение すこし.",

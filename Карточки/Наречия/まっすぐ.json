@@ -6,7 +6,7 @@
   "Пример": "道を<span class='study-word'>まっすぐ</span>行ってください。<br>この道を<span class='study-word'>まっすぐ</span>行くと、右に銀行があります。<br>初めて行く場所だったので、駅員さんに聞いてから、広い道を<span class='study-word'>まっすぐ</span>歩いて図書館まで行きました。",
   "Пример без слова": "道を_____行ってください。<br>この道を_____行くと、右に銀行があります。<br>初めて行く場所だったので、駅員さんに聞いてから、広い道を_____歩いて図書館まで行きました。",
   "Пример перевод": "Идите прямо по дороге.<br>Если идти прямо по этой дороге, справа будет банк.<br>Так как я шёл туда впервые, я спросил сотрудника станции, а потом пошёл прямо по широкой улице до библиотеки.",
-  "Картинка": "512x512 raster illustration for a Japanese vocabulary flashcard. Scene: a person walking straight along a wide Japanese street from a station toward a library, following simple directions. Emphasize straight direction for まっすぐ. No text, no letters, no captions.",
+  "Картинка": "<img src=\"japanese_words_まっすぐ.png\">",
   "Произношение": "[sound:まっすぐ_слово.mp3][sound:まっすぐ_пример_1.mp3][sound:まっすぐ_пример_2.mp3][sound:まっすぐ_пример_3.mp3]",
   "Заметки": "まっすぐ используется для направления «прямо» и иногда для характера «прямой, честный». В маршрутах очень полезное слово.",
   "Кандзи-разбор": "Обычно пишется хираганой. Возможная запись 真っ直ぐ: 真 — «истинный», 直 — «прямой».",

@@ -6,7 +6,7 @@
   "Пример": "宿題は<span class='study-word'>ほとんど</span>終わりました。<br>今日は忙しくて、昼ご飯を<span class='study-word'>ほとんど</span>食べませんでした。<br>台風のあとで町の電車は<span class='study-word'>ほとんど</span>止まっていたので、会社へ行く人たちはとても困っていました。",
   "Пример без слова": "宿題は_____終わりました。<br>今日は忙しくて、昼ご飯を_____食べませんでした。<br>台風のあとで町の電車は_____止まっていたので、会社へ行く人たちはとても困っていました。",
   "Пример перевод": "Домашнее задание почти закончено.<br>Сегодня я был занят и почти не ел обед.<br>После тайфуна поезда в городе почти все остановились, поэтому люди, едущие на работу, были в большом затруднении.",
-  "Картинка": "512x512 raster illustration for a Japanese vocabulary flashcard. Scene: after a typhoon, nearly all trains in a city are stopped and commuters look troubled at a station. Emphasize almost all or nearly for ほとんど. No text, no letters, no captions.",
+  "Картинка": "<img src=\"japanese_words_ほとんど.png\">",
   "Произношение": "[sound:ほとんど_слово.mp3][sound:ほとんど_пример_1.mp3][sound:ほとんど_пример_2.mp3][sound:ほとんど_пример_3.mp3]",
   "Заметки": "ほとんど значит «почти». С отрицанием часто переводится «почти не»: ほとんど食べない.",
   "Кандзи-разбор": "Обычно пишется хираганой. Для N4 важно запомнить сочетание с отрицанием.",
