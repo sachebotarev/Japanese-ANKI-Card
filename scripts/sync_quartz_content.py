@@ -83,6 +83,12 @@ def replace_wikilinks(text: str, base: str) -> str:
 NAV_THEME_MARKER = "<!-- quartz-nav-to-theme-index -->"
 
 
+def yaml_plain_title(title: str) -> str:
+    """Строка `title: ...` для frontmatter (в кавычках — безопасно для любых имён папок)."""
+    esc = title.replace('"', '\\"')
+    return f'title: "{esc}"'
+
+
 def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
     """
     Страницы папок в Quartz (FolderContent) рендерятся в JSX — ссылки из списка файлов
@@ -99,14 +105,15 @@ def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
 
         lines = [
             "---",
-            f"title: «{topic}» — карточки",
+            yaml_plain_title(topic),
+            f'description: "Заметки по теме: {topic}"',
             "tags:",
             "  - тема-оглавление",
             "---",
             "",
-            "[← Все темы записи](../index)",
+            "[← Все темы](../index)",
             "",
-            f"Оглавление темы **{topic}**: ссылки ниже участвуют в **графе связей** на сайте (Quartz берёт рёбра только из markdown, а не из авто-списка папки).",
+            f"Ссылки ниже — для **графа связей** на сайте (Quartz не подхватывает ссылки из авто-списка папки).",
             "",
             "## Заметки",
             "",
@@ -117,10 +124,7 @@ def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
         lines.append("")
         (topic_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
-        footer = (
-            f"\n\n{NAV_THEME_MARKER}\n\n"
-            f"[↑ К списку карточек темы «{topic}»](index)\n"
-        )
+        footer = f"\n\n{NAV_THEME_MARKER}\n\n[↑ Оглавление темы](index)\n"
         for p in card_paths:
             text = p.read_text(encoding="utf-8")
             if NAV_THEME_MARKER in text:
@@ -206,14 +210,14 @@ description: >-
     idx = QUARTZ_CONTENT / "Записи" / "index.md"
     lines = [
         "---",
-        "title: Записи по темам",
-        "description: Оглавление разделов — глаголы, существительные и другие темы.",
+        "title: Темы",
+        "description: Разделы — глаголы, существительные и другие темы.",
         "---",
         "",
         "> [!info] Навигация",
-        "> Каждая строка — папка с заметками-карточками. Внутри файлы по отдельным словам.",
+        "> Каждая строка — тема; внутри — заметки по отдельным словам.",
         "",
-        "## Темы",
+        "## Разделы",
         "",
     ]
     for t in topics:
