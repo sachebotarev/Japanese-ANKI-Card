@@ -55,10 +55,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Глубина 2 — меньше узлов при первом рендере (см. отложенный init графа в MyGraph).
     MyGraph({
-      localGraph: { depth: 2 },
+      // Для ученика полезнее видеть связи между словами, а не шум от тегов.
+      localGraph: { depth: 2, showTags: false },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 

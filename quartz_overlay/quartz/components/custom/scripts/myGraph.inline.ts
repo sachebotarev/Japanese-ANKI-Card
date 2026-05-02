@@ -566,6 +566,57 @@ function cleanupGlobalGraphs() {
 }
 
 document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
+  function ensureStudyHintStyles() {
+    const styleId = "study-sidebar-hints-style"
+    if (document.getElementById(styleId)) return
+    const style = document.createElement("style")
+    style.id = styleId
+    style.textContent = `
+      .graph-study-tip,
+      .toc-study-tip {
+        margin: 0.35rem 0 0.6rem;
+        font-size: 0.82rem;
+        line-height: 1.35;
+        color: var(--darkgray);
+        opacity: 0.9;
+      }
+    `
+    document.head.appendChild(style)
+  }
+
+  function ensureSidebarStudyHints() {
+    // Делаем правый сайдбар «учебным»: понятные заголовки и короткие подсказки.
+    for (const h3 of Array.from(document.querySelectorAll(".graph h3"))) {
+      if (h3.textContent?.trim() !== "Связанные слова") {
+        h3.textContent = "Связанные слова"
+      }
+      const tipClass = "graph-study-tip"
+      const next = h3.nextElementSibling
+      if (!next || !next.classList.contains(tipClass)) {
+        const p = document.createElement("p")
+        p.className = tipClass
+        p.textContent = "Нажмите на узел, чтобы открыть следующее слово для повторения."
+        h3.insertAdjacentElement("afterend", p)
+      }
+    }
+
+    for (const h3 of Array.from(document.querySelectorAll(".toc h3"))) {
+      if (h3.textContent?.trim() !== "План страницы") {
+        h3.textContent = "План страницы"
+      }
+      const tipClass = "toc-study-tip"
+      const next = h3.nextElementSibling
+      if (!next || !next.classList.contains(tipClass)) {
+        const p = document.createElement("p")
+        p.className = tipClass
+        p.textContent = "Начните с раздела «Примеры», затем переходите к заметкам."
+        h3.insertAdjacentElement("afterend", p)
+      }
+    }
+  }
+
+  ensureStudyHintStyles()
+  ensureSidebarStudyHints()
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
@@ -593,6 +644,9 @@ document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
   window.addCleanup(() => {
     document.removeEventListener("themechange", handleThemeChange)
   })
+
+  // После повторного рендера компонентов при навигации снова обновляем подписи.
+  ensureSidebarStudyHints()
 
   const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
   async function renderGlobalGraph() {
