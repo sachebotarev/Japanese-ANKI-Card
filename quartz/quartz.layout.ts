@@ -41,7 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // localGraph.depth по умолчанию 1 — на главной почти нет «соседей» в графе;
+    // 2: соседи и соседи соседей (удобнее при разреженных ссылках между заметками).
+    Component.Graph({
+      localGraph: { depth: 2 },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

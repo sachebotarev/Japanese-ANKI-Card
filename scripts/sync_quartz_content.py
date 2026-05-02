@@ -28,6 +28,20 @@ AUDIO_EXT = (".mp3", ".m4a", ".wav", ".ogg", ".opus")
 IMAGE_EXT = (".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg")
 
 
+def quartz_path_segment(segment: str) -> str:
+    """
+    Один сегмент пути в ссылках как у Quartz (см. quartz/util/path.ts → sluggify):
+    пробелы → «-», иначе SPA/статик не совпадают с папкой «Части тела» на диске.
+    """
+    return (
+        segment.replace(" ", "-")
+        .replace("&", "-and-")
+        .replace("%", "-percent")
+        .replace("?", "")
+        .replace("#", "")
+    )
+
+
 def default_raw_base() -> str:
     try:
         out = subprocess.check_output(
@@ -89,13 +103,14 @@ def main() -> int:
             md.write_text(new, encoding="utf-8")
 
     topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
+    # Имена папок с пробелами («Части тела») в URL у Quartz — с дефисом («Части-тела»).
     topic_rows = "\n".join(
-        f"| [{t}](Записи/{t}/) | Откройте папку — список карточек по теме |"
+        f"| [{t}](Записи/{quartz_path_segment(t)}/) | Откройте папку — список карточек по теме |"
         for t in topics
     )
     if not topic_rows:
         topic_rows = "| *(нет подпапок в Записи)* | |"
-    topic_bullets = "\n".join(f"- [{t}](Записи/{t}/)" for t in topics)
+    topic_bullets = "\n".join(f"- [{t}](Записи/{quartz_path_segment(t)}/)" for t in topics)
 
     index = QUARTZ_CONTENT / "index.md"
     index.write_text(
@@ -151,7 +166,7 @@ description: >-
         "",
     ]
     for t in topics:
-        lines.append(f"- [{t}]({t}/)")
+        lines.append(f"- [{t}]({quartz_path_segment(t)}/)")
     lines.append("")
     idx.write_text("\n".join(lines), encoding="utf-8")
 

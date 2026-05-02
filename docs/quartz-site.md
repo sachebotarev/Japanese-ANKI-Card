@@ -4,11 +4,13 @@
 
 ## Как устроено
 
-1. **`scripts/sync_quartz_content.py`** копирует `Записи/` → `quartz/content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**.
+1. **`scripts/sync_quartz_content.py`** копирует `Записи/` → `quartz/content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`).
 
-2. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
+2. **Граф в сайдбаре** («локальный»): по умолчанию в Quartz только соседи на **1 шаг** по ссылкам между заметками; на главной с малым числом рёбер видно всего пару узлов. В `quartz.layout.ts` для этого проекта задано **`localGraph.depth: 2`**. Полный граф — кнопка с иконкой графа рядом с заголовком блока (глобальный режим) или сочетание **Ctrl+G** / **⌘+G**.
 
-3. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
+3. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
+
+4. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
 
 ## Первый запуск на GitHub
 
