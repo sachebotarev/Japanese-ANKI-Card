@@ -1,0 +1,66 @@
+# Сборка Quartz и публикация на GitHub Pages (project site).
+# Контент: scripts/sync_quartz_content.py → quartz/content (Записи + raw URL для медиа).
+
+name: Quartz GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Записи/**"
+      - "quartz/**"
+      - "scripts/sync_quartz_content.py"
+      - ".github/workflows/quartz-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-quartz
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Подготовить content (Записи + raw-ссылки)
+        env:
+          QUARTZ_RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
+        run: python3 scripts/sync_quartz_content.py
+
+      - name: Установить зависимости Quartz
+        working-directory: quartz
+        run: npm ci
+
+      - name: Сборка Quartz
+        working-directory: quartz
+        run: npx quartz build --verbose
+
+      - name: Загрузить артефакт Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Опубликовать на GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

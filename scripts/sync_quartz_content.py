@@ -1,0 +1,117 @@
+#!/usr/bin/env python3
+"""
+Копирует Записи/ в quartz/content/Записи и заменяет Obsidian-вставки ![[...]]
+на абсолютные raw.githubusercontent.com URL (картинки — markdown image, аудио — <audio>).
+
+Переменные окружения:
+  QUARTZ_RAW_BASE — префикс без завершающего слэша, например
+    https://raw.githubusercontent.com/sachebotarev/Japanese-ANKI-Card/main
+  По умолчанию подставляется репозиторий из git remote origin и ветка main.
+"""
+
+from __future__ import annotations
+
+import re
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+from urllib.parse import quote
+
+ROOT = Path(__file__).resolve().parents[1]
+ZAPISI = ROOT / "Записи"
+QUARTZ_CONTENT = ROOT / "quartz" / "content"
+
+WIKI = re.compile(r"!\[\[([^\]]+)\]\]")
+
+AUDIO_EXT = (".mp3", ".m4a", ".wav", ".ogg", ".opus")
+IMAGE_EXT = (".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg")
+
+
+def default_raw_base() -> str:
+    try:
+        out = subprocess.check_output(
+            ["git", "-C", str(ROOT), "remote", "get-url", "origin"],
+            text=True,
+        ).strip()
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        out = ""
+    # https://github.com/user/repo.git или git@github.com:user/repo.git
+    m = re.search(r"github\.com[:/]([^/]+)/([^/.]+)", out)
+    if m:
+        user, repo = m.group(1), m.group(2)
+        return f"https://raw.githubusercontent.com/{user}/{repo}/main"
+    return "https://raw.githubusercontent.com/sachebotarev/Japanese-ANKI-Card/main"
+
+
+def raw_url(base: str, inner: str) -> str:
+    inner = inner.strip().replace("\\", "/")
+    segs = [quote(s, safe="") for s in inner.split("/") if s]
+    return f"{base.rstrip('/')}/{'/'.join(segs)}"
+
+
+def replace_wikilinks(text: str, base: str) -> str:
+    def repl(m: re.Match[str]) -> str:
+        inner = m.group(1).strip()
+        url = raw_url(base, inner)
+        low = inner.lower()
+        if any(low.endswith(ext) for ext in AUDIO_EXT):
+            return f'<audio controls src="{url}" style="max-width:100%;width:28em;"></audio>'
+        if any(low.endswith(ext) for ext in IMAGE_EXT):
+            return f"![]({url})"
+        # неизвестное расширение — как картинку
+        return f"![]({url})"
+
+    return WIKI.sub(repl, text)
+
+
+def main() -> int:
+    import os
+
+    if not ZAPISI.is_dir():
+        print("Нет каталога Записи/", file=sys.stderr)
+        return 1
+
+    base = os.environ.get("QUARTZ_RAW_BASE", "").strip() or default_raw_base()
+    print(f"QUARTZ_RAW_BASE={base}")
+
+    if QUARTZ_CONTENT.exists():
+        shutil.rmtree(QUARTZ_CONTENT)
+    QUARTZ_CONTENT.mkdir(parents=True)
+
+    dest_zapisi = QUARTZ_CONTENT / "Записи"
+    shutil.copytree(ZAPISI, dest_zapisi)
+
+    for md in dest_zapisi.rglob("*.md"):
+        text = md.read_text(encoding="utf-8")
+        new = replace_wikilinks(text, base)
+        if new != text:
+            md.write_text(new, encoding="utf-8")
+
+    index = QUARTZ_CONTENT / "index.md"
+    index.write_text(
+        """---
+title: Японские карточки
+---
+
+Заметки из репозитория **Japanese ANKI Card** (папка `Записи/`). Картинки и аудио вставлены как ссылки на **raw.githubusercontent.com** (без копирования в сайт).
+
+[Все темы →](Записи/)
+""",
+        encoding="utf-8",
+    )
+
+    topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
+    idx = QUARTZ_CONTENT / "Записи" / "index.md"
+    lines = ["---", "title: Записи", "---", "", "## Темы", ""]
+    for t in topics:
+        lines.append(f"- [{t}]({t}/)")
+    lines.append("")
+    idx.write_text("\n".join(lines), encoding="utf-8")
+
+    print(f"Скопировано и обработано: {dest_zapisi}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

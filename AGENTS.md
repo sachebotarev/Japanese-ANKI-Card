@@ -16,6 +16,7 @@
 - Озвучка: [docs/audio.md](docs/audio.md)
 - Обработка файлов в `Слова/`: [docs/word-lists.md](docs/word-lists.md)
 - Заметки Markdown в `Записи/` (Obsidian): [docs/zapisi-spec.md](docs/zapisi-spec.md)
+- Сайт Quartz на GitHub Pages (raw для картинок и mp3): [docs/quartz-site.md](docs/quartz-site.md)
 
 ## Оперативные правила
 
