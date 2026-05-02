@@ -1,5 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import type { FileTrieNode } from "./quartz/util/fileTrie"
+
+/** Имя темы в проводнике из пути (не из title в JSON — надёжнее при кэше CDN/браузера). */
+function explorerThemeFolderTitle(node: FileTrieNode) {
+  const fp = node.data?.filePath
+  if (typeof fp !== "string") return
+  const m = fp.match(/^Записи\/([^/]+)\/index\.md$/)
+  if (m) node.displayName = m[1]
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -38,12 +47,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Проводник",
+      mapFn: explorerThemeFolderTitle,
+    }),
   ],
   right: [
-    // После явных ссылок тема↔карточки (sync) глубина 3 даёт связный локальный граф.
+    // Глубина 2 — меньше узлов при первом рендере (см. отложенный init графа).
     Component.Graph({
-      localGraph: { depth: 3 },
+      localGraph: { depth: 2 },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -65,7 +77,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Проводник",
+      mapFn: explorerThemeFolderTitle,
+    }),
   ],
   right: [],
 }

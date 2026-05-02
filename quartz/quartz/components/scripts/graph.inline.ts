@@ -357,7 +357,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     autoStart: false,
     autoDensity: true,
     backgroundAlpha: 0,
-    preference: "webgpu",
+    // webgpu на части браузеров даёт долгий «подвисший» первый кадр; webgl стабильнее.
+    preference: "webgl",
     resolution: window.devicePixelRatio,
     eventMode: "static",
   })
@@ -573,7 +574,7 @@ function cleanupGlobalGraphs() {
   globalGraphCleanups = []
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
@@ -585,7 +586,14 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
-  await renderLocalGraph()
+  // Не блокировать обработчик навигации: init Pixi/WebGL тяжёлый, иначе кажется что «сайт завис».
+  const schedule =
+    typeof requestIdleCallback !== "undefined"
+      ? (cb: () => void) => requestIdleCallback(() => cb(), { timeout: 500 })
+      : (cb: () => void) => setTimeout(cb, 0)
+  schedule(() => {
+    void renderLocalGraph()
+  })
   const handleThemeChange = () => {
     void renderLocalGraph()
   }

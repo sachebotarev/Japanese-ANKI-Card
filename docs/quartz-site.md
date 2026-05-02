@@ -6,11 +6,13 @@
 
 1. **`scripts/sync_quartz_content.py`** копирует `Записи/` → `quartz/content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`).
 
-2. **Граф в сайдбаре** («локальный»): рёбра берутся только из **markdown-ссылок** в `.md`; авто-список файлов на странице папки Quartz в граф не попадает. Скрипт синхронизации создаёт в каждой теме **`Записи/<тема>/index.md`** со списком ссылок на карточки и добавляет внизу каждой карточки ссылку **«к списку темы»** на этот `index`. Глубина локального графа в `quartz.layout.ts`: **`localGraph.depth: 3`**. Полный граф — иконка у заголовка блока графа или **Ctrl+G** / **⌘+G**.
+2. **Проводник**: в `quartz.layout.ts` для `Explorer` задан **`mapFn`**: для страниц вида `Записи/<тема>/index.md` подпись в дереве берётся **из имени папки в пути**, а не только из `title` в `contentIndex.json` — так корректные короткие имена тем видны даже при устаревшем кэше браузера/CDN (после деплоя при сомнениях — жёсткое обновление: **Ctrl+Shift+R** / **⌘+Shift+R**).
 
-3. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
+3. **Граф в сайдбаре** («локальный»): рёбра только из **markdown-ссылок** в `.md`; скрипт создаёт **`Записи/<тема>/index.md`** со списком карточек и ссылку с карточки на `index` темы. Глубина **`localGraph.depth: 2`**. Рендер графа **не блокирует** навигацию (`requestIdleCallback` + **WebGL** вместо WebGPU в `graph.inline.ts`). Полный граф — иконка у блока графа или **Ctrl+G** / **⌘+G**.
 
-4. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
+4. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
+
+5. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
 
 ## Первый запуск на GitHub
 
