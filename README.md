@@ -13,7 +13,7 @@
 | `Картинки/<тема>/` | Локальные изображения (имя базы как у JSON) |
 | `Произношение/<тема>/` | Локальные MP3 к карточке: `{Слово}_слово.mp3`, `{Слово}_пример_{1–3}.mp3` для нового формата поля `Пример` |
 | `Записи/<тема>/` | Заметки Markdown для Obsidian (и копируемый контент для Quartz): одна тема = одна подпапка, имя файла = кандзи/слову из карточки |
-| `quartz/` | Конфиг и код статического сайта; рабочий контент сборки синхронизируется скриптом из `Записи/` (не дублируйте источники в git вручную) |
+| `quartz_overlay/` | Наш оверлей поверх ванильного Quartz: `quartz.config.ts`, `quartz.layout.ts`, `MyGraph` и его inline‑скрипт. Сам Quartz клонируется на сборку в `.quartz-build/` (см. [docs/quartz-site.md](docs/quartz-site.md)) |
 | `scripts/` | Утилиты: озвучка, импорт картинок, теги Minna, синк в Anki и др. — см. [scripts/README.md](scripts/README.md) |
 | `docs/` | Детальные спецификации и обходные сценарии |
 | `AGENTS.md` | Краткая инструкция для ИИ-агента в этом репозитории |
@@ -36,9 +36,9 @@
 
 7. **Озвучка** — через локальный **AivisSpeech** и **`scripts/generate_aivis_audio.py`**: допускаются только голоса из белого списка, скорость по умолчанию 90 %, случайный выбор голоса **на каждый** из четырёх MP3, если не задан `--speaker`. Детали: [docs/audio.md](docs/audio.md). Карточки без трёх примеров по `<br>` скриптом не поддерживаются; массовое обновление валидных карточек: `scripts/regenerate_audio_all_valid.py`.
 
-8. **Записи (Obsidian)** — при создании новой карточки файл `Записи/<тема>/<Слово>.md` по [docs/zapisi-spec.md](docs/zapisi-spec.md) (раздел примеров **без** строки из «Примера с пропусками» для Anki — там только полный пример и перевод). Обновление только YAML-блока `теги:` из JSON при необходимости: `scripts/sync_zapisi_tags_from_cards.py`. Массовая генерация из JSON: `scripts/generate_zapisi_from_cards.py` (ускорены карточки с полным набором картинок и аудио).
+8. **Записи (Obsidian)** — при создании новой карточки файл `Записи/<тема>/<Слово>.md` по [docs/zapisi-spec.md](docs/zapisi-spec.md) (раздел примеров **без** строки из «Примера с пропусками» для Anki — там только полный пример и перевод). Обновление только YAML-блока `tags:` из JSON при необходимости: `scripts/sync_zapisi_tags_from_cards.py`. Массовая генерация из JSON: `scripts/generate_zapisi_from_cards.py` (ускорены карточки с полным набором картинок и аудио).
 
-9. **Сайт (Quartz)** — подготовка контента под Pages: **`python3 scripts/sync_quartz_content.py`**, сборка уже внутри каталога `quartz/`; обзор: [docs/quartz-site.md](docs/quartz-site.md). Теги в frontmatter ключом **`теги:`** подхватываются как теги сайта для фильтрации.
+9. **Сайт (Quartz)** — подготовка контента под Pages: **`python3 scripts/sync_quartz_content.py`**, сборка ванильным Quartz во временный клон `.quartz-build/` поверх оверлея `quartz_overlay/`; обзор: [docs/quartz-site.md](docs/quartz-site.md). Теги в frontmatter ключом **`tags:`** подхватываются как теги сайта для фильтрации.
 
 10. **Anki** — поля заметки из JSON и медиафайлы; MCP `anki` или массовый сценарий **AnkiConnect**: `scripts/sync_json_to_anki_connect.py` (см. [docs/anki-sync.md](docs/anki-sync.md)). По правилам обновления читите тот же документ — часть случаев **не перетирает** озвучку в колоде, если пример совпадает.
 
@@ -71,4 +71,4 @@
 - **Anki**, колода `Японские слова`, тип заметки `Японские слова`.
 - Локально: **AivisSpeech** (+ **ffmpeg**) для генерации озвучки.
 - По желанию: дополнение **AnkiConnect** для `scripts/sync_json_to_anki_connect.py`; **MCP `anki`** — для операций через агента.
-- Сайт: **Node** в версии из `quartz/package.json`, см. [docs/quartz-site.md](docs/quartz-site.md).
+- Сайт: **Node ≥ 22**, **npm ≥ 10.9** (требование апстрима Quartz), см. [docs/quartz-site.md](docs/quartz-site.md).

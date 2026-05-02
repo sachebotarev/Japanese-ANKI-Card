@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Обновляет в существующих заметках Записи/ только блок YAML «теги:» из JSON-карточки."""
+"""Обновляет в существующих заметках Записи/ только блок YAML «tags:» из JSON-карточки."""
 
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ ZAPISI = ROOT / "Записи"
 
 def yaml_tags_line_block(tags: object) -> str:
     lines = []
-    lines.append("теги:")
+    lines.append("tags:")
     if not isinstance(tags, list) or len(tags) == 0:
         lines.append("  []")
         return "\n".join(lines)
@@ -32,13 +32,13 @@ def yaml_tags_line_block(tags: object) -> str:
 
 
 def replace_tags_in_note(md_text: str, new_block: str) -> tuple[str, bool]:
-    m = re.search(r"\n(?=теги:\n)", md_text)
+    m = re.search(r"\n(?=tags:\n)", md_text)
     if not m:
         return md_text, False
     head = md_text[: m.start()]
     tail = md_text[m.start() + 1 :]
     lines = tail.splitlines(keepends=True)
-    if not lines or not lines[0].startswith("теги:"):
+    if not lines or not lines[0].startswith("tags:"):
         return md_text, False
     i = 1
     while i < len(lines) and (lines[i].startswith("  - ") or lines[i].startswith("  []")):
@@ -67,7 +67,7 @@ def main() -> int:
         if ok and new_text != text:
             p.write_text(new_text, encoding="utf-8")
             updated += 1
-    print(f"Обновлено заметок (только теги): {updated}")
+    print(f"Обновлено заметок (только tags): {updated}")
     if missing:
         print(f"Нет JSON для {len(missing)} файлов заметок (пример: {missing[:5]})", file=sys.stderr)
     return 0

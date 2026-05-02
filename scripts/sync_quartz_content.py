@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-Копирует Записи/ в quartz/content/Записи и заменяет Obsidian-вставки ![[...]]
+Копирует Записи/ в quartz_content/Записи и заменяет Obsidian-вставки ![[...]]
 на абсолютные raw.githubusercontent.com URL (картинки — markdown image, аудио — <audio>).
+
+Содержимое уходит в quartz_content/ в корне репозитория, а сборка ванильным
+Quartz запускается с флагом `-d ../quartz_content` из временного клона апстрима
+(см. scripts/build_quartz.sh). Каталог quartz_content/ — сборочный артефакт,
+коммитить его не нужно (он в .gitignore).
 
 Переменные окружения:
   QUARTZ_RAW_BASE — префикс без завершающего слэша, например
@@ -20,7 +25,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 ZAPISI = ROOT / "Записи"
-QUARTZ_CONTENT = ROOT / "quartz" / "content"
+QUARTZ_CONTENT = ROOT / "quartz_content"
 
 WIKI = re.compile(r"!\[\[([^\]]+)\]\]")
 
@@ -79,7 +84,7 @@ def replace_wikilinks(text: str, base: str) -> str:
     return WIKI.sub(repl, text)
 
 
-# Маркер в конце заметки: только копия в quartz/content, исходные Записи/ не трогаем.
+# Маркер в конце заметки: только в копии quartz_content/, исходные Записи/ не трогаем.
 NAV_THEME_MARKER = "<!-- quartz-nav-to-theme-index -->"
 
 

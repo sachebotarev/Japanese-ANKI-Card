@@ -37,7 +37,11 @@ python3 scripts/apply_example_patches_batch.py patches/generated_non_verbs_examp
 
 `sync_json_to_anki_connect.py` — отправка всех полей `Карточки/**/*.json`, тегов и локальных `[sound:…]` медиафайлов в Anki через AnkiConnect ([docs/anki-sync.md](../docs/anki-sync.md)).
 
-`sync_zapisi_tags_from_cards.py` синхронизирует блок YAML **`теги:`** у существующих заметок `Записи/` из JSON после смены тегов в карточке.
+`sync_zapisi_tags_from_cards.py` синхронизирует блок YAML **`tags:`** у существующих заметок `Записи/` из JSON после смены тегов в карточке.
+
+`sync_quartz_content.py` готовит контент для сайта: копирует `Записи/` → `quartz_content/Записи/` и заменяет Obsidian‑вставки `![[Картинки/...]]` и `![[Произношение/...]]` на raw URL GitHub. Каталог `quartz_content/` — сборочный артефакт (в `.gitignore`).
+
+`build_quartz.sh` — локальная сборка ванильным Quartz: клонирует апстрим в `.quartz-build/`, накатывает `quartz_overlay/`, запускает `sync_quartz_content.py`, выполняет `npx quartz build -d ../quartz_content -o ../quartz_site` (либо `--serve` для dev‑сервера). Версию апстрима можно менять переменной `QUARTZ_VERSION` (по умолчанию `v4.5.2`); подробности — в [docs/quartz-site.md](../docs/quartz-site.md).
 
 Пример импорта картинки:
 

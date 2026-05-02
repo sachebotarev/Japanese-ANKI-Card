@@ -107,7 +107,7 @@ def build_markdown(
         f"карточка: {rel_json}",
         f"колода_anki: {DECK}",
         f"тема: {topic}",
-        "теги:",
+        "tags:",
         yaml_tags(data.get("Теги")),
         f'показать_фуригану: "{furigana}"',
         "---",

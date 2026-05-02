@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 
-# Quartz (сборка и зависимости)
-quartz/node_modules/
-quartz/public/
-quartz/content/
+# Quartz: ванильный апстрим клонируется на сборку, наш оверлей в quartz_overlay/
+.quartz-build/
+quartz_content/
+quartz_site/
