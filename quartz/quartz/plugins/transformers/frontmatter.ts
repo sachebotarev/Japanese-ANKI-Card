@@ -77,7 +77,8 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
-            const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
+            // «теги» — ключ из заметок Obsidian в этом репозитории (см. Записи/)
+            const tags = coerceToArray(coalesceAliases(data, ["теги", "tags", "tag"]))
             if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
 
             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))

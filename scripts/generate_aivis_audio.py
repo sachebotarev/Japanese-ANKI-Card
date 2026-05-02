@@ -25,6 +25,14 @@ PRONUNCIATION_DIR = ROOT_DIR / "Произношение"
 DEFAULT_ENGINE_URL = "http://127.0.0.1:10101"
 DEFAULT_STYLE_NAME = "ノーマル"
 DEFAULT_SPEED_SCALE = 0.9
+
+# Разрешённые голоса (точное имя speaker в ответе /speakers локального Engine).
+ALLOWED_TTS_SPEAKERS: tuple[str, ...] = (
+    "かりん(現実20代女子AIボイチェン@リアボVC公式モデル)",
+    "阿井田 茂",
+    "にせ",
+    "わかな(現実20代女子AIボイチェン@リアボVC公式モデル)",
+)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 EXAMPLE_SPLIT_RE = re.compile(r"\s*<br\s*/?>\s*|\r?\n")
 NEW_FORMAT_EXAMPLE_COUNT = 3
@@ -59,8 +67,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--speaker",
         help=(
-            "Имя голоса. Если не указано, голос случайно выбирается "
-            "из доступных для выбранного стиля."
+            "Имя голоса только из белого списка в скрипте. Если не указано, перед "
+            "каждым сохранением MP3 (слово и каждый пример) голос случайно выбирается "
+            "среди разрешённых голосов, установленных в Engine для данного стиля."
         ),
     )
     parser.add_argument(
@@ -224,40 +233,61 @@ def resolve_cards(args: argparse.Namespace) -> list[Path]:
     return resolved
 
 
-def resolve_voice(engine_url: str, speaker_name: str | None, style_name: str | None) -> tuple[str, str]:
-    chosen_style = style_name or DEFAULT_STYLE_NAME
-    if speaker_name:
-        return speaker_name, chosen_style
-
-    speakers = request_json(f"{engine_url.rstrip('/')}/speakers")
-    compatible_speakers = [
-        speaker.get("name")
-        for speaker in speakers
-        if speaker.get("name")
-        and any(style.get("name") == chosen_style for style in speaker.get("styles", []))
-    ]
-    if not compatible_speakers:
-        raise RuntimeError(
-            f"Не найдено ни одного голоса со стилем '{chosen_style}'."
-        )
-    return random.choice(compatible_speakers), chosen_style
+def speakers_by_name(engine_url: str) -> dict[str, dict]:
+    payload = request_json(f"{engine_url.rstrip('/')}/speakers")
+    if not isinstance(payload, list):
+        raise RuntimeError("Неожиданный ответ /speakers.")
+    mapping: dict[str, dict] = {}
+    for item in payload:
+        name = item.get("name")
+        if isinstance(name, str) and name.strip():
+            mapping[name] = item
+    return mapping
 
 
-def pick_style_id(engine_url: str, speaker_name: str, style_name: str) -> int:
-    speakers = request_json(f"{engine_url.rstrip('/')}/speakers")
-    for speaker in speakers:
-        if speaker.get("name") != speaker_name:
+def pick_style_id_from_speaker(speaker: dict, style_name: str) -> int:
+    for style in speaker.get("styles", []):
+        if style.get("name") == style_name:
+            return int(style["id"])
+    available = ", ".join(style.get("name", "") for style in speaker.get("styles", []))
+    sp_name = speaker.get("name", "<без имени>")
+    raise RuntimeError(
+        f"У голоса '{sp_name}' нет стиля '{style_name}'. Доступно: {available}"
+    )
+
+
+def compatible_whitelist(
+    speakers_map: dict[str, dict],
+    *,
+    style_name: str,
+) -> list[str]:
+    result: list[str] = []
+    for allowed in ALLOWED_TTS_SPEAKERS:
+        sp = speakers_map.get(allowed)
+        if sp is None:
             continue
-        for style in speaker.get("styles", []):
-            if style.get("name") == style_name:
-                return int(style["id"])
-        available = ", ".join(style["name"] for style in speaker.get("styles", []))
-        raise RuntimeError(
-            f"У голоса '{speaker_name}' нет стиля '{style_name}'. Доступно: {available}"
-        )
+        if any(style.get("name") == style_name for style in sp.get("styles", [])):
+            result.append(allowed)
+    return result
 
-    available = ", ".join(speaker.get("name", "<без имени>") for speaker in speakers)
-    raise RuntimeError(f"Голос '{speaker_name}' не найден. Доступно: {available}")
+
+def validate_explicit_whitelist(
+    speakers_map: dict[str, dict],
+    speaker_name: str,
+    style_name: str,
+) -> tuple[str, str]:
+    if speaker_name not in ALLOWED_TTS_SPEAKERS:
+        allowed = ", ".join(ALLOWED_TTS_SPEAKERS)
+        raise RuntimeError(
+            f"Голос '{speaker_name}' не из разрешённого списка. Разрешено: {allowed}"
+        )
+    sp = speakers_map.get(speaker_name)
+    if sp is None:
+        raise RuntimeError(
+            f"Голос '{speaker_name}' указан проектом, но не установлен в AivisSpeech Engine."
+        )
+    pick_style_id_from_speaker(sp, style_name)
+    return speaker_name, style_name
 
 
 def run_ffmpeg(input_wav: Path, output_mp3: Path) -> None:
@@ -312,10 +342,48 @@ def sound_tags(word: str) -> str:
     return "".join(tags)
 
 
-def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bool, force: bool) -> None:
+def process_card(
+    card_path: Path,
+    engine_url: str,
+    *,
+    fixed_speaker: str | None,
+    style_name: str,
+    write_json: bool,
+    force: bool,
+) -> None:
     payload = load_json(card_path)
     word = str(payload["Слово"]).strip()
     examples = parse_examples(str(payload["Пример"]))
+
+    speakers_map = speakers_by_name(engine_url)
+    random_pool: list[str] | None
+    if fixed_speaker:
+        validate_explicit_whitelist(speakers_map, fixed_speaker, style_name)
+        random_pool = None
+    else:
+        random_pool = compatible_whitelist(speakers_map, style_name=style_name)
+        if not random_pool:
+            raise RuntimeError(
+                f"Ни один голос из белого списка проекта не установлен в AivisSpeech Engine "
+                f"или не поддерживает стиль «{style_name}». Ожидаются: "
+                + ", ".join(ALLOWED_TTS_SPEAKERS)
+            )
+        missing = [n for n in ALLOWED_TTS_SPEAKERS if n not in speakers_map]
+        if missing:
+            print(
+                "Предупреждение: в Engine не найдены голоса из белого списка: "
+                + ", ".join(missing),
+                file=sys.stderr,
+            )
+
+    def next_style_id() -> int:
+        if fixed_speaker:
+            speaker_name = fixed_speaker
+        else:
+            assert random_pool is not None
+            speaker_name = random.choice(random_pool)
+        sp = speakers_map[speaker_name]
+        return pick_style_id_from_speaker(sp, style_name)
 
     relative = card_path.relative_to(CARDS_DIR)
     topic = relative.parts[0]
@@ -325,7 +393,7 @@ def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bo
     word_mp3 = output_dir / f"{word}_слово.mp3"
 
     if force or not word_mp3.exists():
-        generate_audio(engine_url, style_id, word, word_mp3)
+        generate_audio(engine_url, next_style_id(), word, word_mp3)
         print(f"Сгенерировано: {word_mp3.relative_to(ROOT_DIR)}")
     else:
         print(f"Пропуск, файл уже есть: {word_mp3.relative_to(ROOT_DIR)}")
@@ -333,7 +401,7 @@ def process_card(card_path: Path, engine_url: str, style_id: int, write_json: bo
     for index, example in enumerate(examples, start=1):
         example_mp3 = output_dir / f"{word}_пример_{index}.mp3"
         if force or not example_mp3.exists():
-            generate_audio(engine_url, style_id, example, example_mp3)
+            generate_audio(engine_url, next_style_id(), example, example_mp3)
             print(f"Сгенерировано: {example_mp3.relative_to(ROOT_DIR)}")
         else:
             print(f"Пропуск, файл уже есть: {example_mp3.relative_to(ROOT_DIR)}")
@@ -362,13 +430,13 @@ def main() -> int:
             args.engine_path,
             args.startup_timeout,
         )
-        speaker_name, style_name = resolve_voice(
-            args.engine_url,
-            args.speaker,
-            args.style,
-        )
-        print(f"Голос: {speaker_name} | Стиль: {style_name}")
-        style_id = pick_style_id(args.engine_url, speaker_name, style_name)
+        chosen_style = args.style or DEFAULT_STYLE_NAME
+        if args.speaker:
+            print(f"Голос: фиксирован «{args.speaker}» | Стиль: {chosen_style}")
+        else:
+            print(
+                f"Голос: случайный из белого списка для каждой фразы | Стиль: {chosen_style}"
+            )
         for card_path in cards:
             retry = False
             while True:
@@ -376,7 +444,8 @@ def main() -> int:
                     process_card(
                         card_path=card_path,
                         engine_url=args.engine_url,
-                        style_id=style_id,
+                        fixed_speaker=args.speaker,
+                        style_name=chosen_style,
                         write_json=args.write_json,
                         force=args.force,
                     )
@@ -398,12 +467,6 @@ def main() -> int:
                         args.engine_path,
                         args.startup_timeout,
                     )
-                    speaker_name, style_name = resolve_voice(
-                        args.engine_url,
-                        args.speaker,
-                        args.style,
-                    )
-                    style_id = pick_style_id(args.engine_url, speaker_name, style_name)
         return 0
     except (urllib.error.URLError, urllib.error.HTTPError, RuntimeError, subprocess.CalledProcessError) as exc:
         print(f"Ошибка: {exc}", file=sys.stderr)

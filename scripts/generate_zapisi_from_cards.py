@@ -95,9 +95,9 @@ def build_markdown(
     topic: str,
     word: str,
     img_ext: str,
-    ex1: tuple[str, str, str],
-    ex2: tuple[str, str, str],
-    ex3: tuple[str, str, str],
+    ex1: tuple[str, str],
+    ex2: tuple[str, str],
+    ex3: tuple[str, str],
 ) -> str:
     rel_json = f"Карточки/{topic}/{word}.json"
     furigana = str(data.get("Показать фуригану", "N")).strip()
@@ -126,7 +126,7 @@ def build_markdown(
         "",
     ]
 
-    for i, (jp, blank, ru) in enumerate((ex1, ex2, ex3), start=1):
+    for i, (jp, ru) in enumerate((ex1, ex2, ex3), start=1):
         body.extend(
             [
                 f"### Пример {i}",
@@ -134,8 +134,6 @@ def build_markdown(
                 f"![[Произношение/{topic}/{word}_пример_{i}.mp3]]",
                 "",
                 jp,
-                "",
-                blank,
                 "",
                 ru,
                 "",
@@ -182,12 +180,11 @@ def process_card(json_path: Path) -> tuple[str, str | None]:
     if err:
         return "skip", f"Пример перевод: {err}"
 
-    triples: list[tuple[str, str, str]] = []
+    pairs: list[tuple[str, str]] = []
     for i in range(3):
-        triples.append(
+        pairs.append(
             (
                 html_to_md_line(pe[i]),
-                html_to_md_line(pb[i]),
                 html_to_md_line(pr[i]),
             )
         )
@@ -200,7 +197,7 @@ def process_card(json_path: Path) -> tuple[str, str | None]:
     if err:
         return "skip", err
 
-    md = build_markdown(data, topic, word, img_ext, triples[0], triples[1], triples[2])
+    md = build_markdown(data, topic, word, img_ext, pairs[0], pairs[1], pairs[2])
     out = ZAPISI / topic / f"{word}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(md, encoding="utf-8")

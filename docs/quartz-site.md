@@ -4,7 +4,7 @@
 
 ## Как устроено
 
-1. **`scripts/sync_quartz_content.py`** копирует `Записи/` → `quartz/content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`).
+1. **`scripts/sync_quartz_content.py`** копирует `Записи/` → `quartz/content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`). Текст карточек в `Записи/` задаётся [zapisi-spec.md](zapisi-spec.md): в разделе примеров на сайте **нет** японской строки с пропусками `_____` (она только в JSON для Anki).
 
 2. **Проводник**: в `quartz.layout.ts` для `Explorer` задан **`mapFn`**: для страниц вида `Записи/<тема>/index.md` подпись в дереве берётся **из имени папки в пути**, а не только из `title` в `contentIndex.json` — так корректные короткие имена тем видны даже при устаревшем кэше браузера/CDN (после деплоя при сомнениях — жёсткое обновление: **Ctrl+Shift+R** / **⌘+Shift+R**).
 
@@ -13,6 +13,8 @@
 4. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
 
 5. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
+
+6. **Теги и фильтрация:** у заметки в Quartz под заголовком рендерится список тегов со ссылками на общий каталог (**`/tags/`** на вашем домене GitHub Pages). В upstream Quartz во frontmatter читаются только ключи `tags` / `tag`; в этом репозитории патч **`quartz/quartz/plugins/transformers/frontmatter.ts`** также подхватывает русский ключ **`теги`**, который используется в `Записи/`. Все элементы массива `Теги` из JSON карточки (в том числе тег урока Minna вида `みんな初級I-第03課`, см. [cards-spec.md](cards-spec.md)) уходят на сайт и по ним можно отбирать страницы.
 
 ## Первый запуск на GitHub
 
