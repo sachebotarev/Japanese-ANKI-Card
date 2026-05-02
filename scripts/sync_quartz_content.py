@@ -144,6 +144,34 @@ def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
             p.write_text(text + footer, encoding="utf-8")
 
 
+def write_legacy_topic_shortcuts(content_root: Path, topics: list[str]) -> None:
+    """
+    Совместимость со старыми внешними ссылками вида `/Кандзи/`, `/Глаголы/` и т.п.
+    Теперь темы живут под `/Записи/<тема>/`, поэтому создаём короткие страницы
+    верхнего уровня, которые ведут пользователя в актуальный раздел.
+    """
+    for topic in topics:
+        topic_dir = content_root / topic
+        topic_dir.mkdir(parents=True, exist_ok=True)
+        target = f"../Записи/{quartz_path_segment(topic)}/"
+        (topic_dir / "index.md").write_text(
+            "\n".join(
+                [
+                    "---",
+                    yaml_plain_title(topic),
+                    f'description: "Переход в раздел {topic}"',
+                    "---",
+                    "",
+                    f"Раздел темы переехал: [{topic}]({target})",
+                    "",
+                    f"> Если переход не открылся автоматически, нажмите ссылку выше.",
+                    "",
+                ]
+            ),
+            encoding="utf-8",
+        )
+
+
 def main() -> int:
     import os
 
@@ -170,6 +198,7 @@ def main() -> int:
     write_theme_indices_and_card_nav(dest_zapisi)
 
     topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
+    write_legacy_topic_shortcuts(QUARTZ_CONTENT, topics)
     # Имена папок с пробелами («Части тела») в URL у Quartz — с дефисом («Части-тела»).
     topic_rows = "\n".join(
         f"| [{t}](Записи/{quartz_path_segment(t)}/) | Слова и примеры по теме |" for t in topics
