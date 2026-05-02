@@ -7,7 +7,9 @@ import type { FileTrieNode } from "./quartz/util/fileTrie"
 function explorerThemeFolderTitle(node: FileTrieNode) {
   const fp = node.data?.filePath
   if (typeof fp !== "string") return
-  const m = fp.match(/^Записи\/([^/]+)\/index\.md$/)
+  // После миграции тем на верхний уровень URL (`/Глаголы/`, `/Кандзи/`...)
+  // берём подпись темы из пути `<тема>/index.md`.
+  const m = fp.match(/^([^/]+)\/index\.md$/)
   if (m) node.displayName = m[1]
 }
 
@@ -49,6 +51,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
+      // Служебный каталог "Темы" дублирует список разделов и путает пользователя.
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Темы",
       mapFn: explorerThemeFolderTitle,
     }),
   ],
@@ -79,6 +83,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Темы",
       mapFn: explorerThemeFolderTitle,
     }),
   ],
