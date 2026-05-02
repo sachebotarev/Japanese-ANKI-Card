@@ -34,6 +34,10 @@ npx quartz build --serve
 
 Папки `quartz/content/`, `quartz/public/`, `quartz/node_modules/` в git **не коммитятся** (см. `.gitignore`).
 
+### Почему на главной не должен отображаться RSS
+
+Папка `quartz/content/` в `.gitignore`, чтобы не коммитить копию `Записи/`. В upstream Quartz glob файлов контента использует `gitignore: true`, из‑за чего **все** `.md` внутри игнорируемой папки выпадают из сборки: не появляется `index.html`, в корне остаётся только `index.xml` (RSS), и браузер может показать XML как «главную страницу». В этом репозитории в `quartz/quartz/util/glob.ts` задано **`gitignore: false`** только для такого сценария (подкаталоги `content/` без лишнего мусора).
+
 ## Переменная `QUARTZ_RAW_BASE`
 
 По умолчанию скрипт берёт `origin` из git и ветку **`main`**. В CI задаётся автоматически из `github.repository` и `github.ref_name`. Для превью с другой ветки:

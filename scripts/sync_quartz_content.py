@@ -88,22 +88,68 @@ def main() -> int:
         if new != text:
             md.write_text(new, encoding="utf-8")
 
+    topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
+    topic_rows = "\n".join(
+        f"| [{t}](Записи/{t}/) | Откройте папку — список карточек по теме |"
+        for t in topics
+    )
+    if not topic_rows:
+        topic_rows = "| *(нет подпапок в Записи)* | |"
+    topic_bullets = "\n".join(f"- [{t}](Записи/{t}/)" for t in topics)
+
     index = QUARTZ_CONTENT / "index.md"
     index.write_text(
-        """---
+        f"""---
 title: Японские карточки
+description: >-
+  Заметки для Anki и изучения японского: темы, примеры, картинки и озвучка.
+  Исходники в репозитории Japanese ANKI Card (папка Записи).
 ---
 
-Заметки из репозитория **Japanese ANKI Card** (папка `Записи/`). Картинки и аудио вставлены как ссылки на **raw.githubusercontent.com** (без копирования в сайт).
+> [!abstract] Как пользоваться этим сайтом
+> Здесь только **учебные заметки** из папки `Записи/`: слова, грамматика, примеры. Картинки и mp3 подгружаются с **raw.githubusercontent.com** (медиа лежит в репозитории, на сайт не дублируется).
+> Используйте **поиск** (иконка в шапке) — быстрее всего найти слово или тему.
 
-[Все темы →](Записи/)
+## С чего начать
+
+1. [Обзор всех тем →](Записи/) — список разделов по части речи и тематике.
+2. Откройте нужную тему в таблице ниже и переходите к отдельным словам.
+3. Карточки Anki, JSON и полный пайплайн — в [репозитории на GitHub](https://github.com/sachebotarev/Japanese-ANKI-Card) (папки `Карточки/`, `docs/`).
+
+## Темы ({len(topics)})
+
+| Раздел | Куда ведёт |
+| ------ | ---------- |
+{topic_rows}
+
+<details>
+<summary>В виде списка</summary>
+
+{topic_bullets}
+
+</details>
+
+---
+
+> [!tip] Редактирование
+> Меняйте `.md` в **`Записи/`** локально (например, в Obsidian), делайте commit и push в ветку `main` — GitHub Actions пересоберёт сайт за несколько минут.
 """,
         encoding="utf-8",
     )
 
-    topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
     idx = QUARTZ_CONTENT / "Записи" / "index.md"
-    lines = ["---", "title: Записи", "---", "", "## Темы", ""]
+    lines = [
+        "---",
+        "title: Записи по темам",
+        "description: Оглавление разделов — глаголы, существительные и другие темы.",
+        "---",
+        "",
+        "> [!info] Навигация",
+        "> Каждая строка — папка с заметками-карточками. Внутри файлы по отдельным словам.",
+        "",
+        "## Темы",
+        "",
+    ]
     for t in topics:
         lines.append(f"- [{t}]({t}/)")
     lines.append("")
