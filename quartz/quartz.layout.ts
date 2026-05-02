@@ -41,10 +41,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // localGraph.depth по умолчанию 1 — на главной почти нет «соседей» в графе;
-    // 2: соседи и соседи соседей (удобнее при разреженных ссылках между заметками).
+    // После явных ссылок тема↔карточки (sync) глубина 3 даёт связный локальный граф.
     Component.Graph({
-      localGraph: { depth: 2 },
+      localGraph: { depth: 3 },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

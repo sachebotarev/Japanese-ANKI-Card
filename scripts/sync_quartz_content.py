@@ -79,6 +79,55 @@ def replace_wikilinks(text: str, base: str) -> str:
     return WIKI.sub(repl, text)
 
 
+# Маркер в конце заметки: только копия в quartz/content, исходные Записи/ не трогаем.
+NAV_THEME_MARKER = "<!-- quartz-nav-to-theme-index -->"
+
+
+def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
+    """
+    Страницы папок в Quartz (FolderContent) рендерятся в JSX — ссылки из списка файлов
+    не попадают в AST и не попадают в граф. Добавляем настоящий index.md в каждую тему
+    со списком markdown-ссылок и ссылку «к оглавлению темы» на каждой карточке.
+    """
+    for topic_dir in sorted(dest_zapisi.iterdir(), key=lambda p: p.name):
+        if not topic_dir.is_dir():
+            continue
+        topic = topic_dir.name
+        card_paths = sorted(
+            p for p in topic_dir.glob("*.md") if p.name.lower() != "index.md"
+        )
+
+        lines = [
+            "---",
+            f"title: «{topic}» — карточки",
+            "tags:",
+            "  - тема-оглавление",
+            "---",
+            "",
+            "[← Все темы записи](../index)",
+            "",
+            f"Оглавление темы **{topic}**: ссылки ниже участвуют в **графе связей** на сайте (Quartz берёт рёбра только из markdown, а не из авто-списка папки).",
+            "",
+            "## Заметки",
+            "",
+        ]
+        for p in card_paths:
+            stem = p.stem
+            lines.append(f"- [{stem}]({stem}.md)")
+        lines.append("")
+        (topic_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
+
+        footer = (
+            f"\n\n{NAV_THEME_MARKER}\n\n"
+            f"[↑ К списку карточек темы «{topic}»](index)\n"
+        )
+        for p in card_paths:
+            text = p.read_text(encoding="utf-8")
+            if NAV_THEME_MARKER in text:
+                continue
+            p.write_text(text + footer, encoding="utf-8")
+
+
 def main() -> int:
     import os
 
@@ -101,6 +150,8 @@ def main() -> int:
         new = replace_wikilinks(text, base)
         if new != text:
             md.write_text(new, encoding="utf-8")
+
+    write_theme_indices_and_card_nav(dest_zapisi)
 
     topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
     # Имена папок с пробелами («Части тела») в URL у Quartz — с дефисом («Части-тела»).
