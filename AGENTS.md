@@ -15,6 +15,7 @@
 - Синхронизация с Anki: [docs/anki-sync.md](docs/anki-sync.md)
 - Озвучка: [docs/audio.md](docs/audio.md)
 - Обработка файлов в `Слова/`: [docs/word-lists.md](docs/word-lists.md)
+- Заметки Markdown в `Записи/` (Obsidian): [docs/zapisi-spec.md](docs/zapisi-spec.md)
 
 ## Оперативные правила
 
