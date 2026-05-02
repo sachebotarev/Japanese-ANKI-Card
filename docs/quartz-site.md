@@ -8,7 +8,7 @@
 
 2. **`quartz/quartz.config.ts`**: заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card` (при смене владельца/имени репозитория обновите).
 
-3. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**).
+3. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz/`, скрипте или workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). Для публикации используются `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5` (runtime Node 24, без предупреждений о deprecated Node 20).
 
 ## Первый запуск на GitHub
 
