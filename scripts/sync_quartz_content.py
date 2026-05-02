@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Копирует Записи/ в quartz_content/Записи и заменяет Obsidian-вставки ![[...]]
-на абсолютные raw.githubusercontent.com URL (картинки — markdown image, аудио — <audio>).
+Копирует Записи/ в quartz_content/ (темы на верхнем уровне) и заменяет
+Obsidian-вставки ![[...]] на абсолютные raw.githubusercontent.com URL
+(картинки — markdown image, аудио — <audio>).
 
 Содержимое уходит в quartz_content/ в корне репозитория, а сборка ванильным
 Quartz запускается с флагом `-d ../quartz_content` из временного клона апстрима
@@ -112,6 +113,8 @@ def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
             "---",
             yaml_plain_title(topic),
             f'description: "Подборка слов и примеров по теме {topic}"',
+            "aliases:",
+            f"  - Записи/{topic}",
             "tags:",
             "  - тема-оглавление",
             "---",
@@ -144,34 +147,6 @@ def write_theme_indices_and_card_nav(dest_zapisi: Path) -> None:
             p.write_text(text + footer, encoding="utf-8")
 
 
-def write_legacy_topic_shortcuts(content_root: Path, topics: list[str]) -> None:
-    """
-    Совместимость со старыми внешними ссылками вида `/Кандзи/`, `/Глаголы/` и т.п.
-    Теперь темы живут под `/Записи/<тема>/`, поэтому создаём короткие страницы
-    верхнего уровня, которые ведут пользователя в актуальный раздел.
-    """
-    for topic in topics:
-        topic_dir = content_root / topic
-        topic_dir.mkdir(parents=True, exist_ok=True)
-        target = f"../Записи/{quartz_path_segment(topic)}/"
-        (topic_dir / "index.md").write_text(
-            "\n".join(
-                [
-                    "---",
-                    yaml_plain_title(topic),
-                    f'description: "Переход в раздел {topic}"',
-                    "---",
-                    "",
-                    f"Раздел темы переехал: [{topic}]({target})",
-                    "",
-                    f"> Если переход не открылся автоматически, нажмите ссылку выше.",
-                    "",
-                ]
-            ),
-            encoding="utf-8",
-        )
-
-
 def main() -> int:
     import os
 
@@ -186,26 +161,26 @@ def main() -> int:
         shutil.rmtree(QUARTZ_CONTENT)
     QUARTZ_CONTENT.mkdir(parents=True)
 
-    dest_zapisi = QUARTZ_CONTENT / "Записи"
-    shutil.copytree(ZAPISI, dest_zapisi)
+    # Публичные URL тем должны быть короткими: /Кандзи/, /Глаголы/, ...
+    # поэтому копируем содержимое Записи/ сразу в корень контента.
+    shutil.copytree(ZAPISI, QUARTZ_CONTENT, dirs_exist_ok=True)
 
-    for md in dest_zapisi.rglob("*.md"):
+    for md in QUARTZ_CONTENT.rglob("*.md"):
         text = md.read_text(encoding="utf-8")
         new = replace_wikilinks(text, base)
         if new != text:
             md.write_text(new, encoding="utf-8")
 
-    write_theme_indices_and_card_nav(dest_zapisi)
+    write_theme_indices_and_card_nav(QUARTZ_CONTENT)
 
-    topics = sorted(d.name for d in dest_zapisi.iterdir() if d.is_dir())
-    write_legacy_topic_shortcuts(QUARTZ_CONTENT, topics)
+    topics = sorted(d.name for d in QUARTZ_CONTENT.iterdir() if d.is_dir())
     # Имена папок с пробелами («Части тела») в URL у Quartz — с дефисом («Части-тела»).
     topic_rows = "\n".join(
-        f"| [{t}](Записи/{quartz_path_segment(t)}/) | Слова и примеры по теме |" for t in topics
+        f"| [{t}]({quartz_path_segment(t)}/) | Слова и примеры по теме |" for t in topics
     )
     if not topic_rows:
         topic_rows = "| *(нет подпапок в Записи)* | |"
-    topic_bullets = "\n".join(f"- [{t}](Записи/{quartz_path_segment(t)}/)" for t in topics)
+    topic_bullets = "\n".join(f"- [{t}]({quartz_path_segment(t)}/)" for t in topics)
 
     index = QUARTZ_CONTENT / "index.md"
     index.write_text(
@@ -223,7 +198,7 @@ description: >-
 
 ## Как заниматься
 
-1. [Откройте список тем →](Записи/)
+1. [Откройте список тем →](Темы/)
 2. Выберите тему и зайдите в слово.
 3. Сначала прочитайте пример, затем прослушайте озвучку и повторите вслух.
 4. Для повторения по уровню используйте теги (например, `N5`) или [индекс тегов](tags/).
@@ -232,7 +207,7 @@ description: >-
 
 ### Хочу учить новые слова
 
-- Начните с [каталога тем](Записи/) и выберите 1 тему.
+- Начните с [каталога тем](Темы/) и выберите 1 тему.
 - Откройте 5-10 слов, прочитайте примеры и прослушайте озвучку.
 - Повторите слова вслух, затем переходите к следующей теме.
 
@@ -270,11 +245,14 @@ description: >-
         encoding="utf-8",
     )
 
-    idx = QUARTZ_CONTENT / "Записи" / "index.md"
+    idx = QUARTZ_CONTENT / "Темы" / "index.md"
+    idx.parent.mkdir(parents=True, exist_ok=True)
     lines = [
         "---",
         "title: Темы",
         "description: Каталог тем для изучения слов с примерами и озвучкой.",
+        "aliases:",
+        "  - Записи",
         "---",
         "",
         "> [!abstract] С чего начать",
@@ -291,11 +269,11 @@ description: >-
         "",
     ]
     for t in topics:
-        lines.append(f"- [{t}]({quartz_path_segment(t)}/)")
+        lines.append(f"- [{t}](../{quartz_path_segment(t)}/)")
     lines.append("")
     idx.write_text("\n".join(lines), encoding="utf-8")
 
-    print(f"Скопировано и обработано: {dest_zapisi}")
+    print(f"Скопировано и обработано: {QUARTZ_CONTENT}")
     return 0
 
 
