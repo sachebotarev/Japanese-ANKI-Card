@@ -46,7 +46,7 @@ python3 scripts/apply_example_patches_batch.py patches/generated_non_verbs_examp
 Пример импорта картинки:
 
 ```bash
-python3 scripts/import_card_image.py 'Карточки/Кандзи/口座.json' \
+python3 scripts/import_card_image.py 'Карточки/Повседневность/口座.json' \
   '/Users/chebotarev/.codex/generated_images/.../image.png' \
   --write-json
 ```

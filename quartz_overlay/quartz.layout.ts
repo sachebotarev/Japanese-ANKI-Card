@@ -7,7 +7,7 @@ import type { FileTrieNode } from "./quartz/util/fileTrie"
 function explorerThemeFolderTitle(node: FileTrieNode) {
   const fp = node.data?.filePath
   if (typeof fp !== "string") return
-  // После миграции тем на верхний уровень URL (`/Глаголы/`, `/Кандзи/`...)
+  // После миграции тем на верхний уровень URL (`/Глаголы/`, `/Общение/`…)
   // берём подпись темы из пути `<тема>/index.md`.
   const m = fp.match(/^([^/]+)\/index\.md$/)
   if (m) node.displayName = m[1]
