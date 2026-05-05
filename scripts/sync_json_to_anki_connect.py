@@ -8,6 +8,7 @@
 
   ANKI_CONNECT_URL=http://127.0.0.1:8765 python3 scripts/sync_json_to_anki_connect.py
   python3 scripts/sync_json_to_anki_connect.py --dry-run --limit 10
+  python3 scripts/sync_json_to_anki_connect.py --if-tag みんな初級I-第02課 --create-missing
 """
 
 from __future__ import annotations
@@ -25,6 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CARDS = ROOT / "Карточки"
 DECK = "Японские слова"
+MODEL = "Японские слова"
 
 SOUND_FILES_RE = re.compile(r"\[sound:([^\]]+)\]")
 
@@ -62,6 +64,59 @@ def sound_filenames(pronunciation: str) -> list[str]:
     return sorted({m.group(1) for m in SOUND_FILES_RE.finditer(pronunciation or "")})
 
 
+def upload_sound_files(url: str, topic: str, pronunciation: str) -> None:
+    """Загружает озвучку из Произношение/<тема>/ в collection.media Anki."""
+    for fname in sound_filenames(str(pronunciation)):
+        mp3_path = ROOT / "Произношение" / topic / fname
+        if not mp3_path.is_file():
+            sys.stderr.write(
+                f"[warn] Нет аудио ({mp3_path.relative_to(ROOT)} — поле синхронизируется без файла).\n"
+            )
+            continue
+        b64 = base64.standard_b64encode(mp3_path.read_bytes()).decode("ascii")
+        invoke(url, "storeMediaFile", filename=fname, data=b64)
+
+
+def json_tag_list(data: dict) -> list[str]:
+    out: list[str] = []
+    for t in data.get("Теги", []) or []:
+        s = str(t).strip()
+        if s and s not in out:
+            out.append(s)
+    return out
+
+
+def note_fields_payload(data: dict) -> dict[str, str]:
+    fields: dict[str, str] = {}
+    for k in FIELD_ORDER:
+        val = data.get(k)
+        fields[k] = "" if val is None else str(val)
+    return fields
+
+
+def create_note_from_json(url: str, topic: str, data: dict, dry_run: bool) -> tuple[str | None, str | None]:
+    """Создаёт новую заметку во всех полях из JSON и загружает mp3 из репозитория."""
+    word = str(data.get("Слово", "")).strip()
+    if not word:
+        return None, "пустое Слово"
+    if dry_run:
+        return f"<dry-{word}>", None
+
+    upload_sound_files(url, topic, str(data.get("Произношение", "")))
+
+    note_spec: dict[str, object] = {
+        "deckName": DECK,
+        "modelName": MODEL,
+        "fields": note_fields_payload(data),
+        "options": {"allowDuplicate": False},
+        "tags": json_tag_list(data),
+    }
+    nid = invoke(url, "addNote", note=note_spec)
+    if nid is None:
+        return None, "addNote вернул null (вероятный дубликат или конфликт полей)"
+    return str(int(nid)), None
+
+
 def sync_note(url: str, topic: str, data: dict, dry_run: bool) -> tuple[str | None, str | None]:
     word = str(data.get("Слово", "")).strip()
     if not word:
@@ -79,32 +134,16 @@ def sync_note(url: str, topic: str, data: dict, dry_run: bool) -> tuple[str | No
     if dry_run:
         return str(nid), None
 
-    for fname in sound_filenames(str(data.get("Произношение", ""))):
-        mp3_path = ROOT / "Произношение" / topic / fname
-        if not mp3_path.is_file():
-            sys.stderr.write(
-                f"[warn] Пропуск загрузки аудио ({mp3_path.relative_to(ROOT)} отсутствует) — поле всё же обновится.\n"
-            )
-            continue
-        b64 = base64.standard_b64encode(mp3_path.read_bytes()).decode("ascii")
-        invoke(url, "storeMediaFile", filename=fname, data=b64)
+    upload_sound_files(url, topic, str(data.get("Произношение", "")))
 
-    fields: dict[str, str] = {}
-    for k in FIELD_ORDER:
-        val = data.get(k)
-        fields[k] = "" if val is None else str(val)
-    invoke(url, "updateNoteFields", note={"id": nid, "fields": fields})
+    invoke(url, "updateNoteFields", note={"id": nid, "fields": note_fields_payload(data)})
 
     info = invoke(url, "notesInfo", notes=[nid])
     note = info[0] if isinstance(info, list) and info else {}
     prev = note.get("tags") or []
     if prev:
         invoke(url, "removeTags", notes=[nid], tags=" ".join(prev))
-    tag_list_in = []
-    for t in data.get("Теги", []) or []:
-        s = str(t).strip()
-        if s and s not in tag_list_in:
-            tag_list_in.append(s)
+    tag_list_in = json_tag_list(data)
     if tag_list_in:
         invoke(url, "addTags", notes=[nid], tags=" ".join(tag_list_in))
 
@@ -119,7 +158,27 @@ def main() -> int:
         "--anki-connect-url",
         default=os.environ.get("ANKI_CONNECT_URL", "http://127.0.0.1:8765"),
     )
+    ap.add_argument(
+        "--if-tag",
+        metavar="TAG",
+        help="Обрабатывать только JSON, у которых в списке «Теги» есть указанное значение.",
+    )
+    ap.add_argument(
+        "--create-missing",
+        action="store_true",
+        help=(
+            "Если заметки в колоде нет, создать её через addNote "
+            "(только вместе с --if-tag, чтобы случайно не создать сотни карточек)."
+        ),
+    )
     args = ap.parse_args()
+
+    if args.create_missing and not args.if_tag:
+        print(
+            "--create-missing можно использовать только с --if-tag.",
+            file=sys.stderr,
+        )
+        return 2
 
     try:
         invoke(args.anki_connect_url, "version")
@@ -137,15 +196,29 @@ def main() -> int:
         except json.JSONDecodeError as e:
             print(f"[skip] {rel}: {e}", file=sys.stderr)
             continue
+        if args.if_tag:
+            card_tags = {str(t).strip() for t in (parsed.get("Теги") or [])}
+            card_tags.discard("")
+            if args.if_tag not in card_tags:
+                continue
         todo.append((p, topic, parsed))
     if args.limit > 0:
         todo = todo[: args.limit]
 
-    ok = missing = errs = 0
+    ok = missing = errs = added = 0
     for p, topic, data in todo:
         rel = p.relative_to(ROOT).as_posix()
         nid, err = sync_note(args.anki_connect_url, topic, data, args.dry_run)
         if err:
+            if err.startswith("нет заметки") and args.create_missing:
+                nid_new, cerr = create_note_from_json(args.anki_connect_url, topic, data, args.dry_run)
+                if cerr:
+                    print(f"[{rel}] не создана заметка: {cerr}", file=sys.stderr)
+                    errs += 1
+                else:
+                    added += 1
+                    print(f"[{rel}] создано nid={nid_new}")
+                continue
             print(f"[{rel}] {err}", file=sys.stderr)
             if err.startswith("нет заметки"):
                 missing += 1
@@ -155,7 +228,7 @@ def main() -> int:
         ok += 1
 
     msg = (
-        f"Успешно: {ok}, заметки не найдены в колоде: {missing}, прочих ошибок: {errs}"
+        f"Обновлено: {ok}, создано: {added}, заметки не найдены: {missing}, прочих ошибок: {errs}"
         + (" (dry-run)" if args.dry_run else "")
     )
     print(msg)

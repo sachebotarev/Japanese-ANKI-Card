@@ -118,7 +118,8 @@ def main() -> int:
     project_dir = IMAGES_DIR / topic
     project_dir.mkdir(parents=True, exist_ok=True)
     project_image = project_dir / f"{word}{suffix}"
-    shutil.copy2(source_image, project_image)
+    if project_image.resolve() != source_image.resolve():
+        shutil.copy2(source_image, project_image)
 
     media_filename = f"{args.media_prefix}{word}{suffix}"
     media_path = media_dir / media_filename

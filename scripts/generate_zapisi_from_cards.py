@@ -208,6 +208,31 @@ def main() -> int:
     ok = 0
     skipped: list[tuple[str, str]] = []
 
+    if len(sys.argv) > 1:
+        card_paths: list[Path] = []
+        for raw in sys.argv[1:]:
+            p = (ROOT / raw).resolve() if not Path(raw).is_absolute() else Path(raw).resolve()
+            if not p.is_file():
+                print(f"[skip] файл не найден: {raw}", file=sys.stderr)
+                continue
+            try:
+                p.relative_to(CARDS)
+            except ValueError:
+                print(f"[skip] не внутри Карточки/: {p}", file=sys.stderr)
+                continue
+            card_paths.append(p)
+        for json_path in sorted(card_paths):
+            status, reason = process_card(json_path)
+            rel = json_path.relative_to(ROOT)
+            if status == "ok":
+                ok += 1
+            else:
+                skipped.append((str(rel), reason or "?"))
+        print(f"OK: {ok}, skip: {len(skipped)} (режим отдельных путей — отчёт {REPORT.relative_to(ROOT)} не обновлялся)")
+        for path, reason in skipped:
+            print(f"  [{path}] {reason}", file=sys.stderr)
+        return 0
+
     for json_path in sorted(CARDS.rglob("*.json")):
         status, reason = process_card(json_path)
         rel = json_path.relative_to(ROOT)
