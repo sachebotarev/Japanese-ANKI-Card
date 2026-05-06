@@ -18,21 +18,12 @@ python3 scripts/generate_aivis_audio.py --all-empty --write-json
 
 `regenerate_audio_all_valid.py` — повторная озвучка `--force --write-json` только для файлов с тремя примерами в `Пример` (как требует `generate_aivis_audio.py`).
 
-`patch_counter_suffix_three_examples.py` — приводит тему **`Счётные суффиксы`** к формату с тремя примерами (`<br>`), заполняет «Пример без слова» через замену `study-word`, прописывает русский промпт поля **`Картинка`** (не генерирует изображений) и пишет **`docs/next-pass-cards-missing-images.md`**: там список слов темы без файла в `Картинки/` (или пометка, что список пуст).
-
-```bash
-python3 scripts/patch_counter_suffix_three_examples.py
-```
-
 `audit_example_format.py` — сколько карточек уже с тремя примерами по `<br>`, какие ещё нет (`docs/example-format-audit.md`).
 
 `example_format_common.py` — общие функции формата (подходит для собственных скриптов).
 
-`apply_example_patches_batch.py` — применяет JSON-массив патчей `{path, Пример, Пример перевод}`; уже оформленные карточки пропускает (или `--force`).
-
 ```bash
 python3 scripts/audit_example_format.py
-python3 scripts/apply_example_patches_batch.py patches/generated_non_verbs_examples.json
 ```
 
 `sync_json_to_anki_connect.py` — отправка всех полей `Карточки/**/*.json`, тегов и локальных `[sound:…]` медиафайлов в Anki через AnkiConnect ([docs/anki-sync.md](../docs/anki-sync.md)).
