@@ -28,10 +28,10 @@ DEFAULT_SPEED_SCALE = 0.9
 
 # Разрешённые голоса (точное имя speaker в ответе /speakers локального Engine).
 ALLOWED_TTS_SPEAKERS: tuple[str, ...] = (
-    "かりん(現実20代女子AIボイチェン@リアボVC公式モデル)",
     "阿井田 茂",
     "にせ",
-    "わかな(現実20代女子AIボイチェン@リアボVC公式モデル)",
+    "花音",
+    "みちのくあいり",
 )
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 EXAMPLE_SPLIT_RE = re.compile(r"\s*<br\s*/?>\s*|\r?\n")
