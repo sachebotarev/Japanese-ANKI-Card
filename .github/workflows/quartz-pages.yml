@@ -9,6 +9,8 @@ on:
     branches: [main]
     paths:
       - "Записи/**"
+      - "Картинки/**"
+      - "Произношение/**"
       - "quartz_overlay/**"
       - "scripts/sync_quartz_content.py"
       - "scripts/build_quartz.sh"
