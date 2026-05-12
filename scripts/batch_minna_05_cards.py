@@ -134,7 +134,7 @@ def main() -> None:
 
     # --- карточки (японские примеры без HTML) ---
     C(
-        "Учёба",
+        "Образование",
         "学校",
         "がっこう",
         "школа",
@@ -152,7 +152,7 @@ def main() -> None:
         "512x512 educational anime style, no Japanese text: student at gate of large school building with map, senior pointing toward school wing; focus on school entrance.",
     )
     C(
-        "Покупки и сервис",
+        "Торговля",
         "スーパー",
         "スーパー",
         "супермаркет",
@@ -170,7 +170,7 @@ def main() -> None:
         "512x512, no Japanese text: supermarket checkout evening, basket with milk and vegetables, long queue, yellow sale stickers; focus on supermarket before closing.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "駅",
         "えき",
         "станция; вокзал",
@@ -188,7 +188,7 @@ def main() -> None:
         "512x512, no Japanese text: traveler at station information counter with large indoor map, snow outside, staff pointing; focus on station wayfinding.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "飛行機",
         "ひこうき",
         "самолёт",
@@ -206,7 +206,7 @@ def main() -> None:
         "512x512, no Japanese text: airport terminal, traveler running with suitcase, gate signs; focus on airplane boarding rush.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "船",
         "ふね",
         "корабль; лодка",
@@ -224,7 +224,7 @@ def main() -> None:
         "512x512, no Japanese text: ferry deck in rough sea, rope rail, distant harbor lights; focus on ship at sea.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "電車",
         "でんしゃ",
         "поезд (электричка)",
@@ -242,7 +242,7 @@ def main() -> None:
         "512x512, no Japanese text: crowded platform, delay sign, person typing mail on phone; focus on stopped commuter train.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "地下鉄",
         "ちかてつ",
         "метро",
@@ -260,7 +260,7 @@ def main() -> None:
         "512x512, no Japanese text: subway gates at night, smartphone map, station staff pointing; focus on metro station transfer.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "新幹線",
         "しんかんせん",
         "Синкансэн (скоростной поезд)",
@@ -278,7 +278,7 @@ def main() -> None:
         "512x512, no Japanese text: bullet train at platform, person running with ticket, JR office window; focus on Shinkansen boarding.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "バス",
         "バス",
         "автобус",
@@ -296,7 +296,7 @@ def main() -> None:
         "512x512, no Japanese text: bus interior, roadworks detour sign visible, passengers checking phones; focus on delayed city bus.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "タクシー",
         "タクシー",
         "такси",
@@ -314,7 +314,7 @@ def main() -> None:
         "512x512, no Japanese text: rainy night, hand hailing taxi near station, driver checking paper map; focus on taxi ride.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "自転車",
         "じてんしゃ",
         "велосипед",
@@ -386,7 +386,7 @@ def main() -> None:
         "512x512, no Japanese text: hospital corridor, family on bench with notes, doctor speaking; focus on family at hospital.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "先週",
         "せんしゅう",
         "на прошлой неделе",
@@ -404,7 +404,7 @@ def main() -> None:
         "512x512, no Japanese text: office at night, laptop email with deadline highlighted, papers; focus on last week's missed notice.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "今週",
         "こんしゅう",
         "на этой неделе",
@@ -422,7 +422,7 @@ def main() -> None:
         "512x512, no Japanese text: desk calendar, charts, report stack; focus on busy current week.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "来週",
         "らいしゅう",
         "на следующей неделе",
@@ -440,7 +440,7 @@ def main() -> None:
         "512x512, no Japanese text: passport, printed flight confirmation, hotel brochure; focus on preparing for next week trip.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "先月",
         "せんげつ",
         "в прошлом месяце",
@@ -458,7 +458,7 @@ def main() -> None:
         "512x512, no Japanese text: part-time shift calendar, red circles, email to manager; focus on job started last month.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "今月",
         "こんげつ",
         "в этом месяце",
@@ -476,7 +476,7 @@ def main() -> None:
         "512x512, no Japanese text: banking transfer screen, calculator, small book pile; focus on this month's budget.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "来月",
         "らいげつ",
         "в следующем месяце",
@@ -494,7 +494,7 @@ def main() -> None:
         "512x512, no Japanese text: ticket website loading queue on laptop at dawn; focus on booking for next month.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "去年",
         "きょねん",
         "в прошлом году",
@@ -512,7 +512,7 @@ def main() -> None:
         "512x512, no Japanese text: official results envelope, nervous hands before opening; focus on last year's exam results.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "今年",
         "ことし",
         "в этом году",
@@ -530,7 +530,7 @@ def main() -> None:
         "512x512, no Japanese text: snowy city view from window, phone recording video; focus on first snow this year.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "来年",
         "らいねん",
         "в следующем году",
@@ -548,7 +548,7 @@ def main() -> None:
         "512x512, no Japanese text: storefront under construction, job flyer, notebook; focus on cafe opening next year.",
     )
     C(
-        "Время и календарь",
+        "Календарь",
         "誕生日",
         "たんじょうび",
         "день рождения",
@@ -620,7 +620,7 @@ def main() -> None:
         "512x512, no Japanese text: smiling local pointing to station stairs, tourist bowing; focus on polite you're welcome.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "番線",
         "ばんせん",
         "путь (платформа) №…",
@@ -656,7 +656,7 @@ def main() -> None:
         "512x512, no Japanese text: timetable board partly covered by notice, traveler walking to staff; focus on next departure lookup.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "普通",
         "ふつう",
         "обычный поезд (с остановками на всех станциях)",
@@ -674,7 +674,7 @@ def main() -> None:
         "512x512, no Japanese text: local train interior, commuter checking phone map ETA; focus on local ordinary train.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "急行",
         "きゅうこう",
         "ускоренный поезд (экспресс)",
@@ -692,7 +692,7 @@ def main() -> None:
         "512x512, no Japanese text: crowded platform, express train diagram on poster, queue at door marks; focus on express train.",
     )
     C(
-        "Повседневность",
+        "Транспорт",
         "特急",
         "とっきゅう",
         "скорый поезд (Limited Express)",
@@ -710,7 +710,7 @@ def main() -> None:
         "512x512, no Japanese text: long limited express at platform, person running along cars checking numbers; focus on limited express.",
     )
     C(
-        "Существительные",
+        "Спорт",
         "甲子園",
         "こうしえん",
         "Косиэн (район и стадион у Осаки)",
@@ -728,7 +728,7 @@ def main() -> None:
         "512x512, no Japanese text: baseball stadium stands, drums, cheering students, distant players; focus on Koshien atmosphere.",
     )
     C(
-        "Существительные",
+        "Туризм",
         "大阪城",
         "おおさかじょう",
         "замок Осака",
