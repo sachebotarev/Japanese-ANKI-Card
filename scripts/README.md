@@ -37,7 +37,7 @@ python3 scripts/audit_example_format.py
 Пример импорта картинки:
 
 ```bash
-python3 scripts/import_card_image.py 'Карточки/Повседневность/口座.json' \
+python3 scripts/import_card_image.py 'Карточки/Финансы/口座.json' \
   '/Users/chebotarev/.codex/generated_images/.../image.png' \
   --write-json
 ```
