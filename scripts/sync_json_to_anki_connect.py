@@ -13,6 +13,7 @@
   ANKI_CONNECT_URL=http://127.0.0.1:8765 python3 scripts/sync_json_to_anki_connect.py
   python3 scripts/sync_json_to_anki_connect.py --dry-run --limit 10
   python3 scripts/sync_json_to_anki_connect.py --if-tag みんな初級I-第02課 --create-missing
+  python3 scripts/sync_json_to_anki_connect.py --create-all-missing
 """
 
 from __future__ import annotations
@@ -34,6 +35,8 @@ MODEL = "Японские слова"
 
 SOUND_FILES_RE = re.compile(r"\[sound:([^\]]+)\]")
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+IMG_SRC_RE = re.compile(r'src\s*=\s*["\']([^"\']+)["\']', re.IGNORECASE)
+NOTES_INFO_BATCH = 250
 
 
 def _example_normalized(text: str) -> str:
@@ -125,6 +128,46 @@ def sound_filenames(pronunciation: str) -> list[str]:
     return sorted({m.group(1) for m in SOUND_FILES_RE.finditer(pronunciation or "")})
 
 
+def upload_card_image_media(url: str, topic: str, data: dict) -> None:
+    """Копирует файл из Картинки/<тема>/ в collection.media под именем из <img src>."""
+    pic_html = str(data.get("Картинка") or "")
+    m = IMG_SRC_RE.search(pic_html)
+    if not m:
+        return
+    media_fname = m.group(1).strip()
+    if not media_fname or re.search(r"[\s/]", media_fname):
+        return
+    word = str(data.get("Слово", "")).strip()
+    if not word:
+        return
+    base = ROOT / "Картинки" / topic / word
+    for ext in (".png", ".jpg", ".jpeg", ".webp"):
+        src = base.with_suffix(ext)
+        if not src.is_file():
+            continue
+        b64 = base64.standard_b64encode(src.read_bytes()).decode("ascii")
+        invoke(url, "storeMediaFile", filename=media_fname, data=b64)
+        return
+    sys.stderr.write(
+        f"[warn] Нет локальной картинки для «{word}» ({base}.png|jpg…).\n"
+    )
+
+
+def words_present_in_deck(url: str) -> set[str]:
+    """Все значения поля «Слово» в колоде (для --create-all-missing)."""
+    nids: list = invoke(url, "findNotes", query=f'deck:"{DECK}"') or []
+    out: set[str] = set()
+    for i in range(0, len(nids), NOTES_INFO_BATCH):
+        chunk = nids[i : i + NOTES_INFO_BATCH]
+        infos = invoke(url, "notesInfo", notes=chunk) or []
+        for ni in infos:
+            fm = _note_fields_map(ni)
+            w = (fm.get("Слово") or "").strip()
+            if w:
+                out.add(w)
+    return out
+
+
 def upload_sound_files(url: str, topic: str, pronunciation: str) -> None:
     """Загружает озвучку из Произношение/<тема>/ в collection.media Anki."""
     for fname in sound_filenames(str(pronunciation)):
@@ -155,7 +198,9 @@ def note_fields_payload(data: dict) -> dict[str, str]:
     return fields
 
 
-def create_note_from_json(url: str, topic: str, data: dict, dry_run: bool) -> tuple[str | None, str | None]:
+def create_note_from_json(
+    url: str, topic: str, data: dict, dry_run: bool, *, allow_duplicate: bool = False
+) -> tuple[str | None, str | None]:
     """Создаёт новую заметку во всех полях из JSON и загружает mp3 из репозитория."""
     word = str(data.get("Слово", "")).strip()
     if not word:
@@ -163,13 +208,14 @@ def create_note_from_json(url: str, topic: str, data: dict, dry_run: bool) -> tu
     if dry_run:
         return f"<dry-{word}>", None
 
+    upload_card_image_media(url, topic, data)
     upload_sound_files(url, topic, str(data.get("Произношение", "")))
 
     note_spec: dict[str, object] = {
         "deckName": DECK,
         "modelName": MODEL,
         "fields": note_fields_payload(data),
-        "options": {"allowDuplicate": False},
+        "options": {"allowDuplicate": allow_duplicate},
         "tags": json_tag_list(data),
     }
     try:
@@ -243,7 +289,20 @@ def main() -> int:
             "(только вместе с --if-tag, чтобы случайно не создать сотни карточек)."
         ),
     )
+    ap.add_argument(
+        "--create-all-missing",
+        action="store_true",
+        help=(
+            "Один раз загрузить список «Слово» из колоды, затем создать через addNote "
+            "только те JSON, для которых в колоде ещё нет заметки. Не обновляет существующие. "
+            "Опционально сузить список через --if-tag. Несовместимо с --create-missing."
+        ),
+    )
     args = ap.parse_args()
+
+    if args.create_missing and args.create_all_missing:
+        print("Нельзя одновременно --create-missing и --create-all-missing.", file=sys.stderr)
+        return 2
 
     if args.create_missing and not args.if_tag:
         print(
@@ -277,6 +336,52 @@ def main() -> int:
     if args.limit > 0:
         todo = todo[: args.limit]
 
+    if args.create_all_missing:
+        present = words_present_in_deck(args.anki_connect_url)
+        n_in_deck = len(present)
+        to_create: list[tuple[Path, str, dict]] = []
+        for p, topic, data in todo:
+            w = str(data.get("Слово", "")).strip()
+            if not w or w in present:
+                continue
+            to_create.append((p, topic, data))
+        added = failed = 0
+        for p, topic, data in to_create:
+            rel = p.relative_to(ROOT).as_posix()
+            if args.dry_run:
+                print(f"[dry-run] создать: {rel} «{data.get('Слово')}»")
+                added += 1
+                continue
+            nid_new, cerr = create_note_from_json(args.anki_connect_url, topic, data, False)
+            if cerr and (
+                "дубликат" in (cerr or "").lower() or "duplicate" in (cerr or "").lower()
+            ):
+                nid2, cerr2 = create_note_from_json(
+                    args.anki_connect_url, topic, data, False, allow_duplicate=True
+                )
+                if not cerr2:
+                    nid_new, cerr = nid2, None
+                    sys.stderr.write(
+                        f"[{rel}] вторая попытка с allowDuplicate=True (nid={nid_new})\n"
+                    )
+                else:
+                    cerr = f"{cerr}; повтор с allowDuplicate: {cerr2}"
+            if cerr:
+                failed += 1
+                sys.stderr.write(f"[{rel}] не создана: {cerr}\n")
+            else:
+                added += 1
+                w = str(data.get("Слово", "")).strip()
+                if w:
+                    present.add(w)
+                print(f"[{rel}] создано nid={nid_new}")
+        print(
+            f"Режим --create-all-missing: уникальных «Слово» в колоде было: {n_in_deck}, "
+            f"JSON без заметки: {len(to_create)}, создано: {added}, ошибок: {failed}"
+            + (" (dry-run)" if args.dry_run else "")
+        )
+        return 1 if failed else 0
+
     ok = missing = errs = added = 0
     for p, topic, data in todo:
         rel = p.relative_to(ROOT).as_posix()
@@ -284,6 +389,16 @@ def main() -> int:
         if err:
             if err.startswith("нет заметки") and args.create_missing:
                 nid_new, cerr = create_note_from_json(args.anki_connect_url, topic, data, args.dry_run)
+                if cerr and (
+                    "дубликат" in (cerr or "").lower() or "duplicate" in (cerr or "").lower()
+                ):
+                    nid2, cerr2 = create_note_from_json(
+                        args.anki_connect_url, topic, data, args.dry_run, allow_duplicate=True
+                    )
+                    if not cerr2:
+                        nid_new, cerr = nid2, None
+                    else:
+                        cerr = f"{cerr}; allowDuplicate: {cerr2}"
                 if cerr:
                     print(f"[{rel}] не создана заметка: {cerr}", file=sys.stderr)
                     errs += 1
