@@ -111,15 +111,26 @@ def pad_three(parts: list[str]) -> list[str]:
 
 def masu_to_dict(word: str, tags: list[str]) -> str:
     """Грубая нормализация -ます в словарную форму для глаголов."""
-    if word.endswith("します"):
-        return word  # устойчивые выражения и する-глаголы оставляем как есть
+    special = {"見ます": "見る", "来ます": "来る", "います": "いる", "覚ます": "覚ます"}
+    if word in special:
+        return special[word]
+    if word.endswith("します") and word != "します":
+        return word.replace("します", "する")
     if not word.endswith("ます"):
         return word
     tagset = set(tags)
     stem = word[:-2]
-    if "動詞・一段" in tagset or "一段" in tagset:
+
+    def _has(*needles: str) -> bool:
+        for t in tags:
+            for n in needles:
+                if n in str(t):
+                    return True
+        return False
+
+    if _has("一段"):
         return stem + "る"
-    if "動詞・サ変" in tagset or "動詞・する" in tagset or word == "します":
+    if _has("サ変", "する"):
         return "する" if word == "します" else word.replace("します", "する")
     # 五段: ...います -> ...う, ...きます -> ...く, ...
     if stem.endswith("い"):
@@ -140,7 +151,7 @@ def masu_to_dict(word: str, tags: list[str]) -> str:
         return stem[:-1] + "む"
     if stem.endswith("り"):
         return stem[:-1] + "る"
-    return word
+    return stem + "る"
 
 
 def clean_word(raw: str, tags: list[str], existing: set[str]) -> str:
