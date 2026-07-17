@@ -192,7 +192,18 @@ def rebuild_slova_from_cards() -> None:
         if not theme_dir.is_dir() or theme_dir.name.startswith("."):
             continue
         valid.add(theme_dir.name)
-        words = sorted([p.stem for p in theme_dir.glob("*.json") if p.is_file()])
+        words: list[str] = []
+        for p in theme_dir.glob("*.json"):
+            if not p.is_file():
+                continue
+            try:
+                data = json.loads(p.read_text(encoding="utf-8"))
+                w = str(data.get("Слово") or p.stem).strip()
+            except (json.JSONDecodeError, OSError):
+                w = p.stem
+            if w:
+                words.append(w)
+        words = sorted(set(words))
         (slova / theme_dir.name).write_text(
             "\n".join(words) + ("\n" if words else ""),
             encoding="utf-8",
