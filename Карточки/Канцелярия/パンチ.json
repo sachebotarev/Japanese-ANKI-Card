@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>パンチ</span>です。<br>この店で<span class='study-word'>パンチ</span>を売っています。<br>明日使うので、<span class='study-word'>パンチ</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это дырокол.<br>В этом магазине продают дырокол.<br>Завтра мне понадобится дырокол, поэтому я купил и принёс домой дырокол.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится дырокол, поэтому я купил и принёс домой дырокол., visual focus: дырокол, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_パンチ.png\">",
   "Произношение": "[sound:パンチ_слово.mp3][sound:パンチ_пример_1.mp3][sound:パンチ_пример_2.mp3][sound:パンチ_пример_3.mp3]",
   "Заметки": "Слово из урока 7 Minna no Nihongo. Делает отверстия в бумаге для папки.",
   "Кандзи-разбор": "Кандзи нет.",

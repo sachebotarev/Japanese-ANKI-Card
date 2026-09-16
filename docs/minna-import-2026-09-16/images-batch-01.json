@@ -1,0 +1,382 @@
+[
+  {
+    "note_id": 1789535649528,
+    "word": "CD",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult at home, unpacking a newly purchased compact disc from a plain shopping bag, holding the shiny circular optical disc by its edge, disc and clear jewel case large in foreground, central hole and rainbow reflection clearly visible. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-119fe382-2c31-4111-a1c9-4288d5379f47.png",
+    "image_path": "Картинки/Электроника/CD.png",
+    "card_path": "Карточки/Электроника/CD.json",
+    "media": {
+      "filename": "japanese_words_cd.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_cd.png",
+      "size": 1973445,
+      "message": "Successfully stored media file \"japanese_words_cd.png\" (1973445 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_CD.png",
+        "actual_filename": "japanese_words_cd.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649529,
+    "word": "レストラン",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends meeting outside a railway station after checking their route, one gestures toward a nearby cozy restaurant with visible dining tables and warm pendant lights through its window, the restaurant entrance and dining interior dominate the composition, no other people. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-358ce866-2b53-4e13-974e-df6a33b86beb.png",
+    "image_path": "Картинки/Еда/レストラン.png",
+    "card_path": "Карточки/Еда/レストラン.json",
+    "media": {
+      "filename": "japanese_words_レストラン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_レストラン.png",
+      "size": 2241511,
+      "message": "Successfully stored media file \"japanese_words_レストラン.png\" (2241511 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_レストラン.png",
+        "actual_filename": "japanese_words_レストラン.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649530,
+    "word": "コンサート",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends meeting outside a railway station after finding their destination, looking toward a nearby concert hall with a large open doorway revealing a stage, a grand piano and microphones under colorful spotlights, musical performance venue is the dominant visual focus, no other people. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7e866587-0481-48c7-ad50-06ccc9bba1d4.png",
+    "image_path": "Картинки/Традиции/コンサート.png",
+    "card_path": "Карточки/Традиции/コンサート.json",
+    "media": {
+      "filename": "japanese_words_コンサート.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_コンサート.png",
+      "size": 2279161,
+      "message": "Successfully stored media file \"japanese_words_コンサート.png\" (2279161 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_コンサート.png",
+        "actual_filename": "japanese_words_コンサート.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649531,
+    "word": "歌舞伎",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly three people, two friends seated in a traditional theater in foreground, one quietly explaining the performance to the other, exactly one kabuki actor prominently posing on the stage with ornate kimono and bold red-white kumadori makeup, kabuki costume and theatrical pose dominate, no other people. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-b33809ed-f938-4f14-acdd-a29062a10427.png",
+    "image_path": "Картинки/Традиции/歌舞伎.png",
+    "card_path": "Карточки/Традиции/歌舞伎.json",
+    "media": {
+      "filename": "japanese_words_歌舞伎.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_歌舞伎.png",
+      "size": 2199782,
+      "message": "Successfully stored media file \"japanese_words_歌舞伎.png\" (2199782 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_歌舞伎.png",
+        "actual_filename": "japanese_words_歌舞伎.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649532,
+    "word": "犬",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one person crouching a little closer to photograph exactly one friendly shiba dog in a park, dog large and sharp in foreground, camera visible in person's hands, natural daylight. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-dd25f33f-ab48-4953-bc96-3c2d16c4575f.png",
+    "image_path": "Картинки/Природа/犬.png",
+    "card_path": "Карточки/Природа/犬.json",
+    "media": {
+      "filename": "japanese_words_犬.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_犬.png",
+      "size": 2476297,
+      "message": "Successfully stored media file \"japanese_words_犬.png\" (2476297 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_犬.png",
+        "actual_filename": "japanese_words_犬.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649533,
+    "word": "猫",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one person stepping closer and crouching to photograph exactly one cat perched on a low garden wall, cat large and sharp in foreground, camera visible, calm sunny courtyard. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-aabbd0f2-cc6f-4dc9-9d36-d91b711abddc.png",
+    "image_path": "Картинки/Природа/猫.png",
+    "card_path": "Карточки/Природа/猫.json",
+    "media": {
+      "filename": "japanese_words_猫.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_猫.png",
+      "size": 2489667,
+      "message": "Successfully stored media file \"japanese_words_猫.png\" (2489667 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_猫.png",
+        "actual_filename": "japanese_words_猫.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649534,
+    "word": "パンダ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one visitor with a camera approaching a zoo viewing railing to photograph exactly one giant panda eating bamboo in its spacious leafy enclosure, panda dominates foreground, no other people. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7000b62c-79cc-4fa4-9908-80eaa1eb46de.png",
+    "image_path": "Картинки/Природа/パンダ.png",
+    "card_path": "Карточки/Природа/パンダ.json",
+    "media": {
+      "filename": "japanese_words_パンダ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_パンダ.png",
+      "size": 2695870,
+      "message": "Successfully stored media file \"japanese_words_パンダ.png\" (2695870 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_パンダ.png",
+        "actual_filename": "japanese_words_パンダ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649535,
+    "word": "スイッチ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult at home unpacking a newly bought electrical wall light switch from a plain shopping bag, physical white square rocker-switch plate large in foreground, simple blank switch with no symbols, home repair preparations. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-52d35346-b160-457e-a13c-d4001046bd1c.png",
+    "image_path": "Картинки/Электроника/スイッチ.png",
+    "card_path": "Карточки/Электроника/スイッチ.json",
+    "media": {
+      "filename": "japanese_words_スイッチ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_スイッチ.png",
+      "size": 2085745,
+      "message": "Successfully stored media file \"japanese_words_スイッチ.png\" (2085745 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_スイッチ.png",
+        "actual_filename": "japanese_words_スイッチ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649536,
+    "word": "テーブル",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult at home just after bringing home a purchased small wooden table, unfolding its legs next to plain cardboard packaging and a shopping trolley, complete table dominates the image. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-21784054-c4fd-45d6-9e8f-aca111c6ba97.png",
+    "image_path": "Картинки/Жилище/テーブル.png",
+    "card_path": "Карточки/Жилище/テーブル.json",
+    "media": {
+      "filename": "japanese_words_テーブル.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_テーブル.png",
+      "size": 2352006,
+      "message": "Successfully stored media file \"japanese_words_テーブル.png\" (2352006 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_テーブル.png",
+        "actual_filename": "japanese_words_テーブル.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649537,
+    "word": "ベッド",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult in a small bedroom assembling a newly bought bed just brought home, low wooden bed frame with mattress dominates the scene, plain opened cardboard packaging and a small hand tool nearby. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-d9164908-88ce-4eb5-ab7f-b1c30cdbee94.png",
+    "image_path": "Картинки/Жилище/ベッド.png",
+    "card_path": "Карточки/Жилище/ベッド.json",
+    "media": {
+      "filename": "japanese_words_ベッド.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ベッド.png",
+      "size": 2085059,
+      "message": "Successfully stored media file \"japanese_words_ベッド.png\" (2085059 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ベッド.png",
+        "actual_filename": "japanese_words_ベッド.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535649538,
+    "word": "棚",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult at home placing a newly purchased small freestanding wooden shelving unit upright after unpacking it, three clearly visible horizontal shelves, shelving unit dominates, plain cardboard packaging beside it. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-5dc1df3f-0b28-44c3-9be9-c0f1d8da6135.png",
+    "image_path": "Картинки/Жилище/棚.png",
+    "card_path": "Карточки/Жилище/棚.json",
+    "media": {
+      "filename": "japanese_words_棚.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_棚.png",
+      "size": 2037577,
+      "message": "Successfully stored media file \"japanese_words_棚.png\" (2037577 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_棚.png",
+        "actual_filename": "japanese_words_棚.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671163,
+    "word": "スプーン",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult in a home kitchen taking a newly bought metal spoon from a plain shopping bag, spoon very large and clear in foreground with a deep oval bowl and long handle, calm preparation for tomorrow. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4d63c775-b2bb-4a7a-aae8-d3584f3af730.png",
+    "image_path": "Картинки/Быт/スプーン.png",
+    "card_path": "Карточки/Быт/スプーン.json",
+    "media": {
+      "filename": "japanese_words_スプーン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_スプーン.png",
+      "size": 2135782,
+      "message": "Successfully stored media file \"japanese_words_スプーン.png\" (2135782 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_スプーン.png",
+        "actual_filename": "japanese_words_スプーン.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671164,
+    "word": "ナイフ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult in a home kitchen unpacking a newly bought kitchen knife from protective plain cardboard packaging, knife laid safely flat on a wooden counter, broad stainless steel blade and handle dominate, no cutting or injury. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-5584c1a5-3b98-4fa9-9bcd-69098fd23149.png",
+    "image_path": "Картинки/Быт/ナイフ.png",
+    "card_path": "Карточки/Быт/ナイフ.json",
+    "media": {
+      "filename": "japanese_words_ナイフ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ナイフ.png",
+      "size": 2325098,
+      "message": "Successfully stored media file \"japanese_words_ナイフ.png\" (2325098 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ナイフ.png",
+        "actual_filename": "japanese_words_ナイフ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671165,
+    "word": "フォーク",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult in a home kitchen unpacking a newly bought metal dinner fork from a plain shopping bag, fork large in foreground with four distinct tines and a long handle, soft warm light. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-fc4882a0-b16e-41d6-9805-04553b542bf9.png",
+    "image_path": "Картинки/Быт/フォーク.png",
+    "card_path": "Карточки/Быт/フォーク.json",
+    "media": {
+      "filename": "japanese_words_フォーク.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_フォーク.png",
+      "size": 2063812,
+      "message": "Successfully stored media file \"japanese_words_フォーク.png\" (2063812 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_フォーク.png",
+        "actual_filename": "japanese_words_フォーク.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671166,
+    "word": "パソコン",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one student at a home desk unpacking a newly bought laptop computer from a plain shopping bag and protective plain box, open laptop dominates foreground, blank glowing screen with no icons or letters, preparing to use it tomorrow. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7e6263b7-26ab-4341-aba2-386d93ef82c0.png",
+    "image_path": "Картинки/Электроника/パソコン.png",
+    "card_path": "Карточки/Электроника/パソコン.json",
+    "media": {
+      "filename": "japanese_words_パソコン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_パソコン.png",
+      "size": 1846264,
+      "message": "Successfully stored media file \"japanese_words_パソコン.png\" (1846264 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_パソコン.png",
+        "actual_filename": "japanese_words_パソコン.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671167,
+    "word": "パンチ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one student at a home desk unpacking a newly bought two-hole paper punch from a plain shopping bag, physical office hole-punch tool dominates foreground, hinged pressing bar and base with two round punch slots clearly visible, blank paper nearby. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-95d82347-3e81-40d1-8786-7063d48db3e3.png",
+    "image_path": "Картинки/Канцелярия/パンチ.png",
+    "card_path": "Карточки/Канцелярия/パンチ.json",
+    "media": {
+      "filename": "japanese_words_パンチ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_パンチ.png",
+      "size": 2018735,
+      "message": "Successfully stored media file \"japanese_words_パンチ.png\" (2018735 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_パンチ.png",
+        "actual_filename": "japanese_words_パンチ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671168,
+    "word": "ホッチキス",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one student at a home desk unpacking a newly bought stapler from a plain shopping bag, physical compact office stapler dominates foreground, hinged top arm and metal base clearly visible, blank loose sheets nearby. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-04d8f3cb-9329-430f-bded-8c02ba65a111.png",
+    "image_path": "Картинки/Канцелярия/ホッチキス.png",
+    "card_path": "Карточки/Канцелярия/ホッチキス.json",
+    "media": {
+      "filename": "japanese_words_ホッチキス.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ホッチキス.png",
+      "size": 1963584,
+      "message": "Successfully stored media file \"japanese_words_ホッチキス.png\" (1963584 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ホッチキス.png",
+        "actual_filename": "japanese_words_ホッチキス.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671169,
+    "word": "セロテープ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult at a home desk taking a newly bought roll of transparent adhesive tape from a plain shopping bag, clear tape roll and dispenser dominate foreground, a short glossy transparent strip extends from the roll, no writing on its cardboard core. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-22e1c168-d057-4576-9d4e-83095bc23f4b.png",
+    "image_path": "Картинки/Канцелярия/セロテープ.png",
+    "card_path": "Карточки/Канцелярия/セロテープ.json",
+    "media": {
+      "filename": "japanese_words_セロテープ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_セロテープ.png",
+      "size": 1957231,
+      "message": "Successfully stored media file \"japanese_words_セロテープ.png\" (1957231 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_セロテープ.png",
+        "actual_filename": "japanese_words_セロテープ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671170,
+    "word": "シャツ",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult preparing clothes at home for tomorrow's outing, placing a neatly folded new button-up shirt beside a travel bag, shirt with distinct collar, buttons and sleeves dominates foreground, calm evening light. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-061fbb54-5a7f-4050-9a83-60e6ebfb3bfa.png",
+    "image_path": "Картинки/Одежда/シャツ.png",
+    "card_path": "Карточки/Одежда/シャツ.json",
+    "media": {
+      "filename": "japanese_words_シャツ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_シャツ.png",
+      "size": 1887724,
+      "message": "Successfully stored media file \"japanese_words_シャツ.png\" (1887724 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_シャツ.png",
+        "actual_filename": "japanese_words_シャツ.png"
+      }
+    }
+  },
+  {
+    "note_id": 1789535671171,
+    "word": "プレゼント",
+    "prompt": "Use case: illustration-story. Create one standalone Japanese vocabulary card illustration. Masterpiece, high quality polished anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one young adult arriving home and removing a newly bought wrapped present from a plain shopping bag, physical gift box with a large ribbon bow dominates foreground, delighted expression, warm home interior. Clear physical focal object and readable action, natural poses, detailed hands, cinematic storytelling. No text, no letters, no numbers, no labels, no logos, no watermark. Avoid extra people, text, typography, subtitles, signature, kanji on objects, blurry objects, bad anatomy, extra fingers.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-c6a3859c-2b7c-47d2-83fc-3a6d678de8e7.png",
+    "image_path": "Картинки/Дружба/プレゼント.png",
+    "card_path": "Карточки/Дружба/プレゼント.json",
+    "media": {
+      "filename": "japanese_words_プレゼント.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_プレゼント.png",
+      "size": 1993145,
+      "message": "Successfully stored media file \"japanese_words_プレゼント.png\" (1993145 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_プレゼント.png",
+        "actual_filename": "japanese_words_プレゼント.png"
+      }
+    }
+  }
+]

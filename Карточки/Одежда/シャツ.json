@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>シャツ</span>です。<br>昨日、新しい<span class='study-word'>シャツ</span>を買いました。<br>明日出かけるので、新しい<span class='study-word'>シャツ</span>を出して、かばんの隣に置いておきました。",
   "Пример без слова": "これは_____です。<br>昨日、新しい_____を買いました。<br>明日出かけるので、新しい_____を出して、かばんの隣に置いておきました。",
   "Пример перевод": "Это рубашка.<br>Вчера я купил обновку — рубашку.<br>Завтра я ухожу из дома, поэтому достал обновку — рубашку — и заранее положил рядом с сумкой.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра я ухожу из дома, поэтому достал обновку — рубашку — и заранее положил рядом с сумкой., visual focus: рубашка, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_シャツ.png\">",
   "Произношение": "[sound:シャツ_слово.mp3][sound:シャツ_пример_1.mp3][sound:シャツ_пример_2.mp3][sound:シャツ_пример_3.mp3]",
   "Заметки": "Слово из урока 7 Minna no Nihongo. Предмет одежды с воротником и пуговицами.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>プレゼント</span>です。<br>この店で<span class='study-word'>プレゼント</span>を売っています。<br>明日使うので、<span class='study-word'>プレゼント</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это подарок.<br>В этом магазине продают подарок.<br>Завтра мне понадобится подарок, поэтому я купил и принёс домой подарок.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится подарок, поэтому я купил и принёс домой подарок., visual focus: подарок, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_プレゼント.png\">",
   "Произношение": "[sound:プレゼント_слово.mp3][sound:プレゼント_пример_1.mp3][sound:プレゼント_пример_2.mp3][sound:プレゼント_пример_3.mp3]",
   "Заметки": "Слово из урока 7 Minna no Nihongo. Его дарят человеку в знак внимания.",
   "Кандзи-разбор": "Кандзи нет.",

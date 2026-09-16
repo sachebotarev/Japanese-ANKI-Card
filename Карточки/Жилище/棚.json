@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>棚</span>です。<br>この店で<span class='study-word'>棚</span>を売っています。<br>明日使うので、<span class='study-word'>棚</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это полка.<br>В этом магазине продают полку.<br>Завтра мне понадобится полка, поэтому я купил и принёс домой полку.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится полка, поэтому я купил и принёс домой полку., visual focus: полка, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_棚.png\">",
   "Произношение": "[sound:棚_слово.mp3][sound:棚_пример_1.mp3][sound:棚_пример_2.mp3][sound:棚_пример_3.mp3]",
   "Заметки": "Слово из урока 10 Minna no Nihongo. На ней хранят книги и другие предметы.",
   "Кандзи-разбор": "棚 — полка",

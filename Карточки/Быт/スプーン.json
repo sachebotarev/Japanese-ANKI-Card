@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>スプーン</span>です。<br>この店で<span class='study-word'>スプーン</span>を売っています。<br>明日使うので、<span class='study-word'>スプーン</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это ложка.<br>В этом магазине продают ложку.<br>Завтра мне понадобится ложка, поэтому я купил и принёс домой ложку.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится ложка, поэтому я купил и принёс домой ложку., visual focus: ложка, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_スプーン.png\">",
   "Произношение": "[sound:スプーン_слово.mp3][sound:スプーン_пример_1.mp3][sound:スプーン_пример_2.mp3][sound:スプーン_пример_3.mp3]",
   "Заметки": "Слово из урока 7 Minna no Nihongo. Столовый прибор для супа.",
   "Кандзи-разбор": "Кандзи нет.",
