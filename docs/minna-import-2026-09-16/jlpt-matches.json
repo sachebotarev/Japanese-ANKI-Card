@@ -1,0 +1,1882 @@
+[
+  {
+    "word": "スプーン",
+    "level": "N5",
+    "matched_expression": "スプーン"
+  },
+  {
+    "word": "ナイフ",
+    "level": "N5",
+    "matched_expression": "ナイフ"
+  },
+  {
+    "word": "フォーク",
+    "level": "N5",
+    "matched_expression": "フォーク"
+  },
+  {
+    "word": "パソコン",
+    "level": "N4",
+    "matched_expression": "パソコン"
+  },
+  {
+    "word": "シャツ",
+    "level": "N5",
+    "matched_expression": "シャツ"
+  },
+  {
+    "word": "プレゼント",
+    "level": "N4",
+    "matched_expression": "プレゼント"
+  },
+  {
+    "word": "レストラン",
+    "level": "N5",
+    "matched_expression": "レストラン"
+  },
+  {
+    "word": "コンサート",
+    "level": "N4",
+    "matched_expression": "コンサート"
+  },
+  {
+    "word": "犬",
+    "level": "N5",
+    "matched_expression": "犬"
+  },
+  {
+    "word": "猫",
+    "level": "N5",
+    "matched_expression": "猫"
+  },
+  {
+    "word": "スイッチ",
+    "level": "N3",
+    "matched_expression": "スイッチ"
+  },
+  {
+    "word": "テーブル",
+    "level": "N5",
+    "matched_expression": "テーブル"
+  },
+  {
+    "word": "ベッド",
+    "level": "N5",
+    "matched_expression": "ベッド"
+  },
+  {
+    "word": "棚",
+    "level": "N4",
+    "matched_expression": "棚"
+  },
+  {
+    "word": "ドア",
+    "level": "N5",
+    "matched_expression": "ドア"
+  },
+  {
+    "word": "ポスト",
+    "level": "N5",
+    "matched_expression": "ポスト"
+  },
+  {
+    "word": "ビル",
+    "level": "N4",
+    "matched_expression": "ビル"
+  },
+  {
+    "word": "サンドイッチ",
+    "level": "N4",
+    "matched_expression": "サンドイッチ"
+  },
+  {
+    "word": "アイスクリーム",
+    "level": "N3",
+    "matched_expression": "アイスクリーム"
+  },
+  {
+    "word": "ホテル",
+    "level": "N5",
+    "matched_expression": "ホテル"
+  },
+  {
+    "word": "パーティー",
+    "level": "N5",
+    "matched_expression": "パーティー"
+  },
+  {
+    "word": "刺身",
+    "level": "N2",
+    "matched_expression": "刺身"
+  },
+  {
+    "word": "プール",
+    "level": "N5",
+    "matched_expression": "プール"
+  },
+  {
+    "word": "パスポート",
+    "level": "N3",
+    "matched_expression": "パスポート"
+  },
+  {
+    "word": "時刻表",
+    "level": "N1",
+    "matched_expression": "時刻表"
+  },
+  {
+    "word": "製品",
+    "level": "N3",
+    "matched_expression": "製品"
+  },
+  {
+    "word": "自動車",
+    "level": "N5",
+    "matched_expression": "自動車"
+  },
+  {
+    "word": "コート",
+    "level": "N5",
+    "matched_expression": "コート"
+  },
+  {
+    "word": "セーター",
+    "level": "N5",
+    "matched_expression": "セーター"
+  },
+  {
+    "word": "スーツ",
+    "level": "N4",
+    "matched_expression": "スーツ"
+  },
+  {
+    "word": "ケーキ",
+    "level": "N4",
+    "matched_expression": "ケーキ"
+  },
+  {
+    "word": "押し入れ",
+    "level": "N4",
+    "matched_expression": "押し入れ"
+  },
+  {
+    "word": "瓶",
+    "level": "N3",
+    "matched_expression": "瓶"
+  },
+  {
+    "word": "缶",
+    "level": "N3",
+    "matched_expression": "缶"
+  },
+  {
+    "word": "港",
+    "level": "N4",
+    "matched_expression": "港"
+  },
+  {
+    "word": "レバー",
+    "level": "N1",
+    "matched_expression": "レバー"
+  },
+  {
+    "word": "カーテン",
+    "level": "N4",
+    "matched_expression": "カーテン"
+  },
+  {
+    "word": "紐",
+    "level": "N3",
+    "matched_expression": "紐"
+  },
+  {
+    "word": "乗り物",
+    "level": "N4",
+    "matched_expression": "乗り物"
+  },
+  {
+    "word": "汽車",
+    "level": "N4",
+    "matched_expression": "汽車"
+  },
+  {
+    "word": "汽船",
+    "level": "N1",
+    "matched_expression": "汽船"
+  },
+  {
+    "word": "ペット",
+    "level": "N5",
+    "matched_expression": "ペット"
+  },
+  {
+    "word": "マンション",
+    "level": "N2",
+    "matched_expression": "マンション"
+  },
+  {
+    "word": "本棚",
+    "level": "N5",
+    "matched_expression": "本棚"
+  },
+  {
+    "word": "台所",
+    "level": "N5",
+    "matched_expression": "台所"
+  },
+  {
+    "word": "ガム",
+    "level": "N2",
+    "matched_expression": "ガム"
+  },
+  {
+    "word": "品物",
+    "level": "N4",
+    "matched_expression": "品物"
+  },
+  {
+    "word": "ドラマ",
+    "level": "N3",
+    "matched_expression": "ドラマ"
+  },
+  {
+    "word": "小説",
+    "level": "N4",
+    "matched_expression": "小説"
+  },
+  {
+    "word": "茶碗",
+    "level": "N5",
+    "matched_expression": "茶碗"
+  },
+  {
+    "word": "コップ",
+    "level": "N5",
+    "matched_expression": "コップ"
+  },
+  {
+    "word": "交番",
+    "level": "N5",
+    "matched_expression": "交番"
+  },
+  {
+    "word": "講義",
+    "level": "N4",
+    "matched_expression": "講義"
+  },
+  {
+    "word": "ガイドブック",
+    "level": "N1",
+    "matched_expression": "ガイドブック"
+  },
+  {
+    "word": "カレンダー",
+    "level": "N5",
+    "matched_expression": "カレンダー"
+  },
+  {
+    "word": "ポスター",
+    "level": "N2",
+    "matched_expression": "ポスター"
+  },
+  {
+    "word": "花瓶",
+    "level": "N5",
+    "matched_expression": "花瓶"
+  },
+  {
+    "word": "玄関",
+    "level": "N5",
+    "matched_expression": "玄関"
+  },
+  {
+    "word": "池",
+    "level": "N5",
+    "matched_expression": "池"
+  },
+  {
+    "word": "葬式",
+    "level": "N2",
+    "matched_expression": "葬式"
+  },
+  {
+    "word": "支店",
+    "level": "N3",
+    "matched_expression": "支店"
+  },
+  {
+    "word": "村",
+    "level": "N5",
+    "matched_expression": "村"
+  },
+  {
+    "word": "エンジン",
+    "level": "N3",
+    "matched_expression": "エンジン"
+  },
+  {
+    "word": "ボール",
+    "level": "N3",
+    "matched_expression": "ボール"
+  },
+  {
+    "word": "ソース",
+    "level": "N1",
+    "matched_expression": "ソース"
+  },
+  {
+    "word": "調味料",
+    "level": "N2",
+    "matched_expression": "調味料"
+  },
+  {
+    "word": "丼",
+    "level": "N2",
+    "matched_expression": "丼"
+  },
+  {
+    "word": "米",
+    "level": "N4",
+    "matched_expression": "米"
+  },
+  {
+    "word": "彫刻",
+    "level": "N2",
+    "matched_expression": "彫刻"
+  },
+  {
+    "word": "鼠",
+    "level": "N3",
+    "matched_expression": "鼠"
+  },
+  {
+    "word": "海岸",
+    "level": "N4",
+    "matched_expression": "海岸"
+  },
+  {
+    "word": "回覧",
+    "level": "N1",
+    "matched_expression": "回覧"
+  },
+  {
+    "word": "判子",
+    "level": "N2",
+    "matched_expression": "判子"
+  },
+  {
+    "word": "フロント",
+    "level": "N1",
+    "matched_expression": "フロント"
+  },
+  {
+    "word": "タオル",
+    "level": "N3",
+    "matched_expression": "タオル"
+  },
+  {
+    "word": "せっけん",
+    "level": "N5",
+    "matched_expression": "石鹸"
+  },
+  {
+    "word": "トラック",
+    "level": "N3",
+    "matched_expression": "トラック"
+  },
+  {
+    "word": "洋服",
+    "level": "N5",
+    "matched_expression": "洋服"
+  },
+  {
+    "word": "大会",
+    "level": "N3",
+    "matched_expression": "大会"
+  },
+  {
+    "word": "マラソン",
+    "level": "N2",
+    "matched_expression": "マラソン"
+  },
+  {
+    "word": "コンテスト",
+    "level": "N3",
+    "matched_expression": "コンテスト"
+  },
+  {
+    "word": "ズボン",
+    "level": "N5",
+    "matched_expression": "ズボン"
+  },
+  {
+    "word": "テスト",
+    "level": "N5",
+    "matched_expression": "テスト"
+  },
+  {
+    "word": "オートバイ",
+    "level": "N4",
+    "matched_expression": "オートバイ"
+  },
+  {
+    "word": "運転手",
+    "level": "N4",
+    "matched_expression": "運転手"
+  },
+  {
+    "word": "猿",
+    "level": "N3",
+    "matched_expression": "猿"
+  },
+  {
+    "word": "ドライバー",
+    "level": "N1",
+    "matched_expression": "ドライバー"
+  },
+  {
+    "word": "ハンカチ",
+    "level": "N5",
+    "matched_expression": "ハンカチ"
+  },
+  {
+    "word": "幼稚園",
+    "level": "N2",
+    "matched_expression": "幼稚園"
+  },
+  {
+    "word": "アパート",
+    "level": "N5",
+    "matched_expression": "アパート"
+  },
+  {
+    "word": "やかん",
+    "level": "N2",
+    "matched_expression": "やかん"
+  },
+  {
+    "word": "風呂敷",
+    "level": "N2",
+    "matched_expression": "風呂敷"
+  },
+  {
+    "word": "そろばん",
+    "level": "N2",
+    "matched_expression": "算盤"
+  },
+  {
+    "word": "梅",
+    "level": "N3",
+    "matched_expression": "梅"
+  },
+  {
+    "word": "ベル",
+    "level": "N4",
+    "matched_expression": "ベル"
+  },
+  {
+    "word": "パトカー",
+    "level": "N1",
+    "matched_expression": "パトカー"
+  },
+  {
+    "word": "ファイル",
+    "level": "N1",
+    "matched_expression": "ファイル"
+  },
+  {
+    "word": "ガイド",
+    "level": "N1",
+    "matched_expression": "ガイド"
+  },
+  {
+    "word": "一日",
+    "level": "N5",
+    "matched_expression": "一日"
+  },
+  {
+    "word": "二日",
+    "level": "N5",
+    "matched_expression": "二日"
+  },
+  {
+    "word": "三日",
+    "level": "N5",
+    "matched_expression": "三日"
+  },
+  {
+    "word": "四日",
+    "level": "N5",
+    "matched_expression": "四日"
+  },
+  {
+    "word": "五日",
+    "level": "N5",
+    "matched_expression": "五日"
+  },
+  {
+    "word": "六日",
+    "level": "N5",
+    "matched_expression": "六日"
+  },
+  {
+    "word": "七日",
+    "level": "N5",
+    "matched_expression": "七日"
+  },
+  {
+    "word": "八日",
+    "level": "N5",
+    "matched_expression": "八日"
+  },
+  {
+    "word": "九日",
+    "level": "N5",
+    "matched_expression": "九日"
+  },
+  {
+    "word": "十日",
+    "level": "N5",
+    "matched_expression": "十日"
+  },
+  {
+    "word": "二十日",
+    "level": "N5",
+    "matched_expression": "二十日"
+  },
+  {
+    "word": "一つ",
+    "level": "N5",
+    "matched_expression": "一つ"
+  },
+  {
+    "word": "二つ",
+    "level": "N5",
+    "matched_expression": "二つ"
+  },
+  {
+    "word": "三つ",
+    "level": "N5",
+    "matched_expression": "三つ"
+  },
+  {
+    "word": "四つ",
+    "level": "N5",
+    "matched_expression": "四つ"
+  },
+  {
+    "word": "五つ",
+    "level": "N5",
+    "matched_expression": "五つ"
+  },
+  {
+    "word": "六つ",
+    "level": "N5",
+    "matched_expression": "六つ"
+  },
+  {
+    "word": "七つ",
+    "level": "N5",
+    "matched_expression": "七つ"
+  },
+  {
+    "word": "八つ",
+    "level": "N5",
+    "matched_expression": "八つ"
+  },
+  {
+    "word": "九つ",
+    "level": "N5",
+    "matched_expression": "九つ"
+  },
+  {
+    "word": "一人",
+    "level": "N5",
+    "matched_expression": "一人"
+  },
+  {
+    "word": "二人",
+    "level": "N5",
+    "matched_expression": "二人"
+  },
+  {
+    "word": "毎週",
+    "level": "N5",
+    "matched_expression": "毎週"
+  },
+  {
+    "word": "毎月",
+    "level": "N5",
+    "matched_expression": "毎月"
+  },
+  {
+    "word": "毎年",
+    "level": "N5",
+    "matched_expression": "毎年"
+  },
+  {
+    "word": "再来週",
+    "level": "N4",
+    "matched_expression": "再来週"
+  },
+  {
+    "word": "再来月",
+    "level": "N4",
+    "matched_expression": "再来月"
+  },
+  {
+    "word": "いただく",
+    "level": "N4",
+    "matched_expression": "いただく"
+  },
+  {
+    "word": "コピーする",
+    "level": "N5",
+    "matched_expression": "コピーする"
+  },
+  {
+    "word": "いらっしゃる",
+    "level": "N4",
+    "matched_expression": "いらっしゃる"
+  },
+  {
+    "word": "負ける",
+    "level": "N4",
+    "matched_expression": "負ける"
+  },
+  {
+    "word": "触る",
+    "level": "N4",
+    "matched_expression": "触る"
+  },
+  {
+    "word": "片付く",
+    "level": "N3",
+    "matched_expression": "片付く"
+  },
+  {
+    "word": "交わる",
+    "level": "N1",
+    "matched_expression": "交わる"
+  },
+  {
+    "word": "腐る",
+    "level": "N3",
+    "matched_expression": "腐る"
+  },
+  {
+    "word": "噛む",
+    "level": "N4",
+    "matched_expression": "噛む"
+  },
+  {
+    "word": "破れる",
+    "level": "N3",
+    "matched_expression": "破れる"
+  },
+  {
+    "word": "外れる",
+    "level": "N3",
+    "matched_expression": "外れる"
+  },
+  {
+    "word": "取り替える",
+    "level": "N4",
+    "matched_expression": "取り替える"
+  },
+  {
+    "word": "燃える",
+    "level": "N3",
+    "matched_expression": "燃える"
+  },
+  {
+    "word": "戻す",
+    "level": "N3",
+    "matched_expression": "戻す"
+  },
+  {
+    "word": "まとめる",
+    "level": "N3",
+    "matched_expression": "まとめる"
+  },
+  {
+    "word": "止む",
+    "level": "N4",
+    "matched_expression": "止む"
+  },
+  {
+    "word": "組み立てる",
+    "level": "N2",
+    "matched_expression": "組み立てる"
+  },
+  {
+    "word": "煮える",
+    "level": "N3",
+    "matched_expression": "煮える"
+  },
+  {
+    "word": "焼ける",
+    "level": "N4",
+    "matched_expression": "焼ける"
+  },
+  {
+    "word": "彫る",
+    "level": "N2",
+    "matched_expression": "彫る"
+  },
+  {
+    "word": "通る",
+    "level": "N4",
+    "matched_expression": "通る"
+  },
+  {
+    "word": "伺う",
+    "level": "N4",
+    "matched_expression": "伺う"
+  },
+  {
+    "word": "測る",
+    "level": "N3",
+    "matched_expression": "測る"
+  },
+  {
+    "word": "確かめる",
+    "level": "N3",
+    "matched_expression": "確かめる"
+  },
+  {
+    "word": "酔う",
+    "level": "N3",
+    "matched_expression": "酔う"
+  },
+  {
+    "word": "沸かす",
+    "level": "N4",
+    "matched_expression": "沸かす"
+  },
+  {
+    "word": "広める",
+    "level": "N3",
+    "matched_expression": "広める"
+  },
+  {
+    "word": "注ぐ",
+    "level": "N3",
+    "matched_expression": "注ぐ"
+  },
+  {
+    "word": "切れる",
+    "level": "N3",
+    "matched_expression": "切れる"
+  },
+  {
+    "word": "取れる",
+    "level": "N3",
+    "matched_expression": "取れる"
+  },
+  {
+    "word": "嫌がる",
+    "level": "N2",
+    "matched_expression": "嫌がる"
+  },
+  {
+    "word": "向かう",
+    "level": "N4",
+    "matched_expression": "向かう"
+  },
+  {
+    "word": "慌てる",
+    "level": "N3",
+    "matched_expression": "慌てる"
+  },
+  {
+    "word": "召し上がる",
+    "level": "N4",
+    "matched_expression": "召し上がる"
+  },
+  {
+    "word": "おっしゃる",
+    "level": "N4",
+    "matched_expression": "おっしゃる"
+  },
+  {
+    "word": "なさる",
+    "level": "N4",
+    "matched_expression": "なさる"
+  },
+  {
+    "word": "目指す",
+    "level": "N2",
+    "matched_expression": "目指す"
+  },
+  {
+    "word": "申す",
+    "level": "N4",
+    "matched_expression": "申す"
+  },
+  {
+    "word": "いたす",
+    "level": "N4",
+    "matched_expression": "致す"
+  },
+  {
+    "word": "存じる",
+    "level": "N2",
+    "matched_expression": "存じる"
+  },
+  {
+    "word": "叶う",
+    "level": "N1",
+    "matched_expression": "叶う"
+  },
+  {
+    "word": "生かす",
+    "level": "N1",
+    "matched_expression": "生かす"
+  },
+  {
+    "word": "無駄",
+    "level": "N3",
+    "matched_expression": "無駄"
+  },
+  {
+    "word": "詳しい",
+    "level": "N3",
+    "matched_expression": "詳しい"
+  },
+  {
+    "word": "不思議",
+    "level": "N3",
+    "matched_expression": "不思議"
+  },
+  {
+    "word": "熱心",
+    "level": "N4",
+    "matched_expression": "熱心"
+  },
+  {
+    "word": "偉い",
+    "level": "N2",
+    "matched_expression": "偉い"
+  },
+  {
+    "word": "十分",
+    "level": "N4",
+    "matched_expression": "十分"
+  },
+  {
+    "word": "おかしい",
+    "level": "N4",
+    "matched_expression": "おかしい"
+  },
+  {
+    "word": "豪華",
+    "level": "N3",
+    "matched_expression": "豪華"
+  },
+  {
+    "word": "おとなしい",
+    "level": "N3",
+    "matched_expression": "大人しい"
+  },
+  {
+    "word": "邪魔",
+    "level": "N4",
+    "matched_expression": "邪魔"
+  },
+  {
+    "word": "真っ白",
+    "level": "N2",
+    "matched_expression": "真っ白"
+  },
+  {
+    "word": "丈夫",
+    "level": "N5",
+    "matched_expression": "丈夫"
+  },
+  {
+    "word": "うまい",
+    "level": "N4",
+    "matched_expression": "うまい"
+  },
+  {
+    "word": "いいえ",
+    "level": "N5",
+    "matched_expression": "いいえ"
+  },
+  {
+    "word": "これ",
+    "level": "N5",
+    "matched_expression": "これ"
+  },
+  {
+    "word": "それ",
+    "level": "N5",
+    "matched_expression": "それ"
+  },
+  {
+    "word": "あれ",
+    "level": "N5",
+    "matched_expression": "あれ"
+  },
+  {
+    "word": "この",
+    "level": "N5",
+    "matched_expression": "この"
+  },
+  {
+    "word": "その",
+    "level": "N5",
+    "matched_expression": "その"
+  },
+  {
+    "word": "あの",
+    "level": "N5",
+    "matched_expression": "あの"
+  },
+  {
+    "word": "そう",
+    "level": "N4",
+    "matched_expression": "そう"
+  },
+  {
+    "word": "どうぞ",
+    "level": "N5",
+    "matched_expression": "どうぞ"
+  },
+  {
+    "word": "あ",
+    "level": "N4",
+    "matched_expression": "あ"
+  },
+  {
+    "word": "ここ",
+    "level": "N5",
+    "matched_expression": "ここ"
+  },
+  {
+    "word": "そこ",
+    "level": "N5",
+    "matched_expression": "そこ"
+  },
+  {
+    "word": "あそこ",
+    "level": "N5",
+    "matched_expression": "あそこ"
+  },
+  {
+    "word": "こちら",
+    "level": "N5",
+    "matched_expression": "こちら"
+  },
+  {
+    "word": "あちら",
+    "level": "N5",
+    "matched_expression": "あちら"
+  },
+  {
+    "word": "ああ",
+    "level": "N5",
+    "matched_expression": "ああ"
+  },
+  {
+    "word": "かしこまりました",
+    "level": "N2",
+    "matched_expression": "かしこまりました"
+  },
+  {
+    "word": "行ってらっしゃい",
+    "level": "N2",
+    "matched_expression": "行ってらっしゃい"
+  },
+  {
+    "word": "行ってきます",
+    "level": "N2",
+    "matched_expression": "いってきます"
+  },
+  {
+    "word": "ただいま",
+    "level": "N2",
+    "matched_expression": "ただいま"
+  },
+  {
+    "word": "さあ",
+    "level": "N5",
+    "matched_expression": "さあ"
+  },
+  {
+    "word": "乾杯",
+    "level": "N2",
+    "matched_expression": "乾杯"
+  },
+  {
+    "word": "うん",
+    "level": "N4",
+    "matched_expression": "うん"
+  },
+  {
+    "word": "こっち",
+    "level": "N5",
+    "matched_expression": "こっち"
+  },
+  {
+    "word": "そっち",
+    "level": "N5",
+    "matched_expression": "そっち"
+  },
+  {
+    "word": "あっち",
+    "level": "N5",
+    "matched_expression": "あっち"
+  },
+  {
+    "word": "では",
+    "level": "N5",
+    "matched_expression": "では"
+  },
+  {
+    "word": "お元気で",
+    "level": "N2",
+    "matched_expression": "お元気で"
+  },
+  {
+    "word": "いけない",
+    "level": "N3",
+    "matched_expression": "いけない"
+  },
+  {
+    "word": "お待たせしました",
+    "level": "N2",
+    "matched_expression": "お待たせしました"
+  },
+  {
+    "word": "かまいません",
+    "level": "N2",
+    "matched_expression": "構いません"
+  },
+  {
+    "word": "ええ",
+    "level": "N5",
+    "matched_expression": "ええ"
+  },
+  {
+    "word": "スポーツ",
+    "level": "N5",
+    "matched_expression": "スポーツ"
+  },
+  {
+    "word": "ダンス",
+    "level": "N3",
+    "matched_expression": "ダンス"
+  },
+  {
+    "word": "アルバイト",
+    "level": "N4",
+    "matched_expression": "アルバイト"
+  },
+  {
+    "word": "生け花",
+    "level": "N2",
+    "matched_expression": "生け花"
+  },
+  {
+    "word": "柔道",
+    "level": "N4",
+    "matched_expression": "柔道"
+  },
+  {
+    "word": "ゲーム",
+    "level": "N3",
+    "matched_expression": "ゲーム"
+  },
+  {
+    "word": "ハイキング",
+    "level": "N3",
+    "matched_expression": "ハイキング"
+  },
+  {
+    "word": "ドライブ",
+    "level": "N3",
+    "matched_expression": "ドライブ"
+  },
+  {
+    "word": "キャンプ",
+    "level": "N3",
+    "matched_expression": "キャンプ"
+  },
+  {
+    "word": "習字",
+    "level": "N2",
+    "matched_expression": "習字"
+  },
+  {
+    "word": "クラシック",
+    "level": "N3",
+    "matched_expression": "クラシック"
+  },
+  {
+    "word": "ジャズ",
+    "level": "N1",
+    "matched_expression": "ジャズ"
+  },
+  {
+    "word": "ひらがな",
+    "level": "N5",
+    "matched_expression": "平仮名"
+  },
+  {
+    "word": "かたかな",
+    "level": "N2",
+    "matched_expression": "かたかな"
+  },
+  {
+    "word": "ローマ字",
+    "level": "N2",
+    "matched_expression": "ローマ字"
+  },
+  {
+    "word": "かな",
+    "level": "N2",
+    "matched_expression": "仮名"
+  },
+  {
+    "word": "男の人",
+    "level": "N3",
+    "matched_expression": "男の人"
+  },
+  {
+    "word": "女の人",
+    "level": "N2",
+    "matched_expression": "女の人"
+  },
+  {
+    "word": "恋人",
+    "level": "N3",
+    "matched_expression": "恋人"
+  },
+  {
+    "word": "相手",
+    "level": "N3",
+    "matched_expression": "相手"
+  },
+  {
+    "word": "仲間",
+    "level": "N3",
+    "matched_expression": "仲間"
+  },
+  {
+    "word": "女性",
+    "level": "N4",
+    "matched_expression": "女性"
+  },
+  {
+    "word": "男性",
+    "level": "N4",
+    "matched_expression": "男性"
+  },
+  {
+    "word": "船便",
+    "level": "N2",
+    "matched_expression": "船便"
+  },
+  {
+    "word": "紺",
+    "level": "N2",
+    "matched_expression": "紺"
+  },
+  {
+    "word": "一度",
+    "level": "N4",
+    "matched_expression": "一度"
+  },
+  {
+    "word": "でも",
+    "level": "N5",
+    "matched_expression": "でも"
+  },
+  {
+    "word": "ずいぶん",
+    "level": "N4",
+    "matched_expression": "随分"
+  },
+  {
+    "word": "直接",
+    "level": "N3",
+    "matched_expression": "直接"
+  },
+  {
+    "word": "それなら",
+    "level": "N2",
+    "matched_expression": "それなら"
+  },
+  {
+    "word": "この頃",
+    "level": "N4",
+    "matched_expression": "この頃"
+  },
+  {
+    "word": "かなり",
+    "level": "N3",
+    "matched_expression": "かなり"
+  },
+  {
+    "word": "必ず",
+    "level": "N4",
+    "matched_expression": "必ず"
+  },
+  {
+    "word": "いつか",
+    "level": "N3",
+    "matched_expression": "いつか"
+  },
+  {
+    "word": "それに",
+    "level": "N4",
+    "matched_expression": "それに"
+  },
+  {
+    "word": "それで",
+    "level": "N4",
+    "matched_expression": "それで"
+  },
+  {
+    "word": "すると",
+    "level": "N4",
+    "matched_expression": "すると"
+  },
+  {
+    "word": "今夜",
+    "level": "N4",
+    "matched_expression": "今夜"
+  },
+  {
+    "word": "こんなに",
+    "level": "N3",
+    "matched_expression": "こんなに"
+  },
+  {
+    "word": "そんなに",
+    "level": "N4",
+    "matched_expression": "そんなに"
+  },
+  {
+    "word": "あんなに",
+    "level": "N3",
+    "matched_expression": "あんなに"
+  },
+  {
+    "word": "昨夜",
+    "level": "N5",
+    "matched_expression": "昨夜"
+  },
+  {
+    "word": "しかし",
+    "level": "N5",
+    "matched_expression": "しかし"
+  },
+  {
+    "word": "きちんと",
+    "level": "N3",
+    "matched_expression": "きちんと"
+  },
+  {
+    "word": "この間",
+    "level": "N4",
+    "matched_expression": "この間"
+  },
+  {
+    "word": "今にも",
+    "level": "N3",
+    "matched_expression": "今にも"
+  },
+  {
+    "word": "それでも",
+    "level": "N3",
+    "matched_expression": "それでも"
+  },
+  {
+    "word": "字",
+    "level": "N4",
+    "matched_expression": "字"
+  },
+  {
+    "word": "コーナー",
+    "level": "N1",
+    "matched_expression": "コーナー"
+  },
+  {
+    "word": "ソフト",
+    "level": "N4",
+    "matched_expression": "ソフト"
+  },
+  {
+    "word": "独身",
+    "level": "N3",
+    "matched_expression": "独身"
+  },
+  {
+    "word": "君",
+    "level": "N4",
+    "matched_expression": "君"
+  },
+  {
+    "word": "嘘",
+    "level": "N4",
+    "matched_expression": "嘘"
+  },
+  {
+    "word": "放送",
+    "level": "N4",
+    "matched_expression": "放送"
+  },
+  {
+    "word": "ニュース",
+    "level": "N5",
+    "matched_expression": "ニュース"
+  },
+  {
+    "word": "デザイン",
+    "level": "N3",
+    "matched_expression": "デザイン"
+  },
+  {
+    "word": "ユーモア",
+    "level": "N3",
+    "matched_expression": "ユーモア"
+  },
+  {
+    "word": "都合",
+    "level": "N4",
+    "matched_expression": "都合"
+  },
+  {
+    "word": "サイズ",
+    "level": "N1",
+    "matched_expression": "サイズ"
+  },
+  {
+    "word": "故障",
+    "level": "N4",
+    "matched_expression": "故障"
+  },
+  {
+    "word": "角",
+    "level": "N5",
+    "matched_expression": "角"
+  },
+  {
+    "word": "チャンス",
+    "level": "N3",
+    "matched_expression": "チャンス"
+  },
+  {
+    "word": "転勤",
+    "level": "N1",
+    "matched_expression": "転勤"
+  },
+  {
+    "word": "こと",
+    "level": "N4",
+    "matched_expression": "琴"
+  },
+  {
+    "word": "平日",
+    "level": "N2",
+    "matched_expression": "平日"
+  },
+  {
+    "word": "こんな",
+    "level": "N5",
+    "matched_expression": "こんな"
+  },
+  {
+    "word": "そんな",
+    "level": "N4",
+    "matched_expression": "そんな"
+  },
+  {
+    "word": "あんな",
+    "level": "N4",
+    "matched_expression": "あんな"
+  },
+  {
+    "word": "ガス",
+    "level": "N4",
+    "matched_expression": "ガス"
+  },
+  {
+    "word": "許可",
+    "level": "N3",
+    "matched_expression": "許可"
+  },
+  {
+    "word": "振り仮名",
+    "level": "N2",
+    "matched_expression": "振り仮名"
+  },
+  {
+    "word": "設備",
+    "level": "N3",
+    "matched_expression": "設備"
+  },
+  {
+    "word": "ことわざ",
+    "level": "N3",
+    "matched_expression": "諺"
+  },
+  {
+    "word": "クリーニング",
+    "level": "N2",
+    "matched_expression": "クリーニング"
+  },
+  {
+    "word": "主人公",
+    "level": "N1",
+    "matched_expression": "主人公"
+  },
+  {
+    "word": "形",
+    "level": "N4",
+    "matched_expression": "形"
+  },
+  {
+    "word": "ポケット",
+    "level": "N5",
+    "matched_expression": "ポケット"
+  },
+  {
+    "word": "力",
+    "level": "N4",
+    "matched_expression": "力"
+  },
+  {
+    "word": "色",
+    "level": "N5",
+    "matched_expression": "色"
+  },
+  {
+    "word": "ボーナス",
+    "level": "N2",
+    "matched_expression": "ボーナス"
+  },
+  {
+    "word": "日にち",
+    "level": "N2",
+    "matched_expression": "日にち"
+  },
+  {
+    "word": "ガラス",
+    "level": "N4",
+    "matched_expression": "ガラス"
+  },
+  {
+    "word": "枝",
+    "level": "N4",
+    "matched_expression": "枝"
+  },
+  {
+    "word": "スピーチ",
+    "level": "N3",
+    "matched_expression": "スピーチ"
+  },
+  {
+    "word": "忘れ物",
+    "level": "N4",
+    "matched_expression": "忘れ物"
+  },
+  {
+    "word": "針",
+    "level": "N3",
+    "matched_expression": "針"
+  },
+  {
+    "word": "連休",
+    "level": "N1",
+    "matched_expression": "連休"
+  },
+  {
+    "word": "帰り",
+    "level": "N4",
+    "matched_expression": "帰り"
+  },
+  {
+    "word": "やけど",
+    "level": "N2",
+    "matched_expression": "火傷"
+  },
+  {
+    "word": "星",
+    "level": "N4",
+    "matched_expression": "星"
+  },
+  {
+    "word": "水道",
+    "level": "N4",
+    "matched_expression": "水道"
+  },
+  {
+    "word": "チーム",
+    "level": "N3",
+    "matched_expression": "チーム"
+  },
+  {
+    "word": "胃",
+    "level": "N3",
+    "matched_expression": "胃"
+  },
+  {
+    "word": "ストレス",
+    "level": "N3",
+    "matched_expression": "ストレス"
+  },
+  {
+    "word": "恋愛",
+    "level": "N1",
+    "matched_expression": "恋愛"
+  },
+  {
+    "word": "石",
+    "level": "N4",
+    "matched_expression": "石"
+  },
+  {
+    "word": "マーク",
+    "level": "N1",
+    "matched_expression": "マーク"
+  },
+  {
+    "word": "規則",
+    "level": "N4",
+    "matched_expression": "規則"
+  },
+  {
+    "word": "徐行",
+    "level": "N1",
+    "matched_expression": "徐行"
+  },
+  {
+    "word": "図",
+    "level": "N3",
+    "matched_expression": "図"
+  },
+  {
+    "word": "原料",
+    "level": "N2",
+    "matched_expression": "原料"
+  },
+  {
+    "word": "デート",
+    "level": "N3",
+    "matched_expression": "デート"
+  },
+  {
+    "word": "本物",
+    "level": "N3",
+    "matched_expression": "本物"
+  },
+  {
+    "word": "金",
+    "level": "N3",
+    "matched_expression": "金"
+  },
+  {
+    "word": "電源",
+    "level": "N1",
+    "matched_expression": "電源"
+  },
+  {
+    "word": "年齢",
+    "level": "N3",
+    "matched_expression": "年齢"
+  },
+  {
+    "word": "仕方",
+    "level": "N4",
+    "matched_expression": "仕方"
+  },
+  {
+    "word": "津波",
+    "level": "N1",
+    "matched_expression": "津波"
+  },
+  {
+    "word": "見合い",
+    "level": "N1",
+    "matched_expression": "見合い"
+  },
+  {
+    "word": "操作",
+    "level": "N3",
+    "matched_expression": "操作"
+  },
+  {
+    "word": "大勢",
+    "level": "N5",
+    "matched_expression": "大勢"
+  },
+  {
+    "word": "表",
+    "level": "N4",
+    "matched_expression": "表"
+  },
+  {
+    "word": "裏",
+    "level": "N4",
+    "matched_expression": "裏"
+  },
+  {
+    "word": "傷",
+    "level": "N3",
+    "matched_expression": "傷"
+  },
+  {
+    "word": "様子",
+    "level": "N3",
+    "matched_expression": "様子"
+  },
+  {
+    "word": "事件",
+    "level": "N3",
+    "matched_expression": "事件"
+  },
+  {
+    "word": "爆弾",
+    "level": "N1",
+    "matched_expression": "爆弾"
+  },
+  {
+    "word": "見舞い",
+    "level": "N3",
+    "matched_expression": "見舞い"
+  },
+  {
+    "word": "冷房",
+    "level": "N4",
+    "matched_expression": "冷房"
+  },
+  {
+    "word": "ひとこと",
+    "level": "N3",
+    "matched_expression": "一言"
+  },
+  {
+    "word": "陸",
+    "level": "N3",
+    "matched_expression": "陸"
+  },
+  {
+    "word": "煙",
+    "level": "N3",
+    "matched_expression": "煙"
+  },
+  {
+    "word": "中身",
+    "level": "N3",
+    "matched_expression": "中身"
+  },
+  {
+    "word": "法律",
+    "level": "N4",
+    "matched_expression": "法律"
+  },
+  {
+    "word": "戦争",
+    "level": "N4",
+    "matched_expression": "戦争"
+  },
+  {
+    "word": "ガソリン",
+    "level": "N4",
+    "matched_expression": "ガソリン"
+  },
+  {
+    "word": "涙",
+    "level": "N3",
+    "matched_expression": "涙"
+  },
+  {
+    "word": "カット",
+    "level": "N1",
+    "matched_expression": "カット"
+  },
+  {
+    "word": "順序",
+    "level": "N2",
+    "matched_expression": "順序"
+  },
+  {
+    "word": "中止",
+    "level": "N3",
+    "matched_expression": "中止"
+  },
+  {
+    "word": "スタート",
+    "level": "N2",
+    "matched_expression": "スタート"
+  },
+  {
+    "word": "回答",
+    "level": "N2",
+    "matched_expression": "回答"
+  },
+  {
+    "word": "出来事",
+    "level": "N3",
+    "matched_expression": "出来事"
+  },
+  {
+    "word": "実験",
+    "level": "N3",
+    "matched_expression": "実験"
+  },
+  {
+    "word": "データ",
+    "level": "N3",
+    "matched_expression": "データ"
+  },
+  {
+    "word": "人口",
+    "level": "N4",
+    "matched_expression": "人口"
+  },
+  {
+    "word": "科学",
+    "level": "N4",
+    "matched_expression": "科学"
+  },
+  {
+    "word": "医学",
+    "level": "N4",
+    "matched_expression": "医学"
+  },
+  {
+    "word": "賛成",
+    "level": "N3",
+    "matched_expression": "賛成"
+  },
+  {
+    "word": "営業",
+    "level": "N3",
+    "matched_expression": "営業"
+  },
+  {
+    "word": "経歴",
+    "level": "N1",
+    "matched_expression": "経歴"
+  },
+  {
+    "word": "スケジュール",
+    "level": "N3",
+    "matched_expression": "スケジュール"
+  },
+  {
+    "word": "賞金",
+    "level": "N2",
+    "matched_expression": "賞金"
+  },
+  {
+    "word": "易しい",
+    "level": "N5",
+    "matched_expression": "易しい"
+  },
+  {
+    "word": "橋",
+    "level": "N5",
+    "matched_expression": "橋"
+  },
+  {
+    "word": "億",
+    "level": "N4",
+    "matched_expression": "億"
+  },
+  {
+    "word": "機会",
+    "level": "N4",
+    "matched_expression": "機会"
+  },
+  {
+    "word": "方",
+    "level": "N5",
+    "matched_expression": "方"
+  },
+  {
+    "word": "線",
+    "level": "N4",
+    "matched_expression": "線"
+  },
+  {
+    "word": "火",
+    "level": "N4",
+    "matched_expression": "火"
+  },
+  {
+    "word": "習慣",
+    "level": "N4",
+    "matched_expression": "習慣"
+  },
+  {
+    "word": "変",
+    "level": "N4",
+    "matched_expression": "変"
+  },
+  {
+    "word": "厚い",
+    "level": "N5",
+    "matched_expression": "厚い"
+  },
+  {
+    "word": "量",
+    "level": "N3",
+    "matched_expression": "量"
+  },
+  {
+    "word": "はい",
+    "level": "N5",
+    "matched_expression": "はい"
+  },
+  {
+    "word": "十",
+    "level": "N5",
+    "matched_expression": "十"
+  },
+  {
+    "word": "クラス",
+    "level": "N5",
+    "matched_expression": "クラス"
+  },
+  {
+    "word": "スキー",
+    "level": "N3",
+    "matched_expression": "スキー"
+  },
+  {
+    "word": "付く",
+    "level": "N3",
+    "matched_expression": "付く"
+  },
+  {
+    "word": "煮る",
+    "level": "N3",
+    "matched_expression": "煮る"
+  },
+  {
+    "word": "合う",
+    "level": "N4",
+    "matched_expression": "合う"
+  },
+  {
+    "word": "鳴る",
+    "level": "N4",
+    "matched_expression": "鳴る"
+  },
+  {
+    "word": "無くなる",
+    "level": "N4",
+    "matched_expression": "無くなる"
+  },
+  {
+    "word": "おる",
+    "level": "N4",
+    "matched_expression": "おる"
+  }
+]

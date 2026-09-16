@@ -1,0 +1,14 @@
+{
+  "notes": 606,
+  "mp3": 2424,
+  "topics": 35,
+  "checks": [
+    "three aligned examples",
+    "study-word masks",
+    "unique words and media names",
+    "normalized word lists",
+    "audio text and SHA256",
+    "voice whitelist and 90% speed",
+    "full MP3 decoding"
+  ]
+}

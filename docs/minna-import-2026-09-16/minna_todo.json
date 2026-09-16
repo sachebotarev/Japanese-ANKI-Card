@@ -1,0 +1,7670 @@
+[
+  {
+    "index": 2,
+    "word": "いいえ",
+    "source": {
+      "id": 1508232893218,
+      "Expression": "いいえ",
+      "Meaning": "no",
+      "Reading": "いいえ",
+      "Lesson Number": "1"
+    },
+    "local": null
+  },
+  {
+    "index": 3,
+    "word": "失礼ですが",
+    "source": {
+      "id": 1508233163663,
+      "Expression": "失礼ですが",
+      "Meaning": "Excuse me, but (used when asking someone for personal information such as their name or address)",
+      "Reading": "失礼[しつれい]ですが",
+      "Lesson Number": "1"
+    },
+    "local": null
+  },
+  {
+    "index": 5,
+    "word": "これ",
+    "source": {
+      "id": 1508233786069,
+      "Expression": "これ",
+      "Meaning": "this (thing here)",
+      "Reading": "これ",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 6,
+    "word": "それ",
+    "source": {
+      "id": 1508233818778,
+      "Expression": "それ",
+      "Meaning": "that (thing near the listener)",
+      "Reading": "それ",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 7,
+    "word": "あれ",
+    "source": {
+      "id": 1508233833258,
+      "Expression": "あれ",
+      "Meaning": "that (thing over there)",
+      "Reading": "あれ",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 8,
+    "word": "この",
+    "source": {
+      "id": 1508233877955,
+      "Expression": "この　～",
+      "Meaning": "this ~, this ~ here",
+      "Reading": "この　~",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 9,
+    "word": "その",
+    "source": {
+      "id": 1508233902256,
+      "Expression": "その　～",
+      "Meaning": "that ~, that ~ near the listener",
+      "Reading": "その　~",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 10,
+    "word": "あの",
+    "source": {
+      "id": 1508233919410,
+      "Expression": "あの　～",
+      "Meaning": "that ~, that ~ over there",
+      "Reading": "あの　~",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 11,
+    "word": "CD",
+    "source": {
+      "id": 1508234623873,
+      "Expression": "CD",
+      "Meaning": "CD, compact disc",
+      "Reading": "CD",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 13,
+    "word": "そう",
+    "source": {
+      "id": 1508234936545,
+      "Expression": "そう",
+      "Meaning": "so",
+      "Reading": "そう",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 14,
+    "word": "えっ",
+    "source": {
+      "id": 1508234976281,
+      "Expression": "えっ",
+      "Meaning": "Oh? What! (used when hearing something unexpected)",
+      "Reading": "えっ",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 15,
+    "word": "どうぞ",
+    "source": {
+      "id": 1508235017233,
+      "Expression": "どうぞ。",
+      "Meaning": "Here you are. (used when offering someone something)",
+      "Reading": "どうぞ。",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 16,
+    "word": "ありがとうございます",
+    "source": {
+      "id": 1508235045586,
+      "Expression": "［どうも］　ありがとう　［ございます］。",
+      "Meaning": "Thank you [very much].",
+      "Reading": "［どうも］　ありがとう　［ございます］。",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 17,
+    "word": "あ",
+    "source": {
+      "id": 1508235164449,
+      "Expression": "あ",
+      "Meaning": "Oh! (used when becoming aware of something)",
+      "Reading": "あ",
+      "Lesson Number": "2"
+    },
+    "local": null
+  },
+  {
+    "index": 20,
+    "word": "ここ",
+    "source": {
+      "id": 1508235368769,
+      "Expression": "ここ",
+      "Meaning": "here, this place",
+      "Reading": "ここ",
+      "Lesson Number": "3"
+    },
+    "local": null
+  },
+  {
+    "index": 21,
+    "word": "そこ",
+    "source": {
+      "id": 1508235391529,
+      "Expression": "そこ",
+      "Meaning": "there, that place near the listener",
+      "Reading": "そこ",
+      "Lesson Number": "3"
+    },
+    "local": null
+  },
+  {
+    "index": 22,
+    "word": "あそこ",
+    "source": {
+      "id": 1508235410169,
+      "Expression": "あそこ",
+      "Meaning": "that place over there",
+      "Reading": "あそこ",
+      "Lesson Number": "3"
+    },
+    "local": null
+  },
+  {
+    "index": 23,
+    "word": "こちら",
+    "source": {
+      "id": 1508235438097,
+      "Expression": "こちら",
+      "Meaning": "this way, this place (polite equivalent of ここ）",
+      "Reading": "こちら",
+      "Lesson Number": "3"
+    },
+    "local": null
+  },
+  {
+    "index": 24,
+    "word": "あちら",
+    "source": {
+      "id": 1508235507314,
+      "Expression": "あちら",
+      "Meaning": "that way, that place over there (polite equivalent of あそこ）",
+      "Reading": "あちら",
+      "Lesson Number": "3"
+    },
+    "local": null
+  },
+  {
+    "index": 33,
+    "word": "何年",
+    "source": {
+      "id": 1508246238398,
+      "Expression": "何年",
+      "Meaning": "what year",
+      "Reading": "何[なん] 年[ねん]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 34,
+    "word": "何月",
+    "source": {
+      "id": 1508246298514,
+      "Expression": "何月",
+      "Meaning": "what month",
+      "Reading": "何[なん] 月[がつ]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 35,
+    "word": "一日",
+    "source": {
+      "id": 1508246322382,
+      "Expression": "ついたち　（1日）",
+      "Meaning": "first day of the month",
+      "Reading": "ついたち　（ 1 日）",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 36,
+    "word": "二日",
+    "source": {
+      "id": 1508246357614,
+      "Expression": "二日",
+      "Meaning": "The second, two days",
+      "Reading": "二[ふつ]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 37,
+    "word": "三日",
+    "source": {
+      "id": 1508246385422,
+      "Expression": "三日",
+      "Meaning": "third, three days",
+      "Reading": "三[みっ] 日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 38,
+    "word": "四日",
+    "source": {
+      "id": 1508246410478,
+      "Expression": "四日",
+      "Meaning": "fourth, four days",
+      "Reading": "四[よっ] 日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 39,
+    "word": "五日",
+    "source": {
+      "id": 1508246430254,
+      "Expression": "五日",
+      "Meaning": "fifth, five days",
+      "Reading": "五[いつ]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 40,
+    "word": "六日",
+    "source": {
+      "id": 1508246461278,
+      "Expression": "六日",
+      "Meaning": "six, six days",
+      "Reading": "六[むい]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 41,
+    "word": "七日",
+    "source": {
+      "id": 1508246483136,
+      "Expression": "七日",
+      "Meaning": "seventh, seven days",
+      "Reading": "七[なの]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 42,
+    "word": "八日",
+    "source": {
+      "id": 1508246507391,
+      "Expression": "八日",
+      "Meaning": "eigth, eight days",
+      "Reading": "八[よう] 日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 43,
+    "word": "九日",
+    "source": {
+      "id": 1508246539039,
+      "Expression": "九日",
+      "Meaning": "ninth, nine days",
+      "Reading": "九[ここの]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 44,
+    "word": "十日",
+    "source": {
+      "id": 1508246559550,
+      "Expression": "十日",
+      "Meaning": "tenth, ten days",
+      "Reading": "十[とう]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 45,
+    "word": "十四日",
+    "source": {
+      "id": 1508246579126,
+      "Expression": "十四日",
+      "Meaning": "fourteenth, fourteen days",
+      "Reading": "十[じゅう]四[よっ]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 46,
+    "word": "二十日",
+    "source": {
+      "id": 1508246607730,
+      "Expression": "廿日",
+      "Meaning": "twentieth, twenty days",
+      "Reading": "廿[はつ] 日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 47,
+    "word": "二十四日",
+    "source": {
+      "id": 1508246644446,
+      "Expression": "二十四日",
+      "Meaning": "twenty-fourth, twenty-four days",
+      "Reading": "二[に]十[じゅう]四[よっ]日[か]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 48,
+    "word": "何日",
+    "source": {
+      "id": 1508246712886,
+      "Expression": "何日",
+      "Meaning": "which day of the month, how many days",
+      "Reading": "何[なん] 日[にち]",
+      "Lesson Number": "5"
+    },
+    "local": null
+  },
+  {
+    "index": 51,
+    "word": "スプーン",
+    "source": {
+      "id": 1508249214548,
+      "Expression": "スプーン",
+      "Meaning": "spoon",
+      "Reading": "スプーン",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 52,
+    "word": "ナイフ",
+    "source": {
+      "id": 1508249232036,
+      "Expression": "ナイフ",
+      "Meaning": "knife",
+      "Reading": "ナイフ",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 53,
+    "word": "フォーク",
+    "source": {
+      "id": 1508249242228,
+      "Expression": "フォーク",
+      "Meaning": "fork",
+      "Reading": "フォーク",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 54,
+    "word": "パソコン",
+    "source": {
+      "id": 1508249280141,
+      "Expression": "パソコン",
+      "Meaning": "personal computer",
+      "Reading": "パソコン",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 55,
+    "word": "メール",
+    "source": {
+      "id": 1508249360885,
+      "Expression": "メール",
+      "Meaning": "e-mail",
+      "Reading": "メール",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 56,
+    "word": "パンチ",
+    "source": {
+      "id": 1508249423949,
+      "Expression": "パンチ",
+      "Meaning": "punch",
+      "Reading": "パンチ",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 57,
+    "word": "ホッチキス",
+    "source": {
+      "id": 1508249608839,
+      "Expression": "ホッチキス",
+      "Meaning": "stapler",
+      "Reading": "ホッチキス",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 58,
+    "word": "セロテープ",
+    "source": {
+      "id": 1508249645995,
+      "Expression": "セロテープ",
+      "Meaning": "Sellotape, Scotch tap, clear adhesive tap",
+      "Reading": "セロテープ",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 59,
+    "word": "シャツ",
+    "source": {
+      "id": 1508249777796,
+      "Expression": "シャツ",
+      "Meaning": "shirt",
+      "Reading": "シャツ",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 60,
+    "word": "プレゼント",
+    "source": {
+      "id": 1508249798420,
+      "Expression": "プレゼント",
+      "Meaning": "present, gift",
+      "Reading": "プレゼント",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 63,
+    "word": "お上がりください",
+    "source": {
+      "id": 1508250141860,
+      "Expression": "どうぞ　お上がり　ください",
+      "Meaning": "Do come in.",
+      "Reading": "どうぞ　お 上[あ]がり　ください",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 64,
+    "word": "いかがですか",
+    "source": {
+      "id": 1508250238757,
+      "Expression": "［～は］いかがですか。",
+      "Meaning": "Won't you have [~]?/Would you like to have [~]? (used when offering something)",
+      "Reading": "［~は］いかがですか。",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 65,
+    "word": "いただく",
+    "source": {
+      "id": 1508250290963,
+      "Expression": "いただきます",
+      "Meaning": "Thank you./I accept. (said before starting to eat or drink)",
+      "Reading": "いただきます",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 66,
+    "word": "ごちそうさまでした",
+    "source": {
+      "id": 1508250317836,
+      "Expression": "ごちそうさま［でした］。",
+      "Meaning": "That was delicious. (said after eating or drinking)",
+      "Reading": "ごちそうさま［でした］。",
+      "Lesson Number": "7"
+    },
+    "local": null
+  },
+  {
+    "index": 69,
+    "word": "にぎやか",
+    "source": {
+      "id": 1508300044084,
+      "Expression": "にぎやか［な］",
+      "Meaning": "lively",
+      "Reading": "にぎやか［な］",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 70,
+    "word": "親切",
+    "source": {
+      "id": 1508300103151,
+      "Expression": "親切［な］",
+      "Meaning": "helpful, kind, considerate (not used about one's own family members)",
+      "Reading": "親切[しんせつ]［な］",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 71,
+    "word": "暇",
+    "source": {
+      "id": 1508300210116,
+      "Expression": "暇［な］",
+      "Meaning": "free (time)",
+      "Reading": "暇[ひま]［な］",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 72,
+    "word": "素敵",
+    "source": {
+      "id": 1508300269662,
+      "Expression": "すてき［な］",
+      "Meaning": "fine, nice, wonderful",
+      "Reading": "すてき［な］",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 74,
+    "word": "レストラン",
+    "source": {
+      "id": 1508300941705,
+      "Expression": "レストラン",
+      "Meaning": "restaurant",
+      "Reading": "レストラン",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 76,
+    "word": "お元気ですか",
+    "source": {
+      "id": 1508301123908,
+      "Expression": "おげんきですか。",
+      "Meaning": "How are you?",
+      "Reading": "おげんきですか。",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 78,
+    "word": "結構です",
+    "source": {
+      "id": 1508301256105,
+      "Expression": "［いいえ、］けっこうです。",
+      "Meaning": "No, thank you.",
+      "Reading": "［いいえ、］けっこうです。",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 80,
+    "word": "そろそろ失礼します",
+    "source": {
+      "id": 1508301335820,
+      "Expression": "そろそろ　失礼します。",
+      "Meaning": "It's time I was going.",
+      "Reading": "そろそろ　 失礼[しつれい]します。",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 82,
+    "word": "またいらっしゃってください",
+    "source": {
+      "id": 1508301430268,
+      "Expression": "また　いらっしゃって　ください。",
+      "Meaning": "Please come again.",
+      "Reading": "また　いらっしゃって　ください。",
+      "Lesson Number": "8"
+    },
+    "local": null
+  },
+  {
+    "index": 87,
+    "word": "嫌い",
+    "source": {
+      "id": 1508303463713,
+      "Expression": "嫌い［な］",
+      "Meaning": "dislike",
+      "Reading": "嫌[きら]い［な］",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 88,
+    "word": "上手",
+    "source": {
+      "id": 1508303489625,
+      "Expression": "上手です［な］",
+      "Meaning": "good at",
+      "Reading": "上手[じょうず]です［な］",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 89,
+    "word": "下手",
+    "source": {
+      "id": 1508303530565,
+      "Expression": "下手［な］",
+      "Meaning": "poor at",
+      "Reading": "下手[へた]［な］",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 90,
+    "word": "スポーツ",
+    "source": {
+      "id": 1508303624087,
+      "Expression": "スポーツ",
+      "Meaning": "sport (～を　します：play sports)",
+      "Reading": "スポーツ",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 91,
+    "word": "ダンス",
+    "source": {
+      "id": 1508303713437,
+      "Expression": "ダンス",
+      "Meaning": "Dance (～を　します：to dance)",
+      "Reading": "ダンス",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 92,
+    "word": "クラシック",
+    "source": {
+      "id": 1508303854414,
+      "Expression": "クラシック",
+      "Meaning": "classical music",
+      "Reading": "クラシック",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 93,
+    "word": "ジャズ",
+    "source": {
+      "id": 1508303867038,
+      "Expression": "ジャズ",
+      "Meaning": "jazz",
+      "Reading": "ジャズ",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 94,
+    "word": "コンサート",
+    "source": {
+      "id": 1508303878686,
+      "Expression": "コンサート",
+      "Meaning": "concert",
+      "Reading": "コンサート",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 95,
+    "word": "カラオケ",
+    "source": {
+      "id": 1508303891380,
+      "Expression": "カラオケ",
+      "Meaning": "karaoke",
+      "Reading": "カラオケ",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 96,
+    "word": "歌舞伎",
+    "source": {
+      "id": 1508303903716,
+      "Expression": "歌舞伎",
+      "Meaning": "Kabuki (traditional Japanese musical drama)",
+      "Reading": "歌舞伎[かぶき]",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 97,
+    "word": "字",
+    "source": {
+      "id": 1508303966948,
+      "Expression": "字",
+      "Meaning": "letter, character",
+      "Reading": "字[じ]",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 98,
+    "word": "ひらがな",
+    "source": {
+      "id": 1508304019009,
+      "Expression": "ひらがな",
+      "Meaning": "hiragana script",
+      "Reading": "ひらがな",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 99,
+    "word": "かたかな",
+    "source": {
+      "id": 1508304032766,
+      "Expression": "かたかな",
+      "Meaning": "katakana script",
+      "Reading": "かたかな",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 100,
+    "word": "ローマ字",
+    "source": {
+      "id": 1508304045702,
+      "Expression": "ローマ字",
+      "Meaning": "the Roman alphabet",
+      "Reading": "ローマ字[ろーまじ]",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 101,
+    "word": "アルバイト",
+    "source": {
+      "id": 1508304214517,
+      "Expression": "アルバイト",
+      "Meaning": "side job (～を　します：to work part-time)",
+      "Reading": "アルバイト",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 103,
+    "word": "いいですよ",
+    "source": {
+      "id": 1508305063648,
+      "Expression": "いいですよ。",
+      "Meaning": "Sure./Certainly.",
+      "Reading": "いいですよ。",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 104,
+    "word": "残念",
+    "source": {
+      "id": 1508305085134,
+      "Expression": "ざんねんです［が］",
+      "Meaning": "I'm sorry [,but], unfortunately",
+      "Reading": "ざんねんです［が］",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 105,
+    "word": "ああ",
+    "source": {
+      "id": 1508305137614,
+      "Expression": "ああ",
+      "Meaning": "oh",
+      "Reading": "ああ",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 106,
+    "word": "一緒にいかがですか",
+    "source": {
+      "id": 1508305147990,
+      "Expression": "いっしょに　いかがですか。",
+      "Meaning": "Won't you join me (us)?",
+      "Reading": "いっしょに　いかがですか。",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 107,
+    "word": "駄目",
+    "source": {
+      "id": 1508305217814,
+      "Expression": "だめですか。",
+      "Meaning": "So you can't (come)?",
+      "Reading": "だめですか。",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 108,
+    "word": "また今度お願いします",
+    "source": {
+      "id": 1508305370063,
+      "Expression": "また　今度　お願いします。",
+      "Meaning": "Please ask me again some other time. (used when refusing an invitation indirectly, considering someone's feelings)",
+      "Reading": "また　 今度[こんど]　お 願[ねが]いします。",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 109,
+    "word": "男の人",
+    "source": {
+      "id": 1508308386410,
+      "Expression": "男の　人",
+      "Meaning": "man",
+      "Reading": "男[おとこ]の　 人[ひと]",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 110,
+    "word": "女の人",
+    "source": {
+      "id": 1508308421806,
+      "Expression": "女の 人",
+      "Meaning": "woman",
+      "Reading": "女[おんな]の 人[ひと]",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 111,
+    "word": "犬",
+    "source": {
+      "id": 1508308509816,
+      "Expression": "犬",
+      "Meaning": "dog",
+      "Reading": "犬[いぬ]",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 112,
+    "word": "猫",
+    "source": {
+      "id": 1508308528722,
+      "Expression": "猫",
+      "Meaning": "cat",
+      "Reading": "猫[ねこ]",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 113,
+    "word": "パンダ",
+    "source": {
+      "id": 1508308540963,
+      "Expression": "パンダ",
+      "Meaning": "panda",
+      "Reading": "パンダ",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 114,
+    "word": "スイッチ",
+    "source": {
+      "id": 1508308718556,
+      "Expression": "スイッチ",
+      "Meaning": "switch",
+      "Reading": "スイッチ",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 115,
+    "word": "テーブル",
+    "source": {
+      "id": 1508308781736,
+      "Expression": "テーブル",
+      "Meaning": "table",
+      "Reading": "テーブル",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 116,
+    "word": "ベッド",
+    "source": {
+      "id": 1508308794048,
+      "Expression": "ベッド",
+      "Meaning": "bed",
+      "Reading": "ベッド",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 117,
+    "word": "棚",
+    "source": {
+      "id": 1508308808460,
+      "Expression": "棚",
+      "Meaning": "shelf",
+      "Reading": "棚[たな]",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 118,
+    "word": "ドア",
+    "source": {
+      "id": 1508308827598,
+      "Expression": "ドア",
+      "Meaning": "door",
+      "Reading": "ドア",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 119,
+    "word": "ポスト",
+    "source": {
+      "id": 1508308870526,
+      "Expression": "ポスト",
+      "Meaning": "postbox, mailbox",
+      "Reading": "ポスト",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 120,
+    "word": "ビル",
+    "source": {
+      "id": 1508308887940,
+      "Expression": "ビル",
+      "Meaning": "building",
+      "Reading": "ビル&nbsp;",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 121,
+    "word": "ATM",
+    "source": {
+      "id": 1508308900042,
+      "Expression": "ATM",
+      "Meaning": "cash machine, ATM (Automatic Teller Machine)",
+      "Reading": "ATM",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 122,
+    "word": "コンビニ",
+    "source": {
+      "id": 1508308923110,
+      "Expression": "コンビニ",
+      "Meaning": "convenience store",
+      "Reading": "コンビニ",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 125,
+    "word": "ナンプラー",
+    "source": {
+      "id": 1508309378806,
+      "Expression": "ナンプラー",
+      "Meaning": "nam pla (fish sauce)",
+      "Reading": "ナンプラー",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 126,
+    "word": "コーナー",
+    "source": {
+      "id": 1508309426794,
+      "Expression": "コーナー",
+      "Meaning": "corner, section",
+      "Reading": "コーナー",
+      "Lesson Number": "10"
+    },
+    "local": null
+  },
+  {
+    "index": 129,
+    "word": "一つ",
+    "source": {
+      "id": 1508310997758,
+      "Expression": "一つ",
+      "Meaning": "one (used when counting things)",
+      "Reading": "一[ひと]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 130,
+    "word": "二つ",
+    "source": {
+      "id": 1508311031420,
+      "Expression": "二つ",
+      "Meaning": "two (things)",
+      "Reading": "二[ふた]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 131,
+    "word": "三つ",
+    "source": {
+      "id": 1508311059007,
+      "Expression": "三つ",
+      "Meaning": "three (things)",
+      "Reading": "三[みっ]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 132,
+    "word": "四つ",
+    "source": {
+      "id": 1508311080853,
+      "Expression": "四つ",
+      "Meaning": "four (things)",
+      "Reading": "四[よっ]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 133,
+    "word": "五つ",
+    "source": {
+      "id": 1508311104534,
+      "Expression": "五つ",
+      "Meaning": "five (things)",
+      "Reading": "五[いつ]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 134,
+    "word": "六つ",
+    "source": {
+      "id": 1508311125566,
+      "Expression": "六つ",
+      "Meaning": "six (things)",
+      "Reading": "六[むっ]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 135,
+    "word": "七つ",
+    "source": {
+      "id": 1508311143247,
+      "Expression": "七つ",
+      "Meaning": "seven (things)",
+      "Reading": "七[なな]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 136,
+    "word": "八つ",
+    "source": {
+      "id": 1508311157594,
+      "Expression": "八つ",
+      "Meaning": "eight things",
+      "Reading": "八[やっ]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 137,
+    "word": "九つ",
+    "source": {
+      "id": 1508311177113,
+      "Expression": "九つ",
+      "Meaning": "nine (things)",
+      "Reading": "九[ここの]つ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 138,
+    "word": "一人",
+    "source": {
+      "id": 1508311240649,
+      "Expression": "一人",
+      "Meaning": "one person",
+      "Reading": "一人[ひとり]",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 139,
+    "word": "二人",
+    "source": {
+      "id": 1508311262714,
+      "Expression": "二人",
+      "Meaning": "two people",
+      "Reading": "二人[ふたり]",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 140,
+    "word": "サンドイッチ",
+    "source": {
+      "id": 1508311460509,
+      "Expression": "サンドイッチ",
+      "Meaning": "sandwich",
+      "Reading": "サンドイッチ",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 141,
+    "word": "カレーライス",
+    "source": {
+      "id": 1508311475583,
+      "Expression": "かれー［ライス］",
+      "Meaning": "curry [with rice]",
+      "Reading": "かれー［ライス］",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 142,
+    "word": "アイスクリーム",
+    "source": {
+      "id": 1508311499003,
+      "Expression": "アイスクリーム",
+      "Meaning": "ice cream",
+      "Reading": "アイスクリーム",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 144,
+    "word": "全部で",
+    "source": {
+      "id": 1508312064687,
+      "Expression": "全部で",
+      "Meaning": "in total",
+      "Reading": "全部[ぜんぶ]で",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 145,
+    "word": "みんな",
+    "source": {
+      "id": 1508312086733,
+      "Expression": "みんな",
+      "Meaning": "all, everything, everyone",
+      "Reading": "みんな",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 146,
+    "word": "かしこまりました",
+    "source": {
+      "id": 1508312112661,
+      "Expression": "かしこまりました。",
+      "Meaning": "Certainly, (Sir/Madam).",
+      "Reading": "かしこまりました。",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 148,
+    "word": "お出かけですか",
+    "source": {
+      "id": 1508312216086,
+      "Expression": "お出かけですか。",
+      "Meaning": "Are you going out?",
+      "Reading": "お 出[で]かけですか。",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 150,
+    "word": "行ってらっしゃい",
+    "source": {
+      "id": 1508312282163,
+      "Expression": "行ってらっしゃい。",
+      "Meaning": "See you later./So long. (lit. Go and come back.)",
+      "Reading": "行[い]ってらっしゃい。",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 151,
+    "word": "行ってきます",
+    "source": {
+      "id": 1508312324863,
+      "Expression": "行って　きます。",
+      "Meaning": "See you later./So long. (lit. I'm going and coming back.)",
+      "Reading": "行[い]って　きます。",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 152,
+    "word": "船便",
+    "source": {
+      "id": 1508312369332,
+      "Expression": "船便",
+      "Meaning": "sea mail",
+      "Reading": "船便[ふなびん]",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 153,
+    "word": "航空便",
+    "source": {
+      "id": 1508312390993,
+      "Expression": "航空便　（エアマール）",
+      "Meaning": "airmail",
+      "Reading": "航空[こうくう] 便[びん]　（エアマール）",
+      "Lesson Number": "11"
+    },
+    "local": null
+  },
+  {
+    "index": 155,
+    "word": "ホテル",
+    "source": {
+      "id": 1508313215484,
+      "Expression": "ホテル",
+      "Meaning": "hotel",
+      "Reading": "ホテル",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 156,
+    "word": "パーティー",
+    "source": {
+      "id": 1508313295868,
+      "Expression": "パーティー",
+      "Meaning": "party (～を　します：to give a party)",
+      "Reading": "パーティー",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 157,
+    "word": "すき焼き",
+    "source": {
+      "id": 1508313364500,
+      "Expression": "すき焼き",
+      "Meaning": "sukiyaki (beef and vegetable hot pot)",
+      "Reading": "すき 焼[や]き",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 158,
+    "word": "刺身",
+    "source": {
+      "id": 1508313393056,
+      "Expression": "刺身",
+      "Meaning": "sashimi (sliced raw fish)",
+      "Reading": "刺身[さしみ]",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 159,
+    "word": "てんぷら",
+    "source": {
+      "id": 1508313467244,
+      "Expression": "てんぷら",
+      "Meaning": "tempura (seafood and vegetables deep fried in batter)",
+      "Reading": "てんぷら",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 160,
+    "word": "レモン",
+    "source": {
+      "id": 1508313576123,
+      "Expression": "レモン",
+      "Meaning": "lemon",
+      "Reading": "レモン",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 161,
+    "word": "生け花",
+    "source": {
+      "id": 1508313588869,
+      "Expression": "生け花",
+      "Meaning": "flower arrangement (～を　します：to practice flower arrangement)",
+      "Reading": "生け花[いけばな]",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 162,
+    "word": "ただいま",
+    "source": {
+      "id": 1508313738360,
+      "Expression": "ただいま。",
+      "Meaning": "I'm home.",
+      "Reading": "ただいま。",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 163,
+    "word": "お帰りなさい",
+    "source": {
+      "id": 1508313757110,
+      "Expression": "お帰りなさい。",
+      "Meaning": "Welcome home.",
+      "Reading": "お 帰[かえ]りなさい。",
+      "Lesson Number": "12"
+    },
+    "local": null
+  },
+  {
+    "index": 172,
+    "word": "大変",
+    "source": {
+      "id": 1508314178787,
+      "Expression": "大変［な］",
+      "Meaning": "hard, tough, severe, awful",
+      "Reading": "大変[たいへん]［な］",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 173,
+    "word": "プール",
+    "source": {
+      "id": 1508316222999,
+      "Expression": "プール",
+      "Meaning": "swimming pool",
+      "Reading": "プール",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 175,
+    "word": "そうしましょう",
+    "source": {
+      "id": 1508316546377,
+      "Expression": "そう　しましょう。",
+      "Meaning": "Let's do that. (used when agreeing with someone's suggestion)",
+      "Reading": "そう　しましょう。",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 176,
+    "word": "ご注文は",
+    "source": {
+      "id": 1508316572526,
+      "Expression": "ご　注　もんは？",
+      "Meaning": "May I take your order?",
+      "Reading": "ご　 注[ちゅう]　もんは？",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 177,
+    "word": "牛丼",
+    "source": {
+      "id": 1508316669306,
+      "Expression": "牛どん",
+      "Meaning": "bowl of rice topped with beef",
+      "Reading": "牛[ぎゅう]どん",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 178,
+    "word": "別々に",
+    "source": {
+      "id": 1508316778210,
+      "Expression": "別々に",
+      "Meaning": "separately",
+      "Reading": "別々[べつべつ]に",
+      "Lesson Number": "13"
+    },
+    "local": null
+  },
+  {
+    "index": 179,
+    "word": "コピーする",
+    "source": {
+      "id": 1508317436042,
+      "Expression": "コピーします",
+      "Meaning": "to copy",
+      "Reading": "コピーします",
+      "Lesson Number": "14"
+    },
+    "local": null
+  },
+  {
+    "index": 180,
+    "word": "エアコン",
+    "source": {
+      "id": 1508317473678,
+      "Expression": "エアコン",
+      "Meaning": "air conditioner",
+      "Reading": "エアコン",
+      "Lesson Number": "14"
+    },
+    "local": null
+  },
+  {
+    "index": 181,
+    "word": "パスポート",
+    "source": {
+      "id": 1508317486942,
+      "Expression": "パスポート",
+      "Meaning": "passport",
+      "Reading": "パスポート",
+      "Lesson Number": "14"
+    },
+    "local": null
+  },
+  {
+    "index": 182,
+    "word": "さあ",
+    "source": {
+      "id": 1508318383212,
+      "Expression": "さあ",
+      "Meaning": "right (used when encouraging some course of action)",
+      "Reading": "さあ",
+      "Lesson Number": "14"
+    },
+    "local": null
+  },
+  {
+    "index": 185,
+    "word": "これでお願いします",
+    "source": {
+      "id": 1508318488377,
+      "Expression": "これで　お願いします。",
+      "Meaning": "I'd like to pay with this.",
+      "Reading": "これで　お 願[ねが]いします。",
+      "Lesson Number": "14"
+    },
+    "local": null
+  },
+  {
+    "index": 186,
+    "word": "カタログ",
+    "source": {
+      "id": 1508335773942,
+      "Expression": "カタログ",
+      "Meaning": "catalogue",
+      "Reading": "カタログ",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 187,
+    "word": "時刻表",
+    "source": {
+      "id": 1508335788045,
+      "Expression": "時刻表",
+      "Meaning": "timetable",
+      "Reading": "時刻[じこく] 表[ひょう]",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 188,
+    "word": "製品",
+    "source": {
+      "id": 1508335876948,
+      "Expression": "製品",
+      "Meaning": "products",
+      "Reading": "製品[せいひん]",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 189,
+    "word": "ソフト",
+    "source": {
+      "id": 1508335896306,
+      "Expression": "ソフト",
+      "Meaning": "software",
+      "Reading": "ソフト",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 190,
+    "word": "独身",
+    "source": {
+      "id": 1508336053881,
+      "Expression": "独身",
+      "Meaning": "single, unmarried",
+      "Reading": "独身[どくしん]",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 191,
+    "word": "いらっしゃる",
+    "source": {
+      "id": 1508336157916,
+      "Expression": "いらっしゃいます",
+      "Meaning": "to be (honorific equivalent of います)",
+      "Reading": "いらっしゃいます",
+      "Lesson Number": "15"
+    },
+    "local": null
+  },
+  {
+    "index": 196,
+    "word": "大切",
+    "source": {
+      "id": 1510122892265,
+      "Expression": "大切［な］",
+      "Meaning": "important, precious",
+      "Reading": "大切[たいせつ]［な］",
+      "Lesson Number": "17"
+    },
+    "local": null
+  },
+  {
+    "index": 200,
+    "word": "どうしましたか",
+    "source": {
+      "id": 1510123322832,
+      "Expression": "どう　しましたか。",
+      "Meaning": "What's the matter?",
+      "Reading": "どう　しましたか。",
+      "Lesson Number": "17"
+    },
+    "local": null
+  },
+  {
+    "index": 202,
+    "word": "へえ",
+    "source": {
+      "id": 1510657021747,
+      "Expression": "へえ",
+      "Meaning": "What! Really! (used when expressing surprise)",
+      "Reading": "へえ",
+      "Lesson Number": "18"
+    },
+    "local": null
+  },
+  {
+    "index": 204,
+    "word": "本当ですか",
+    "source": {
+      "id": 1510657106555,
+      "Expression": "ほんとうですか。",
+      "Meaning": "Really?",
+      "Reading": "ほんとうですか。",
+      "Lesson Number": "18"
+    },
+    "local": null
+  },
+  {
+    "index": 208,
+    "word": "ゴルフ",
+    "source": {
+      "id": 1525156663178,
+      "Expression": "ゴルフ",
+      "Meaning": "golf (~を　します: to play golf)",
+      "Reading": "ゴルフ",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 209,
+    "word": "一度",
+    "source": {
+      "id": 1525156840892,
+      "Expression": "一度",
+      "Meaning": "once",
+      "Reading": "一度[いちど]",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 210,
+    "word": "でも",
+    "source": {
+      "id": 1525157229022,
+      "Expression": "でも",
+      "Meaning": "but",
+      "Reading": "でも",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 211,
+    "word": "乾杯",
+    "source": {
+      "id": 1525157263623,
+      "Expression": "かんぱい",
+      "Meaning": "Cheers!",
+      "Reading": "かんぱい",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 212,
+    "word": "ダイエット",
+    "source": {
+      "id": 1525157287308,
+      "Expression": "ダイエット",
+      "Meaning": "diet (～を　します: to go on a diet)",
+      "Reading": "ダイエット",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 213,
+    "word": "無理",
+    "source": {
+      "id": 1525157357315,
+      "Expression": "無理［な］",
+      "Meaning": "excessive, impossible",
+      "Reading": "無理[むり]［な］",
+      "Lesson Number": "19"
+    },
+    "local": null
+  },
+  {
+    "index": 216,
+    "word": "君",
+    "source": {
+      "id": 1525158348812,
+      "Expression": "君",
+      "Meaning": "you (an informal equivalent of あなた used to address people of equal or lower status)",
+      "Reading": "君[きみ]",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 218,
+    "word": "うん",
+    "source": {
+      "id": 1525158477142,
+      "Expression": "うん",
+      "Meaning": "yes (an informal equivalent of はい)",
+      "Reading": "うん",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 219,
+    "word": "ううん",
+    "source": {
+      "id": 1525158509821,
+      "Expression": "ううん",
+      "Meaning": "no (an informal equivalent of いいえ)",
+      "Reading": "ううん",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 220,
+    "word": "ビザ",
+    "source": {
+      "id": 1525158573665,
+      "Expression": "ビザ",
+      "Meaning": "visa",
+      "Reading": "ビザ",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 221,
+    "word": "こっち",
+    "source": {
+      "id": 1525158658690,
+      "Expression": "こっち",
+      "Meaning": "this way, this place (an informal equivalent of こちら)",
+      "Reading": "こっち",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 222,
+    "word": "そっち",
+    "source": {
+      "id": 1525158753939,
+      "Expression": "そっち",
+      "Meaning": "that way, that place near the listener (an informal equivalent of そちら)",
+      "Reading": "そっち",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 223,
+    "word": "あっち",
+    "source": {
+      "id": 1525158781161,
+      "Expression": "あっち",
+      "Meaning": "that way, that place over there (an informal equivalent of あちら)",
+      "Reading": "あっち",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 226,
+    "word": "お腹がいっぱい",
+    "source": {
+      "id": 1525158908251,
+      "Expression": "おなかが　いっぱいです",
+      "Meaning": "(I'm) full",
+      "Reading": "おなかが　いっぱいです",
+      "Lesson Number": "20"
+    },
+    "local": null
+  },
+  {
+    "index": 227,
+    "word": "負ける",
+    "source": {
+      "id": 1525159288947,
+      "Expression": "負けます",
+      "Meaning": "to lose, be beaten",
+      "Reading": "負[ま]けます",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 228,
+    "word": "無駄",
+    "source": {
+      "id": 1525159629064,
+      "Expression": "むだ［な］",
+      "Meaning": "wasteful",
+      "Reading": "むだ［な］",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 229,
+    "word": "本当",
+    "source": {
+      "id": 1525159738324,
+      "Expression": "ほんとう",
+      "Meaning": "true",
+      "Reading": "ほんとう",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 230,
+    "word": "嘘",
+    "source": {
+      "id": 1525159766903,
+      "Expression": "うそ",
+      "Meaning": "lie",
+      "Reading": "うそ",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 231,
+    "word": "自動車",
+    "source": {
+      "id": 1525159796908,
+      "Expression": "自動車",
+      "Meaning": "car, automobile",
+      "Reading": "自動車[じどうしゃ]",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 232,
+    "word": "放送",
+    "source": {
+      "id": 1525159911391,
+      "Expression": "放送",
+      "Meaning": "announcement, broadcast",
+      "Reading": "放送[ほうそう]",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 233,
+    "word": "ニュース",
+    "source": {
+      "id": 1525159946383,
+      "Expression": "ニュース",
+      "Meaning": "news",
+      "Reading": "ニュース",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 234,
+    "word": "アニメ",
+    "source": {
+      "id": 1525159968682,
+      "Expression": "アニメ",
+      "Meaning": "anime (Japanese animation)",
+      "Reading": "アニメ",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 235,
+    "word": "デザイン",
+    "source": {
+      "id": 1525160009656,
+      "Expression": "デザイン",
+      "Meaning": "design, artwork",
+      "Reading": "デザイン",
+      "Lesson Number": "21"
+    },
+    "local": null
+  },
+  {
+    "index": 239,
+    "word": "私たち",
+    "source": {
+      "id": 1525161452548,
+      "Expression": "わたしたち",
+      "Meaning": "we",
+      "Reading": "わたしたち",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 240,
+    "word": "コート",
+    "source": {
+      "id": 1525161482643,
+      "Expression": "コート",
+      "Meaning": "coat",
+      "Reading": "コート",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 241,
+    "word": "セーター",
+    "source": {
+      "id": 1525161498949,
+      "Expression": "セーター",
+      "Meaning": "sweater",
+      "Reading": "セーター",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 242,
+    "word": "スーツ",
+    "source": {
+      "id": 1525161519613,
+      "Expression": "スーツ",
+      "Meaning": "suit",
+      "Reading": "スーツ",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 243,
+    "word": "ケーキ",
+    "source": {
+      "id": 1525161570417,
+      "Expression": "ケーキ",
+      "Meaning": "cake",
+      "Reading": "ケーキ",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 244,
+    "word": "ロボット",
+    "source": {
+      "id": 1525161620343,
+      "Expression": "ロボット",
+      "Meaning": "robot",
+      "Reading": "ロボット",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 245,
+    "word": "ユーモア",
+    "source": {
+      "id": 1525161635042,
+      "Expression": "ユーモア",
+      "Meaning": "humor",
+      "Reading": "ユーモア",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 246,
+    "word": "都合",
+    "source": {
+      "id": 1525161651154,
+      "Expression": "都合",
+      "Meaning": "convenience",
+      "Reading": "都合[つごう]",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 247,
+    "word": "えーと",
+    "source": {
+      "id": 1525161702766,
+      "Expression": "えーと",
+      "Meaning": "well, let me see",
+      "Reading": "えーと",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 248,
+    "word": "おめでとうございます",
+    "source": {
+      "id": 1525161729290,
+      "Expression": "おめでとう　［ございます］。",
+      "Meaning": "Congratulations. (used on birthdays, at weddings, etc.)",
+      "Reading": "おめでとう　［ございます］。",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 250,
+    "word": "では",
+    "source": {
+      "id": 1525161816331,
+      "Expression": "でわ",
+      "Meaning": "well then,",
+      "Reading": "でわ",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 251,
+    "word": "ダイニングキッチン",
+    "source": {
+      "id": 1525161882201,
+      "Expression": "ダイニングキッチン",
+      "Meaning": "kitching with a dining area",
+      "Reading": "ダイニングキッチン",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 252,
+    "word": "和室",
+    "source": {
+      "id": 1525161932380,
+      "Expression": "和室",
+      "Meaning": "Japanese-style room",
+      "Reading": "和室[わしつ]",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 253,
+    "word": "押し入れ",
+    "source": {
+      "id": 1525161959026,
+      "Expression": "押入れ",
+      "Meaning": "Japanese-style closet",
+      "Reading": "押入[おしい]れ",
+      "Lesson Number": "22"
+    },
+    "local": null
+  },
+  {
+    "index": 255,
+    "word": "触る",
+    "source": {
+      "id": 1525162392517,
+      "Expression": "（障ります）［ドアに～］",
+      "Meaning": "to touch [a door]",
+      "Reading": "（ 障[さわ]ります）［ドアに~］",
+      "Lesson Number": "23"
+    },
+    "local": null
+  },
+  {
+    "index": 256,
+    "word": "サイズ",
+    "source": {
+      "id": 1525162803009,
+      "Expression": "サイズ",
+      "Meaning": "size",
+      "Reading": "サイズ",
+      "Lesson Number": "23"
+    },
+    "local": null
+  },
+  {
+    "index": 257,
+    "word": "故障",
+    "source": {
+      "id": 1525162814530,
+      "Expression": "故障",
+      "Meaning": "breakdown (～します: to break down)",
+      "Reading": "故障[こしょう]",
+      "Lesson Number": "23"
+    },
+    "local": null
+  },
+  {
+    "index": 258,
+    "word": "角",
+    "source": {
+      "id": 1525162935594,
+      "Expression": "角",
+      "Meaning": "corner",
+      "Reading": "角[かど]",
+      "Lesson Number": "23"
+    },
+    "local": null
+  },
+  {
+    "index": 261,
+    "word": "ホームステイ",
+    "source": {
+      "id": 1525163682419,
+      "Expression": "ホームステイ",
+      "Meaning": "homestay",
+      "Reading": "ホームステイ",
+      "Lesson Number": "24"
+    },
+    "local": null
+  },
+  {
+    "index": 262,
+    "word": "チャンス",
+    "source": {
+      "id": 1525164067834,
+      "Expression": "チャンス",
+      "Meaning": "chance",
+      "Reading": "チャンス",
+      "Lesson Number": "25"
+    },
+    "local": null
+  },
+  {
+    "index": 264,
+    "word": "転勤",
+    "source": {
+      "id": 1525164192221,
+      "Expression": "転勤",
+      "Meaning": "transfer (～します: to be transferred to another office)",
+      "Reading": "転勤[てんきん]",
+      "Lesson Number": "25"
+    },
+    "local": null
+  },
+  {
+    "index": 265,
+    "word": "こと",
+    "source": {
+      "id": 1525164245496,
+      "Expression": "こと",
+      "Meaning": "thing, matter (～の　こと: to thing about ~)",
+      "Reading": "こと",
+      "Lesson Number": "25"
+    },
+    "local": null
+  },
+  {
+    "index": 268,
+    "word": "お元気で",
+    "source": {
+      "id": 1525164414970,
+      "Expression": "どうぞ　お元気で。",
+      "Meaning": "Please take care of yourself. (said when expecting a long separation)",
+      "Reading": "どうぞ　お 元気[げんき]で。",
+      "Lesson Number": "25"
+    },
+    "local": null
+  },
+  {
+    "index": 270,
+    "word": "気分がいい",
+    "source": {
+      "id": 1548145752138,
+      "Expression": "気分が　いい",
+      "Meaning": "feel well",
+      "Reading": "気分[きぶん]が　いい",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 271,
+    "word": "気分が悪い",
+    "source": {
+      "id": 1548145815908,
+      "Expression": "気分が　惡い",
+      "Meaning": "to feel ill",
+      "Reading": "気分[きぶん]が　惡い",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 272,
+    "word": "運動会",
+    "source": {
+      "id": 1548145898671,
+      "Expression": "運動会",
+      "Meaning": "athletic meeting, sports day",
+      "Reading": "運動会[うんどうかい]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 273,
+    "word": "盆踊り",
+    "source": {
+      "id": 1548145957877,
+      "Expression": "盆踊り",
+      "Meaning": "Bon Festival dance",
+      "Reading": "盆踊[ぼんおど]り",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 274,
+    "word": "フリーマーケット",
+    "source": {
+      "id": 1548146006022,
+      "Expression": "フリーマーケット",
+      "Meaning": "flea market",
+      "Reading": "フリーマーケット",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 275,
+    "word": "ボランティア",
+    "source": {
+      "id": 1548146059421,
+      "Expression": "ボランティア",
+      "Meaning": "volunteer",
+      "Reading": "ボランティア",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 277,
+    "word": "平日",
+    "source": {
+      "id": 1548146259422,
+      "Expression": "平日",
+      "Meaning": "weekday",
+      "Reading": "平日[へいじつ]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 279,
+    "word": "ずいぶん",
+    "source": {
+      "id": 1548146502189,
+      "Expression": "ずいぶん",
+      "Meaning": "very, pretty",
+      "Reading": "ずいぶん",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 280,
+    "word": "直接",
+    "source": {
+      "id": 1548146535551,
+      "Expression": "直接",
+      "Meaning": "directly",
+      "Reading": "直接[ちょくせつ]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 281,
+    "word": "こんな",
+    "source": {
+      "id": 1548146664778,
+      "Expression": "こんな〜",
+      "Meaning": "~ like this",
+      "Reading": "こんな〜",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 282,
+    "word": "そんな",
+    "source": {
+      "id": 1548146703374,
+      "Expression": "そんな〜",
+      "Meaning": "~ like that (near the listener)",
+      "Reading": "そんな〜",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 283,
+    "word": "あんな",
+    "source": {
+      "id": 1548146730016,
+      "Expression": "あんな　〜",
+      "Meaning": "~ like that (far from both the speaker and the listener)",
+      "Reading": "あんな　〜",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 284,
+    "word": "片付く",
+    "source": {
+      "id": 1548146762667,
+      "Expression": "片づきます［荷物が〜］",
+      "Meaning": "[boxes] to be put in order, to tidy up",
+      "Reading": "片[かた]づきます［ 荷物[にもつ]が〜］",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 285,
+    "word": "燃えるごみ",
+    "source": {
+      "id": 1549518075090,
+      "Expression": "燃える　ごみ",
+      "Meaning": "burnable rubbish",
+      "Reading": "燃[も]える　ごみ",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 286,
+    "word": "置き場",
+    "source": {
+      "id": 1549518115490,
+      "Expression": "置き場",
+      "Meaning": "place where something is put",
+      "Reading": "置き場[おきば]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 287,
+    "word": "瓶",
+    "source": {
+      "id": 1549518461883,
+      "Expression": "瓶",
+      "Meaning": "bottle",
+      "Reading": "瓶[びん]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 288,
+    "word": "缶",
+    "source": {
+      "id": 1549518509981,
+      "Expression": "缶",
+      "Meaning": "can",
+      "Reading": "缶[かん]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 289,
+    "word": "ガス",
+    "source": {
+      "id": 1549518539849,
+      "Expression": "ガス",
+      "Meaning": "gas",
+      "Reading": "ガス",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 291,
+    "word": "宇宙船",
+    "source": {
+      "id": 1549518666530,
+      "Expression": "宇宙船",
+      "Meaning": "spaceship",
+      "Reading": "宇宙船[うちゅうせん]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 292,
+    "word": "宇宙ステーション",
+    "source": {
+      "id": 1549518745090,
+      "Expression": "宇宙ステーション",
+      "Meaning": "space station",
+      "Reading": "宇宙[うちゅう]ステーション",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 293,
+    "word": "宇宙飛行士",
+    "source": {
+      "id": 1549518882036,
+      "Expression": "宇宙飛行士",
+      "Meaning": "astronaut",
+      "Reading": "宇宙[うちゅう] 飛行[ひこう] 士[し]",
+      "Lesson Number": "26"
+    },
+    "local": null
+  },
+  {
+    "index": 295,
+    "word": "入力する",
+    "source": {
+      "id": 1549519566100,
+      "Expression": "入力します",
+      "Meaning": "to input",
+      "Reading": "入力[にゅうりょく]します",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 296,
+    "word": "港",
+    "source": {
+      "id": 1549519786982,
+      "Expression": "港",
+      "Meaning": "port, harbor",
+      "Reading": "港[みなと]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 297,
+    "word": "山登り",
+    "source": {
+      "id": 1549520023229,
+      "Expression": "山登り",
+      "Meaning": "mountain climbing",
+      "Reading": "山登[やまのぼ]り",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 298,
+    "word": "許可",
+    "source": {
+      "id": 1549520115071,
+      "Expression": "許可",
+      "Meaning": "permission",
+      "Reading": "許可[きょか]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 299,
+    "word": "振り仮名",
+    "source": {
+      "id": 1549520209912,
+      "Expression": "ふりがな",
+      "Meaning": "kana above or beside kanji indicating its pronunciation",
+      "Reading": "ふりがな",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 300,
+    "word": "設備",
+    "source": {
+      "id": 1549520241739,
+      "Expression": "設備",
+      "Meaning": "equipment, facilities",
+      "Reading": "設備[せつび]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 301,
+    "word": "レバー",
+    "source": {
+      "id": 1549520266308,
+      "Expression": "レバー",
+      "Meaning": "lever",
+      "Reading": "レバー",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 302,
+    "word": "カーテン",
+    "source": {
+      "id": 1549520288737,
+      "Expression": "カーテン",
+      "Meaning": "curtain",
+      "Reading": "カーテン",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 303,
+    "word": "紐",
+    "source": {
+      "id": 1549520300155,
+      "Expression": "ひも",
+      "Meaning": "string",
+      "Reading": "ひも",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 305,
+    "word": "それなら",
+    "source": {
+      "id": 1549520432273,
+      "Expression": "それなら",
+      "Meaning": "in that case",
+      "Reading": "それなら",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 306,
+    "word": "夜行バス",
+    "source": {
+      "id": 1549520461170,
+      "Expression": "夜行バス",
+      "Meaning": "overnight bus",
+      "Reading": "夜行[やこう]バス",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 307,
+    "word": "旅行社",
+    "source": {
+      "id": 1549520491704,
+      "Expression": "旅行社",
+      "Meaning": "travel agency",
+      "Reading": "旅行[りょこう] 社[しゃ]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 308,
+    "word": "詳しい",
+    "source": {
+      "id": 1549520612316,
+      "Expression": "詳しい",
+      "Meaning": "detailed",
+      "Reading": "詳[くわ]しい",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 309,
+    "word": "スキー場",
+    "source": {
+      "id": 1549520642087,
+      "Expression": "スキー場",
+      "Meaning": "ski resort, ski area",
+      "Reading": "スキー 場[じょう]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 310,
+    "word": "朱",
+    "source": {
+      "id": 1549520702722,
+      "Expression": "朱",
+      "Meaning": "vermilion",
+      "Reading": "朱[しゅ]",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 311,
+    "word": "交わる",
+    "source": {
+      "id": 1549520782292,
+      "Expression": "交わります",
+      "Meaning": "to keep company with",
+      "Reading": "交[まじ]わります",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 312,
+    "word": "必要",
+    "source": {
+      "id": 1549520904164,
+      "Expression": "必要［な］",
+      "Meaning": "necessary, essential",
+      "Reading": "必要[ひつよう]［な］",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 313,
+    "word": "ことわざ",
+    "source": {
+      "id": 1549520970356,
+      "Expression": "ことわぎ",
+      "Meaning": "a proverb",
+      "Reading": "ことわぎ",
+      "Lesson Number": "35"
+    },
+    "local": null
+  },
+  {
+    "index": 314,
+    "word": "貯金する",
+    "source": {
+      "id": 1549946946871,
+      "Expression": "貯金します",
+      "Meaning": "to save money",
+      "Reading": "貯金[ちょきん]します",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 315,
+    "word": "腐る",
+    "source": {
+      "id": 1549947146867,
+      "Expression": "腐ります［食べ物が〜］",
+      "Meaning": "to [food] rot",
+      "Reading": "腐[くさ]ります［ 食べ物[たべもの]が〜］",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 316,
+    "word": "剣道",
+    "source": {
+      "id": 1549947227322,
+      "Expression": "剣道",
+      "Meaning": "kendo (Japanese style fencing)",
+      "Reading": "剣道[けんどう]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 317,
+    "word": "柔道",
+    "source": {
+      "id": 1549947261309,
+      "Expression": "柔道",
+      "Meaning": "judo",
+      "Reading": "柔道[じゅうどう]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 318,
+    "word": "ラッシュ",
+    "source": {
+      "id": 1549947290532,
+      "Expression": "ラッシュ",
+      "Meaning": "rush hour",
+      "Reading": "ラッシュ",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 319,
+    "word": "毎週",
+    "source": {
+      "id": 1549947528272,
+      "Expression": "毎週",
+      "Meaning": "every week",
+      "Reading": "毎週[まいしゅう]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 320,
+    "word": "毎月",
+    "source": {
+      "id": 1549947550978,
+      "Expression": "毎月",
+      "Meaning": "every month",
+      "Reading": "毎月[まいつき]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 321,
+    "word": "毎年",
+    "source": {
+      "id": 1549947579760,
+      "Expression": "毎年",
+      "Meaning": "every year",
+      "Reading": "毎年[まいとし]［まいねん］",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 322,
+    "word": "この頃",
+    "source": {
+      "id": 1549947624011,
+      "Expression": "このごろ",
+      "Meaning": "these days",
+      "Reading": "このごろ",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 323,
+    "word": "かなり",
+    "source": {
+      "id": 1549947658335,
+      "Expression": "かなり",
+      "Meaning": "fairly",
+      "Reading": "かなり",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 324,
+    "word": "必ず",
+    "source": {
+      "id": 1549947667671,
+      "Expression": "必ず",
+      "Meaning": "without fail, by any means",
+      "Reading": "必[かなら]ず",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 325,
+    "word": "絶対に",
+    "source": {
+      "id": 1549947699094,
+      "Expression": "絶対に",
+      "Meaning": "absolutely",
+      "Reading": "絶対[ぜったい]に",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 329,
+    "word": "チャレンジする",
+    "source": {
+      "id": 1549948377500,
+      "Expression": "チャレンジします",
+      "Meaning": "to challenge",
+      "Reading": "チャレンジします",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 330,
+    "word": "乗り物",
+    "source": {
+      "id": 1549948425908,
+      "Expression": "乗り物",
+      "Meaning": "vehicle, means of transportation",
+      "Reading": "乗り物[のりもの]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 332,
+    "word": "遠く",
+    "source": {
+      "id": 1549948567262,
+      "Expression": "遠く",
+      "Meaning": "far, remote place",
+      "Reading": "遠[とお]く",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 333,
+    "word": "汽車",
+    "source": {
+      "id": 1549948642941,
+      "Expression": "汽車",
+      "Meaning": "locomotive",
+      "Reading": "汽車[きしゃ]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 334,
+    "word": "汽船",
+    "source": {
+      "id": 1549948697692,
+      "Expression": "汽船",
+      "Meaning": "steam boat",
+      "Reading": "汽船[きせん]",
+      "Lesson Number": "36"
+    },
+    "local": null
+  },
+  {
+    "index": 336,
+    "word": "ペット",
+    "source": {
+      "id": 1549952016686,
+      "Expression": "ペット",
+      "Meaning": "pet",
+      "Reading": "ペット",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 337,
+    "word": "クリーニング",
+    "source": {
+      "id": 1549952348014,
+      "Expression": "クリーニング",
+      "Meaning": "(dry) cleaning, laundry",
+      "Reading": "クリーニング",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 338,
+    "word": "マンション",
+    "source": {
+      "id": 1549952393257,
+      "Expression": "マンション",
+      "Meaning": "condominium, apartment house, blocks of flats",
+      "Reading": "マンション",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 339,
+    "word": "キッチン",
+    "source": {
+      "id": 1549952425274,
+      "Expression": "キッチン",
+      "Meaning": "kitchen",
+      "Reading": "キッチン",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 340,
+    "word": "パーティールーム",
+    "source": {
+      "id": 1549952475139,
+      "Expression": "パーティールーム",
+      "Meaning": "party room",
+      "Reading": "パーティールーム",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 344,
+    "word": "本棚",
+    "source": {
+      "id": 1549952651504,
+      "Expression": "本棚",
+      "Meaning": "bookcase",
+      "Reading": "本棚[ほんだな]",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 345,
+    "word": "いつか",
+    "source": {
+      "id": 1549952673212,
+      "Expression": "いつか",
+      "Meaning": "one day, some day",
+      "Reading": "いつか",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 347,
+    "word": "主人公",
+    "source": {
+      "id": 1549952798427,
+      "Expression": "主人公",
+      "Meaning": "hero, heroine",
+      "Reading": "主人公[しゅじんこう]",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 348,
+    "word": "形",
+    "source": {
+      "id": 1549952843490,
+      "Expression": "形",
+      "Meaning": "shape",
+      "Reading": "形[かたち]",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 349,
+    "word": "不思議",
+    "source": {
+      "id": 1549952860880,
+      "Expression": "不思議［な］",
+      "Meaning": "fantastic, mysterious",
+      "Reading": "不思議[ふしぎ]［な］",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 350,
+    "word": "ポケット",
+    "source": {
+      "id": 1549952897299,
+      "Expression": "ポケット",
+      "Meaning": "pocket",
+      "Reading": "ポケット",
+      "Lesson Number": "27"
+    },
+    "local": null
+  },
+  {
+    "index": 351,
+    "word": "噛む",
+    "source": {
+      "id": 1549953575293,
+      "Expression": "かみます",
+      "Meaning": "to chew, bite",
+      "Reading": "かみます",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 352,
+    "word": "メモする",
+    "source": {
+      "id": 1549953799809,
+      "Expression": "メモします",
+      "Meaning": "to take a memo",
+      "Reading": "メモします",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 353,
+    "word": "熱心",
+    "source": {
+      "id": 1549954746971,
+      "Expression": "熱心［な］",
+      "Meaning": "earnest",
+      "Reading": "熱心[ねっしん]［な］",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 354,
+    "word": "偉い",
+    "source": {
+      "id": 1549954778439,
+      "Expression": "偉い",
+      "Meaning": "great, admirable",
+      "Reading": "偉[えら]い",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 355,
+    "word": "台所",
+    "source": {
+      "id": 1549954886813,
+      "Expression": "台所",
+      "Meaning": "kitchen",
+      "Reading": "台所[だいどころ]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 356,
+    "word": "力",
+    "source": {
+      "id": 1549955150657,
+      "Expression": "力",
+      "Meaning": "power",
+      "Reading": "力[ちから]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 357,
+    "word": "人気",
+    "source": {
+      "id": 1549955179477,
+      "Expression": "人気",
+      "Meaning": "popularity (［がくせいに］〜が　あります：to be popular [with students])",
+      "Reading": "人気[にんき]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 359,
+    "word": "色",
+    "source": {
+      "id": 1549955319818,
+      "Expression": "色",
+      "Meaning": "color",
+      "Reading": "色[いろ]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 360,
+    "word": "ガム",
+    "source": {
+      "id": 1549955575195,
+      "Expression": "ガム",
+      "Meaning": "chewing gum",
+      "Reading": "ガム",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 361,
+    "word": "品物",
+    "source": {
+      "id": 1549955631743,
+      "Expression": "品物",
+      "Meaning": "goods",
+      "Reading": "品物[しなもの]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 362,
+    "word": "ボーナス",
+    "source": {
+      "id": 1549955711634,
+      "Expression": "ボーナス",
+      "Meaning": "bonus",
+      "Reading": "ボーナス",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 363,
+    "word": "ゲーム",
+    "source": {
+      "id": 1549955724460,
+      "Expression": "ゲーム",
+      "Meaning": "(computer) game",
+      "Reading": "ゲーム",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 364,
+    "word": "ドラマ",
+    "source": {
+      "id": 1549955767469,
+      "Expression": "ドラマ",
+      "Meaning": "drama",
+      "Reading": "ドラマ",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 365,
+    "word": "小説",
+    "source": {
+      "id": 1549955806760,
+      "Expression": "小説",
+      "Meaning": "novel",
+      "Reading": "小説[しょうせつ]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 366,
+    "word": "小説家",
+    "source": {
+      "id": 1549955828941,
+      "Expression": "小説家",
+      "Meaning": "novelist",
+      "Reading": "小説[しょうせつ] 家[か]",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 367,
+    "word": "それに",
+    "source": {
+      "id": 1549956165416,
+      "Expression": "それに",
+      "Meaning": "in addition",
+      "Reading": "それに",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 368,
+    "word": "それで",
+    "source": {
+      "id": 1549956177483,
+      "Expression": "それで",
+      "Meaning": "and so",
+      "Reading": "それで",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 369,
+    "word": "お願いがあるんですが",
+    "source": {
+      "id": 1549956189221,
+      "Expression": "［ちょっと］お願いが　あるんですが。",
+      "Meaning": "I have a [small] favor to ask.",
+      "Reading": "［ちょっと］お 願[ねが]いが　あるんですが。",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 370,
+    "word": "うーん",
+    "source": {
+      "id": 1549956336362,
+      "Expression": "うーん",
+      "Meaning": "well, let me see, hmm...",
+      "Reading": "うーん",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 371,
+    "word": "お知らせ",
+    "source": {
+      "id": 1549956349178,
+      "Expression": "お知らせ",
+      "Meaning": "notice",
+      "Reading": "お 知[し]らせ",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 372,
+    "word": "日にち",
+    "source": {
+      "id": 1549956400631,
+      "Expression": "日にち",
+      "Meaning": "date",
+      "Reading": "日[ひ]にち",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 374,
+    "word": "イベント",
+    "source": {
+      "id": 1549956531539,
+      "Expression": "イベント",
+      "Meaning": "event",
+      "Reading": "イベント",
+      "Lesson Number": "28"
+    },
+    "local": null
+  },
+  {
+    "index": 375,
+    "word": "破れる",
+    "source": {
+      "id": 1549959635640,
+      "Expression": "破れます［紙が〜］",
+      "Meaning": "to tear [paper]",
+      "Reading": "破[やぶ]れます［ 紙[かみ]が〜］",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 376,
+    "word": "外れる",
+    "source": {
+      "id": 1549959863377,
+      "Expression": "外れます［ボタンが〜］",
+      "Meaning": "[a button] to be undone",
+      "Reading": "外[はず]れます［ボタンが〜］",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 378,
+    "word": "取り替える",
+    "source": {
+      "id": 1549960095289,
+      "Expression": "取り替えます",
+      "Meaning": "to change",
+      "Reading": "取り替[とりか]えます",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 379,
+    "word": "茶碗",
+    "source": {
+      "id": 1549960620154,
+      "Expression": "［お］ちゃわん",
+      "Meaning": "(rice) bowl",
+      "Reading": "［お］ちゃわん",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 380,
+    "word": "コップ",
+    "source": {
+      "id": 1549960655628,
+      "Expression": "コップ",
+      "Meaning": "glass (vessel)",
+      "Reading": "コップ",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 381,
+    "word": "ガラス",
+    "source": {
+      "id": 1549960687609,
+      "Expression": "ガラス",
+      "Meaning": "glass (material)",
+      "Reading": "ガラス",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 382,
+    "word": "枝",
+    "source": {
+      "id": 1549960742361,
+      "Expression": "枝",
+      "Meaning": "branch, twig",
+      "Reading": "枝[えだ]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 383,
+    "word": "交番",
+    "source": {
+      "id": 1549960793400,
+      "Expression": "交番",
+      "Meaning": "police box",
+      "Reading": "交番[こうばん]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 384,
+    "word": "スピーチ",
+    "source": {
+      "id": 1549960818147,
+      "Expression": "スピーチ",
+      "Meaning": "speech (〜を　します：to give/make a speech)",
+      "Reading": "スピーチ",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 385,
+    "word": "返事",
+    "source": {
+      "id": 1549960856342,
+      "Expression": "返事",
+      "Meaning": "reply, answer (〜を　します：to reply, answer)",
+      "Reading": "返事[へんじ]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 386,
+    "word": "お先にどうぞ",
+    "source": {
+      "id": 1549960891055,
+      "Expression": "お先に　どうそ。",
+      "Meaning": "After you. / Go ahead, please.",
+      "Reading": "お 先[さき]に　どうそ。",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 389,
+    "word": "忘れ物",
+    "source": {
+      "id": 1549961045125,
+      "Expression": "忘れ物",
+      "Meaning": "things left behind, lost property",
+      "Reading": "忘れ物[わすれもの]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 393,
+    "word": "網棚",
+    "source": {
+      "id": 1549961302023,
+      "Expression": "網棚",
+      "Meaning": "overhead rack",
+      "Reading": "網棚[あみだな]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 394,
+    "word": "確か",
+    "source": {
+      "id": 1549961324785,
+      "Expression": "確か",
+      "Meaning": "I'm pretty sure",
+      "Reading": "確[たし]か",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 395,
+    "word": "よかった",
+    "source": {
+      "id": 1549961345628,
+      "Expression": "［ああ、］よかった。",
+      "Meaning": "[Oh,] that's great! / Thank goodness! (used to express a feeling of relief)",
+      "Reading": "［ああ、］よかった。",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 396,
+    "word": "針",
+    "source": {
+      "id": 1549961428879,
+      "Expression": "針",
+      "Meaning": "hands (of a clock)",
+      "Reading": "針[はり]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 397,
+    "word": "駅前",
+    "source": {
+      "id": 1549961473012,
+      "Expression": "駅前",
+      "Meaning": "the area in front of a station",
+      "Reading": "駅前[えきまえ]",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 399,
+    "word": "燃える",
+    "source": {
+      "id": 1549961561891,
+      "Expression": "燃えます",
+      "Meaning": "to burn",
+      "Reading": "燃[も]えます",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 400,
+    "word": "レポーター",
+    "source": {
+      "id": 1549961584294,
+      "Expression": "レポーター",
+      "Meaning": "reporter",
+      "Reading": "レポーター",
+      "Lesson Number": "29"
+    },
+    "local": null
+  },
+  {
+    "index": 401,
+    "word": "戻す",
+    "source": {
+      "id": 1549962312597,
+      "Expression": "戻します",
+      "Meaning": "to return, put ~ back",
+      "Reading": "戻[もど]します",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 402,
+    "word": "まとめる",
+    "source": {
+      "id": 1549962337395,
+      "Expression": "まとめます",
+      "Meaning": "to put ~ together, put ~ in shape, sum up",
+      "Reading": "まとめます",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 403,
+    "word": "しまう",
+    "source": {
+      "id": 1549962374243,
+      "Expression": "しまいます",
+      "Meaning": "to put (things) away",
+      "Reading": "しまいます",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 405,
+    "word": "講義",
+    "source": {
+      "id": 1549962538130,
+      "Expression": "講義",
+      "Meaning": "lecture",
+      "Reading": "講義[こうぎ]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 406,
+    "word": "ミーティング",
+    "source": {
+      "id": 1549962562314,
+      "Expression": "ミーティング",
+      "Meaning": "meeting",
+      "Reading": "ミーティング",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 408,
+    "word": "ガイドブック",
+    "source": {
+      "id": 1549962655528,
+      "Expression": "ガイドブック",
+      "Meaning": "guidebook",
+      "Reading": "ガイドブック",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 409,
+    "word": "カレンダー",
+    "source": {
+      "id": 1549962672131,
+      "Expression": "カレンダー",
+      "Meaning": "calendar",
+      "Reading": "カレンダー",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 410,
+    "word": "ポスター",
+    "source": {
+      "id": 1549962690142,
+      "Expression": "ポスター",
+      "Meaning": "poster",
+      "Reading": "ポスター",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 411,
+    "word": "予定表",
+    "source": {
+      "id": 1549962702564,
+      "Expression": "予定表",
+      "Meaning": "schedule",
+      "Reading": "予定[よてい] 表[ひょう]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 412,
+    "word": "ごみ箱",
+    "source": {
+      "id": 1549962732539,
+      "Expression": "ごみ箱",
+      "Meaning": "trash can, dustbin",
+      "Reading": "ごみ 箱[ばこ]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 413,
+    "word": "花瓶",
+    "source": {
+      "id": 1549962806236,
+      "Expression": "花瓶",
+      "Meaning": "vase",
+      "Reading": "花瓶[かびん]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 414,
+    "word": "玄関",
+    "source": {
+      "id": 1549962878840,
+      "Expression": "玄関",
+      "Meaning": "front door, porch, entrance hall",
+      "Reading": "玄関[げんかん]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 415,
+    "word": "池",
+    "source": {
+      "id": 1549962979175,
+      "Expression": "池",
+      "Meaning": "pond",
+      "Reading": "池[いけ]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 417,
+    "word": "リュック",
+    "source": {
+      "id": 1549963119201,
+      "Expression": "リュック",
+      "Meaning": "rucksack",
+      "Reading": "リュック",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 418,
+    "word": "非常袋",
+    "source": {
+      "id": 1549963131219,
+      "Expression": "非常袋",
+      "Meaning": "emergency kit",
+      "Reading": "非常[ひじょう] 袋[ぶくろ]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 419,
+    "word": "非常時",
+    "source": {
+      "id": 1549963177265,
+      "Expression": "非常時",
+      "Meaning": "emergency",
+      "Reading": "非常時[ひじょうじ]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 421,
+    "word": "懐中電灯",
+    "source": {
+      "id": 1549963227546,
+      "Expression": "懐中電灯",
+      "Meaning": "torch, flashlight",
+      "Reading": "懐中[かいちゅう] 電灯[でんとう]",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 423,
+    "word": "夢を見る",
+    "source": {
+      "id": 1549963363162,
+      "Expression": "夢を　見ます",
+      "Meaning": "to dream",
+      "Reading": "夢[ゆめ]を　 見[み]ます",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 424,
+    "word": "すると",
+    "source": {
+      "id": 1549963444723,
+      "Expression": "すると",
+      "Meaning": "and, then",
+      "Reading": "すると",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 425,
+    "word": "目が覚める",
+    "source": {
+      "id": 1549963462220,
+      "Expression": "目が　覚めます",
+      "Meaning": "to wake up",
+      "Reading": "目[め]が　 覚[さ]めます",
+      "Lesson Number": "30"
+    },
+    "local": null
+  },
+  {
+    "index": 427,
+    "word": "連休",
+    "source": {
+      "id": 1550041108780,
+      "Expression": "連休",
+      "Meaning": "consecutive holidays",
+      "Reading": "連休[れんきゅう]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 429,
+    "word": "結婚式",
+    "source": {
+      "id": 1550041237645,
+      "Expression": "結婚式",
+      "Meaning": "wedding ceremony",
+      "Reading": "結婚式[けっこんしき]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 430,
+    "word": "葬式",
+    "source": {
+      "id": 1550041268863,
+      "Expression": "［お］葬式",
+      "Meaning": "funeral",
+      "Reading": "［お］ 葬式[そうしき]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 431,
+    "word": "式",
+    "source": {
+      "id": 1550041312306,
+      "Expression": "式",
+      "Meaning": "ceremony",
+      "Reading": "式[しき]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 432,
+    "word": "本社",
+    "source": {
+      "id": 1550041465807,
+      "Expression": "本社",
+      "Meaning": "head office (HQ)",
+      "Reading": "本社[ほんしゃ]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 433,
+    "word": "支店",
+    "source": {
+      "id": 1550041494176,
+      "Expression": "支店",
+      "Meaning": "branch office",
+      "Reading": "支店[してん]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 434,
+    "word": "帰り",
+    "source": {
+      "id": 1550041607605,
+      "Expression": "帰り",
+      "Meaning": "return",
+      "Reading": "帰[かえ]り",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 440,
+    "word": "入学試験",
+    "source": {
+      "id": 1550042035033,
+      "Expression": "入学試験",
+      "Meaning": "entrance examination",
+      "Reading": "入学[にゅうがく] 試験[しけん]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 442,
+    "word": "村",
+    "source": {
+      "id": 1550042084887,
+      "Expression": "村",
+      "Meaning": "village",
+      "Reading": "村[むら]",
+      "Lesson Number": "31"
+    },
+    "local": null
+  },
+  {
+    "index": 445,
+    "word": "成功する",
+    "source": {
+      "id": 1550210368646,
+      "Expression": "成功します",
+      "Meaning": "to succeed",
+      "Reading": "成功[せいこう]します",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 446,
+    "word": "合格する",
+    "source": {
+      "id": 1550210601769,
+      "Expression": "合格します［試験に〜］",
+      "Meaning": "to pass [an examination]",
+      "Reading": "合格[ごうかく]します［ 試験[しけん]に〜］",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 447,
+    "word": "止む",
+    "source": {
+      "id": 1550210638950,
+      "Expression": "やみます［雨が〜］",
+      "Meaning": "[rain] to stop",
+      "Reading": "やみます［ 雨[あめ]が〜］",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 448,
+    "word": "十分",
+    "source": {
+      "id": 1550211075785,
+      "Expression": "十分［な］",
+      "Meaning": "enough, sufficient",
+      "Reading": "十分[じゅうぶん]［な］",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 449,
+    "word": "おかしい",
+    "source": {
+      "id": 1550211103526,
+      "Expression": "おかしい",
+      "Meaning": "strange, funny",
+      "Reading": "おかしい",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 450,
+    "word": "やけど",
+    "source": {
+      "id": 1550211144816,
+      "Expression": "やけど",
+      "Meaning": "burning (〜を　します：to get burned)",
+      "Reading": "やけど",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 451,
+    "word": "インフルエンザ",
+    "source": {
+      "id": 1550211283321,
+      "Expression": "インフルエンザ",
+      "Meaning": "influenza (i.e., the flu)",
+      "Reading": "インフルエンザ",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 452,
+    "word": "星",
+    "source": {
+      "id": 1550211362015,
+      "Expression": "星",
+      "Meaning": "star",
+      "Reading": "星[ほし]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 454,
+    "word": "水道",
+    "source": {
+      "id": 1550211472039,
+      "Expression": "水道",
+      "Meaning": "faucet, tap, water supply",
+      "Reading": "水道[すいどう]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 455,
+    "word": "エンジン",
+    "source": {
+      "id": 1550211500911,
+      "Expression": "エンジン",
+      "Meaning": "engine",
+      "Reading": "エンジン",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 456,
+    "word": "チーム",
+    "source": {
+      "id": 1550211524792,
+      "Expression": "チーム",
+      "Meaning": "team",
+      "Reading": "チーム",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 457,
+    "word": "今夜",
+    "source": {
+      "id": 1550211537582,
+      "Expression": "今夜",
+      "Meaning": "this evening",
+      "Reading": "今夜[こんや]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 459,
+    "word": "こんなに",
+    "source": {
+      "id": 1550211596816,
+      "Expression": "こんなに",
+      "Meaning": "this (much, etc.)",
+      "Reading": "こんなに",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 460,
+    "word": "そんなに",
+    "source": {
+      "id": 1550211628808,
+      "Expression": "そんなに",
+      "Meaning": "that (much, etc.) (concerning a matter related to the listener)",
+      "Reading": "そんなに",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 461,
+    "word": "あんなに",
+    "source": {
+      "id": 1550211650769,
+      "Expression": "あんなに",
+      "Meaning": "that (much, etc.) (concerning a matter not related to the speaker or the listener)",
+      "Reading": "あんなに",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 463,
+    "word": "胃",
+    "source": {
+      "id": 1550211734444,
+      "Expression": "胃",
+      "Meaning": "stomach",
+      "Reading": "胃[い]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 464,
+    "word": "ストレス",
+    "source": {
+      "id": 1550211751800,
+      "Expression": "ストレス",
+      "Meaning": "stress",
+      "Reading": "ストレス",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 465,
+    "word": "それはいけませんね",
+    "source": {
+      "id": 1550211770145,
+      "Expression": "それは　いけませんえ。",
+      "Meaning": "I'm sorry to hear that.",
+      "Reading": "それは　いけませんえ。",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 466,
+    "word": "星占い",
+    "source": {
+      "id": 1550211805133,
+      "Expression": "星占い",
+      "Meaning": "horoscope",
+      "Reading": "星[ほし] 占[うらな]い",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 469,
+    "word": "恋愛",
+    "source": {
+      "id": 1550211964793,
+      "Expression": "恋愛",
+      "Meaning": "romantic love",
+      "Reading": "恋愛[れんあい]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 470,
+    "word": "恋人",
+    "source": {
+      "id": 1550212003779,
+      "Expression": "恋人",
+      "Meaning": "sweetheart, boyfriend, girlfriend",
+      "Reading": "恋人[こいびと]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 471,
+    "word": "ラッキーアイテム",
+    "source": {
+      "id": 1550212020868,
+      "Expression": "ラッキーアイテム",
+      "Meaning": "something lucky",
+      "Reading": "ラッキーアイテム",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 472,
+    "word": "石",
+    "source": {
+      "id": 1550212037761,
+      "Expression": "石",
+      "Meaning": "stone",
+      "Reading": "石[いし]",
+      "Lesson Number": "32"
+    },
+    "local": null
+  },
+  {
+    "index": 473,
+    "word": "出席する",
+    "source": {
+      "id": 1550212269001,
+      "Expression": "出席します",
+      "Meaning": "to attend [a meeting]",
+      "Reading": "出席[しゅっせき]します",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 474,
+    "word": "席を外す",
+    "source": {
+      "id": 1550212379881,
+      "Expression": "外します［席を〜］",
+      "Meaning": "to be away [from one's desk]",
+      "Reading": "外[はず]します［ 席[せき]を〜］",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 475,
+    "word": "リサイクルする",
+    "source": {
+      "id": 1550212851943,
+      "Expression": "リサイクルします",
+      "Meaning": "to recycle",
+      "Reading": "リサイクルします",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 476,
+    "word": "マーク",
+    "source": {
+      "id": 1550212947413,
+      "Expression": "マーク",
+      "Meaning": "mark, symbol",
+      "Reading": "マーク",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 477,
+    "word": "ボール",
+    "source": {
+      "id": 1550212957151,
+      "Expression": "ボール",
+      "Meaning": "ball",
+      "Reading": "ボール",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 478,
+    "word": "締め切り",
+    "source": {
+      "id": 1550212965207,
+      "Expression": "締め切り",
+      "Meaning": "deadline",
+      "Reading": "締め切[しめき]り",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 479,
+    "word": "規則",
+    "source": {
+      "id": 1550212993400,
+      "Expression": "規則",
+      "Meaning": "regulation, rule",
+      "Reading": "規則[きそく]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 480,
+    "word": "使用禁止",
+    "source": {
+      "id": 1550213030684,
+      "Expression": "使用禁止",
+      "Meaning": "Do Not Use",
+      "Reading": "使用[しよう] 禁止[きんし]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 481,
+    "word": "立入禁止",
+    "source": {
+      "id": 1550213054012,
+      "Expression": "立入禁止",
+      "Meaning": "Keep Out",
+      "Reading": "立入禁止[たちいりきんし]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 482,
+    "word": "徐行",
+    "source": {
+      "id": 1550213090502,
+      "Expression": "徐行",
+      "Meaning": "Go Slow",
+      "Reading": "徐行[じょこう]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 483,
+    "word": "非常口",
+    "source": {
+      "id": 1550213142348,
+      "Expression": "非常口",
+      "Meaning": "emergency exit",
+      "Reading": "非常口[ひじょうぐち]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 484,
+    "word": "飲み放題",
+    "source": {
+      "id": 1550213198038,
+      "Expression": "飲み放題",
+      "Meaning": "All You Can Drink",
+      "Reading": "飲[の]み 放題[ほうだい]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 485,
+    "word": "使用中",
+    "source": {
+      "id": 1550213219767,
+      "Expression": "使用中",
+      "Meaning": "In Use",
+      "Reading": "使用[しよう] 中[ちゅう]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 486,
+    "word": "募集中",
+    "source": {
+      "id": 1550213232474,
+      "Expression": "募集中",
+      "Meaning": "Applications Wanted",
+      "Reading": "募集[ぼしゅう] 中[ちゅう]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 489,
+    "word": "駐車違反",
+    "source": {
+      "id": 1550213387542,
+      "Expression": "駐車違反",
+      "Meaning": "parking violation",
+      "Reading": "駐車[ちゅうしゃ] 違反[いはん]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 490,
+    "word": "罰金",
+    "source": {
+      "id": 1550213406720,
+      "Expression": "罰金",
+      "Meaning": "fine",
+      "Reading": "罰金[ばっきん]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 491,
+    "word": "助け合う",
+    "source": {
+      "id": 1550213454631,
+      "Expression": "助け合います",
+      "Meaning": "to help each other",
+      "Reading": "助け合[たすけあ]います",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 492,
+    "word": "相手",
+    "source": {
+      "id": 1550213533748,
+      "Expression": "相手",
+      "Meaning": "the other person",
+      "Reading": "相手[あいて]",
+      "Lesson Number": "33"
+    },
+    "local": null
+  },
+  {
+    "index": 493,
+    "word": "組み立てる",
+    "source": {
+      "id": 1550213717372,
+      "Expression": "組み立てます",
+      "Meaning": "to assemble",
+      "Reading": "組み立[くみた]てます",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 495,
+    "word": "スポーツクラブ",
+    "source": {
+      "id": 1550213987834,
+      "Expression": "スポーツクラブ",
+      "Meaning": "sports club",
+      "Reading": "スポーツクラブ",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 496,
+    "word": "説明書",
+    "source": {
+      "id": 1550214035042,
+      "Expression": "説明書",
+      "Meaning": "explanatory pamphlet, instruction book",
+      "Reading": "説明[せつめい] 書[しょ]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 497,
+    "word": "図",
+    "source": {
+      "id": 1550214057724,
+      "Expression": "図",
+      "Meaning": "figure, drawing",
+      "Reading": "図[ず]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 498,
+    "word": "黒",
+    "source": {
+      "id": 1550214105179,
+      "Expression": "黒",
+      "Meaning": "black (noun)",
+      "Reading": "黒[くろ]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 499,
+    "word": "赤",
+    "source": {
+      "id": 1550214132261,
+      "Expression": "赤",
+      "Meaning": "red (noun)",
+      "Reading": "赤[あか]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 500,
+    "word": "青",
+    "source": {
+      "id": 1550214142754,
+      "Expression": "青",
+      "Meaning": "blue (noun)",
+      "Reading": "青[あお]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 501,
+    "word": "紺",
+    "source": {
+      "id": 1550214189021,
+      "Expression": "紺",
+      "Meaning": "navy blue, dark blue (noun)",
+      "Reading": "紺[こん]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 502,
+    "word": "ソース",
+    "source": {
+      "id": 1550214265477,
+      "Expression": "ソース",
+      "Meaning": "sauce, Worcestershire sauce",
+      "Reading": "ソース",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 504,
+    "word": "昨夜",
+    "source": {
+      "id": 1550214324704,
+      "Expression": "ゆうべ",
+      "Meaning": "last night",
+      "Reading": "ゆうべ",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 505,
+    "word": "茶道",
+    "source": {
+      "id": 1550214357195,
+      "Expression": "茶道",
+      "Meaning": "tea ceremony",
+      "Reading": "茶道[さどう]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 506,
+    "word": "お茶をたてる",
+    "source": {
+      "id": 1550214613261,
+      "Expression": "お茶を　たてます",
+      "Meaning": "to make (green) tea (at a tea ceremony)",
+      "Reading": "お 茶[ちゃ]を　たてます",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 507,
+    "word": "これでいいですか",
+    "source": {
+      "id": 1550214699918,
+      "Expression": "これで　いいですか。",
+      "Meaning": "Is this all right?",
+      "Reading": "これで　いいですか。",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 509,
+    "word": "親子丼",
+    "source": {
+      "id": 1550214759194,
+      "Expression": "親子どんぶり",
+      "Meaning": "a bowl of cooked rice with chicken and egg",
+      "Reading": "親子[おやこ]どんぶり",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 512,
+    "word": "調味料",
+    "source": {
+      "id": 1550214948119,
+      "Expression": "調味料",
+      "Meaning": "seasoning, flavouring",
+      "Reading": "調味[ちょうみ] 料[りょう]",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 514,
+    "word": "火にかける",
+    "source": {
+      "id": 1550215014375,
+      "Expression": "火に　かけます",
+      "Meaning": "to put on the stove",
+      "Reading": "火[ひ]に　かけます",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 515,
+    "word": "煮える",
+    "source": {
+      "id": 1550215044709,
+      "Expression": "煮えます",
+      "Meaning": "to be cooked, be boiled",
+      "Reading": "煮[に]えます",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 516,
+    "word": "丼",
+    "source": {
+      "id": 1550215061730,
+      "Expression": "どんぶり",
+      "Meaning": "bowl",
+      "Reading": "どんぶり",
+      "Lesson Number": "34"
+    },
+    "local": null
+  },
+  {
+    "index": 517,
+    "word": "輸出する",
+    "source": {
+      "id": 1550377948259,
+      "Expression": "輸出します",
+      "Meaning": "to export",
+      "Reading": "輸出[ゆしゅつ]します",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 518,
+    "word": "輸入する",
+    "source": {
+      "id": 1550377966770,
+      "Expression": "輸入します",
+      "Meaning": "to import",
+      "Reading": "輸入[ゆにゅう]します",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 519,
+    "word": "発明する",
+    "source": {
+      "id": 1550378042696,
+      "Expression": "発明します",
+      "Meaning": "to invent",
+      "Reading": "発明[はつめい]します",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 521,
+    "word": "米",
+    "source": {
+      "id": 1550378073177,
+      "Expression": "米",
+      "Meaning": "rice",
+      "Reading": "米[こめ]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 522,
+    "word": "麦",
+    "source": {
+      "id": 1550378165610,
+      "Expression": "麦",
+      "Meaning": "barley, wheat",
+      "Reading": "麦[むぎ]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 523,
+    "word": "原料",
+    "source": {
+      "id": 1550378189410,
+      "Expression": "原料",
+      "Meaning": "raw material",
+      "Reading": "原料[げんりょう]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 524,
+    "word": "インスタントラーメン",
+    "source": {
+      "id": 1550378204887,
+      "Expression": "インスタントラーメン",
+      "Meaning": "instant noodles",
+      "Reading": "インスタントラーメン",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 525,
+    "word": "デート",
+    "source": {
+      "id": 1550378220361,
+      "Expression": "デート",
+      "Meaning": "date",
+      "Reading": "デート",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 526,
+    "word": "世界中",
+    "source": {
+      "id": 1550378279433,
+      "Expression": "世界中",
+      "Meaning": "all over the world",
+      "Reading": "世界中[せかいじゅう]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 528,
+    "word": "何語",
+    "source": {
+      "id": 1550378361953,
+      "Expression": "何語",
+      "Meaning": "what language",
+      "Reading": "何[なに] 語[ご]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 533,
+    "word": "大仏",
+    "source": {
+      "id": 1550378499416,
+      "Expression": "大仏",
+      "Meaning": "Great Buddha",
+      "Reading": "大仏[だいぶつ]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 538,
+    "word": "皆様",
+    "source": {
+      "id": 1550378644333,
+      "Expression": "皆様",
+      "Meaning": "Ladies and Gentlemen, everybody (respectful equivalent of みなさん）",
+      "Reading": "皆様[みなさま]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 539,
+    "word": "焼ける",
+    "source": {
+      "id": 1550378682066,
+      "Expression": "焼けます［うちが〜］",
+      "Meaning": "[house] to burn down",
+      "Reading": "焼[や]けます［うちが〜］",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 540,
+    "word": "その後",
+    "source": {
+      "id": 1550378720341,
+      "Expression": "その後",
+      "Meaning": "after that, later",
+      "Reading": "その 後[ご]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 542,
+    "word": "金色",
+    "source": {
+      "id": 1550378805185,
+      "Expression": "金色",
+      "Meaning": "golden color",
+      "Reading": "金色[きんいろ]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 543,
+    "word": "本物",
+    "source": {
+      "id": 1550378831920,
+      "Expression": "本物",
+      "Meaning": "real thing",
+      "Reading": "本物[ほんもの]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 544,
+    "word": "金",
+    "source": {
+      "id": 1550378842541,
+      "Expression": "金",
+      "Meaning": "gold",
+      "Reading": "金[きん]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 546,
+    "word": "豪華",
+    "source": {
+      "id": 1550378905411,
+      "Expression": "豪華［な］",
+      "Meaning": "gorgeous",
+      "Reading": "豪華[ごうか]［な］",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 547,
+    "word": "彫刻",
+    "source": {
+      "id": 1550378950571,
+      "Expression": "彫刻",
+      "Meaning": "engraving, carving, sculpture",
+      "Reading": "彫刻[ちょうこく]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 548,
+    "word": "彫る",
+    "source": {
+      "id": 1550379064371,
+      "Expression": "彫ります",
+      "Meaning": "to engrave, carve",
+      "Reading": "彫[ほ]ります",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 549,
+    "word": "仲間",
+    "source": {
+      "id": 1550379085716,
+      "Expression": "仲間",
+      "Meaning": "colleague, friend",
+      "Reading": "仲間[なかま]",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 550,
+    "word": "しかし",
+    "source": {
+      "id": 1550379120987,
+      "Expression": "しかし",
+      "Meaning": "however, but",
+      "Reading": "しかし",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 552,
+    "word": "鼠",
+    "source": {
+      "id": 1550379193517,
+      "Expression": "ねずみ",
+      "Meaning": "mouse",
+      "Reading": "ねずみ",
+      "Lesson Number": "37"
+    },
+    "local": null
+  },
+  {
+    "index": 561,
+    "word": "海岸",
+    "source": {
+      "id": 1550383449806,
+      "Expression": "海岸",
+      "Meaning": "seaside, seashore",
+      "Reading": "海岸[かいがん]",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 563,
+    "word": "かな",
+    "source": {
+      "id": 1550383509369,
+      "Expression": "かな",
+      "Meaning": "hiragana and katakana script",
+      "Reading": "かな",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 564,
+    "word": "電源",
+    "source": {
+      "id": 1550383533152,
+      "Expression": "電源",
+      "Meaning": "power switch",
+      "Reading": "電源[でんげん]",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 566,
+    "word": "いけない",
+    "source": {
+      "id": 1550383622855,
+      "Expression": "［あ、］いけない。",
+      "Meaning": "Oops! / Oh, no! (used when one has made a mistake)",
+      "Reading": "［あ、］いけない。",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 570,
+    "word": "回覧",
+    "source": {
+      "id": 1550383817759,
+      "Expression": "回覧",
+      "Meaning": "circular",
+      "Reading": "回覧[かいらん]",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 571,
+    "word": "きちんと",
+    "source": {
+      "id": 1550383864840,
+      "Expression": "きちんと",
+      "Meaning": "neatly, tidily",
+      "Reading": "きちんと",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 572,
+    "word": "整理する",
+    "source": {
+      "id": 1550383886251,
+      "Expression": "整理します",
+      "Meaning": "sort (things) out",
+      "Reading": "整理[せいり]します",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 574,
+    "word": "判子",
+    "source": {
+      "id": 1550383971186,
+      "Expression": "はんこ",
+      "Meaning": "seal, stamp",
+      "Reading": "はんこ",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 577,
+    "word": "おとなしい",
+    "source": {
+      "id": 1550384129178,
+      "Expression": "おとなしい",
+      "Meaning": "quiet, gentle",
+      "Reading": "おとなしい",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 578,
+    "word": "時間が経つ",
+    "source": {
+      "id": 1550384177924,
+      "Expression": "時間が　たちます",
+      "Meaning": "time passes by",
+      "Reading": "時間[じかん]が　たちます",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 579,
+    "word": "気が強い",
+    "source": {
+      "id": 1550384236552,
+      "Expression": "気が　強い",
+      "Meaning": "tough, strong-willed",
+      "Reading": "気[き]が　 強[つよ]い",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 581,
+    "word": "年齢",
+    "source": {
+      "id": 1550384316628,
+      "Expression": "年齢",
+      "Meaning": "age",
+      "Reading": "年齢[ねんれい]",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 582,
+    "word": "仕方",
+    "source": {
+      "id": 1550384336223,
+      "Expression": "しかた",
+      "Meaning": "way (of doing something)",
+      "Reading": "しかた",
+      "Lesson Number": "38"
+    },
+    "local": null
+  },
+  {
+    "index": 583,
+    "word": "通る",
+    "source": {
+      "id": 1550385017299,
+      "Expression": "通ります［道を〜］",
+      "Meaning": "to pass [along a stree]",
+      "Reading": "通[とお]ります［ 道[みち]を〜］",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 585,
+    "word": "がっかりする",
+    "source": {
+      "id": 1550385074490,
+      "Expression": "がっかりします",
+      "Meaning": "to be disappointed",
+      "Reading": "がっかりします",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 586,
+    "word": "離婚する",
+    "source": {
+      "id": 1550385168757,
+      "Expression": "離婚します",
+      "Meaning": "to divorce",
+      "Reading": "離婚[りこん]します",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 587,
+    "word": "邪魔",
+    "source": {
+      "id": 1550385234503,
+      "Expression": "邪魔［な］",
+      "Meaning": "obstructive, in the way",
+      "Reading": "邪魔[じゃま]［な］",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 588,
+    "word": "津波",
+    "source": {
+      "id": 1550387556338,
+      "Expression": "津波",
+      "Meaning": "tsunami, tidal wave",
+      "Reading": "津波[つなみ]",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 589,
+    "word": "ハイキング",
+    "source": {
+      "id": 1550387634584,
+      "Expression": "ハイキング",
+      "Meaning": "hiking",
+      "Reading": "ハイキング",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 590,
+    "word": "見合い",
+    "source": {
+      "id": 1550387650361,
+      "Expression": "［お］見合い",
+      "Meaning": "a meeting arranged with a view to marriage",
+      "Reading": "［お］ 見合[みあ]い",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 591,
+    "word": "操作",
+    "source": {
+      "id": 1550387679517,
+      "Expression": "操作",
+      "Meaning": "operation (〜します：to operate)",
+      "Reading": "操作[そうさ]",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 593,
+    "word": "フロント",
+    "source": {
+      "id": 1550387777211,
+      "Expression": "フロント",
+      "Meaning": "front desk, reception desk",
+      "Reading": "フロント",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 595,
+    "word": "タオル",
+    "source": {
+      "id": 1550387810974,
+      "Expression": "タオル",
+      "Meaning": "towel",
+      "Reading": "タオル",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 596,
+    "word": "せっけん",
+    "source": {
+      "id": 1550387823034,
+      "Expression": "せっけん",
+      "Meaning": "soap",
+      "Reading": "せっけん",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 597,
+    "word": "大勢",
+    "source": {
+      "id": 1550387839837,
+      "Expression": "大勢",
+      "Meaning": "a great number (of people)",
+      "Reading": "大勢[おおせい]",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 598,
+    "word": "お疲れ様でした",
+    "source": {
+      "id": 1550387874781,
+      "Expression": "お疲れ様でした。",
+      "Meaning": "Thank you for your hard work. (used to express appreciation for a coleague's or subordinate's work)",
+      "Reading": "お 疲れ様[つかれさま]でした。",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 599,
+    "word": "伺う",
+    "source": {
+      "id": 1550387920609,
+      "Expression": "伺います。",
+      "Meaning": "I'm coming. (humble equivalent of 行きます)",
+      "Reading": "伺[うかが]います。",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 600,
+    "word": "途中で",
+    "source": {
+      "id": 1550387961254,
+      "Expression": "途中で",
+      "Meaning": "on the way, in the midst of",
+      "Reading": "途中[とちゅう]で",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 601,
+    "word": "トラック",
+    "source": {
+      "id": 1550387981085,
+      "Expression": "トラック",
+      "Meaning": "truck, lorry",
+      "Reading": "トラック",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 603,
+    "word": "洋服",
+    "source": {
+      "id": 1550388042629,
+      "Expression": "洋服",
+      "Meaning": "Western clothes",
+      "Reading": "洋服[ようふく]",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 604,
+    "word": "西洋化する",
+    "source": {
+      "id": 1550388056441,
+      "Expression": "西洋化します",
+      "Meaning": "to be Westernized",
+      "Reading": "西洋[せいよう] 化[か]します",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 605,
+    "word": "今では",
+    "source": {
+      "id": 1550388095606,
+      "Expression": "今では",
+      "Meaning": "now",
+      "Reading": "今[いま]では",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 606,
+    "word": "成人式",
+    "source": {
+      "id": 1550388103982,
+      "Expression": "成人式",
+      "Meaning": "coming-of-age celebration",
+      "Reading": "成人[せいじん] 式[しき]",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 607,
+    "word": "伝統的",
+    "source": {
+      "id": 1550388134771,
+      "Expression": "伝統的［な］",
+      "Meaning": "traditional",
+      "Reading": "伝統[でんとう] 的[てき]［な］",
+      "Lesson Number": "39"
+    },
+    "local": null
+  },
+  {
+    "index": 608,
+    "word": "測る",
+    "source": {
+      "id": 1550462040255,
+      "Expression": "測ります、量ります",
+      "Meaning": "to measure, weigh",
+      "Reading": "測[はか]ります、 量[はか]ります",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 609,
+    "word": "確かめる",
+    "source": {
+      "id": 1550462063755,
+      "Expression": "確かめます",
+      "Meaning": "to confirm, make sure",
+      "Reading": "確[たし]かめます",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 610,
+    "word": "出発する",
+    "source": {
+      "id": 1550462103850,
+      "Expression": "出発します",
+      "Meaning": "to depart",
+      "Reading": "出発[しゅっぱつ]します",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 611,
+    "word": "到着する",
+    "source": {
+      "id": 1550462130998,
+      "Expression": "到着します",
+      "Meaning": "to arrive",
+      "Reading": "到着[とうちゃく]します",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 612,
+    "word": "酔う",
+    "source": {
+      "id": 1550462152062,
+      "Expression": "酔います",
+      "Meaning": "to get drunk",
+      "Reading": "酔[よ]います",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 614,
+    "word": "忘年会",
+    "source": {
+      "id": 1550462305898,
+      "Expression": "忘年会",
+      "Meaning": "year-end party",
+      "Reading": "忘年会[ぼうねんかい]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 615,
+    "word": "新年会",
+    "source": {
+      "id": 1550462321848,
+      "Expression": "新年会",
+      "Meaning": "New Year's party",
+      "Reading": "新年[しんねん] 会[かい]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 616,
+    "word": "二次会",
+    "source": {
+      "id": 1550462358570,
+      "Expression": "二次会",
+      "Meaning": "second party",
+      "Reading": "二次会[にじかい]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 617,
+    "word": "発表会",
+    "source": {
+      "id": 1550462370973,
+      "Expression": "発表会",
+      "Meaning": "presentation meeting",
+      "Reading": "発表[はっぴょう] 会[かい]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 618,
+    "word": "大会",
+    "source": {
+      "id": 1550462396469,
+      "Expression": "大会",
+      "Meaning": "rally, convention",
+      "Reading": "大会[たいかい]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 619,
+    "word": "マラソン",
+    "source": {
+      "id": 1550462406092,
+      "Expression": "マラソン",
+      "Meaning": "marathon",
+      "Reading": "マラソン",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 620,
+    "word": "コンテスト",
+    "source": {
+      "id": 1550462416481,
+      "Expression": "コンテスト",
+      "Meaning": "contest",
+      "Reading": "コンテスト",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 621,
+    "word": "表",
+    "source": {
+      "id": 1550462424440,
+      "Expression": "表",
+      "Meaning": "face, front",
+      "Reading": "表[おもて]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 622,
+    "word": "裏",
+    "source": {
+      "id": 1550462456072,
+      "Expression": "裏",
+      "Meaning": "back (side)",
+      "Reading": "裏[うら]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 623,
+    "word": "傷",
+    "source": {
+      "id": 1550462479522,
+      "Expression": "傷",
+      "Meaning": "defect, wound, scratch",
+      "Reading": "傷[きず]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 624,
+    "word": "ズボン",
+    "source": {
+      "id": 1550462492695,
+      "Expression": "ズボン",
+      "Meaning": "trousers",
+      "Reading": "ズボン",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 625,
+    "word": "年寄り",
+    "source": {
+      "id": 1550462507985,
+      "Expression": "［お］年寄り",
+      "Meaning": "elderly person",
+      "Reading": "［お］ 年寄[としよ]り",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 626,
+    "word": "長さ",
+    "source": {
+      "id": 1550462550917,
+      "Expression": "長さ",
+      "Meaning": "length",
+      "Reading": "長[なが]さ",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 627,
+    "word": "重さ",
+    "source": {
+      "id": 1550462565928,
+      "Expression": "重さ",
+      "Meaning": "weight",
+      "Reading": "重[おも]さ",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 628,
+    "word": "高さ",
+    "source": {
+      "id": 1550462577105,
+      "Expression": "高さ",
+      "Meaning": "height",
+      "Reading": "高[たか]さ",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 629,
+    "word": "大きさ",
+    "source": {
+      "id": 1550462586747,
+      "Expression": "大きさ",
+      "Meaning": "size, scale",
+      "Reading": "大[おお]きさ",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 641,
+    "word": "どうでしょうか",
+    "source": {
+      "id": 1550463040638,
+      "Expression": "どうでしょうか。",
+      "Meaning": "How is ~? (polite equivalent of どうですか)",
+      "Reading": "どうでしょうか。",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 642,
+    "word": "テスト",
+    "source": {
+      "id": 1550463080817,
+      "Expression": "テスト",
+      "Meaning": "test, examination",
+      "Reading": "テスト",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 644,
+    "word": "様子",
+    "source": {
+      "id": 1550463193950,
+      "Expression": "様子",
+      "Meaning": "situation, condition, appearance",
+      "Reading": "様子[ようす]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 645,
+    "word": "事件",
+    "source": {
+      "id": 1550463211076,
+      "Expression": "事件",
+      "Meaning": "incident, case",
+      "Reading": "事件[じけん]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 646,
+    "word": "オートバイ",
+    "source": {
+      "id": 1550463222302,
+      "Expression": "オートバイ",
+      "Meaning": "motorcycle",
+      "Reading": "オートバイ",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 647,
+    "word": "爆弾",
+    "source": {
+      "id": 1550463239099,
+      "Expression": "僕弾",
+      "Meaning": "bomb",
+      "Reading": "僕[ぼく] 弾[だん]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 648,
+    "word": "運転手",
+    "source": {
+      "id": 1550463274131,
+      "Expression": "運転手",
+      "Meaning": "driver",
+      "Reading": "運転[うんてん] 手[しゅ]",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 651,
+    "word": "手に入れる",
+    "source": {
+      "id": 1550463392506,
+      "Expression": "手に　入れます",
+      "Meaning": "to obtain, get",
+      "Reading": "手[て]に　 入[い]れます",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 652,
+    "word": "今でも",
+    "source": {
+      "id": 1550463409615,
+      "Expression": "今でも",
+      "Meaning": "even now",
+      "Reading": "今[いま]でも",
+      "Lesson Number": "40"
+    },
+    "local": null
+  },
+  {
+    "index": 655,
+    "word": "親切にする",
+    "source": {
+      "id": 1550463743497,
+      "Expression": "親切に　します",
+      "Meaning": "to be kind to",
+      "Reading": "親切[しんせつ]に　します",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 656,
+    "word": "お年玉",
+    "source": {
+      "id": 1550463813667,
+      "Expression": "お年玉",
+      "Meaning": "money given as a New Year's gift",
+      "Reading": "お 年玉[としだま]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 657,
+    "word": "見舞い",
+    "source": {
+      "id": 1550463832095,
+      "Expression": "［お］見舞い",
+      "Meaning": "expression of sympathy, consolatory gift to a sick person",
+      "Reading": "［お］ 見舞[みま]い",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 658,
+    "word": "猿",
+    "source": {
+      "id": 1550463969738,
+      "Expression": "猿",
+      "Meaning": "ape, monkey",
+      "Reading": "猿[さる]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 659,
+    "word": "絵本",
+    "source": {
+      "id": 1550464000996,
+      "Expression": "絵本",
+      "Meaning": "picture book",
+      "Reading": "絵本[えほん]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 660,
+    "word": "絵はがき",
+    "source": {
+      "id": 1550464012954,
+      "Expression": "絵はがき",
+      "Meaning": "picture postcard",
+      "Reading": "絵[え]はがき",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 661,
+    "word": "ドライバー",
+    "source": {
+      "id": 1550464031983,
+      "Expression": "ドライバー",
+      "Meaning": "screwdriver",
+      "Reading": "ドライバー",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 662,
+    "word": "ハンカチ",
+    "source": {
+      "id": 1550464045309,
+      "Expression": "ハンカチ",
+      "Meaning": "handkerchief",
+      "Reading": "ハンカチ",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 663,
+    "word": "幼稚園",
+    "source": {
+      "id": 1550464087223,
+      "Expression": "幼稚園",
+      "Meaning": "preschool, kindergarten",
+      "Reading": "幼稚園[ようちえん]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 664,
+    "word": "冷房",
+    "source": {
+      "id": 1550464507318,
+      "Expression": "冷房",
+      "Meaning": "air-conditioning",
+      "Reading": "冷房[れいぼう]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 666,
+    "word": "管理人",
+    "source": {
+      "id": 1550464699650,
+      "Expression": "管理人",
+      "Meaning": "janitor, caretaker",
+      "Reading": "管理[かんり] 人[じん]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 668,
+    "word": "この間",
+    "source": {
+      "id": 1550464737712,
+      "Expression": "この間",
+      "Meaning": "the other day",
+      "Reading": "この 間[あいだ]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 669,
+    "word": "ひとこと",
+    "source": {
+      "id": 1550464760468,
+      "Expression": "ひとこと",
+      "Meaning": "a few words",
+      "Reading": "ひとこと",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 671,
+    "word": "お幸せに",
+    "source": {
+      "id": 1550464844531,
+      "Expression": "とうぞ　お幸せに。",
+      "Meaning": "I hope you will be very happy.",
+      "Reading": "とうぞ　お 幸[しあわ]せに。",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 672,
+    "word": "昔話",
+    "source": {
+      "id": 1550464870295,
+      "Expression": "昔話",
+      "Meaning": "old tale, folklore",
+      "Reading": "昔話[むかしばなし]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 675,
+    "word": "亀",
+    "source": {
+      "id": 1550464968641,
+      "Expression": "かめ",
+      "Meaning": "turtle, tortoise",
+      "Reading": "かめ",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 676,
+    "word": "お姫様",
+    "source": {
+      "id": 1550465016476,
+      "Expression": "お姫様",
+      "Meaning": "princess",
+      "Reading": "お 姫様[ひめさま]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 677,
+    "word": "陸",
+    "source": {
+      "id": 1550465043430,
+      "Expression": "陸",
+      "Meaning": "land, shore",
+      "Reading": "陸[りく]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 679,
+    "word": "煙",
+    "source": {
+      "id": 1550465067798,
+      "Expression": "煙",
+      "Meaning": "smoke",
+      "Reading": "煙[けむり]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 680,
+    "word": "真っ白",
+    "source": {
+      "id": 1550465078960,
+      "Expression": "真っ白［な］",
+      "Meaning": "pure white",
+      "Reading": "真っ白[まっしろ]［な］",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 681,
+    "word": "中身",
+    "source": {
+      "id": 1550465101425,
+      "Expression": "中身",
+      "Meaning": "content",
+      "Reading": "中身[なかみ]",
+      "Lesson Number": "41"
+    },
+    "local": null
+  },
+  {
+    "index": 683,
+    "word": "沸かす",
+    "source": {
+      "id": 1550466735421,
+      "Expression": "沸かします",
+      "Meaning": "to boil",
+      "Reading": "沸[わ]かします",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 684,
+    "word": "丈夫",
+    "source": {
+      "id": 1550466787199,
+      "Expression": "丈夫［な］",
+      "Meaning": "strong, healthy",
+      "Reading": "丈夫[じょうぶ]［な］",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 685,
+    "word": "アパート",
+    "source": {
+      "id": 1550466814947,
+      "Expression": "アパート",
+      "Meaning": "apartment, flat",
+      "Reading": "アパート",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 688,
+    "word": "法律",
+    "source": {
+      "id": 1550466901603,
+      "Expression": "法律",
+      "Meaning": "law",
+      "Reading": "法律[ほうりつ]",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 689,
+    "word": "戦争",
+    "source": {
+      "id": 1550466909173,
+      "Expression": "戦争",
+      "Meaning": "war",
+      "Reading": "戦争[せんそう]",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 690,
+    "word": "ミキサー",
+    "source": {
+      "id": 1550466966652,
+      "Expression": "ミキサー",
+      "Meaning": "mixer, blender",
+      "Reading": "ミキサー",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 691,
+    "word": "やかん",
+    "source": {
+      "id": 1550466978260,
+      "Expression": "やかん",
+      "Meaning": "kettle",
+      "Reading": "やかん",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 692,
+    "word": "栓抜き",
+    "source": {
+      "id": 1550466999578,
+      "Expression": "栓抜き",
+      "Meaning": "bottle opener, corkscrew",
+      "Reading": "栓[せん] 抜[ぬ]き",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 693,
+    "word": "缶切り",
+    "source": {
+      "id": 1550467026363,
+      "Expression": "缶切り",
+      "Meaning": "can opener",
+      "Reading": "缶切[かんき]り",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 694,
+    "word": "のし袋",
+    "source": {
+      "id": 1550467062302,
+      "Expression": "のし袋",
+      "Meaning": "envelop for a gift of money",
+      "Reading": "のし 袋[ぶくろ]",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 695,
+    "word": "風呂敷",
+    "source": {
+      "id": 1550467087242,
+      "Expression": "ふろしき",
+      "Meaning": "wrapping cloth used to carry things",
+      "Reading": "ふろしき",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 696,
+    "word": "そろばん",
+    "source": {
+      "id": 1550467111427,
+      "Expression": "そろばん",
+      "Meaning": "abacus",
+      "Reading": "そろばん",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 700,
+    "word": "ローン",
+    "source": {
+      "id": 1550467327755,
+      "Expression": "ローン",
+      "Meaning": "loan",
+      "Reading": "ローン",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 701,
+    "word": "カップ麺",
+    "source": {
+      "id": 1550467336061,
+      "Expression": "カップめん",
+      "Meaning": "instant noodles sold in a ready-to-use disposable container, pot noodles",
+      "Reading": "カップ[かっぷ]めん",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 704,
+    "word": "麺",
+    "source": {
+      "id": 1550467399229,
+      "Expression": "めん",
+      "Meaning": "noodles",
+      "Reading": "めん",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 705,
+    "word": "広める",
+    "source": {
+      "id": 1550467405803,
+      "Expression": "広めます",
+      "Meaning": "to spread",
+      "Reading": "広[ひろ]めます",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 706,
+    "word": "市場調査",
+    "source": {
+      "id": 1550467415156,
+      "Expression": "市場調査",
+      "Meaning": "market survey, market research",
+      "Reading": "市場[しじょう] 調査[ちょうさ]",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 707,
+    "word": "注ぐ",
+    "source": {
+      "id": 1550467446826,
+      "Expression": "注ぎます",
+      "Meaning": "to pour",
+      "Reading": "注[そそ]ぎます",
+      "Lesson Number": "42"
+    },
+    "local": null
+  },
+  {
+    "index": 710,
+    "word": "切れる",
+    "source": {
+      "id": 1550468323546,
+      "Expression": "切れます［ひもが〜］",
+      "Meaning": "[a string] to break, snap",
+      "Reading": "切[き]れます［ひもが〜］",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 711,
+    "word": "取れる",
+    "source": {
+      "id": 1550468353837,
+      "Expression": "とれます［ボタンが〜］",
+      "Meaning": "[a button] to come off",
+      "Reading": "とれます［ボタンが〜］",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 712,
+    "word": "うまい",
+    "source": {
+      "id": 1550468498479,
+      "Expression": "うまい",
+      "Meaning": "tasty",
+      "Reading": "うまい",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 713,
+    "word": "ガソリン",
+    "source": {
+      "id": 1550468536119,
+      "Expression": "ガソリン",
+      "Meaning": "petrol, gasoline",
+      "Reading": "ガソリン",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 714,
+    "word": "パンフレット",
+    "source": {
+      "id": 1550468554966,
+      "Expression": "パンフレット",
+      "Meaning": "pamphlet",
+      "Reading": "パンフレット",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 715,
+    "word": "今にも",
+    "source": {
+      "id": 1550468566021,
+      "Expression": "今にも",
+      "Meaning": "at any moment (used to describe a situation just before it changes)",
+      "Reading": "今[いま]にも",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 716,
+    "word": "わあ",
+    "source": {
+      "id": 1550468588027,
+      "Expression": "わあ",
+      "Meaning": "Oh! / Wow!",
+      "Reading": "わあ",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 717,
+    "word": "薔薇",
+    "source": {
+      "id": 1550468597566,
+      "Expression": "ばら",
+      "Meaning": "rose",
+      "Reading": "ばら",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 718,
+    "word": "ドライブ",
+    "source": {
+      "id": 1550468605189,
+      "Expression": "ドライブ",
+      "Meaning": "driving",
+      "Reading": "ドライブ",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 719,
+    "word": "知り合う",
+    "source": {
+      "id": 1550468630877,
+      "Expression": "知り合います",
+      "Meaning": "to get acquainted",
+      "Reading": "知り合[しりあ]います",
+      "Lesson Number": "43"
+    },
+    "local": null
+  },
+  {
+    "index": 720,
+    "word": "調節する",
+    "source": {
+      "id": 1550470779173,
+      "Expression": "調節します",
+      "Meaning": "to adjust",
+      "Reading": "調節[ちょうせつ]します",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 721,
+    "word": "安全",
+    "source": {
+      "id": 1550470793018,
+      "Expression": "安全［な］",
+      "Meaning": "safe",
+      "Reading": "安全[あんぜん]［な］",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 722,
+    "word": "涙",
+    "source": {
+      "id": 1550470932149,
+      "Expression": "涙",
+      "Meaning": "tear",
+      "Reading": "涙[なみだ]",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 723,
+    "word": "洋食",
+    "source": {
+      "id": 1550470949614,
+      "Expression": "洋食",
+      "Meaning": "Western dish",
+      "Reading": "洋食[ようしょく]",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 725,
+    "word": "シングル",
+    "source": {
+      "id": 1550471001906,
+      "Expression": "シングル",
+      "Meaning": "single room",
+      "Reading": "シングル",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 726,
+    "word": "ツイン",
+    "source": {
+      "id": 1550471011395,
+      "Expression": "ツイン",
+      "Meaning": "twin-bedded room",
+      "Reading": "ツイン",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 727,
+    "word": "DVD",
+    "source": {
+      "id": 1550471041384,
+      "Expression": "DVD",
+      "Meaning": "DVD",
+      "Reading": "DVD",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 729,
+    "word": "カット",
+    "source": {
+      "id": 1550471075226,
+      "Expression": "カット",
+      "Meaning": "haircut",
+      "Reading": "カット",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 730,
+    "word": "シャンプー",
+    "source": {
+      "id": 1550471082228,
+      "Expression": "シャンプー",
+      "Meaning": "shampoo (〜を　します：to shampoo)",
+      "Reading": "シャンプー",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 736,
+    "word": "嫌がる",
+    "source": {
+      "id": 1550471292162,
+      "Expression": "嫌がります",
+      "Meaning": "to dislike",
+      "Reading": "嫌[いや]がります",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 738,
+    "word": "順序",
+    "source": {
+      "id": 1550471332010,
+      "Expression": "順序",
+      "Meaning": "order",
+      "Reading": "順序[じゅんじょ]",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 740,
+    "word": "これら",
+    "source": {
+      "id": 1550471459032,
+      "Expression": "これら",
+      "Meaning": "these",
+      "Reading": "これら",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 741,
+    "word": "縁起が悪い",
+    "source": {
+      "id": 1550471466885,
+      "Expression": "縁起が　悪い",
+      "Meaning": "unlucky, ill-omened",
+      "Reading": "縁起[えんぎ]が　 悪[わる]い",
+      "Lesson Number": "44"
+    },
+    "local": null
+  },
+  {
+    "index": 742,
+    "word": "キャンセルする",
+    "source": {
+      "id": 1550477637557,
+      "Expression": "カンセルします",
+      "Meaning": "to cancel",
+      "Reading": "カンセルします",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 743,
+    "word": "保証書",
+    "source": {
+      "id": 1550477713399,
+      "Expression": "保証書",
+      "Meaning": "guarantee",
+      "Reading": "保証書[ほしょうしょ]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 744,
+    "word": "領収書",
+    "source": {
+      "id": 1550477730793,
+      "Expression": "領収書",
+      "Meaning": "receipt",
+      "Reading": "領収[りょうしゅう] 書[しょ]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 745,
+    "word": "キャンプ",
+    "source": {
+      "id": 1550477849231,
+      "Expression": "カンプ",
+      "Meaning": "camp",
+      "Reading": "カンプ",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 746,
+    "word": "中止",
+    "source": {
+      "id": 1550477858219,
+      "Expression": "中止",
+      "Meaning": "calling off, cancelling, suspension",
+      "Reading": "中止[ちゅうし]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 747,
+    "word": "梅",
+    "source": {
+      "id": 1550477906702,
+      "Expression": "梅",
+      "Meaning": "plum (blossom)",
+      "Reading": "梅[うめ]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 750,
+    "word": "無理に",
+    "source": {
+      "id": 1550478024460,
+      "Expression": "無理に",
+      "Meaning": "unreasonably",
+      "Reading": "無理[むり]に",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 752,
+    "word": "以上です",
+    "source": {
+      "id": 1550478061622,
+      "Expression": "以上です",
+      "Meaning": "That's all.",
+      "Reading": "以上[いじょう]です",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 753,
+    "word": "係員",
+    "source": {
+      "id": 1550478096118,
+      "Expression": "係員",
+      "Meaning": "person in charge, organiser",
+      "Reading": "係員[かかりいん]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 754,
+    "word": "スタート",
+    "source": {
+      "id": 1550478135491,
+      "Expression": "スタート",
+      "Meaning": "start",
+      "Reading": "スタート",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 756,
+    "word": "優勝する",
+    "source": {
+      "id": 1550478168347,
+      "Expression": "優勝します",
+      "Meaning": "to win the championship, come first",
+      "Reading": "優勝[ゆうしょう]します<br>",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 757,
+    "word": "目覚まし時計",
+    "source": {
+      "id": 1550478206087,
+      "Expression": "目覚まし［時計］",
+      "Meaning": "alarm clock",
+      "Reading": "目覚[めざ]まし［ 時計[どけい]］",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 759,
+    "word": "回答",
+    "source": {
+      "id": 1550478316580,
+      "Expression": "回答",
+      "Meaning": "answer, reply (〜します：to answer, reply)",
+      "Reading": "回答[かいとう]",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 760,
+    "word": "セットする",
+    "source": {
+      "id": 1550478455997,
+      "Expression": "セットします",
+      "Meaning": "to set",
+      "Reading": "セットします",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 761,
+    "word": "それでも",
+    "source": {
+      "id": 1550478471391,
+      "Expression": "それでも",
+      "Meaning": "nevertheless, for all that",
+      "Reading": "それでも",
+      "Lesson Number": "45"
+    },
+    "local": null
+  },
+  {
+    "index": 762,
+    "word": "入学する",
+    "source": {
+      "id": 1550478668432,
+      "Expression": "入学します［大学に〜］",
+      "Meaning": "to enter [a university]",
+      "Reading": "入学[にゅうがく]します［ 大学[だいがく]に〜］",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 764,
+    "word": "宅配便",
+    "source": {
+      "id": 1550478832532,
+      "Expression": "宅配便",
+      "Meaning": "(package delivered by) home delivery service",
+      "Reading": "宅配[たくはい] 便[びん]",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 767,
+    "word": "半年",
+    "source": {
+      "id": 1550478899059,
+      "Expression": "半年",
+      "Meaning": "half a year",
+      "Reading": "半年[はんとし]",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 768,
+    "word": "たった今",
+    "source": {
+      "id": 1550478922339,
+      "Expression": "たった今",
+      "Meaning": "just now (used with the past tense; indicates completion)",
+      "Reading": "たった 今[いま]",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 769,
+    "word": "今いいですか",
+    "source": {
+      "id": 1550478958151,
+      "Expression": "今　いいですか。",
+      "Meaning": "Have you got a moment?",
+      "Reading": "今[いま]　いいですか。",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 770,
+    "word": "ガスサービスセンター",
+    "source": {
+      "id": 1550479233419,
+      "Expression": "ガスサーセンター",
+      "Meaning": "gas service center",
+      "Reading": "ガスサーセンター",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 771,
+    "word": "ガスレンジ",
+    "source": {
+      "id": 1550479282252,
+      "Expression": "ガスレンジ",
+      "Meaning": "gas range, gas cooker",
+      "Reading": "ガスレンジ",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 772,
+    "word": "申し訳ありません",
+    "source": {
+      "id": 1550479333579,
+      "Expression": "申し訳ありません。",
+      "Meaning": "I'm sorry.",
+      "Reading": "申し訳[もうしわけ]ありません。",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 773,
+    "word": "どちら様でしょうか",
+    "source": {
+      "id": 1550479376426,
+      "Expression": "どちら様でしょうか。",
+      "Meaning": "Who is this, please?",
+      "Reading": "どちら 様[さま]でしょうか。",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 774,
+    "word": "お待たせしました",
+    "source": {
+      "id": 1550479413378,
+      "Expression": "お待たせしました。",
+      "Meaning": "Sorry to have kept you waiting.",
+      "Reading": "お 待[ま]たせしました。",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 775,
+    "word": "向かう",
+    "source": {
+      "id": 1550479432524,
+      "Expression": "向かいます",
+      "Meaning": "to head for",
+      "Reading": "向[む]かいます",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 776,
+    "word": "ついている",
+    "source": {
+      "id": 1550479458244,
+      "Expression": "ついて　います",
+      "Meaning": "to be lucky",
+      "Reading": "ついて　います",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 777,
+    "word": "ベル",
+    "source": {
+      "id": 1550479499479,
+      "Expression": "ベル",
+      "Meaning": "bell",
+      "Reading": "ベル",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 778,
+    "word": "慌てる",
+    "source": {
+      "id": 1550479571500,
+      "Expression": "慌てて",
+      "Meaning": "in a hurry",
+      "Reading": "慌[あわ]てて",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 779,
+    "word": "順番に",
+    "source": {
+      "id": 1550479620163,
+      "Expression": "順番に",
+      "Meaning": "in order",
+      "Reading": "順番[じゅんばん]に",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 780,
+    "word": "出来事",
+    "source": {
+      "id": 1550479635010,
+      "Expression": "出来事",
+      "Meaning": "incident",
+      "Reading": "出来事[できごと]",
+      "Lesson Number": "46"
+    },
+    "local": null
+  },
+  {
+    "index": 782,
+    "word": "実験",
+    "source": {
+      "id": 1550481022775,
+      "Expression": "実験",
+      "Meaning": "experiment",
+      "Reading": "実験[じっけん]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 783,
+    "word": "データ",
+    "source": {
+      "id": 1550481042391,
+      "Expression": "データ",
+      "Meaning": "data",
+      "Reading": "データ",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 784,
+    "word": "人口",
+    "source": {
+      "id": 1550481070638,
+      "Expression": "人口",
+      "Meaning": "population",
+      "Reading": "人口[じんこう]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 785,
+    "word": "科学",
+    "source": {
+      "id": 1550481089468,
+      "Expression": "科学",
+      "Meaning": "science",
+      "Reading": "科学[かがく]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 786,
+    "word": "医学",
+    "source": {
+      "id": 1550481104749,
+      "Expression": "医学",
+      "Meaning": "medicine, medical science",
+      "Reading": "医学[いがく]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 787,
+    "word": "パトカー",
+    "source": {
+      "id": 1550481132431,
+      "Expression": "パトカー",
+      "Meaning": "police car",
+      "Reading": "パトカー",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 788,
+    "word": "賛成",
+    "source": {
+      "id": 1550481219983,
+      "Expression": "賛成",
+      "Meaning": "approval, agreement",
+      "Reading": "賛成[さんせい]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 790,
+    "word": "婚約する",
+    "source": {
+      "id": 1550481313683,
+      "Expression": "婚約します",
+      "Meaning": "to get engaged",
+      "Reading": "婚約[こんやく]します",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 795,
+    "word": "女性",
+    "source": {
+      "id": 1550481495309,
+      "Expression": "女性",
+      "Meaning": "female, woman",
+      "Reading": "女性[じょせい]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 796,
+    "word": "男性",
+    "source": {
+      "id": 1550481542234,
+      "Expression": "男性",
+      "Meaning": "male, man",
+      "Reading": "男性[だんせい]",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 797,
+    "word": "長生き",
+    "source": {
+      "id": 1550481557214,
+      "Expression": "長生き",
+      "Meaning": "long life (〜します：to live long)",
+      "Reading": "長生[ながい]き",
+      "Lesson Number": "47"
+    },
+    "local": null
+  },
+  {
+    "index": 799,
+    "word": "ファイル",
+    "source": {
+      "id": 1550481791073,
+      "Expression": "ファイル",
+      "Meaning": "file",
+      "Reading": "ファイル",
+      "Lesson Number": "48"
+    },
+    "local": null
+  },
+  {
+    "index": 802,
+    "word": "営業",
+    "source": {
+      "id": 1550481919271,
+      "Expression": "営業",
+      "Meaning": "business, sales",
+      "Reading": "営業[えいぎょう]",
+      "Lesson Number": "48"
+    },
+    "local": null
+  },
+  {
+    "index": 804,
+    "word": "かまいません",
+    "source": {
+      "id": 1550481975973,
+      "Expression": "かまいません。",
+      "Meaning": "It's all right. / I don't mind.",
+      "Reading": "かまいません。",
+      "Lesson Number": "48"
+    },
+    "local": null
+  },
+  {
+    "index": 807,
+    "word": "習字",
+    "source": {
+      "id": 1550482071620,
+      "Expression": "習字",
+      "Meaning": "calligraphy",
+      "Reading": "習字[しゅうじ]",
+      "Lesson Number": "48"
+    },
+    "local": null
+  },
+  {
+    "index": 810,
+    "word": "召し上がる",
+    "source": {
+      "id": 1550482330099,
+      "Expression": "召し上がります",
+      "Meaning": "to eat, drink (respectful equivalent of たべます and のみます)",
+      "Reading": "召し上[めしあ]がります",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 811,
+    "word": "おっしゃる",
+    "source": {
+      "id": 1550482373048,
+      "Expression": "おっしゃいます",
+      "Meaning": "to say, (one's name) is ~ (respectful equivalent of いいます)",
+      "Reading": "おっしゃいます",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 812,
+    "word": "なさる",
+    "source": {
+      "id": 1550482418535,
+      "Expression": "なさいます",
+      "Meaning": "to do (respectful equivalent of します)",
+      "Reading": "なさいます",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 813,
+    "word": "ご覧になる",
+    "source": {
+      "id": 1550482451376,
+      "Expression": "ご覧に　なります",
+      "Meaning": "to see, look at (respectful equivalent of みます)",
+      "Reading": "ご 覧[らん]に　なります",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 820,
+    "word": "よろしくお伝えください",
+    "source": {
+      "id": 1550482763529,
+      "Expression": "よろしく　お伝え　ください。",
+      "Meaning": "Give my best regards. / Please say hello.",
+      "Reading": "よろしく　お 伝[つた]え　ください。",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 822,
+    "word": "経歴",
+    "source": {
+      "id": 1550482832103,
+      "Expression": "経歴",
+      "Meaning": "background",
+      "Reading": "経歴[けいれき]",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 823,
+    "word": "医学部",
+    "source": {
+      "id": 1550482851251,
+      "Expression": "医学部",
+      "Meaning": "the medical department",
+      "Reading": "医学部[いがくぶ]",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 824,
+    "word": "目指す",
+    "source": {
+      "id": 1550482868502,
+      "Expression": "目指します",
+      "Meaning": "aim for",
+      "Reading": "目指[めざ]します",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 826,
+    "word": "開発する",
+    "source": {
+      "id": 1550482924828,
+      "Expression": "開発します",
+      "Meaning": "to develop, create",
+      "Reading": "開発[かいはつ]します",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 827,
+    "word": "マウス",
+    "source": {
+      "id": 1550482940520,
+      "Expression": "マウス",
+      "Meaning": "mouse",
+      "Reading": "マウス",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 828,
+    "word": "受賞する",
+    "source": {
+      "id": 1550482959154,
+      "Expression": "受賞します",
+      "Meaning": "to be awarded a prize",
+      "Reading": "受賞[じゅしょう]します",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 829,
+    "word": "講演会",
+    "source": {
+      "id": 1550483001503,
+      "Expression": "講演会",
+      "Meaning": "lecture meeting",
+      "Reading": "講演[こうえん] 会[かい]",
+      "Lesson Number": "49"
+    },
+    "local": null
+  },
+  {
+    "index": 833,
+    "word": "申す",
+    "source": {
+      "id": 1550483553163,
+      "Expression": "申します",
+      "Meaning": "to say, (one's name) is ~ (humble equivalent of いいます)",
+      "Reading": "申[もう]します",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 834,
+    "word": "いたす",
+    "source": {
+      "id": 1550483584909,
+      "Expression": "いたします",
+      "Meaning": "to do (humble equivalent of します)",
+      "Reading": "いたします",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 835,
+    "word": "拝見する",
+    "source": {
+      "id": 1550483602586,
+      "Expression": "拝見します",
+      "Meaning": "to see (humble equivalent of みます)",
+      "Reading": "拝見[はいけん]します",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 836,
+    "word": "存じる",
+    "source": {
+      "id": 1550483632238,
+      "Expression": "存じます",
+      "Meaning": "to get to know (humble equivalent of しります)",
+      "Reading": "存[ぞん]じます",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 838,
+    "word": "お目にかかる",
+    "source": {
+      "id": 1550483702840,
+      "Expression": "お目に　かかります",
+      "Meaning": "to meet (humble equivalent of あいます)",
+      "Reading": "お 目[め]に　かかります",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 840,
+    "word": "ガイド",
+    "source": {
+      "id": 1550483807181,
+      "Expression": "ガイド",
+      "Meaning": "guide",
+      "Reading": "ガイド",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 841,
+    "word": "メールアドレス",
+    "source": {
+      "id": 1550483813550,
+      "Expression": "メールアドレス",
+      "Meaning": "email address",
+      "Reading": "メールアドレス",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 842,
+    "word": "スケジュール",
+    "source": {
+      "id": 1550483826000,
+      "Expression": "スケジュール",
+      "Meaning": "schedule",
+      "Reading": "スケジュール",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 843,
+    "word": "再来週",
+    "source": {
+      "id": 1550483846191,
+      "Expression": "再来週",
+      "Meaning": "the week after next",
+      "Reading": "再来週[さらいしゅう]",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 844,
+    "word": "再来月",
+    "source": {
+      "id": 1550483862300,
+      "Expression": "再来月",
+      "Meaning": "the month after next",
+      "Reading": "再来月[さらいげつ]",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 845,
+    "word": "再来年",
+    "source": {
+      "id": 1550483876144,
+      "Expression": "再来年",
+      "Meaning": "the year after next",
+      "Reading": "再来年[さらいねん]",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 846,
+    "word": "初めに",
+    "source": {
+      "id": 1550483887168,
+      "Expression": "初めに",
+      "Meaning": "first",
+      "Reading": "初[はじ]めに",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 848,
+    "word": "賞金",
+    "source": {
+      "id": 1550483964449,
+      "Expression": "賞金",
+      "Meaning": "prize money",
+      "Reading": "賞金[しょうきん]",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 849,
+    "word": "麒麟",
+    "source": {
+      "id": 1550483978927,
+      "Expression": "ぎりん",
+      "Meaning": "giraffe",
+      "Reading": "ぎりん",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 850,
+    "word": "ころ",
+    "source": {
+      "id": 1550483989151,
+      "Expression": "ころ",
+      "Meaning": "times, days",
+      "Reading": "ころ",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 851,
+    "word": "叶う",
+    "source": {
+      "id": 1550483996041,
+      "Expression": "かないます［夢が〜］",
+      "Meaning": "[dream] to be realized, come true",
+      "Reading": "かないます［ 夢[ゆめ]が〜］",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 852,
+    "word": "心から",
+    "source": {
+      "id": 1550484046112,
+      "Expression": "心から",
+      "Meaning": "from one's heart, sincerely",
+      "Reading": "心[こころ]から",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 854,
+    "word": "迷惑をかける",
+    "source": {
+      "id": 1550484201376,
+      "Expression": "迷惑を　かけます",
+      "Meaning": "to cause trouble, annoyance, inconvenience",
+      "Reading": "迷惑[めいわく]を　かけます",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 855,
+    "word": "生かす",
+    "source": {
+      "id": 1550484228499,
+      "Expression": "生かします",
+      "Meaning": "to make good use of",
+      "Reading": "生[い]かします",
+      "Lesson Number": "50"
+    },
+    "local": null
+  },
+  {
+    "index": 858,
+    "word": "チケット",
+    "source": {
+      "id": 1550634457644,
+      "Expression": "チケット",
+      "Meaning": "ticket",
+      "Reading": "チケット",
+      "Lesson Number": "9"
+    },
+    "local": null
+  },
+  {
+    "index": 859,
+    "word": "ええ",
+    "source": {
+      "id": 1550809922869,
+      "Expression": "ええ",
+      "Meaning": "yes",
+      "Reading": "ええ",
+      "Lesson Number": "6"
+    },
+    "local": null
+  },
+  {
+    "index": 1000,
+    "word": "易しい",
+    "source": {
+      "Expression": "易しい",
+      "Meaning": "easy, tender, kind, gentle, graceful, affectionate, amiable&nbsp;",
+      "Reading": "易[やさ]しい",
+      "Lesson Number": "8",
+      "id": 1508300550733
+    },
+    "local": null
+  },
+  {
+    "index": 1001,
+    "word": "橋",
+    "source": {
+      "Expression": "橋",
+      "Meaning": "bridge",
+      "Reading": "橋[はし]",
+      "Lesson Number": "23",
+      "id": 1525162962033
+    },
+    "local": null
+  },
+  {
+    "index": 1002,
+    "word": "億",
+    "source": {
+      "Expression": "億",
+      "Meaning": "hundred million",
+      "Reading": "億[おく]",
+      "Lesson Number": "25",
+      "id": 1525164082082
+    },
+    "local": null
+  },
+  {
+    "index": 1003,
+    "word": "機会",
+    "source": {
+      "Expression": "機会",
+      "Meaning": "chance, opportunity",
+      "Reading": "機会[きかい]",
+      "Lesson Number": "35",
+      "id": 1549520083079
+    },
+    "local": null
+  },
+  {
+    "index": 1004,
+    "word": "方",
+    "source": {
+      "Expression": "方",
+      "Meaning": "person (respectful equivalent of ひと)",
+      "Reading": "方[かた]",
+      "Lesson Number": "27",
+      "id": 1549952514242
+    },
+    "local": null
+  },
+  {
+    "index": 1005,
+    "word": "付く",
+    "source": {
+      "Expression": "付きます［ポケットが〜］",
+      "Meaning": "[a pocket] to be attached",
+      "Reading": "付[つ]きます［ポケットが〜］",
+      "Lesson Number": "29",
+      "id": 1549959797089
+    },
+    "local": null
+  },
+  {
+    "index": 1006,
+    "word": "線",
+    "source": {
+      "Expression": "線",
+      "Meaning": "line",
+      "Reading": "線[せん]",
+      "Lesson Number": "34",
+      "id": 1550214073597
+    },
+    "local": null
+  },
+  {
+    "index": 1007,
+    "word": "火",
+    "source": {
+      "Expression": "火",
+      "Meaning": "fire, heating",
+      "Reading": "火[ひ]",
+      "Lesson Number": "34",
+      "id": 1550215002860
+    },
+    "local": null
+  },
+  {
+    "index": 1008,
+    "word": "煮る",
+    "source": {
+      "Expression": "煮ます",
+      "Meaning": "to cook, boil",
+      "Reading": "煮[に]ます",
+      "Lesson Number": "34",
+      "id": 1550215032002
+    },
+    "local": null
+  },
+  {
+    "index": 1009,
+    "word": "習慣",
+    "source": {
+      "Expression": "習慣",
+      "Meaning": "habit",
+      "Reading": "習慣[しゅうかん]",
+      "Lesson Number": "38",
+      "id": 1550383542511
+    },
+    "local": null
+  },
+  {
+    "index": 1010,
+    "word": "合う",
+    "source": {
+      "Expression": "合います",
+      "Meaning": "to fit, suit",
+      "Reading": "合[あ]います",
+      "Lesson Number": "39",
+      "id": 1550388082911
+    },
+    "local": null
+  },
+  {
+    "index": 1011,
+    "word": "変",
+    "source": {
+      "Expression": "変［な］",
+      "Meaning": "strange, peculiar",
+      "Reading": "変[へん]［な］",
+      "Lesson Number": "43",
+      "id": 1550468442258
+    },
+    "local": null
+  },
+  {
+    "index": 1012,
+    "word": "厚い",
+    "source": {
+      "Expression": "厚い",
+      "Meaning": "thick",
+      "Reading": "厚[あつ]い",
+      "Lesson Number": "44",
+      "id": 1550470871486
+    },
+    "local": null
+  },
+  {
+    "index": 1013,
+    "word": "量",
+    "source": {
+      "Expression": "量",
+      "Meaning": "quantity",
+      "Reading": "量[りょう]",
+      "Lesson Number": "44",
+      "id": 1550470978473
+    },
+    "local": null
+  },
+  {
+    "index": 1014,
+    "word": "鳴る",
+    "source": {
+      "Expression": "鳴ります",
+      "Meaning": "to ring",
+      "Reading": "鳴[な]ります",
+      "Lesson Number": "45",
+      "id": 1550478407777
+    },
+    "local": null
+  },
+  {
+    "index": 1015,
+    "word": "はい",
+    "source": {
+      "Expression": "はい",
+      "Meaning": "yes",
+      "Reading": "はい&nbsp;",
+      "Lesson Number": "1",
+      "id": 1508232879171
+    },
+    "local": null
+  },
+  {
+    "index": 1016,
+    "word": "十",
+    "source": {
+      "Expression": "とう",
+      "Meaning": "ten (things)",
+      "Reading": "とう",
+      "Lesson Number": "11",
+      "id": 1508311194325
+    },
+    "local": null
+  },
+  {
+    "index": 1017,
+    "word": "クラス",
+    "source": {
+      "Expression": "クラス",
+      "Meaning": "class",
+      "Reading": "クラス",
+      "Lesson Number": "11",
+      "id": 1508311924613
+    },
+    "local": null
+  },
+  {
+    "index": 1018,
+    "word": "スキー",
+    "source": {
+      "Expression": "スキー",
+      "Meaning": "skiing (～を　します：to ski)",
+      "Reading": "スキー",
+      "Lesson Number": "13",
+      "id": 1508316309446
+    },
+    "local": null
+  },
+  {
+    "index": 1019,
+    "word": "キー",
+    "source": {
+      "Expression": "キー",
+      "Meaning": "key",
+      "Reading": "キー",
+      "Lesson Number": "35",
+      "id": 1549520278631
+    },
+    "local": null
+  },
+  {
+    "index": 1020,
+    "word": "無くなる",
+    "source": {
+      "Expression": "なくなります［ガソリンが〜］",
+      "Meaning": "[petrol, gasoline] to run out, be lost",
+      "Reading": "なくなります［ガソリンが〜］",
+      "Lesson Number": "43",
+      "id": 1550468409565
+    },
+    "local": null
+  },
+  {
+    "index": 1021,
+    "word": "おる",
+    "source": {
+      "Expression": "おります",
+      "Meaning": "to be (humble equivalent of います)",
+      "Reading": "おります",
+      "Lesson Number": "50",
+      "id": 1550483456006
+    },
+    "local": null
+  }
+]
