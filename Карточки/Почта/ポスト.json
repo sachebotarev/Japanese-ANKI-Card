@@ -6,7 +6,7 @@
   "Пример": "あそこに<span class='study-word'>ポスト</span>があります。<br><span class='study-word'>ポスト</span>の前に人がいます。<br><span class='study-word'>ポスト</span>を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример без слова": "あそこに_____があります。<br>_____の前に人がいます。<br>_____を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример перевод": "Вон там есть почтовый ящик.<br>Там стоит человек, а прямо за ним — почтовый ящик.<br>Когда я искал почтовый ящик, подошёл доброжелательный человек и подсказал, где искать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Когда я искал почтовый ящик, подошёл доброжелательный человек и подсказал, где искать., visual focus: почтовый ящик, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ポスト.png\">",
   "Произношение": "[sound:ポスト_слово.mp3][sound:ポスト_пример_1.mp3][sound:ポスト_пример_2.mp3][sound:ポスト_пример_3.mp3]",
   "Заметки": "Слово из урока 10 Minna no Nihongo. Сюда опускают письма для отправки.",
   "Кандзи-разбор": "Кандзи нет.",

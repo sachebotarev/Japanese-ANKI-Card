@@ -6,7 +6,7 @@
   "Пример": "あそこに<span class='study-word'>ドア</span>があります。<br><span class='study-word'>ドア</span>の前に人がいます。<br><span class='study-word'>ドア</span>を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример без слова": "あそこに_____があります。<br>_____の前に人がいます。<br>_____を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример перевод": "Вон там есть дверь.<br>Там стоит человек, а прямо за ним — дверь.<br>Когда я искал дверь, подошёл доброжелательный человек и подсказал, где искать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Когда я искал дверь, подошёл доброжелательный человек и подсказал, где искать., visual focus: дверь, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ドア.png\">",
   "Произношение": "[sound:ドア_слово.mp3][sound:ドア_пример_1.mp3][sound:ドア_пример_2.mp3][sound:ドア_пример_3.mp3]",
   "Заметки": "Слово из урока 10 Minna no Nihongo. Её открывают, чтобы войти в комнату.",
   "Кандзи-разбор": "Кандзи нет.",

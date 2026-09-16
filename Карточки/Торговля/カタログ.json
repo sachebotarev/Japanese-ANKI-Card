@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>カタログ</span>です。<br><span class='study-word'>カタログ</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>カタログ</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это каталог.<br>Каталог находится на столе.<br>Завтра мне понадобится каталог, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится каталог, поэтому я положил это в сумку, чтобы не забыть., visual focus: каталог, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_カタログ.png\">",
   "Произношение": "[sound:カタログ_слово.mp3][sound:カタログ_пример_1.mp3][sound:カタログ_пример_2.mp3][sound:カタログ_пример_3.mp3]",
   "Заметки": "Слово из урока 15 Minna no Nihongo. В нём представлены товары и их характеристики.",
   "Кандзи-разбор": "Кандзи нет.",

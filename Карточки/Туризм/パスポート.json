@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>パスポート</span>です。<br><span class='study-word'>パスポート</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>パスポート</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это заграничный паспорт.<br>Заграничный паспорт находится на столе.<br>Завтра мне понадобится заграничный паспорт, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится заграничный паспорт, поэтому я положил это в сумку, чтобы не забыть., visual focus: заграничный паспорт, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_パスポート.png\">",
   "Произношение": "[sound:パスポート_слово.mp3][sound:パスポート_пример_1.mp3][sound:パスポート_пример_2.mp3][sound:パスポート_пример_3.mp3]",
   "Заметки": "Слово из урока 14 Minna no Nihongo. Документ для пересечения границы.",
   "Кандзи-разбор": "Кандзи нет.",
