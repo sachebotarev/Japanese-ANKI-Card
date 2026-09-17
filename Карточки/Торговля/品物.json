@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>品物</span>です。<br>この店で<span class='study-word'>品物</span>を売っています。<br>明日使うので、<span class='study-word'>品物</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это товар.<br>В этом магазине продают товар.<br>Завтра мне понадобится товар, поэтому я купил и принёс домой товар.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится товар, поэтому я купил и принёс домой товар., visual focus: товар; вещь, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_品物.png\">",
   "Произношение": "[sound:品物_слово.mp3][sound:品物_пример_1.mp3][sound:品物_пример_2.mp3][sound:品物_пример_3.mp3]",
   "Заметки": "Слово из урока 28 Minna no Nihongo. Предмет, который продают или передают покупателю.",
   "Кандзи-разбор": "品 — изделие; 物 — вещь",

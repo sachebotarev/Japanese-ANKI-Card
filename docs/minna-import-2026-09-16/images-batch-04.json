@@ -1,0 +1,482 @@
+[
+  {
+    "index": 293,
+    "word": "宇宙飛行士",
+    "path": "Карточки/Профессии/宇宙飛行士.json",
+    "source_id": 1549518882036,
+    "third": "仕事のことを聞きたかったので、<span class='study-word'>宇宙飛行士</span>に会って、いろいろ教えてもらいました。",
+    "translation": "Я хотел узнать о работе, поэтому встретил специалиста — космонавта — и получил от него много полезных объяснений.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел узнать о работе, поэтому встретил специалиста — космонавта — и получил от него много полезных объяснений., visual focus: космонавт, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680585,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 宇宙飛行士. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two people, visitor interviewing an astronaut at a space training center, astronaut in recognizable white spacesuit holding helmet and explaining equipment, curious visitor listening, astronaut dominant foreground, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4366f273-f1af-4b81-aeba-3af9fbb29c2a.png",
+    "image_path": "Картинки/Профессии/宇宙飛行士.png",
+    "media": {
+      "filename": "japanese_words_宇宙飛行士.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_宇宙飛行士.png",
+      "size": 2364382,
+      "message": "Successfully stored media file \"japanese_words_宇宙飛行士.png\" (2364382 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_宇宙飛行士.png",
+        "actual_filename": "japanese_words_宇宙飛行士.png"
+      }
+    }
+  },
+  {
+    "index": 296,
+    "word": "港",
+    "path": "Карточки/Транспорт/港.json",
+    "source_id": 1549519786982,
+    "third": "<span class='study-word'>港</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить порт, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить порт, я выяснил, где это находится, и встретился с другом на станции., visual focus: порт, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680586,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 港. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends only at a waterfront station exit, consulting a physical map without labels before visiting the harbor, expansive harbor with docks cranes moored ships and water dominates background, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-0a3ad5b8-ee9f-4ce9-ac5c-dd2cf6f8ab97.png",
+    "image_path": "Картинки/Транспорт/港.png",
+    "media": {
+      "filename": "japanese_words_港.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_港.png",
+      "size": 2348434,
+      "message": "Successfully stored media file \"japanese_words_港.png\" (2348434 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_港.png",
+        "actual_filename": "japanese_words_港.png"
+      }
+    }
+  },
+  {
+    "index": 301,
+    "word": "レバー",
+    "path": "Карточки/Электроника/レバー.json",
+    "source_id": 1549520266308,
+    "third": "明日使うので、<span class='study-word'>レバー</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится рычаг, поэтому я купил и принёс домой рычаг.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится рычаг, поэтому я купил и принёс домой рычаг., visual focus: рычаг, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680587,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for レバー. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking a newly purchased mechanical control lever, metal lever arm with black grip and pivot base resting on table beside shopping bag, close focus on lever, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-904f1ab6-ddb4-48b2-9230-6aec2813fe34.png",
+    "image_path": "Картинки/Электроника/レバー.png",
+    "media": {
+      "filename": "japanese_words_レバー.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_レバー.png",
+      "size": 2164900,
+      "message": "Successfully stored media file \"japanese_words_レバー.png\" (2164900 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_レバー.png",
+        "actual_filename": "japanese_words_レバー.png"
+      }
+    }
+  },
+  {
+    "index": 302,
+    "word": "カーテン",
+    "path": "Карточки/Жилище/カーテン.json",
+    "source_id": 1549520288737,
+    "third": "明日使うので、<span class='study-word'>カーテン</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится шторы, поэтому я купил и принёс домой шторы.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится шторы, поэтому я купил и принёс домой шторы., visual focus: шторы, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680588,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for カーテン. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unfolding newly purchased long fabric curtains from a shopping bag beside a bare window, curtain fabric and hanging loops prominent, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-479cb778-162b-4243-976a-d2e27c824cf3.png",
+    "image_path": "Картинки/Жилище/カーテン.png",
+    "media": {
+      "filename": "japanese_words_カーテン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_カーテン.png",
+      "size": 2312955,
+      "message": "Successfully stored media file \"japanese_words_カーテン.png\" (2312955 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_カーテン.png",
+        "actual_filename": "japanese_words_カーテン.png"
+      }
+    }
+  },
+  {
+    "index": 303,
+    "word": "紐",
+    "path": "Карточки/Быт/紐.json",
+    "source_id": 1549520300155,
+    "third": "明日使うので、<span class='study-word'>紐</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится шнур, поэтому я купил и принёс домой шнур.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится шнур, поэтому я купил и принёс домой шнур., visual focus: шнур; верёвка, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680589,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 紐. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home taking a coil of braided cord out of shopping bag onto table, fingers hold loose end showing flexible thin rope texture, coil dominant, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-9f7b88a3-ab94-4993-921b-e9557151eef3.png",
+    "image_path": "Картинки/Быт/紐.png",
+    "media": {
+      "filename": "japanese_words_紐.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_紐.png",
+      "size": 2225363,
+      "message": "Successfully stored media file \"japanese_words_紐.png\" (2225363 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_紐.png",
+        "actual_filename": "japanese_words_紐.png"
+      }
+    }
+  },
+  {
+    "index": 306,
+    "word": "夜行バス",
+    "path": "Карточки/Транспорт/夜行バス.json",
+    "source_id": 1549520461170,
+    "third": "<span class='study-word'>夜行バス</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть ночной автобус вблизи, поэтому вышел наружу и сделал фотографию.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть ночной автобус вблизи, поэтому вышел наружу и сделал фотографию., visual focus: ночной автобус, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680590,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 夜行バス. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one traveler outdoors at night photographing an overnight coach bus at a quiet terminal, long coach with soft illuminated reclining seats behind windows, moonlit sky, bus dominant, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-6716e489-977c-400d-b4ed-28b97a9c8a8c.png",
+    "image_path": "Картинки/Транспорт/夜行バス.png",
+    "media": {
+      "filename": "japanese_words_夜行バス.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_夜行バス.png",
+      "size": 2226760,
+      "message": "Successfully stored media file \"japanese_words_夜行バス.png\" (2226760 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_夜行バス.png",
+        "actual_filename": "japanese_words_夜行バス.png"
+      }
+    }
+  },
+  {
+    "index": 307,
+    "word": "旅行社",
+    "path": "Карточки/Туризм/旅行社.json",
+    "source_id": 1549520491704,
+    "third": "<span class='study-word'>旅行社</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить туристическое агентство, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить туристическое агентство, я выяснил, где это находится, и встретился с другом на станции., visual focus: туристическое агентство, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680591,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 旅行社. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends meeting at station exit beside a travel agency storefront, consulting an unlabeled map, agency office visible through glass with service desks globe airplane model and beach mountain picture posters without lettering, focus agency, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-da003b28-9e7a-48e2-8787-bcdd95ac6718.png",
+    "image_path": "Картинки/Туризм/旅行社.png",
+    "media": {
+      "filename": "japanese_words_旅行社.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_旅行社.png",
+      "size": 2336592,
+      "message": "Successfully stored media file \"japanese_words_旅行社.png\" (2336592 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_旅行社.png",
+        "actual_filename": "japanese_words_旅行社.png"
+      }
+    }
+  },
+  {
+    "index": 309,
+    "word": "スキー場",
+    "path": "Карточки/Спорт/スキー場.json",
+    "source_id": 1549520642087,
+    "third": "<span class='study-word'>スキー場</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить горнолыжный курорт, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить горнолыжный курорт, я выяснил, где это находится, и встретился с другом на станции., visual focus: горнолыжный курорт, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680592,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for スキー場. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends carrying skis meeting at a mountain train station, examining a map without labels before going skiing, ski resort with broad snowy pistes and chairlifts dominates landscape, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-0f2f9a4c-1e3d-42ce-9f1d-6215483697b6.png",
+    "image_path": "Картинки/Спорт/スキー場.png",
+    "media": {
+      "filename": "japanese_words_スキー場.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_スキー場.png",
+      "size": 2785028,
+      "message": "Successfully stored media file \"japanese_words_スキー場.png\" (2785028 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_スキー場.png",
+        "actual_filename": "japanese_words_スキー場.png"
+      }
+    }
+  },
+  {
+    "index": 330,
+    "word": "乗り物",
+    "path": "Карточки/Транспорт/乗り物.json",
+    "source_id": 1549948425908,
+    "third": "<span class='study-word'>乗り物</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть транспортное средство вблизи, поэтому вышел наружу и сделал фотографию.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть транспортное средство вблизи, поэтому вышел наружу и сделал фотографию., visual focus: транспортное средство, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680593,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 乗り物. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one person outdoors photographing vehicles in a transport plaza, physical city bus tram and bicycle clearly visible, bus prominent foreground, scene conveys means of transport, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-d4088671-ffaf-489f-88b6-58cb47fc73a6.png",
+    "image_path": "Картинки/Транспорт/乗り物.png",
+    "media": {
+      "filename": "japanese_words_乗り物.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_乗り物.png",
+      "size": 2669557,
+      "message": "Successfully stored media file \"japanese_words_乗り物.png\" (2669557 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_乗り物.png",
+        "actual_filename": "japanese_words_乗り物.png"
+      }
+    }
+  },
+  {
+    "index": 333,
+    "word": "汽車",
+    "path": "Карточки/Транспорт/汽車.json",
+    "source_id": 1549948642941,
+    "third": "<span class='study-word'>汽車</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть поезд вблизи, поэтому вышел наружу и сделал фотографию.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть поезд вблизи, поэтому вышел наружу и сделал фотографию., visual focus: поезд; паровоз, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680594,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 汽車. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one traveler photographing a large black steam locomotive from safe platform, physical locomotive driving wheels connecting rods chimney and white steam dominate image, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-77b7bcde-999d-4877-b4d4-c34a2495a873.png",
+    "image_path": "Картинки/Транспорт/汽車.png",
+    "media": {
+      "filename": "japanese_words_汽車.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_汽車.png",
+      "size": 2712478,
+      "message": "Successfully stored media file \"japanese_words_汽車.png\" (2712478 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_汽車.png",
+        "actual_filename": "japanese_words_汽車.png"
+      }
+    }
+  },
+  {
+    "index": 334,
+    "word": "汽船",
+    "path": "Карточки/Транспорт/汽船.json",
+    "source_id": 1549948697692,
+    "third": "<span class='study-word'>汽船</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть пароход вблизи, поэтому вышел наружу и сделал фотографию.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть пароход вблизи, поэтому вышел наружу и сделал фотографию., visual focus: пароход, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680595,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 汽船. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one traveler photographing a classic passenger steamship from pier, large physical ship with smokestack emitting light steam and visible paddle wheel, ship dominant, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4ebfae1a-75b9-405e-afa1-17635f8e6a3f.png",
+    "image_path": "Картинки/Транспорт/汽船.png",
+    "media": {
+      "filename": "japanese_words_汽船.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_汽船.png",
+      "size": 2419829,
+      "message": "Successfully stored media file \"japanese_words_汽船.png\" (2419829 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_汽船.png",
+        "actual_filename": "japanese_words_汽船.png"
+      }
+    }
+  },
+  {
+    "index": 336,
+    "word": "ペット",
+    "path": "Карточки/Природа/ペット.json",
+    "source_id": 1549952016686,
+    "third": "<span class='study-word'>ペット</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть домашнего питомца, я подошёл немного ближе и сделал фотографию.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы лучше видеть домашнего питомца, я подошёл немного ближе и сделал фотографию., visual focus: домашний питомец, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680596,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ペット. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one person crouching close to photograph their pet dog in a cozy home, friendly small dog with collar beside its bed and chew toy, focus dog, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-e7e10c00-6741-45c3-b118-085fd06f028b.png",
+    "image_path": "Картинки/Природа/ペット.png",
+    "media": {
+      "filename": "japanese_words_ペット.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ペット.png",
+      "size": 2338921,
+      "message": "Successfully stored media file \"japanese_words_ペット.png\" (2338921 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ペット.png",
+        "actual_filename": "japanese_words_ペット.png"
+      }
+    }
+  },
+  {
+    "index": 338,
+    "word": "マンション",
+    "path": "Карточки/Жилище/マンション.json",
+    "source_id": 1549952393257,
+    "third": "<span class='study-word'>マンション</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить многоквартирный дом, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить многоквартирный дом, я выяснил, где это находится, и встретился с другом на станции., visual focus: многоквартирный дом, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680597,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for マンション. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends meeting at train station exit examining a map without lettering, looking toward a modern Japanese concrete apartment building with many stacked balconies, building dominant, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-66ea743a-31bf-42c4-9ba4-c572ce5dc715.png",
+    "image_path": "Картинки/Жилище/マンション.png",
+    "media": {
+      "filename": "japanese_words_マンション.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_マンション.png",
+      "size": 2502356,
+      "message": "Successfully stored media file \"japanese_words_マンション.png\" (2502356 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_マンション.png",
+        "actual_filename": "japanese_words_マンション.png"
+      }
+    }
+  },
+  {
+    "index": 339,
+    "word": "キッチン",
+    "path": "Карточки/Жилище/キッチン.json",
+    "source_id": 1549952425274,
+    "third": "<span class='study-word'>キッチン</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить кухню, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить кухню, я выяснил, где это находится, и встретился с другом на станции., visual focus: кухня, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680598,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for キッチン. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends arriving together to visit a modern cooking studio kitchen after meeting at station, one holds folded map without text, kitchen island sink stove cabinets cookware dominate room, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4fd88d65-1e8d-4cce-bcdd-ba9fcdae16cc.png",
+    "image_path": "Картинки/Жилище/キッチン.png",
+    "media": {
+      "filename": "japanese_words_キッチン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_キッチン.png",
+      "size": 2195998,
+      "message": "Successfully stored media file \"japanese_words_キッチン.png\" (2195998 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_キッチン.png",
+        "actual_filename": "japanese_words_キッチン.png"
+      }
+    }
+  },
+  {
+    "index": 340,
+    "word": "パーティールーム",
+    "path": "Карточки/Жилище/パーティールーム.json",
+    "source_id": 1549952475139,
+    "third": "<span class='study-word'>パーティールーム</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить зал для вечеринок, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить зал для вечеринок, я выяснил, где это находится, и встретился с другом на станции., visual focus: зал для вечеринок, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680599,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for パーティールーム. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends with a folded map arriving at a party room after meeting at station, large room with balloons streamers buffet table and grouped chairs, no other people, festive room dominant, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ee0e41a1-5be0-4f85-9e70-92e33eeb752c.png",
+    "image_path": "Картинки/Жилище/パーティールーム.png",
+    "media": {
+      "filename": "japanese_words_パーティールーム.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_パーティールーム.png",
+      "size": 2263120,
+      "message": "Successfully stored media file \"japanese_words_パーティールーム.png\" (2263120 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_パーティールーム.png",
+        "actual_filename": "japanese_words_パーティールーム.png"
+      }
+    }
+  },
+  {
+    "index": 344,
+    "word": "本棚",
+    "path": "Карточки/Жилище/本棚.json",
+    "source_id": 1549952651504,
+    "third": "明日使うので、<span class='study-word'>本棚</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится книжный шкаф, поэтому я купил и принёс домой книжный шкаф.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится книжный шкаф, поэтому я купил и принёс домой книжный шкаф., visual focus: книжный шкаф, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680600,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 本棚. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking a newly purchased wooden bookshelf from protective cardboard, upright bookshelf with clear empty shelves dominant, person removes packing material, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-55aaea6b-6803-40bb-8ea1-f9fbba9440c0.png",
+    "image_path": "Картинки/Жилище/本棚.png",
+    "media": {
+      "filename": "japanese_words_本棚.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_本棚.png",
+      "size": 2072024,
+      "message": "Successfully stored media file \"japanese_words_本棚.png\" (2072024 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_本棚.png",
+        "actual_filename": "japanese_words_本棚.png"
+      }
+    }
+  },
+  {
+    "index": 355,
+    "word": "台所",
+    "path": "Карточки/Жилище/台所.json",
+    "source_id": 1549954886813,
+    "third": "<span class='study-word'>台所</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить кухню, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить кухню, я выяснил, где это находится, и встретился с другом на станции., visual focus: кухня, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680601,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 台所. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends with a folded map visiting a traditional Japanese home kitchen after meeting at station, compact cooking area with sink gas stove rice cooker wooden cabinets pots dominates scene, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-808aae95-0ab0-43a7-9ca9-1373f75d1c71.png",
+    "image_path": "Картинки/Жилище/台所.png",
+    "media": {
+      "filename": "japanese_words_台所.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_台所.png",
+      "size": 2281299,
+      "message": "Successfully stored media file \"japanese_words_台所.png\" (2281299 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_台所.png",
+        "actual_filename": "japanese_words_台所.png"
+      }
+    }
+  },
+  {
+    "index": 360,
+    "word": "ガム",
+    "path": "Карточки/Еда/ガム.json",
+    "source_id": 1549955575195,
+    "third": "眠くなったので、店で<span class='study-word'>ガム</span>を買って、少しかんでから勉強を続けました。",
+    "translation": "Мне захотелось спать, поэтому я купил жвачку в магазине, немного пожевал и продолжил заниматься.",
+    "prompt_old": "anime illustration, square 1:1, one student at a desk, chewing gum from an open gum packet beside a notebook, evening study room, visual focus on gum and chewing, no text, no letters, no watermark",
+    "note_id": 1789535680602,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ガム. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one sleepy student at desk chewing gum while returning to study, hand holding unwrapped small gum piece near mouth, open plain gum packet and gum pieces prominent foreground beside notebook, evening desk lamp, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-8cec70aa-3838-4666-845a-5a47f7f57986.png",
+    "image_path": "Картинки/Еда/ガム.png",
+    "media": {
+      "filename": "japanese_words_ガム.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ガム.png",
+      "size": 1858666,
+      "message": "Successfully stored media file \"japanese_words_ガム.png\" (1858666 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ガム.png",
+        "actual_filename": "japanese_words_ガム.png"
+      }
+    }
+  },
+  {
+    "index": 361,
+    "word": "品物",
+    "path": "Карточки/Торговля/品物.json",
+    "source_id": 1549955631743,
+    "third": "明日使うので、<span class='study-word'>品物</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится товар, поэтому я купил и принёс домой товар.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится товар, поэтому я купил и принёс домой товар., visual focus: товар; вещь, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680603,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 品物. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking newly bought goods from shopping bags, useful physical items neatly arranged on table: mug folded towel and small desk lamp, merchandise dominant, no price labels, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-c78950ca-72b8-4a22-9a0a-9f02ebfe4690.png",
+    "image_path": "Картинки/Торговля/品物.png",
+    "media": {
+      "filename": "japanese_words_品物.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_品物.png",
+      "size": 2079115,
+      "message": "Successfully stored media file \"japanese_words_品物.png\" (2079115 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_品物.png",
+        "actual_filename": "japanese_words_品物.png"
+      }
+    }
+  },
+  {
+    "index": 364,
+    "word": "ドラマ",
+    "path": "Карточки/Телевидение/ドラマ.json",
+    "source_id": 1549955767469,
+    "third": "<span class='study-word'>ドラマ</span>を見るのは初めてだったので、友達にいろいろ説明してもらいました。",
+    "translation": "Я впервые видел телесериал, поэтому попросил друга объяснить мне разные детали.",
+    "prompt_old": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я впервые видел телесериал, поэтому попросил друга объяснить мне разные детали., visual focus: телесериал; телевизионная драма, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+    "note_id": 1789535680604,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ドラマ. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends sitting on couch watching a live action television drama for first time, one explains with gesture while other listens, large TV prominently displays exactly two adult actors in an emotional scene in a hospital corridor, no subtitles, natural poses, detailed hands, warm cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-759e2df0-2e24-486b-9591-03bc3687e8d4.png",
+    "image_path": "Картинки/Телевидение/ドラマ.png",
+    "media": {
+      "filename": "japanese_words_ドラマ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ドラマ.png",
+      "size": 1899714,
+      "message": "Successfully stored media file \"japanese_words_ドラマ.png\" (1899714 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ドラマ.png",
+        "actual_filename": "japanese_words_ドラマ.png"
+      }
+    }
+  }
+]

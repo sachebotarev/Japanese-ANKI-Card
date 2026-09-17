@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>カーテン</span>です。<br>この店で<span class='study-word'>カーテン</span>を売っています。<br>明日使うので、<span class='study-word'>カーテン</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это шторы.<br>В этом магазине продают шторы.<br>Завтра мне понадобится шторы, поэтому я купил и принёс домой шторы.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится шторы, поэтому я купил и принёс домой шторы., visual focus: шторы, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_カーテン.png\">",
   "Произношение": "[sound:カーテン_слово.mp3][sound:カーテン_пример_1.mp3][sound:カーテン_пример_2.mp3][sound:カーテン_пример_3.mp3]",
   "Заметки": "Слово из урока 35 Minna no Nihongo. Ткань, которой закрывают окно.",
   "Кандзи-разбор": "Кандзи нет.",
