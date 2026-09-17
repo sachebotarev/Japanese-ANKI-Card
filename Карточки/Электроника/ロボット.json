@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ロボット</span>です。<br>この店で<span class='study-word'>ロボット</span>を売っています。<br>明日使うので、<span class='study-word'>ロボット</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это робот.<br>В этом магазине продают робота.<br>Завтра мне понадобится робот, поэтому я купил и принёс домой робота.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится робот, поэтому я купил и принёс домой робота., visual focus: робот, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ロボット.png\">",
   "Произношение": "[sound:ロボット_слово.mp3][sound:ロボット_пример_1.mp3][sound:ロボット_пример_2.mp3][sound:ロボット_пример_3.mp3]",
   "Заметки": "Слово из урока 22 Minna no Nihongo. Машина, выполняющая действия по программе.",
   "Кандзи-разбор": "Кандзи нет.",

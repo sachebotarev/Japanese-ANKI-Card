@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>ケーキ</span>を食べます。<br>昨日、友達と<span class='study-word'>ケーキ</span>を食べました。<br>お腹がすいていたので、店で<span class='study-word'>ケーキ</span>を買って、公園で食べました。",
   "Пример без слова": "_____を食べます。<br>昨日、友達と_____を食べました。<br>お腹がすいていたので、店で_____を買って、公園で食べました。",
   "Пример перевод": "Я ем торт.<br>Вчера я ел торт с другом.<br>Я был голоден, поэтому купил торт в магазине и съел в парке.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я был голоден, поэтому купил торт в магазине и съел в парке., visual focus: торт; пирожное, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ケーキ.png\">",
   "Произношение": "[sound:ケーキ_слово.mp3][sound:ケーキ_пример_1.mp3][sound:ケーキ_пример_2.mp3][sound:ケーキ_пример_3.mp3]",
   "Заметки": "Слово из урока 22 Minna no Nihongo. Сладкая выпечка, часто с кремом.",
   "Кандзи-разбор": "Кандзи нет.",

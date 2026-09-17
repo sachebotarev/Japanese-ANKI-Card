@@ -1,0 +1,442 @@
+[
+  {
+    "index": 187,
+    "word": "時刻表",
+    "path": "Карточки/Транспорт/時刻表.json",
+    "source_id": 1508335788045,
+    "third": "Завтра мне понадобится расписание движения, поэтому я положил это в сумку, чтобы не забыть.",
+    "note_id": 1789535680565,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one traveler at home packing a folded physical train timetable into an open shoulder bag for tomorrow, timetable dominates foreground with a structured grid and rows of tiny clock-face pictograms and a train pictogram, no readable text or numerals. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-12b84dcd-11b7-436c-82b8-30da21bc4194.png",
+    "image_path": "Картинки/Транспорт/時刻表.png",
+    "media": {
+      "filename": "japanese_words_時刻表.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_時刻表.png",
+      "size": 2347420,
+      "message": "Successfully stored media file \"japanese_words_時刻表.png\" (2347420 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_時刻表.png",
+        "actual_filename": "japanese_words_時刻表.png"
+      }
+    }
+  },
+  {
+    "index": 188,
+    "word": "製品",
+    "path": "Карточки/Торговля/製品.json",
+    "source_id": 1508335876948,
+    "third": "Завтра мне понадобится изделие, поэтому я купил и принёс домой изделие.",
+    "note_id": 1789535680566,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home unpacking a newly purchased manufactured product from plain protective retail packaging, a polished electric kettle as a tangible finished consumer product dominates foreground, molded casing and handle clearly visible, plain shopping bag nearby. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ea1a8221-95c6-4f25-af66-b4f152a0a039.png",
+    "image_path": "Картинки/Торговля/製品.png",
+    "media": {
+      "filename": "japanese_words_製品.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_製品.png",
+      "size": 2067702,
+      "message": "Successfully stored media file \"japanese_words_製品.png\" (2067702 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_製品.png",
+        "actual_filename": "japanese_words_製品.png"
+      }
+    }
+  },
+  {
+    "index": 220,
+    "word": "ビザ",
+    "path": "Карточки/Туризм/ビザ.json",
+    "source_id": 1525158573665,
+    "third": "Завтра мне понадобится виза, поэтому я положил это в сумку, чтобы не забыть.",
+    "note_id": 1789535680567,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one traveler at home placing an open passport with a prominent colorful travel visa sticker into a travel bag, close foreground focus on the visa page, visa sticker with decorative security pattern, photo silhouette and round stamp shapes but no letters or numbers. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-eac54e9d-ab93-4b45-84c6-cd72466e884c.png",
+    "image_path": "Картинки/Туризм/ビザ.png",
+    "media": {
+      "filename": "japanese_words_ビザ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ビザ.png",
+      "size": 2172515,
+      "message": "Successfully stored media file \"japanese_words_ビザ.png\" (2172515 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ビザ.png",
+        "actual_filename": "japanese_words_ビザ.png"
+      }
+    }
+  },
+  {
+    "index": 231,
+    "word": "自動車",
+    "path": "Карточки/Транспорт/自動車.json",
+    "source_id": 1525159796908,
+    "third": "Я хотел увидеть автомобиль вблизи, поэтому вышел наружу и сделал фотографию.",
+    "note_id": 1789535680568,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult outdoors photographing a parked passenger automobile at close range, complete clean blue sedan dominates foreground, person holding camera near the left edge, quiet street, blank license plate, no brands. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-62888ca8-0eb5-4eb5-96b5-f72d54bdc83f.png",
+    "image_path": "Картинки/Транспорт/自動車.png",
+    "media": {
+      "filename": "japanese_words_自動車.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_自動車.png",
+      "size": 2378085,
+      "message": "Successfully stored media file \"japanese_words_自動車.png\" (2378085 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_自動車.png",
+        "actual_filename": "japanese_words_自動車.png"
+      }
+    }
+  },
+  {
+    "index": 234,
+    "word": "アニメ",
+    "path": "Карточки/Кинематограф/アニメ.json",
+    "source_id": 1525159968682,
+    "third": "Я впервые видел аниме, поэтому попросил друга объяснить мне разные детали.",
+    "note_id": 1789535680569,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends in a living room watching an anime for the first time, one explaining and gesturing toward a large television, television dominates showing a colorful clearly hand-drawn anime fantasy heroine with large expressive eyes and a tiny magical creature, no subtitles. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-8b054300-b94e-44b5-b693-ed5217e5047c.png",
+    "image_path": "Картинки/Кинематограф/アニメ.png",
+    "media": {
+      "filename": "japanese_words_アニメ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_アニメ.png",
+      "size": 2097582,
+      "message": "Successfully stored media file \"japanese_words_アニメ.png\" (2097582 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_アニメ.png",
+        "actual_filename": "japanese_words_アニメ.png"
+      }
+    }
+  },
+  {
+    "index": 240,
+    "word": "コート",
+    "path": "Карточки/Одежда/コート.json",
+    "source_id": 1525161482643,
+    "third": "Завтра я ухожу из дома, поэтому достал обновку — пальто — и заранее положил рядом с сумкой.",
+    "note_id": 1789535680570,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home preparing for tomorrow's outing, laying a new long wool coat with collar and front buttons beside a travel bag, coat dominates foreground on a bed, calm evening light. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-1aba10d2-f0ea-49b6-b8cb-6a86789508a3.png",
+    "image_path": "Картинки/Одежда/コート.png",
+    "media": {
+      "filename": "japanese_words_コート.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_コート.png",
+      "size": 2301607,
+      "message": "Successfully stored media file \"japanese_words_コート.png\" (2301607 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_コート.png",
+        "actual_filename": "japanese_words_コート.png"
+      }
+    }
+  },
+  {
+    "index": 241,
+    "word": "セーター",
+    "path": "Карточки/Одежда/セーター.json",
+    "source_id": 1525161498949,
+    "third": "Завтра я ухожу из дома, поэтому достал обновку — свитер — и заранее положил рядом с сумкой.",
+    "note_id": 1789535680571,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home preparing for tomorrow's outing, laying a new knitted pullover sweater beside a travel bag, sweater dominates foreground with clearly visible ribbed collar sleeves and cable-knit texture, calm evening light. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-bf4f4a97-626a-4108-b3df-75d0e047a891.png",
+    "image_path": "Картинки/Одежда/セーター.png",
+    "media": {
+      "filename": "japanese_words_セーター.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_セーター.png",
+      "size": 2447613,
+      "message": "Successfully stored media file \"japanese_words_セーター.png\" (2447613 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_セーター.png",
+        "actual_filename": "japanese_words_セーター.png"
+      }
+    }
+  },
+  {
+    "index": 242,
+    "word": "スーツ",
+    "path": "Карточки/Одежда/スーツ.json",
+    "source_id": 1525161519613,
+    "third": "Завтра я ухожу из дома, поэтому достал обновку — костюм — и заранее положил рядом с сумкой.",
+    "note_id": 1789535680572,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home preparing for tomorrow's outing, arranging a new matching formal suit jacket and trousers beside a work bag, complete suit dominates foreground on a bed, clear lapels and tailored shape. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-da7a3303-bc4f-4877-8b2e-b938c98bede0.png",
+    "image_path": "Картинки/Одежда/スーツ.png",
+    "media": {
+      "filename": "japanese_words_スーツ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_スーツ.png",
+      "size": 1969257,
+      "message": "Successfully stored media file \"japanese_words_スーツ.png\" (1969257 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_スーツ.png",
+        "actual_filename": "japanese_words_スーツ.png"
+      }
+    }
+  },
+  {
+    "index": 243,
+    "word": "ケーキ",
+    "path": "Карточки/Еда/ケーキ.json",
+    "source_id": 1525161570417,
+    "third": "Я был голоден, поэтому купил торт в магазине и съел в парке.",
+    "note_id": 1789535680573,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult seated at a park picnic table eating a slice of freshly purchased strawberry cream cake, cake dominates foreground on plain bakery packaging with layers of sponge and cream and bright strawberries, fork in hand, plain shopping bag. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-2e4fef34-04a5-435c-964f-46352a8e3348.png",
+    "image_path": "Картинки/Еда/ケーキ.png",
+    "media": {
+      "filename": "japanese_words_ケーキ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ケーキ.png",
+      "size": 2264763,
+      "message": "Successfully stored media file \"japanese_words_ケーキ.png\" (2264763 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ケーキ.png",
+        "actual_filename": "japanese_words_ケーキ.png"
+      }
+    }
+  },
+  {
+    "index": 244,
+    "word": "ロボット",
+    "path": "Карточки/Электроника/ロボット.json",
+    "source_id": 1525161620343,
+    "third": "Завтра мне понадобится робот, поэтому я купил и принёс домой робота.",
+    "note_id": 1789535680574,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home unpacking a newly bought small humanoid robot from a plain cardboard box, physical robot dominates foreground with articulated arms legs and a friendly face panel, no letters or logos, plain shopping bag nearby. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7278b11f-27d6-42c9-abfa-8129dbab1672.png",
+    "image_path": "Картинки/Электроника/ロボット.png",
+    "media": {
+      "filename": "japanese_words_ロボット.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ロボット.png",
+      "size": 1984356,
+      "message": "Successfully stored media file \"japanese_words_ロボット.png\" (1984356 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ロボット.png",
+        "actual_filename": "japanese_words_ロボット.png"
+      }
+    }
+  },
+  {
+    "index": 251,
+    "word": "ダイニングキッチン",
+    "path": "Карточки/Жилище/ダイニングキッチン.json",
+    "source_id": 1525161882201,
+    "third": "Перед тем как посетить кухню-столовую, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680575,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends arriving together at an apartment after meeting at the station, doorway view reveals a spacious combined dining kitchen, kitchen counter with stove and sink connected directly to a dining table and chairs in one open room, room dominates composition. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-5ef14371-7770-4f6a-97e3-a6c4ee6f8e9e.png",
+    "image_path": "Картинки/Жилище/ダイニングキッチン.png",
+    "media": {
+      "filename": "japanese_words_ダイニングキッチン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ダイニングキッチン.png",
+      "size": 2255422,
+      "message": "Successfully stored media file \"japanese_words_ダイニングキッチン.png\" (2255422 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ダイニングキッチン.png",
+        "actual_filename": "japanese_words_ダイニングキッチン.png"
+      }
+    }
+  },
+  {
+    "index": 252,
+    "word": "和室",
+    "path": "Карточки/Жилище/和室.json",
+    "source_id": 1525161932380,
+    "third": "Перед тем как посетить комнату в японском стиле, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680576,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends arriving together to visit a traditional Japanese room after meeting at the station, broad doorway view of a washitsu with tatami flooring, shoji paper sliding screens, low wooden table and floor cushions, room dominates composition. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-8982a258-cd76-4ae9-9b21-5989a91c7ad1.png",
+    "image_path": "Картинки/Жилище/和室.png",
+    "media": {
+      "filename": "japanese_words_和室.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_和室.png",
+      "size": 2276520,
+      "message": "Successfully stored media file \"japanese_words_和室.png\" (2276520 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_和室.png",
+        "actual_filename": "japanese_words_和室.png"
+      }
+    }
+  },
+  {
+    "index": 253,
+    "word": "押し入れ",
+    "path": "Карточки/Жилище/押し入れ.json",
+    "source_id": 1525161959026,
+    "third": "Завтра мне понадобится встроенный стенной шкаф, поэтому я купил и принёс домой встроенный стенной шкаф.",
+    "note_id": 1789535680577,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home assembling a newly purchased traditional built-in Japanese closet kit inside a wall recess, oshiire dominates foreground with two sliding fusuma panels, deep upper and lower compartments and neatly folded futon, plain flat-pack packaging nearby. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ab28f8b9-278e-46a3-be35-68e0fa2eb3ad.png",
+    "image_path": "Картинки/Жилище/押し入れ.png",
+    "media": {
+      "filename": "japanese_words_押し入れ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_押し入れ.png",
+      "size": 2030269,
+      "message": "Successfully stored media file \"japanese_words_押し入れ.png\" (2030269 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_押し入れ.png",
+        "actual_filename": "japanese_words_押し入れ.png"
+      }
+    }
+  },
+  {
+    "index": 272,
+    "word": "運動会",
+    "path": "Карточки/Спорт/運動会.json",
+    "source_id": 1548145898671,
+    "third": "Перед тем как посетить спортивный праздник, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680578,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends meeting near a railway station before a school sports festival, foreground friends checking a blank route map, background school sports ground dominates with running lanes, relay batons and colorful pennant strings, exactly four distant athletes taking part in a relay, six people total. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-c8ea3e6a-4428-49ac-9c27-2e1953322df2.png",
+    "image_path": "Картинки/Спорт/運動会.png",
+    "media": {
+      "filename": "japanese_words_運動会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_運動会.png",
+      "size": 2342899,
+      "message": "Successfully stored media file \"japanese_words_運動会.png\" (2342899 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_運動会.png",
+        "actual_filename": "japanese_words_運動会.png"
+      }
+    }
+  },
+  {
+    "index": 273,
+    "word": "盆踊り",
+    "path": "Карточки/Традиции/盆踊り.json",
+    "source_id": 1548145957877,
+    "third": "Перед тем как посетить танцы праздника Бон, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680579,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends arriving after meeting at a nearby station to watch Bon Odori, Japanese summer festival at dusk, exactly six yukata-clad dancers forming a circle around a raised wooden yagura with a taiko drum, eight people total, unlettered paper lanterns overhead, traditional dance is the main focus. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-a6cbcb7d-38a6-4d7f-b44e-9fe017f0c420.png",
+    "image_path": "Картинки/Традиции/盆踊り.png",
+    "media": {
+      "filename": "japanese_words_盆踊り.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_盆踊り.png",
+      "size": 2356374,
+      "message": "Successfully stored media file \"japanese_words_盆踊り.png\" (2356374 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_盆踊り.png",
+        "actual_filename": "japanese_words_盆踊り.png"
+      }
+    }
+  },
+  {
+    "index": 274,
+    "word": "フリーマーケット",
+    "path": "Карточки/Торговля/フリーマーケット.json",
+    "source_id": 1548146006022,
+    "third": "Перед тем как посетить блошиный рынок, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680580,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two friends arriving after meeting at a nearby station at a flea market, outdoor secondhand stalls dominate foreground with used books, crockery, clothing and small household objects displayed on folding tables, exactly one vendor behind a stall, three people total, blank book spines and no signs. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-301cf261-8721-410d-9b93-fa623db77987.png",
+    "image_path": "Картинки/Торговля/フリーマーケット.png",
+    "media": {
+      "filename": "japanese_words_フリーマーケット.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_フリーマーケット.png",
+      "size": 2549276,
+      "message": "Successfully stored media file \"japanese_words_フリーマーケット.png\" (2549276 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_フリーマーケット.png",
+        "actual_filename": "japanese_words_フリーマーケット.png"
+      }
+    }
+  },
+  {
+    "index": 287,
+    "word": "瓶",
+    "path": "Карточки/Быт/瓶.json",
+    "source_id": 1549518461883,
+    "third": "Завтра мне понадобится бутылка, поэтому я купил и принёс домой бутылку.",
+    "note_id": 1789535680581,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home unpacking a newly bought empty glass bottle from a plain shopping bag, tall clear bottle with narrow neck and simple cap dominates foreground, glass reflections, no label, warm daylight. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ff48afce-e0ec-4a43-bbf9-a0e1448dae77.png",
+    "image_path": "Картинки/Быт/瓶.png",
+    "media": {
+      "filename": "japanese_words_瓶.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_瓶.png",
+      "size": 2189416,
+      "message": "Successfully stored media file \"japanese_words_瓶.png\" (2189416 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_瓶.png",
+        "actual_filename": "japanese_words_瓶.png"
+      }
+    }
+  },
+  {
+    "index": 288,
+    "word": "缶",
+    "path": "Карточки/Быт/缶.json",
+    "source_id": 1549518509981,
+    "third": "Завтра мне понадобится металлическая банка, поэтому я купил и принёс домой металлическую банку.",
+    "note_id": 1789535680582,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult at home unpacking a newly bought metal can from a plain shopping bag, cylindrical silver tin can dominates foreground with ribbed metal sides and circular pull-tab lid, no label or writing. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-a0aba62d-25a7-4a44-b884-a6c4271bd99d.png",
+    "image_path": "Картинки/Быт/缶.png",
+    "media": {
+      "filename": "japanese_words_缶.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_缶.png",
+      "size": 2048140,
+      "message": "Successfully stored media file \"japanese_words_缶.png\" (2048140 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_缶.png",
+        "actual_filename": "japanese_words_缶.png"
+      }
+    }
+  },
+  {
+    "index": 291,
+    "word": "宇宙船",
+    "path": "Карточки/Транспорт/宇宙船.json",
+    "source_id": 1549518666530,
+    "third": "Я хотел увидеть космический корабль вблизи, поэтому вышел наружу и сделал фотографию.",
+    "note_id": 1789535680583,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly one adult outdoors photographing a spacecraft exhibited at an aerospace museum, full-size white crew capsule with heat shield and small windows dominates foreground on a low display platform, camera visible in person's hands, no words or insignia. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-aeb3e48e-b204-4c27-a8db-95ca61df1f91.png",
+    "image_path": "Картинки/Транспорт/宇宙船.png",
+    "media": {
+      "filename": "japanese_words_宇宙船.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_宇宙船.png",
+      "size": 2375539,
+      "message": "Successfully stored media file \"japanese_words_宇宙船.png\" (2375539 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_宇宙船.png",
+        "actual_filename": "japanese_words_宇宙船.png"
+      }
+    }
+  },
+  {
+    "index": 292,
+    "word": "宇宙ステーション",
+    "path": "Карточки/Транспорт/宇宙ステーション.json",
+    "source_id": 1549518745090,
+    "third": "Я впервые видел космическую станцию, поэтому попросил друга объяснить мне разные детали.",
+    "note_id": 1789535680584,
+    "prompt": "Use case: illustration-story. One standalone Japanese vocabulary image, polished high-quality anime illustration, square composition, aspect_ratio 1:1, preferred 512x512. exactly two adult astronauts in a spacecraft observation cabin, one explaining to the other who is seeing it for the first time, through a huge window a detailed orbital space station dominates the view, interconnected cylindrical modules and broad solar-panel wings above Earth's curve, no text or insignia. Clear physical target object and readable action, natural poses, detailed hands, cinematic scene. Absolutely no text, letters, words, numerals, labels, watermark, signatures or logos. Avoid extra people, bad anatomy, deformed hands, extra fingers and blurry focal objects.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4d23e563-e009-4f88-b430-48d631e0884f.png",
+    "image_path": "Картинки/Транспорт/宇宙ステーション.png",
+    "media": {
+      "filename": "japanese_words_宇宙ステーション.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_宇宙ステーション.png",
+      "size": 2637068,
+      "message": "Successfully stored media file \"japanese_words_宇宙ステーション.png\" (2637068 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_宇宙ステーション.png",
+        "actual_filename": "japanese_words_宇宙ステーション.png"
+      }
+    }
+  }
+]
