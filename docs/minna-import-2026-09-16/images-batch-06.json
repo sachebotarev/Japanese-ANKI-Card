@@ -1,0 +1,462 @@
+[
+  {
+    "index": 418,
+    "word": "非常袋",
+    "path": "Карточки/Быт/非常袋.json",
+    "source_id": 1549963131219,
+    "third": "明日使うので、<span class='study-word'>非常袋</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится тревожная сумка, поэтому я купил и принёс домой тревожную сумку.",
+    "note_id": 1789535680625,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 非常袋. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking a newly bought emergency go bag, open sturdy orange backpack with water bottle flashlight first aid pouch foil blanket and packaged food neatly visible, emergency preparedness kit dominant foreground, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-2e6a3efa-0d24-40d1-91ad-17744981a413.png",
+    "image_path": "Картинки/Быт/非常袋.png",
+    "media": {
+      "filename": "japanese_words_非常袋.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_非常袋.png",
+      "size": 2434967,
+      "message": "Successfully stored media file \"japanese_words_非常袋.png\" (2434967 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_非常袋.png",
+        "actual_filename": "japanese_words_非常袋.png"
+      }
+    }
+  },
+  {
+    "index": 421,
+    "word": "懐中電灯",
+    "path": "Карточки/Быт/懐中電灯.json",
+    "source_id": 1549963227546,
+    "third": "明日使うので、<span class='study-word'>懐中電灯</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится карманный фонарик, поэтому я купил и принёс домой карманный фонарик.",
+    "note_id": 1789535680626,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 懐中電灯. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unwrapping a newly bought handheld flashlight from shopping bag, compact metal torch held prominently casting a visible beam on table, focus flashlight, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-483580aa-e8dc-4b1e-a335-0f24d07d4ef0.png",
+    "image_path": "Картинки/Быт/懐中電灯.png",
+    "media": {
+      "filename": "japanese_words_懐中電灯.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_懐中電灯.png",
+      "size": 1969170,
+      "message": "Successfully stored media file \"japanese_words_懐中電灯.png\" (1969170 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_懐中電灯.png",
+        "actual_filename": "japanese_words_懐中電灯.png"
+      }
+    }
+  },
+  {
+    "index": 429,
+    "word": "結婚式",
+    "path": "Карточки/Семья/結婚式.json",
+    "source_id": 1550041237645,
+    "third": "<span class='study-word'>結婚式</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить свадебную церемонию, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680627,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 結婚式. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly four adults, two formally dressed friends arriving with folded unlabeled map at a wedding ceremony after meeting at station, bride in white gown and groom exchanging rings beneath flower arch, wedding ceremony dominates, no other people, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-6d41738d-62f1-4b58-8558-5b99e6eb05b0.png",
+    "image_path": "Картинки/Семья/結婚式.png",
+    "media": {
+      "filename": "japanese_words_結婚式.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_結婚式.png",
+      "size": 2518298,
+      "message": "Successfully stored media file \"japanese_words_結婚式.png\" (2518298 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_結婚式.png",
+        "actual_filename": "japanese_words_結婚式.png"
+      }
+    }
+  },
+  {
+    "index": 430,
+    "word": "葬式",
+    "path": "Карточки/Традиции/葬式.json",
+    "source_id": 1550041268863,
+    "third": "<span class='study-word'>葬式</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить похороны, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680628,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 葬式. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two adults in respectful black formal clothing arriving with folded map at a Japanese funeral hall after meeting at station, solemn white chrysanthemums incense and closed coffin at altar prominent, no body visible, peaceful dignified atmosphere, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-3d116aac-522c-4419-8744-8e87cc78c691.png",
+    "image_path": "Картинки/Традиции/葬式.png",
+    "media": {
+      "filename": "japanese_words_葬式.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_葬式.png",
+      "size": 2111291,
+      "message": "Successfully stored media file \"japanese_words_葬式.png\" (2111291 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_葬式.png",
+        "actual_filename": "japanese_words_葬式.png"
+      }
+    }
+  },
+  {
+    "index": 431,
+    "word": "式",
+    "path": "Карточки/Традиции/式.json",
+    "source_id": 1550041312306,
+    "third": "<span class='study-word'>式</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить церемонию, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680629,
+    "prompt": "Square 1:1 detailed anime illustration, exactly three adults in formal clothes at a ceremonial hall, two guests in foreground carrying folded map with abstract lines, official at wooden podium beside red ceremonial ribbon and flowers, orderly white chairs, plain red and white curtains behind podium. Single continuous scene, cinematic light, natural hands. All fabric and walls completely unmarked. Absolutely no writing, no kanji, no letters, no symbols, no text, no watermark, no logo.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-56617e8e-d910-47ce-8aa3-cb9ba914bf51.png",
+    "image_path": "Картинки/Традиции/式.png",
+    "media": {
+      "filename": "japanese_words_式.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_式.png",
+      "size": 1825487,
+      "message": "Successfully stored media file \"japanese_words_式.png\" (1825487 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_式.png",
+        "actual_filename": "japanese_words_式.png"
+      }
+    }
+  },
+  {
+    "index": 432,
+    "word": "本社",
+    "path": "Карточки/Работа/本社.json",
+    "source_id": 1550041465807,
+    "third": "<span class='study-word'>本社</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить головной офис, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680630,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 本社. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two businesspeople consulting unlabeled map after meeting at station, large corporate headquarters tower dominant with grand central entrance and company emblem made only of geometric shapes, business district, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-79e457bb-1965-425f-932d-dd8456657aa0.png",
+    "image_path": "Картинки/Работа/本社.png",
+    "media": {
+      "filename": "japanese_words_本社.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_本社.png",
+      "size": 2491933,
+      "message": "Successfully stored media file \"japanese_words_本社.png\" (2491933 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_本社.png",
+        "actual_filename": "japanese_words_本社.png"
+      }
+    }
+  },
+  {
+    "index": 433,
+    "word": "支店",
+    "path": "Карточки/Работа/支店.json",
+    "source_id": 1550041494176,
+    "third": "<span class='study-word'>支店</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить филиал, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680631,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 支店. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two businesspeople consulting unlabeled map after meeting at station outside a small local company branch office, modest street-level office with service counters visible, simple geometric company emblem, small branch office dominant with matching emblem on distant corporate tower, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ecf2f2f8-b7f5-4670-9116-56cc4e6cc7b6.png",
+    "image_path": "Картинки/Работа/支店.png",
+    "media": {
+      "filename": "japanese_words_支店.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_支店.png",
+      "size": 2359417,
+      "message": "Successfully stored media file \"japanese_words_支店.png\" (2359417 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_支店.png",
+        "actual_filename": "japanese_words_支店.png"
+      }
+    }
+  },
+  {
+    "index": 440,
+    "word": "入学試験",
+    "path": "Карточки/Образование/入学試験.json",
+    "source_id": 1550042035033,
+    "third": "<span class='study-word'>入学試験</span>に遅れないように、早く起きて、朝ご飯を食べずに家を出ました。",
+    "translation": "Чтобы не опоздать на вступительный экзамен, я рано встал и вышел из дома, не позавтракав.",
+    "note_id": 1789535680632,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 入学試験. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one student hurrying from home at dawn carrying pencils and a plain exam admission card, untouched breakfast on table by open doorway, large thought vignette of entrance exam room with individual desks and exam sheets but no extra people, focus exam preparation, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ac2e11bf-7572-4609-90dd-af1cfaa1f3d6.png",
+    "image_path": "Картинки/Образование/入学試験.png",
+    "media": {
+      "filename": "japanese_words_入学試験.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_入学試験.png",
+      "size": 2050114,
+      "message": "Successfully stored media file \"japanese_words_入学試験.png\" (2050114 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_入学試験.png",
+        "actual_filename": "japanese_words_入学試験.png"
+      }
+    }
+  },
+  {
+    "index": 442,
+    "word": "村",
+    "path": "Карточки/География/村.json",
+    "source_id": 1550042084887,
+    "third": "<span class='study-word'>村</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить деревню, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680633,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 村. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends at tiny rural railway station studying unlabeled map before visiting village, compact village of traditional houses vegetable gardens and rice paddies dominant beyond platform, hills and soft morning light, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ea7b7a97-39c0-43d6-9689-6cdfa85b60b2.png",
+    "image_path": "Картинки/География/村.png",
+    "media": {
+      "filename": "japanese_words_村.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_村.png",
+      "size": 2714487,
+      "message": "Successfully stored media file \"japanese_words_村.png\" (2714487 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_村.png",
+        "actual_filename": "japanese_words_村.png"
+      }
+    }
+  },
+  {
+    "index": 455,
+    "word": "エンジン",
+    "path": "Карточки/Транспорт/エンジン.json",
+    "source_id": 1550211500911,
+    "third": "明日使うので、<span class='study-word'>エンジン</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится двигатель, поэтому я купил и принёс домой двигатель.",
+    "note_id": 1789535680634,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for エンジン. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult in home garage unpacking newly purchased small gasoline engine from shipping crate, physical metal engine block cylinder fins carburetor and shaft prominent on workbench, no readable markings, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-3c22cb74-7fb3-4e69-a1f2-aa07d0caa605.png",
+    "image_path": "Картинки/Транспорт/エンジン.png",
+    "media": {
+      "filename": "japanese_words_エンジン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_エンジン.png",
+      "size": 2282636,
+      "message": "Successfully stored media file \"japanese_words_エンジン.png\" (2282636 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_エンジン.png",
+        "actual_filename": "japanese_words_エンジン.png"
+      }
+    }
+  },
+  {
+    "index": 471,
+    "word": "ラッキーアイテム",
+    "path": "Карточки/Традиции/ラッキーアイテム.json",
+    "source_id": 1550212020868,
+    "third": "明日使うので、<span class='study-word'>ラッキーアイテム</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится талисман на удачу, поэтому я купил и принёс домой талисман на удачу.",
+    "note_id": 1789535680635,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ラッキーアイテム. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home taking a newly purchased lucky charm from shopping bag, small physical gold four-leaf clover charm on cord prominent in hand, hopeful smile, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ec9f53bb-5c64-4feb-b49b-ba78d86e04ae.png",
+    "image_path": "Картинки/Традиции/ラッキーアイテム.png",
+    "media": {
+      "filename": "japanese_words_ラッキーアイテム.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ラッキーアイテム.png",
+      "size": 2113781,
+      "message": "Successfully stored media file \"japanese_words_ラッキーアイテム.png\" (2113781 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ラッキーアイテム.png",
+        "actual_filename": "japanese_words_ラッキーアイテム.png"
+      }
+    }
+  },
+  {
+    "index": 477,
+    "word": "ボール",
+    "path": "Карточки/Спорт/ボール.json",
+    "source_id": 1550212957151,
+    "third": "明日使うので、<span class='study-word'>ボール</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится мяч, поэтому я купил и принёс домой мяч.",
+    "note_id": 1789535680636,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ボール. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking a newly purchased soccer ball from shopping bag, round black and white ball prominent foreground, preparing sports gear for tomorrow, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-f40e0eb1-1b06-4e3b-af9c-715acd2efabb.png",
+    "image_path": "Картинки/Спорт/ボール.png",
+    "media": {
+      "filename": "japanese_words_ボール.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ボール.png",
+      "size": 1937417,
+      "message": "Successfully stored media file \"japanese_words_ボール.png\" (1937417 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ボール.png",
+        "actual_filename": "japanese_words_ボール.png"
+      }
+    }
+  },
+  {
+    "index": 495,
+    "word": "スポーツクラブ",
+    "path": "Карточки/Спорт/スポーツクラブ.json",
+    "source_id": 1550213987834,
+    "third": "<span class='study-word'>スポーツクラブ</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить спортивный клуб, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680637,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for スポーツクラブ. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly two friends carrying gym bags arriving at sports club after meeting at station, one holds folded unlabeled map, gym interior with treadmills exercise bikes weight racks visible through glass, sports club dominates, no other people, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4b3ae868-3781-49b1-b517-40e845a926be.png",
+    "image_path": "Картинки/Спорт/スポーツクラブ.png",
+    "media": {
+      "filename": "japanese_words_スポーツクラブ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_スポーツクラブ.png",
+      "size": 2563535,
+      "message": "Successfully stored media file \"japanese_words_スポーツクラブ.png\" (2563535 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_スポーツクラブ.png",
+        "actual_filename": "japanese_words_スポーツクラブ.png"
+      }
+    }
+  },
+  {
+    "index": 496,
+    "word": "説明書",
+    "path": "Карточки/Быт/説明書.json",
+    "source_id": 1550214035042,
+    "third": "明日必要なので、<span class='study-word'>説明書</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится инструкция, поэтому я положил это в сумку, чтобы не забыть.",
+    "note_id": 1789535680638,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 説明書. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult putting a physical instruction manual into bag for tomorrow, open booklet prominent with clear assembly diagrams and arrows without letters or numbers, small appliance beside it, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-b572740b-de38-4904-b4e4-98bfe3ced41a.png",
+    "image_path": "Картинки/Быт/説明書.png",
+    "media": {
+      "filename": "japanese_words_説明書.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_説明書.png",
+      "size": 2193440,
+      "message": "Successfully stored media file \"japanese_words_説明書.png\" (2193440 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_説明書.png",
+        "actual_filename": "japanese_words_説明書.png"
+      }
+    }
+  },
+  {
+    "index": 502,
+    "word": "ソース",
+    "path": "Карточки/Еда/ソース.json",
+    "source_id": 1550214265477,
+    "third": "晩ご飯を作ろうと思ったら、<span class='study-word'>ソース</span>がなかったので、買いに行きました。",
+    "translation": "Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — соус, поэтому я пошёл за покупками.",
+    "note_id": 1789535680639,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for ソース. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult in grocery store selecting a bottle of thick brown Japanese sauce after discovering none at home while preparing dinner, sauce bottle dominant with clear portion revealing brown sauce and plain label, shopping basket in other hand, no other people, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-8a3b4ee1-440a-4815-b875-6bb5d8bfc085.png",
+    "image_path": "Картинки/Еда/ソース.png",
+    "media": {
+      "filename": "japanese_words_ソース.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ソース.png",
+      "size": 2369027,
+      "message": "Successfully stored media file \"japanese_words_ソース.png\" (2369027 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ソース.png",
+        "actual_filename": "japanese_words_ソース.png"
+      }
+    }
+  },
+  {
+    "index": 509,
+    "word": "親子丼",
+    "path": "Карточки/Еда/親子丼.json",
+    "source_id": 1550214759194,
+    "third": "お腹がすいていたので、店で<span class='study-word'>親子丼</span>を買って、公園で食べました。",
+    "translation": "Я был голоден, поэтому купил оякодон в магазине и съел в парке.",
+    "note_id": 1789535680640,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 親子丼. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one hungry adult on park bench eating takeaway oyakodon with chopsticks, bowl prominent close foreground showing rice topped with tender chicken pieces softly cooked egg onion and green garnish, takeaway bag beside bench, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-5553d5d4-c937-449a-9a0a-17191c93af6a.png",
+    "image_path": "Картинки/Еда/親子丼.png",
+    "media": {
+      "filename": "japanese_words_親子丼.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_親子丼.png",
+      "size": 2359894,
+      "message": "Successfully stored media file \"japanese_words_親子丼.png\" (2359894 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_親子丼.png",
+        "actual_filename": "japanese_words_親子丼.png"
+      }
+    }
+  },
+  {
+    "index": 512,
+    "word": "調味料",
+    "path": "Карточки/Еда/調味料.json",
+    "source_id": 1550214948119,
+    "third": "晩ご飯を作ろうと思ったら、<span class='study-word'>調味料</span>がなかったので、買いに行きました。",
+    "translation": "Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — приправа, поэтому я пошёл за покупками.",
+    "note_id": 1789535680641,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 調味料. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult shopping for cooking seasonings in grocery store after running out while preparing dinner, physical salt pepper and spice jars prominent in shopping basket, hand selecting another jar, labels plain without text, no other people, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-6cb9637b-8618-46bb-9b4b-933456b51127.png",
+    "image_path": "Картинки/Еда/調味料.png",
+    "media": {
+      "filename": "japanese_words_調味料.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_調味料.png",
+      "size": 2566617,
+      "message": "Successfully stored media file \"japanese_words_調味料.png\" (2566617 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_調味料.png",
+        "actual_filename": "japanese_words_調味料.png"
+      }
+    }
+  },
+  {
+    "index": 516,
+    "word": "丼",
+    "path": "Карточки/Быт/丼.json",
+    "source_id": 1550215061730,
+    "third": "明日使うので、<span class='study-word'>丼</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится глубокая миска, поэтому я купил и принёс домой глубокую миску.",
+    "note_id": 1789535680642,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 丼. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult at home unpacking newly bought large deep ceramic donburi bowl from tissue paper and shopping bag, broad deep bowl prominent with blue glaze and foot ring, size clearly larger than a small rice bowl, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-e03828b5-5961-4ab4-b638-e260e7f1514d.png",
+    "image_path": "Картинки/Быт/丼.png",
+    "media": {
+      "filename": "japanese_words_丼.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_丼.png",
+      "size": 2160883,
+      "message": "Successfully stored media file \"japanese_words_丼.png\" (2160883 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_丼.png",
+        "actual_filename": "japanese_words_丼.png"
+      }
+    }
+  },
+  {
+    "index": 521,
+    "word": "米",
+    "path": "Карточки/Еда/米.json",
+    "source_id": 1550378073177,
+    "third": "晩ご飯を作ろうと思ったら、<span class='study-word'>米</span>がなかったので、買いに行きました。",
+    "translation": "Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — рисовая крупа, поэтому я пошёл за покупками.",
+    "note_id": 1789535680643,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 米. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult buying uncooked rice at grocery store for dinner, clear bag filled with short white uncooked rice grains dominant foreground, hand holds grain-filled bag over shopping basket, no other people or text, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-af8661f6-be48-4231-a61d-1a6acbb189df.png",
+    "image_path": "Картинки/Еда/米.png",
+    "media": {
+      "filename": "japanese_words_米.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_米.png",
+      "size": 2387581,
+      "message": "Successfully stored media file \"japanese_words_米.png\" (2387581 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_米.png",
+        "actual_filename": "japanese_words_米.png"
+      }
+    }
+  },
+  {
+    "index": 522,
+    "word": "麦",
+    "path": "Карточки/Еда/麦.json",
+    "source_id": 1550378165610,
+    "third": "晩ご飯を作ろうと思ったら、<span class='study-word'>麦</span>がなかったので、買いに行きました。",
+    "translation": "Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — пшеница, поэтому я пошёл за покупками.",
+    "note_id": 1789535680644,
+    "prompt": "Use case: illustration-story. Japanese vocabulary flashcard for 麦. Square image, aspect_ratio 1:1, preferred 512x512. Masterpiece, best quality, detailed anime illustration, cinematic storytelling composition, exactly one adult buying wheat grains at grocery store for dinner, clear bag of golden wheat kernels prominent foreground, physical wheat ears displayed beside bulk grain bin to make wheat identifiable, shopping basket nearby, no other people, natural poses, detailed hands, cinematic lighting. Highlight the target word visually. No text or letters anywhere. Negative: extra people, crowd, text, letters, typography, words, subtitles, watermark, logo, signature, kanji on objects, low quality, blurry, bad anatomy, bad hands, extra fingers, deformed face.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-68d8f191-2edc-4f47-934a-c3e09be1f6e9.png",
+    "image_path": "Картинки/Еда/麦.png",
+    "media": {
+      "filename": "japanese_words_麦.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_麦.png",
+      "size": 2741809,
+      "message": "Successfully stored media file \"japanese_words_麦.png\" (2741809 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_麦.png",
+        "actual_filename": "japanese_words_麦.png"
+      }
+    }
+  }
+]

@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>式</span>は明日です。<br>母も<span class='study-word'>式</span>に行きます。<br><span class='study-word'>式</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
   "Пример без слова": "_____は明日です。<br>母も_____に行きます。<br>_____に行く前に、場所を調べて、友達と駅で待ち合わせました。",
   "Пример перевод": "Завтра — церемония.<br>Мама тоже собирается посетить церемонию.<br>Перед тем как посетить церемонию, я выяснил, где это будет, и встретился с другом на станции.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить церемонию, я выяснил, где это будет, и встретился с другом на станции., visual focus: церемония, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_式.png\">",
   "Произношение": "[sound:式_слово.mp3][sound:式_пример_1.mp3][sound:式_пример_2.mp3][sound:式_пример_3.mp3]",
   "Заметки": "Слово из урока 31 Minna no Nihongo. Официальное торжественное мероприятие по определённому порядку.",
   "Кандзи-разбор": "式 — церемония",

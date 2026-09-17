@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ソース</span>です。<br>母は料理に<span class='study-word'>ソース</span>を使います。<br>晩ご飯を作ろうと思ったら、<span class='study-word'>ソース</span>がなかったので、買いに行きました。",
   "Пример без слова": "これは_____です。<br>母は料理に_____を使います。<br>晩ご飯を作ろうと思ったら、_____がなかったので、買いに行きました。",
   "Пример перевод": "Это соус.<br>Мама использует соус для приготовления еды.<br>Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — соус, поэтому я пошёл за покупками.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Когда я собрался готовить ужин, оказалось, что дома нет нужного ингредиента — соус, поэтому я пошёл за покупками., visual focus: соус, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ソース.png\">",
   "Произношение": "[sound:ソース_слово.mp3][sound:ソース_пример_1.mp3][sound:ソース_пример_2.mp3][sound:ソース_пример_3.mp3]",
   "Заметки": "Слово из урока 34 Minna no Nihongo. Жидкая или густая добавка к блюду.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ボール</span>です。<br>この店で<span class='study-word'>ボール</span>を売っています。<br>明日使うので、<span class='study-word'>ボール</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это мяч.<br>В этом магазине продают мяч.<br>Завтра мне понадобится мяч, поэтому я купил и принёс домой мяч.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится мяч, поэтому я купил и принёс домой мяч., visual focus: мяч, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ボール.png\">",
   "Произношение": "[sound:ボール_слово.mp3][sound:ボール_пример_1.mp3][sound:ボール_пример_2.mp3][sound:ボール_пример_3.mp3]",
   "Заметки": "Слово из урока 33 Minna no Nihongo. Круглый предмет для спортивных игр.",
   "Кандзи-разбор": "Кандзи нет.",
