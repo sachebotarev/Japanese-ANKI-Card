@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ポスター</span>です。<br><span class='study-word'>ポスター</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>ポスター</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это плакат.<br>Плакат находится на столе.<br>Завтра мне понадобится плакат, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится плакат, поэтому я положил это в сумку, чтобы не забыть., visual focus: плакат, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ポスター.png\">",
   "Произношение": "[sound:ポスター_слово.mp3][sound:ポスター_пример_1.mp3][sound:ポスター_пример_2.mp3][sound:ポスター_пример_3.mp3]",
   "Заметки": "Слово из урока 30 Minna no Nihongo. Большой печатный лист для размещения на стене.",
   "Кандзи-разбор": "Кандзи нет.",

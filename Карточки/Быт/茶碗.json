@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>茶碗</span>です。<br>この店で<span class='study-word'>茶碗</span>を売っています。<br>明日使うので、<span class='study-word'>茶碗</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это чашка для риса.<br>В этом магазине продают чашку для риса.<br>Завтра мне понадобится чашка для риса, поэтому я купил и принёс домой чашку для риса.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится чашка для риса, поэтому я купил и принёс домой чашку для риса., visual focus: чашка для риса, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_茶碗.png\">",
   "Произношение": "[sound:茶碗_слово.mp3][sound:茶碗_пример_1.mp3][sound:茶碗_пример_2.mp3][sound:茶碗_пример_3.mp3]",
   "Заметки": "Слово из урока 29 Minna no Nihongo. Небольшая глубокая посуда, из которой едят рис.",
   "Кандзи-разбор": "茶 — чай; 碗 — чаша",

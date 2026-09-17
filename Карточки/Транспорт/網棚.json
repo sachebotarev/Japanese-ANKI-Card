@@ -6,7 +6,7 @@
   "Пример": "あそこに<span class='study-word'>網棚</span>があります。<br><span class='study-word'>網棚</span>の前に人がいます。<br><span class='study-word'>網棚</span>を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример без слова": "あそこに_____があります。<br>_____の前に人がいます。<br>_____を探していたら、親切な人が来て、場所を教えてくれました。",
   "Пример перевод": "Вон там есть багажная полка.<br>Там стоит человек, а прямо за ним — багажная полка.<br>Когда я искал багажную полку, подошёл доброжелательный человек и подсказал, где искать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Когда я искал багажную полку, подошёл доброжелательный человек и подсказал, где искать., visual focus: багажная полка, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_網棚.png\">",
   "Произношение": "[sound:網棚_слово.mp3][sound:網棚_пример_1.mp3][sound:網棚_пример_2.mp3][sound:網棚_пример_3.mp3]",
   "Заметки": "Слово из урока 29 Minna no Nihongo. На неё кладут сумки над сиденьями в поезде.",
   "Кандзи-разбор": "網 — сеть; 棚 — полка",

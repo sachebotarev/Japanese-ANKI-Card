@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>イベント</span>は明日です。<br>母も<span class='study-word'>イベント</span>に行きます。<br><span class='study-word'>イベント</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
   "Пример без слова": "_____は明日です。<br>母も_____に行きます。<br>_____に行く前に、場所を調べて、友達と駅で待ち合わせました。",
   "Пример перевод": "Завтра — мероприятие.<br>Мама тоже собирается посетить мероприятие.<br>Перед тем как посетить мероприятие, я выяснил, где это будет, и встретился с другом на станции.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед тем как посетить мероприятие, я выяснил, где это будет, и встретился с другом на станции., visual focus: мероприятие, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_イベント.png\">",
   "Произношение": "[sound:イベント_слово.mp3][sound:イベント_пример_1.mp3][sound:イベント_пример_2.mp3][sound:イベント_пример_3.mp3]",
   "Заметки": "Слово из урока 28 Minna no Nihongo. Организованное событие для участников или посетителей.",
   "Кандзи-разбор": "Кандзи нет.",
