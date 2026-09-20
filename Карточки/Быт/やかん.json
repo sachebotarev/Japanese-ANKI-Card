@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>やかん</span>です。<br>この店で<span class='study-word'>やかん</span>を売っています。<br>明日使うので、<span class='study-word'>やかん</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это чайник для кипячения воды.<br>В этом магазине продают чайник.<br>Завтра мне понадобится чайник для кипячения воды, поэтому я купил и принёс домой чайник.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится чайник для кипячения воды, поэтому я купил и принёс домой чайник., visual focus: чайник для кипячения воды, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_やかん.png\">",
   "Произношение": "[sound:やかん_слово.mp3][sound:やかん_пример_1.mp3][sound:やかん_пример_2.mp3][sound:やかん_пример_3.mp3]",
   "Заметки": "Слово из урока 42 Minna no Nihongo. Сосуд с носиком, который ставят на плиту.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -1,0 +1,462 @@
+[
+  {
+    "index": 624,
+    "word": "ズボン",
+    "path": "Карточки/Одежда/ズボン.json",
+    "source_id": 1550462492695,
+    "third": "明日出かけるので、新しい<span class='study-word'>ズボン</span>を出して、かばんの隣に置いておきました。",
+    "translation": "Завтра я ухожу из дома, поэтому достал обновку — брюки — и заранее положил рядом с сумкой.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult at home preparing tomorrow's outing, laying out a new pair of neatly folded trousers beside a travel bag, trousers prominently foregrounded with clearly visible waistband and two legs. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680665,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-a7706b16-1b1e-40dc-ab4f-78937ba05c7e.png",
+    "image_path": "Картинки/Одежда/ズボン.png",
+    "media": {
+      "filename": "japanese_words_ズボン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ズボン.png",
+      "size": 2273548,
+      "message": "Successfully stored media file \"japanese_words_ズボン.png\" (2273548 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ズボン.png",
+        "actual_filename": "japanese_words_ズボン.png"
+      }
+    }
+  },
+  {
+    "index": 642,
+    "word": "テスト",
+    "path": "Карточки/Образование/テスト.json",
+    "source_id": 1550463080817,
+    "third": "<span class='study-word'>テスト</span>に遅れないように、早く起きて、朝ご飯を食べずに家を出ました。",
+    "translation": "Чтобы не опоздать на тест, я рано встал и вышел из дома, не позавтракав.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult student hurrying out of home at early sunrise toward an exam, holding an exam preparation folder with blank geometric checkbox shapes and pencils, untouched breakfast visible on table behind, urgent expression, focus on physical test paper and exam supplies, no readable writing. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680666,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-750bf1d3-50c1-4f8f-a970-33be82f5dfef.png",
+    "image_path": "Картинки/Образование/テスト.png",
+    "media": {
+      "filename": "japanese_words_テスト.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_テスト.png",
+      "size": 1852481,
+      "message": "Successfully stored media file \"japanese_words_テスト.png\" (1852481 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_テスト.png",
+        "actual_filename": "japanese_words_テスト.png"
+      }
+    }
+  },
+  {
+    "index": 646,
+    "word": "オートバイ",
+    "path": "Карточки/Транспорт/オートバイ.json",
+    "source_id": 1550463222302,
+    "third": "<span class='study-word'>オートバイ</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть мотоцикл вблизи, поэтому вышел наружу и сделал фотографию.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult outside photographing a parked motorcycle with a phone, prominent complete motorcycle in foreground, two wheels engine handlebars clearly visible, quiet street. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680667,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ab06da50-150d-4fe1-bdc4-9cff1f8f74c9.png",
+    "image_path": "Картинки/Транспорт/オートバイ.png",
+    "media": {
+      "filename": "japanese_words_オートバイ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_オートバイ.png",
+      "size": 2588989,
+      "message": "Successfully stored media file \"japanese_words_オートバイ.png\" (2588989 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_オートバイ.png",
+        "actual_filename": "japanese_words_オートバイ.png"
+      }
+    }
+  },
+  {
+    "index": 648,
+    "word": "運転手",
+    "path": "Карточки/Профессии/運転手.json",
+    "source_id": 1550463274131,
+    "third": "仕事のことを聞きたかったので、<span class='study-word'>運転手</span>に会って、いろいろ教えてもらいました。",
+    "translation": "Я хотел узнать о работе, поэтому встретил специалиста — водителя — и получил от него много полезных объяснений.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly two adults beside an open taxi door, professional driver in neat uniform explaining his work to an interested visitor, driver holding car keys and gesturing toward steering wheel, focus on driver. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680668,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ed69c187-58e7-4b16-b2b2-14bdc40135f7.png",
+    "image_path": "Картинки/Профессии/運転手.png",
+    "media": {
+      "filename": "japanese_words_運転手.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_運転手.png",
+      "size": 2110168,
+      "message": "Successfully stored media file \"japanese_words_運転手.png\" (2110168 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_運転手.png",
+        "actual_filename": "japanese_words_運転手.png"
+      }
+    }
+  },
+  {
+    "index": 658,
+    "word": "猿",
+    "path": "Карточки/Природа/猿.json",
+    "source_id": 1550463969738,
+    "third": "<span class='study-word'>猿</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть обезьяну, я подошёл немного ближе и сделал фотографию.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult photographing a Japanese macaque sitting on a rock in a wooded park, monkey prominent in foreground, photographer a short respectful distance away. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680669,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-f708a8b4-8230-45e3-9f0c-bf9926df9357.png",
+    "image_path": "Картинки/Природа/猿.png",
+    "media": {
+      "filename": "japanese_words_猿.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_猿.png",
+      "size": 2782843,
+      "message": "Successfully stored media file \"japanese_words_猿.png\" (2782843 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_猿.png",
+        "actual_filename": "japanese_words_猿.png"
+      }
+    }
+  },
+  {
+    "index": 659,
+    "word": "絵本",
+    "path": "Карточки/Образование/絵本.json",
+    "source_id": 1550464000996,
+    "third": "<span class='study-word'>絵本</span>が面白かったので、家に帰ってから、家族にその話をしました。",
+    "translation": "Мне понравилось читать книжку с картинками, поэтому, вернувшись домой, я рассказал об этом семье.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly three family members at home, one enthusiastically recounting a picture book to two listeners, open physical picture book prominent with full page colorful animal illustrations and no writing. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680670,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-05c1495d-6d13-4f8c-bc54-a61e55b4b511.png",
+    "image_path": "Картинки/Образование/絵本.png",
+    "media": {
+      "filename": "japanese_words_絵本.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_絵本.png",
+      "size": 2485158,
+      "message": "Successfully stored media file \"japanese_words_絵本.png\" (2485158 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_絵本.png",
+        "actual_filename": "japanese_words_絵本.png"
+      }
+    }
+  },
+  {
+    "index": 660,
+    "word": "絵はがき",
+    "path": "Карточки/Почта/絵はがき.json",
+    "source_id": 1550464012954,
+    "third": "明日必要なので、<span class='study-word'>絵はがき</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится открытка с изображением, поэтому я положил это в сумку, чтобы не забыть.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult placing a scenic picture postcard into an open bag at home to prepare for tomorrow, postcard large in foreground showing seaside illustration without lettering. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680671,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-bde1f604-973c-4af4-aebe-28d5f6960b00.png",
+    "image_path": "Картинки/Почта/絵はがき.png",
+    "media": {
+      "filename": "japanese_words_絵はがき.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_絵はがき.png",
+      "size": 2281691,
+      "message": "Successfully stored media file \"japanese_words_絵はがき.png\" (2281691 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_絵はがき.png",
+        "actual_filename": "japanese_words_絵はがき.png"
+      }
+    }
+  },
+  {
+    "index": 661,
+    "word": "ドライバー",
+    "path": "Карточки/Быт/ドライバー.json",
+    "source_id": 1550464031983,
+    "third": "明日使うので、<span class='study-word'>ドライバー</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится отвёртка, поэтому я купил и принёс домой отвёртку.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult at home unpacking a newly purchased screwdriver from plain shopping bag, screwdriver dominant in foreground with plastic handle and straight metal shaft and crosshead tip. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680672,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7b033886-54eb-4270-aa92-01c90462e015.png",
+    "image_path": "Картинки/Быт/ドライバー.png",
+    "media": {
+      "filename": "japanese_words_ドライバー.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ドライバー.png",
+      "size": 1907467,
+      "message": "Successfully stored media file \"japanese_words_ドライバー.png\" (1907467 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ドライバー.png",
+        "actual_filename": "japanese_words_ドライバー.png"
+      }
+    }
+  },
+  {
+    "index": 662,
+    "word": "ハンカチ",
+    "path": "Карточки/Одежда/ハンカチ.json",
+    "source_id": 1550464045309,
+    "third": "明日使うので、<span class='study-word'>ハンカチ</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится носовой платок, поэтому я купил и принёс домой носовой платок.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult at home unpacking a new cotton handkerchief from a plain shopping bag, small square neatly hemmed checkered handkerchief prominent on table, fabric texture. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680673,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-888c56fb-33f7-4093-bdfb-cc30b55ba907.png",
+    "image_path": "Картинки/Одежда/ハンカチ.png",
+    "media": {
+      "filename": "japanese_words_ハンカチ.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ハンカチ.png",
+      "size": 2138654,
+      "message": "Successfully stored media file \"japanese_words_ハンカチ.png\" (2138654 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ハンカチ.png",
+        "actual_filename": "japanese_words_ハンカチ.png"
+      }
+    }
+  },
+  {
+    "index": 663,
+    "word": "幼稚園",
+    "path": "Карточки/Образование/幼稚園.json",
+    "source_id": 1550464087223,
+    "third": "<span class='study-word'>幼稚園</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить детский сад, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly two adult friends together near a small railway station checking a simple pictorial map before visiting the kindergarten across the street, kindergarten prominent with small colorful building, fenced playground and child sized swings, no children visible. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680674,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-37e191d1-636f-4543-83a3-1bf7a18246b3.png",
+    "image_path": "Картинки/Образование/幼稚園.png",
+    "media": {
+      "filename": "japanese_words_幼稚園.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_幼稚園.png",
+      "size": 2368731,
+      "message": "Successfully stored media file \"japanese_words_幼稚園.png\" (2368731 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_幼稚園.png",
+        "actual_filename": "japanese_words_幼稚園.png"
+      }
+    }
+  },
+  {
+    "index": 666,
+    "word": "管理人",
+    "path": "Карточки/Профессии/管理人.json",
+    "source_id": 1550464699650,
+    "third": "仕事のことを聞きたかったので、<span class='study-word'>管理人</span>に会って、いろいろ教えてもらいました。",
+    "translation": "Я хотел узнать о работе, поэтому встретил специалиста — смотрителя — и получил от него много полезных объяснений.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly two adults in apartment building lobby, caretaker holding a large keyring and maintenance clipboard explaining his work to an interested visitor, focus on uniformed caretaker, tools and tidy lobby. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680675,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-3b2a3fbc-1a46-42c4-8623-f0dd4ba2b02c.png",
+    "image_path": "Картинки/Профессии/管理人.png",
+    "media": {
+      "filename": "japanese_words_管理人.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_管理人.png",
+      "size": 2069076,
+      "message": "Successfully stored media file \"japanese_words_管理人.png\" (2069076 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_管理人.png",
+        "actual_filename": "japanese_words_管理人.png"
+      }
+    }
+  },
+  {
+    "index": 672,
+    "word": "昔話",
+    "path": "Карточки/Традиции/昔話.json",
+    "source_id": 1550464870295,
+    "third": "<span class='study-word'>昔話</span>が面白かったので、家に帰ってから、家族にその話をしました。",
+    "translation": "Мне понравилось читать народную сказку, поэтому, вернувшись домой, я рассказал об этом семье.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly three family members at home, one recounting a traditional Japanese folk tale to two attentive listeners while holding an illustrated storybook, prominent open pages show a peach and tiny fully clothed folk hero with animal companions, no written text. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680676,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-e2ab2e6c-e304-4331-91d1-737f292370f5.png",
+    "image_path": "Картинки/Традиции/昔話.png",
+    "media": {
+      "filename": "japanese_words_昔話.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_昔話.png",
+      "size": 2272105,
+      "message": "Successfully stored media file \"japanese_words_昔話.png\" (2272105 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_昔話.png",
+        "actual_filename": "japanese_words_昔話.png"
+      }
+    }
+  },
+  {
+    "index": 675,
+    "word": "亀",
+    "path": "Карточки/Природа/亀.json",
+    "source_id": 1550464968641,
+    "third": "<span class='study-word'>亀</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть черепаху, я подошёл немного ближе и сделал фотографию.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult crouching a respectful distance away to photograph a turtle on a pond-side rock, turtle prominent foreground with detailed domed shell and four legs, peaceful garden. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680677,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-27ad9889-35f6-4490-a008-91e23ba80ddd.png",
+    "image_path": "Картинки/Природа/亀.png",
+    "media": {
+      "filename": "japanese_words_亀.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_亀.png",
+      "size": 2638370,
+      "message": "Successfully stored media file \"japanese_words_亀.png\" (2638370 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_亀.png",
+        "actual_filename": "japanese_words_亀.png"
+      }
+    }
+  },
+  {
+    "index": 685,
+    "word": "アパート",
+    "path": "Карточки/Жилище/アパート.json",
+    "source_id": 1550466814947,
+    "third": "<span class='study-word'>アパート</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить многоквартирный дом, я выяснил, где это находится, и встретился с другом на станции.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly two adult friends checking a simple pictorial map near a small railway station, heading toward a prominent modest Japanese two story apartment building with external staircase and row of identical apartment doors. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680678,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-3e1a3038-ed2a-47fa-994a-b8661fac6b50.png",
+    "image_path": "Картинки/Жилище/アパート.png",
+    "media": {
+      "filename": "japanese_words_アパート.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_アパート.png",
+      "size": 2546289,
+      "message": "Successfully stored media file \"japanese_words_アパート.png\" (2546289 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_アパート.png",
+        "actual_filename": "japanese_words_アパート.png"
+      }
+    }
+  },
+  {
+    "index": 690,
+    "word": "ミキサー",
+    "path": "Карточки/Быт/ミキサー.json",
+    "source_id": 1550466966652,
+    "third": "明日使うので、<span class='study-word'>ミキサー</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится блендер, поэтому я купил и принёс домой блендер.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult unpacking a newly bought countertop blender at home, transparent glass pitcher with visible blades on motor base prominent on kitchen counter, plain cardboard packaging. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680679,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-842f3f23-17ac-4eb4-9b11-18c21c51dc62.png",
+    "image_path": "Картинки/Быт/ミキサー.png",
+    "media": {
+      "filename": "japanese_words_ミキサー.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_ミキサー.png",
+      "size": 2096154,
+      "message": "Successfully stored media file \"japanese_words_ミキサー.png\" (2096154 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_ミキサー.png",
+        "actual_filename": "japanese_words_ミキサー.png"
+      }
+    }
+  },
+  {
+    "index": 691,
+    "word": "やかん",
+    "path": "Карточки/Быт/やかん.json",
+    "source_id": 1550466978260,
+    "third": "明日使うので、<span class='study-word'>やかん</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится чайник для кипячения воды, поэтому я купил и принёс домой чайник.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult unpacking a newly bought stovetop kettle at home, polished metal kettle with curved spout lid and arched handle prominent on kitchen counter beside plain shopping bag. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680680,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-499e85b6-9968-4d28-a5aa-9801e802c750.png",
+    "image_path": "Картинки/Быт/やかん.png",
+    "media": {
+      "filename": "japanese_words_やかん.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_やかん.png",
+      "size": 2196398,
+      "message": "Successfully stored media file \"japanese_words_やかん.png\" (2196398 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_やかん.png",
+        "actual_filename": "japanese_words_やかん.png"
+      }
+    }
+  },
+  {
+    "index": 692,
+    "word": "栓抜き",
+    "path": "Карточки/Быт/栓抜き.json",
+    "source_id": 1550466999578,
+    "third": "明日使うので、<span class='study-word'>栓抜き</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится открывалка для бутылок, поэтому я купил и принёс домой открывалку для бутылок.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult unpacking a newly bought bottle opener at home, prominent close view of physical flat metal crown cap bottle opener with oval opening and hooked lip and short handle, capped glass soda bottle beside it, plain shopping bag. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680681,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-d08059fb-eef4-4cd4-bfe0-9692563adf55.png",
+    "image_path": "Картинки/Быт/栓抜き.png",
+    "media": {
+      "filename": "japanese_words_栓抜き.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_栓抜き.png",
+      "size": 2260377,
+      "message": "Successfully stored media file \"japanese_words_栓抜き.png\" (2260377 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_栓抜き.png",
+        "actual_filename": "japanese_words_栓抜き.png"
+      }
+    }
+  },
+  {
+    "index": 693,
+    "word": "缶切り",
+    "path": "Карточки/Быт/缶切り.json",
+    "source_id": 1550467026363,
+    "third": "明日使うので、<span class='study-word'>缶切り</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится консервный нож, поэтому я купил и принёс домой консервный нож.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult unpacking a newly bought manual can opener at home, prominent physical can opener with two handles geared cutting wheel and side turning knob beside sealed metal food can, plain shopping bag. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680682,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ecd1854a-84fa-4b3c-8df3-54ace78991cb.png",
+    "image_path": "Картинки/Быт/缶切り.png",
+    "media": {
+      "filename": "japanese_words_缶切り.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_缶切り.png",
+      "size": 2070038,
+      "message": "Successfully stored media file \"japanese_words_缶切り.png\" (2070038 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_缶切り.png",
+        "actual_filename": "japanese_words_缶切り.png"
+      }
+    }
+  },
+  {
+    "index": 694,
+    "word": "のし袋",
+    "path": "Карточки/Традиции/のし袋.json",
+    "source_id": 1550467062302,
+    "third": "明日使うので、<span class='study-word'>のし袋</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится подарочный конверт для денег, поэтому я купил и принёс домой подарочный конверт для денег.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult bringing home a newly bought Japanese noshibukuro ceremonial money gift envelope, prominent white rectangular envelope with elaborate red and white mizuhiki cord knot and small gold folded ornament, blank envelope absolutely no writing, plain shopping bag. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680683,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-cd96cdee-5232-412c-b56a-d0c10254bcb4.png",
+    "image_path": "Картинки/Традиции/のし袋.png",
+    "media": {
+      "filename": "japanese_words_のし袋.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_のし袋.png",
+      "size": 2034456,
+      "message": "Successfully stored media file \"japanese_words_のし袋.png\" (2034456 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_のし袋.png",
+        "actual_filename": "japanese_words_のし袋.png"
+      }
+    }
+  },
+  {
+    "index": 695,
+    "word": "風呂敷",
+    "path": "Карточки/Быт/風呂敷.json",
+    "source_id": 1550467087242,
+    "third": "明日使うので、<span class='study-word'>風呂敷</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится фуросики, поэтому я купил и принёс домой фуросики.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime illustration, high quality, cinematic natural light, natural poses, clear educational visual focus. exactly one adult unpacking a newly bought furoshiki wrapping cloth at home, large square patterned cloth spread on table with two corners knotted around a box to demonstrate wrapping, beautiful botanical fabric no lettering, plain shopping bag. Single coherent scene, physical objects. No extra people, no text, no letters, no numbers, no typography, no watermark, no logos.",
+    "note_id": 1789535680684,
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-1b7343bc-eaf0-4f20-8847-3a3d1ecd420f.png",
+    "image_path": "Картинки/Быт/風呂敷.png",
+    "media": {
+      "filename": "japanese_words_風呂敷.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_風呂敷.png",
+      "size": 2238728,
+      "message": "Successfully stored media file \"japanese_words_風呂敷.png\" (2238728 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_風呂敷.png",
+        "actual_filename": "japanese_words_風呂敷.png"
+      }
+    }
+  }
+]

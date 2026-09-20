@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>テスト</span>は明日です。<br>明日の<span class='study-word'>テスト</span>は難しいです。<br><span class='study-word'>テスト</span>に遅れないように、早く起きて、朝ご飯を食べずに家を出ました。",
   "Пример без слова": "_____は明日です。<br>明日の_____は難しいです。<br>_____に遅れないように、早く起きて、朝ご飯を食べずに家を出ました。",
   "Пример перевод": "Тест будет завтра.<br>Завтра предстоит сложное испытание — тест.<br>Чтобы не опоздать на тест, я рано встал и вышел из дома, не позавтракав.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не опоздать на тест, я рано встал и вышел из дома, не позавтракав., visual focus: тест; проверочная работа, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_テスト.png\">",
   "Произношение": "[sound:テスト_слово.mp3][sound:テスト_пример_1.mp3][sound:テスト_пример_2.mp3][sound:テスト_пример_3.mp3]",
   "Заметки": "Слово из урока 40 Minna no Nihongo. Задания для проверки знаний.",
   "Кандзи-разбор": "Кандзи нет.",

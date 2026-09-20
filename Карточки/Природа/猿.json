@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>猿</span>がいます。<br>この本には<span class='study-word'>猿</span>の写真があります。<br><span class='study-word'>猿</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
   "Пример без слова": "_____がいます。<br>この本には_____の写真があります。<br>_____がよく見えるように、少し近くへ行って、写真を撮りました。",
   "Пример перевод": "Здесь есть обезьяна.<br>В этой книге есть фотография: на ней обезьяна.<br>Чтобы лучше видеть обезьяну, я подошёл немного ближе и сделал фотографию.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы лучше видеть обезьяну, я подошёл немного ближе и сделал фотографию., visual focus: обезьяна, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_猿.png\">",
   "Произношение": "[sound:猿_слово.mp3][sound:猿_пример_1.mp3][sound:猿_пример_2.mp3][sound:猿_пример_3.mp3]",
   "Заметки": "Слово из урока 41 Minna no Nihongo. Примат, который ловко лазает по деревьям.",
   "Кандзи-разбор": "猿 — обезьяна",

@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ズボン</span>です。<br>昨日、新しい<span class='study-word'>ズボン</span>を買いました。<br>明日出かけるので、新しい<span class='study-word'>ズボン</span>を出して、かばんの隣に置いておきました。",
   "Пример без слова": "これは_____です。<br>昨日、新しい_____を買いました。<br>明日出かけるので、新しい_____を出して、かばんの隣に置いておきました。",
   "Пример перевод": "Это брюки.<br>Вчера я купил обновку — брюки.<br>Завтра я ухожу из дома, поэтому достал обновку — брюки — и заранее положил рядом с сумкой.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра я ухожу из дома, поэтому достал обновку — брюки — и заранее положил рядом с сумкой., visual focus: брюки, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ズボン.png\">",
   "Произношение": "[sound:ズボン_слово.mp3][sound:ズボン_пример_1.mp3][sound:ズボン_пример_2.mp3][sound:ズボン_пример_3.mp3]",
   "Заметки": "Слово из урока 40 Minna no Nihongo. Одежда для ног с двумя штанинами.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>風呂敷</span>です。<br>この店で<span class='study-word'>風呂敷</span>を売っています。<br>明日使うので、<span class='study-word'>風呂敷</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это фуросики.<br>В этом магазине продают фуросики.<br>Завтра мне понадобится фуросики, поэтому я купил и принёс домой фуросики.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится фуросики, поэтому я купил и принёс домой фуросики., visual focus: фуросики; ткань для заворачивания вещей, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_風呂敷.png\">",
   "Произношение": "[sound:風呂敷_слово.mp3][sound:風呂敷_пример_1.mp3][sound:風呂敷_пример_2.mp3][sound:風呂敷_пример_3.mp3]",
   "Заметки": "Слово из урока 42 Minna no Nihongo. Квадратная ткань, из которой делают переносную упаковку.",
   "Кандзи-разбор": "風 — ветер; 呂 — компонент слова «ванна»; 敷 — расстилать",

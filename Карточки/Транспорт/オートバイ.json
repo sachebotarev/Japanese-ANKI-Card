@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>オートバイ</span>です。<br>写真の<span class='study-word'>オートバイ</span>は大きいです。<br><span class='study-word'>オートバイ</span>を近くで見たかったので、外に出て、写真を撮りました。",
   "Пример без слова": "これは_____です。<br>写真の_____は大きいです。<br>_____を近くで見たかったので、外に出て、写真を撮りました。",
   "Пример перевод": "Это мотоцикл.<br>На фотографии — мотоцикл большого размера.<br>Я хотел увидеть мотоцикл вблизи, поэтому вышел наружу и сделал фотографию.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть мотоцикл вблизи, поэтому вышел наружу и сделал фотографию., visual focus: мотоцикл, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_オートバイ.png\">",
   "Произношение": "[sound:オートバイ_слово.mp3][sound:オートバイ_пример_1.mp3][sound:オートバイ_пример_2.mp3][sound:オートバイ_пример_3.mp3]",
   "Заметки": "Слово из урока 40 Minna no Nihongo. Двухколёсное транспортное средство с двигателем.",
   "Кандзи-разбор": "Кандзи нет.",
