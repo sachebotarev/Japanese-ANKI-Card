@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>トラック</span>です。<br>写真の<span class='study-word'>トラック</span>は大きいです。<br><span class='study-word'>トラック</span>を近くで見たかったので、外に出て、写真を撮りました。",
   "Пример без слова": "これは_____です。<br>写真の_____は大きいです。<br>_____を近くで見たかったので、外に出て、写真を撮りました。",
   "Пример перевод": "Это грузовик.<br>На фотографии — грузовик большого размера.<br>Я хотел увидеть грузовик вблизи, поэтому вышел наружу и сделал фотографию.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел увидеть грузовик вблизи, поэтому вышел наружу и сделал фотографию., visual focus: грузовик, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_トラック.png\">",
   "Произношение": "[sound:トラック_слово.mp3][sound:トラック_пример_1.mp3][sound:トラック_пример_2.mp3][sound:トラック_пример_3.mp3]",
   "Заметки": "Слово из урока 39 Minna no Nihongo. Автомобиль для перевозки тяжёлых грузов.",
   "Кандзи-разбор": "Кандзи нет.",

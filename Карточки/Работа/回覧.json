@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>回覧</span>です。<br><span class='study-word'>回覧</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>回覧</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это циркуляр.<br>Циркуляр находится на столе.<br>Завтра мне понадобится циркуляр, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится циркуляр, поэтому я положил это в сумку, чтобы не забыть., visual focus: циркуляр; документ для ознакомления по очереди, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_回覧.png\">",
   "Произношение": "[sound:回覧_слово.mp3][sound:回覧_пример_1.mp3][sound:回覧_пример_2.mp3][sound:回覧_пример_3.mp3]",
   "Заметки": "Слово из урока 38 Minna no Nihongo. Бумагу передают от человека к человеку для прочтения.",
   "Кандзи-разбор": "回 — обход; 覧 — смотреть",

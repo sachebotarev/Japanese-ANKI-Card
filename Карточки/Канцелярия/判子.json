@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>判子</span>です。<br>この店で<span class='study-word'>判子</span>を売っています。<br>明日使うので、<span class='study-word'>判子</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это личная печать.<br>В этом магазине продают личную печать.<br>Завтра мне понадобится личная печать, поэтому я купил и принёс домой личную печать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится личная печать, поэтому я купил и принёс домой личную печать., visual focus: личная печать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_判子.png\">",
   "Произношение": "[sound:判子_слово.mp3][sound:判子_пример_1.mp3][sound:判子_пример_2.mp3][sound:判子_пример_3.mp3]",
   "Заметки": "Слово из урока 38 Minna no Nihongo. Ею заверяют документ вместо подписи или вместе с ней.",
   "Кандзи-разбор": "判 — печать; 子 — ребёнок",

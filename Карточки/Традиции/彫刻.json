@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>彫刻</span>です。<br>昨日、<span class='study-word'>彫刻</span>を見ました。<br><span class='study-word'>彫刻</span>を見るのは初めてだったので、友達にいろいろ説明してもらいました。",
   "Пример без слова": "これは_____です。<br>昨日、_____を見ました。<br>_____を見るのは初めてだったので、友達にいろいろ説明してもらいました。",
   "Пример перевод": "Это скульптура.<br>Вчера я видел скульптуру.<br>Я впервые видел скульптуру, поэтому попросил друга объяснить мне разные детали.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я впервые видел скульптуру, поэтому попросил друга объяснить мне разные детали., visual focus: скульптура; резьба, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_彫刻.png\">",
   "Произношение": "[sound:彫刻_слово.mp3][sound:彫刻_пример_1.mp3][sound:彫刻_пример_2.mp3][sound:彫刻_пример_3.mp3]",
   "Заметки": "Слово из урока 37 Minna no Nihongo. Объёмное художественное произведение из камня, дерева или металла.",
   "Кандзи-разбор": "彫 — резьба; 刻 — вырезать",

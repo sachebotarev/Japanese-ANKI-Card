@@ -1,0 +1,462 @@
+[
+  {
+    "index": 524,
+    "word": "インスタントラーメン",
+    "path": "Карточки/Еда/インスタントラーメン.json",
+    "source_id": 1550378204887,
+    "third": "お腹がすいていたので、店で<span class='study-word'>インスタントラーメン</span>を買って、公園で食べました。",
+    "translation": "Я был голоден, поэтому купил лапшу быстрого приготовления в магазине и съел в парке.",
+    "note_id": 1789535680645,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one hungry adult on park bench eating steaming instant cup noodles using chopsticks, disposable noodle cup with peeled foil lid and curly noodles prominent, plain packaging and shopping bag beside bench. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-8c89a3d6-1291-484c-ace0-9f5e0d4be134.png",
+    "image_path": "Картинки/Еда/インスタントラーメン.png",
+    "media": {
+      "filename": "japanese_words_インスタントラーメン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_インスタントラーメン.png",
+      "size": 2037393,
+      "message": "Successfully stored media file \"japanese_words_インスタントラーメン.png\" (2037393 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_インスタントラーメン.png",
+        "actual_filename": "japanese_words_インスタントラーメン.png"
+      }
+    }
+  },
+  {
+    "index": 533,
+    "word": "大仏",
+    "path": "Карточки/Традиции/大仏.json",
+    "source_id": 1550378499416,
+    "third": "<span class='study-word'>大仏</span>を見るのは初めてだったので、友達にいろいろ説明してもらいました。",
+    "translation": "Я впервые видел большую статую Будды, поэтому попросил друга объяснить мне разные детали.",
+    "note_id": 1789535680646,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly two adult friends beneath an enormous seated bronze Buddha statue at temple, one explains details pointing up while other listens, huge serene statue dominates composition, trees and temple courtyard. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-17023f0c-4217-4afb-8771-9c69995bc3e3.png",
+    "image_path": "Картинки/Традиции/大仏.png",
+    "media": {
+      "filename": "japanese_words_大仏.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_大仏.png",
+      "size": 2667665,
+      "message": "Successfully stored media file \"japanese_words_大仏.png\" (2667665 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_大仏.png",
+        "actual_filename": "japanese_words_大仏.png"
+      }
+    }
+  },
+  {
+    "index": 547,
+    "word": "彫刻",
+    "path": "Карточки/Традиции/彫刻.json",
+    "source_id": 1550378950571,
+    "third": "<span class='study-word'>彫刻</span>を見るのは初めてだったので、友達にいろいろ説明してもらいました。",
+    "translation": "Я впервые видел скульптуру, поэтому попросил друга объяснить мне разные детали.",
+    "note_id": 1789535680647,
+    "prompt": "Square 1:1, high quality anime illustration. Exactly two adult friends in a museum sculpture gallery, one pointing and explaining to the other a large physical carved marble sculpture of a soaring eagle on a pedestal. Prominent three dimensional stone eagle with carved feathers, museum lighting and natural poses. Single scene. No human statues, no text, no letters, no watermark, no logos.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-f55dcff5-9f9a-486d-90ea-0eac4e5be60f.png",
+    "image_path": "Картинки/Традиции/彫刻.png",
+    "media": {
+      "filename": "japanese_words_彫刻.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_彫刻.png",
+      "size": 2014951,
+      "message": "Successfully stored media file \"japanese_words_彫刻.png\" (2014951 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_彫刻.png",
+        "actual_filename": "japanese_words_彫刻.png"
+      }
+    }
+  },
+  {
+    "index": 552,
+    "word": "鼠",
+    "path": "Карточки/Природа/鼠.json",
+    "source_id": 1550379193517,
+    "third": "<span class='study-word'>鼠</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть мышь, я подошёл немного ближе и сделал фотографию.",
+    "note_id": 1789535680648,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult crouching with camera photographing one small gray mouse close up beside garden wall, mouse prominent foreground with round ears whiskers slender tail and tiny paws. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-a3015d98-5781-48eb-8a4e-8bd54730ebfa.png",
+    "image_path": "Картинки/Природа/鼠.png",
+    "media": {
+      "filename": "japanese_words_鼠.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_鼠.png",
+      "size": 2382873,
+      "message": "Successfully stored media file \"japanese_words_鼠.png\" (2382873 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_鼠.png",
+        "actual_filename": "japanese_words_鼠.png"
+      }
+    }
+  },
+  {
+    "index": 561,
+    "word": "海岸",
+    "path": "Карточки/Природа/海岸.json",
+    "source_id": 1550383449806,
+    "third": "<span class='study-word'>海岸</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить морское побережье, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680649,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly two friends with folded abstract map at seaside station exit looking toward broad coastline, sandy shore sea cliffs waves and winding coastal path dominate scene. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-d39fcda6-a739-4058-93a1-a787ef5239ac.png",
+    "image_path": "Картинки/Природа/海岸.png",
+    "media": {
+      "filename": "japanese_words_海岸.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_海岸.png",
+      "size": 2624521,
+      "message": "Successfully stored media file \"japanese_words_海岸.png\" (2624521 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_海岸.png",
+        "actual_filename": "japanese_words_海岸.png"
+      }
+    }
+  },
+  {
+    "index": 570,
+    "word": "回覧",
+    "path": "Карточки/Работа/回覧.json",
+    "source_id": 1550383817759,
+    "third": "明日必要なので、<span class='study-word'>回覧</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится циркуляр, поэтому я положил это в сумку, чтобы не забыть.",
+    "note_id": 1789535680650,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult at home placing a physical office circulation folder into bag for tomorrow, clipboard with paper and grid of empty checkboxes plus small circular arrow pictogram prominent, no writing anywhere. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-016687f4-0c4f-4c37-b3ce-23e9851bdd8d.png",
+    "image_path": "Картинки/Работа/回覧.png",
+    "media": {
+      "filename": "japanese_words_回覧.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_回覧.png",
+      "size": 1941107,
+      "message": "Successfully stored media file \"japanese_words_回覧.png\" (1941107 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_回覧.png",
+        "actual_filename": "japanese_words_回覧.png"
+      }
+    }
+  },
+  {
+    "index": 574,
+    "word": "判子",
+    "path": "Карточки/Канцелярия/判子.json",
+    "source_id": 1550383971186,
+    "third": "明日使うので、<span class='study-word'>判子</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится личная печать, поэтому я купил и принёс домой личную печать.",
+    "note_id": 1789535680651,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult at home unpacking a newly bought personal seal, short cylindrical wooden Japanese hanko stamp beside open fitted case and red ink pad, stamp side view with carved face turned away, prominent close-up. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-526d566f-db70-491b-b411-8a12a0716a3a.png",
+    "image_path": "Картинки/Канцелярия/判子.png",
+    "media": {
+      "filename": "japanese_words_判子.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_判子.png",
+      "size": 2028110,
+      "message": "Successfully stored media file \"japanese_words_判子.png\" (2028110 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_判子.png",
+        "actual_filename": "japanese_words_判子.png"
+      }
+    }
+  },
+  {
+    "index": 593,
+    "word": "フロント",
+    "path": "Карточки/Туризм/フロント.json",
+    "source_id": 1550387777211,
+    "third": "<span class='study-word'>フロント</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить стойку регистрации, я выяснил, где это находится, и встретился с другом на станции.",
+    "note_id": 1789535680652,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly two adult friends carrying luggage and folded abstract map arriving at hotel reception after meeting at station, large front desk with service bell key cubbies and computer dominates lobby, no staff or other people. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-db58a5a8-d0da-4b3a-acf3-e324e33d985a.png",
+    "image_path": "Картинки/Туризм/フロント.png",
+    "media": {
+      "filename": "japanese_words_フロント.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_フロント.png",
+      "size": 2105097,
+      "message": "Successfully stored media file \"japanese_words_フロント.png\" (2105097 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_フロント.png",
+        "actual_filename": "japanese_words_フロント.png"
+      }
+    }
+  },
+  {
+    "index": 595,
+    "word": "タオル",
+    "path": "Карточки/Быт/タオル.json",
+    "source_id": 1550387810974,
+    "third": "明日使うので、<span class='study-word'>タオル</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится полотенце, поэтому я купил и принёс домой полотенце.",
+    "note_id": 1789535680653,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult at home unpacking newly bought fluffy cotton towel from shopping bag, thick folded blue towel and unfolding terrycloth texture dominate foreground. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-ff8684c8-61fd-4977-8aee-f7cda8c3b589.png",
+    "image_path": "Картинки/Быт/タオル.png",
+    "media": {
+      "filename": "japanese_words_タオル.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_タオル.png",
+      "size": 2617589,
+      "message": "Successfully stored media file \"japanese_words_タオル.png\" (2617589 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_タオル.png",
+        "actual_filename": "japanese_words_タオル.png"
+      }
+    }
+  },
+  {
+    "index": 596,
+    "word": "せっけん",
+    "path": "Карточки/Быт/せっけん.json",
+    "source_id": 1550387823034,
+    "third": "明日使うので、<span class='study-word'>せっけん</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится мыло, поэтому я купил и принёс домой мыло.",
+    "note_id": 1789535680654,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult at home unwrapping newly bought pale soap bar from plain paper beside shopping bag and bathroom sink, solid oval soap and small soap dish prominent, no embossed markings. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-625442c5-9243-4e7c-99fe-1c127dddf81a.png",
+    "image_path": "Картинки/Быт/せっけん.png",
+    "media": {
+      "filename": "japanese_words_せっけん.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_せっけん.png",
+      "size": 2150511,
+      "message": "Successfully stored media file \"japanese_words_せっけん.png\" (2150511 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_せっけん.png",
+        "actual_filename": "japanese_words_せっけん.png"
+      }
+    }
+  },
+  {
+    "index": 601,
+    "word": "トラック",
+    "path": "Карточки/Транспорт/トラック.json",
+    "source_id": 1550387981085,
+    "third": "<span class='study-word'>トラック</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть грузовик вблизи, поэтому вышел наружу и сделал фотографию.",
+    "note_id": 1789535680655,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult outdoors photographing a large parked cargo truck from safe sidewalk, physical truck cab wheels and box cargo body dominate frame, daylight. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-0c729007-76ce-47a6-90d2-c54cafd75cfb.png",
+    "image_path": "Картинки/Транспорт/トラック.png",
+    "media": {
+      "filename": "japanese_words_トラック.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_トラック.png",
+      "size": 2326633,
+      "message": "Successfully stored media file \"japanese_words_トラック.png\" (2326633 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_トラック.png",
+        "actual_filename": "japanese_words_トラック.png"
+      }
+    }
+  },
+  {
+    "index": 603,
+    "word": "洋服",
+    "path": "Карточки/Одежда/洋服.json",
+    "source_id": 1550388042629,
+    "third": "明日出かけるので、新しい<span class='study-word'>洋服</span>を出して、かばんの隣に置いておきました。",
+    "translation": "Завтра я ухожу из дома, поэтому достал обновку — одежду западного образца — и заранее положил рядом с сумкой.",
+    "note_id": 1789535680656,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly one adult at home laying out new Western-style clothing on bed beside travel bag for tomorrow, physical tailored jacket buttoned shirt and trousers prominent, neat modern outfit. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-6bd5feb6-4313-4ec1-8d57-abd089eacaf7.png",
+    "image_path": "Картинки/Одежда/洋服.png",
+    "media": {
+      "filename": "japanese_words_洋服.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_洋服.png",
+      "size": 2206558,
+      "message": "Successfully stored media file \"japanese_words_洋服.png\" (2206558 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_洋服.png",
+        "actual_filename": "japanese_words_洋服.png"
+      }
+    }
+  },
+  {
+    "index": 606,
+    "word": "成人式",
+    "path": "Карточки/Традиции/成人式.json",
+    "source_id": 1550388103982,
+    "third": "<span class='study-word'>成人式</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить церемонию совершеннолетия, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680657,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly two young adult friends meeting at station on winter morning before attending coming-of-age ceremony, one in elaborate long-sleeved furisode kimono with floral hair ornament and one in formal suit, folded abstract map, civic ceremony hall with red white curtain and flower arrangements visible nearby, adults about twenty years old, no writing. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-2480ca48-c99a-4cc4-832e-29e9b3989cf9.png",
+    "image_path": "Картинки/Традиции/成人式.png",
+    "media": {
+      "filename": "japanese_words_成人式.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_成人式.png",
+      "size": 2432708,
+      "message": "Successfully stored media file \"japanese_words_成人式.png\" (2432708 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_成人式.png",
+        "actual_filename": "japanese_words_成人式.png"
+      }
+    }
+  },
+  {
+    "index": 614,
+    "word": "忘年会",
+    "path": "Карточки/Работа/忘年会.json",
+    "source_id": 1550462305898,
+    "third": "<span class='study-word'>忘年会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить вечеринку в конце года, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680658,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly four adult coworkers at a year-end party in cozy restaurant on snowy December evening, two arriving with folded map join two seated colleagues, festive shared meal and raised glasses, office bags winter coats and small decorated evergreen in background, party dominant. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-7ef4f126-9fb0-478a-9ef4-dde727c6d9b3.png",
+    "image_path": "Картинки/Работа/忘年会.png",
+    "media": {
+      "filename": "japanese_words_忘年会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_忘年会.png",
+      "size": 2435078,
+      "message": "Successfully stored media file \"japanese_words_忘年会.png\" (2435078 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_忘年会.png",
+        "actual_filename": "japanese_words_忘年会.png"
+      }
+    }
+  },
+  {
+    "index": 615,
+    "word": "新年会",
+    "path": "Карточки/Дружба/新年会.json",
+    "source_id": 1550462321848,
+    "third": "<span class='study-word'>新年会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить новогоднюю встречу, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680659,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly four adult friends at New Year gathering, two arriving with folded map join two seated at festive Japanese table, kagami mochi and kadomatsu pine bamboo decoration prominently indicate New Year, celebratory meal. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-408a8c7a-0ad9-43ee-b0af-1191d7afcf86.png",
+    "image_path": "Картинки/Дружба/新年会.png",
+    "media": {
+      "filename": "japanese_words_新年会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_新年会.png",
+      "size": 2510522,
+      "message": "Successfully stored media file \"japanese_words_新年会.png\" (2510522 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_新年会.png",
+        "actual_filename": "japanese_words_新年会.png"
+      }
+    }
+  },
+  {
+    "index": 616,
+    "word": "二次会",
+    "path": "Карточки/Дружба/二次会.json",
+    "source_id": 1550462358570,
+    "third": "<span class='study-word'>二次会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить продолжение вечеринки, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680660,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly four adult friends at second-party karaoke venue late at night, two arriving with folded map and formal jackets over arms join two friends holding microphones, snacks and drinks on low table, colorful lighting, karaoke screen only abstract colors no lyrics. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-d6bf6183-0a8d-4548-80f8-f74c7fd78bf3.png",
+    "image_path": "Картинки/Дружба/二次会.png",
+    "media": {
+      "filename": "japanese_words_二次会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_二次会.png",
+      "size": 2266488,
+      "message": "Successfully stored media file \"japanese_words_二次会.png\" (2266488 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_二次会.png",
+        "actual_filename": "japanese_words_二次会.png"
+      }
+    }
+  },
+  {
+    "index": 617,
+    "word": "発表会",
+    "path": "Карточки/Образование/発表会.json",
+    "source_id": 1550462370973,
+    "third": "<span class='study-word'>発表会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить отчётное выступление, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680661,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly three adults in recital hall, two friends with folded map at doorway watch one adult pianist performing on grand piano on small stage, recital atmosphere with rows of chairs and flowers, piano performance dominant. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-33d5459f-b2da-4688-b9ed-40aa5f9c86ba.png",
+    "image_path": "Картинки/Образование/発表会.png",
+    "media": {
+      "filename": "japanese_words_発表会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_発表会.png",
+      "size": 1918795,
+      "message": "Successfully stored media file \"japanese_words_発表会.png\" (1918795 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_発表会.png",
+        "actual_filename": "japanese_words_発表会.png"
+      }
+    }
+  },
+  {
+    "index": 618,
+    "word": "大会",
+    "path": "Карточки/Спорт/大会.json",
+    "source_id": 1550462396469,
+    "third": "<span class='study-word'>大会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить соревнование, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680662,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly six adults at sports tournament, two friends with folded map at stadium entrance watch four athletes racing on track, trophy on display beside entrance and finish ribbon, tournament setting dominant. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4fbe8e50-6162-49d5-8d7c-4c78be8e5c26.png",
+    "image_path": "Картинки/Спорт/大会.png",
+    "media": {
+      "filename": "japanese_words_大会.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_大会.png",
+      "size": 2304913,
+      "message": "Successfully stored media file \"japanese_words_大会.png\" (2304913 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_大会.png",
+        "actual_filename": "japanese_words_大会.png"
+      }
+    }
+  },
+  {
+    "index": 619,
+    "word": "マラソン",
+    "path": "Карточки/Спорт/マラソン.json",
+    "source_id": 1550462406092,
+    "third": "<span class='study-word'>マラソン</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить марафон, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680663,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly six adults, two friends with folded map at roadside watching four marathon runners on long winding city road, runners in athletic singlets with blank bibs, water station and long distance route stretching away, marathon dominant. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-c1abedfe-3488-4e71-8d5c-5526441b6e4a.png",
+    "image_path": "Картинки/Спорт/マラソン.png",
+    "media": {
+      "filename": "japanese_words_マラソン.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_マラソン.png",
+      "size": 2752565,
+      "message": "Successfully stored media file \"japanese_words_マラソン.png\" (2752565 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_マラソン.png",
+        "actual_filename": "japanese_words_マラソン.png"
+      }
+    }
+  },
+  {
+    "index": 620,
+    "word": "コンテスト",
+    "path": "Карточки/Спорт/コンテスト.json",
+    "source_id": 1550462416481,
+    "third": "<span class='study-word'>コンテスト</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить конкурс, я выяснил, где это будет, и встретился с другом на станции.",
+    "note_id": 1789535680664,
+    "prompt": "Use case: illustration-story. Square image, aspect_ratio 1:1, preferred 512x512. Detailed high quality anime illustration for vocabulary study. Single continuous scene, exactly six adults at baking contest, two friends arriving with folded map watch two adult contestants presenting decorated cakes to two seated judges, trophy on judging table, contest scene dominant, no writing. Target object or action visually dominant, natural poses, detailed hands, cinematic lighting. All surfaces and packaging unmarked. Absolutely no text, letters, kanji, numerals, captions, watermark, logos. No additional people. Avoid bad anatomy, extra fingers, blurry details.",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0a864-f2fc-7da2-a908-e6877582a8b5/exec-4642d89d-2058-4d6c-8a8f-0450d9200401.png",
+    "image_path": "Картинки/Спорт/コンテスト.png",
+    "media": {
+      "filename": "japanese_words_コンテスト.png",
+      "filepath": "/Users/chebotarev/Library/Application Support/Anki2/1-й пользователь/collection.media/japanese_words_コンテスト.png",
+      "size": 2267815,
+      "message": "Successfully stored media file \"japanese_words_コンテスト.png\" (2267815 bytes)",
+      "details": {
+        "source_type": "file",
+        "original_filename": "japanese_words_コンテスト.png",
+        "actual_filename": "japanese_words_コンテスト.png"
+      }
+    }
+  }
+]
