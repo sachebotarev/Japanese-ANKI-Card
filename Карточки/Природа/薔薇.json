@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>薔薇</span>です。<br>庭に<span class='study-word'>薔薇</span>があります。<br><span class='study-word'>薔薇</span>の花が咲いたので、庭へ出て、写真を撮りました。",
   "Пример без слова": "これは_____です。<br>庭に_____があります。<br>_____の花が咲いたので、庭へ出て、写真を撮りました。",
   "Пример перевод": "Это роза.<br>В саду растёт роза.<br>Зацвела роза, поэтому я вышел в сад и сделал фотографию.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Зацвела роза, поэтому я вышел в сад и сделал фотографию., visual focus: роза, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_薔薇.png\">",
   "Произношение": "[sound:薔薇_слово.mp3][sound:薔薇_пример_1.mp3][sound:薔薇_пример_2.mp3][sound:薔薇_пример_3.mp3]",
   "Заметки": "Слово из урока 43 Minna no Nihongo. Цветок с шипами на стебле.",
   "Кандзи-разбор": "薔 — компонент слова «роза»; 薇 — компонент слова «роза»",

@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>梅</span>です。<br>庭に<span class='study-word'>梅</span>があります。<br><span class='study-word'>梅</span>の花が咲いたので、庭へ出て、写真を撮りました。",
   "Пример без слова": "これは_____です。<br>庭に_____があります。<br>_____の花が咲いたので、庭へ出て、写真を撮りました。",
   "Пример перевод": "Это японская слива.<br>В саду растёт японская слива.<br>Зацвела японская слива, поэтому я вышел в сад и сделал фотографию.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Зацвела японская слива, поэтому я вышел в сад и сделал фотографию., visual focus: японская слива, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_梅.png\">",
   "Произношение": "[sound:梅_слово.mp3][sound:梅_пример_1.mp3][sound:梅_пример_2.mp3][sound:梅_пример_3.mp3]",
   "Заметки": "Слово из урока 45 Minna no Nihongo. Дерево с ранними цветами и кислыми плодами.",
   "Кандзи-разбор": "梅 — слива",

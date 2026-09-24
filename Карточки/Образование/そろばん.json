@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>そろばん</span>です。<br>この店で<span class='study-word'>そろばん</span>を売っています。<br>明日使うので、<span class='study-word'>そろばん</span>を買って、家に持って帰りました。",
   "Пример без слова": "これは_____です。<br>この店で_____を売っています。<br>明日使うので、_____を買って、家に持って帰りました。",
   "Пример перевод": "Это японские счёты.<br>В этом магазине продают японские счёты.<br>Завтра мне понадобится японские счёты, поэтому я купил и принёс домой японские счёты.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится японские счёты, поэтому я купил и принёс домой японские счёты., visual focus: японские счёты, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_そろばん.png\">",
   "Произношение": "[sound:そろばん_слово.mp3][sound:そろばん_пример_1.mp3][sound:そろばん_пример_2.mp3][sound:そろばん_пример_3.mp3]",
   "Заметки": "Слово из урока 42 Minna no Nihongo. Рамка с косточками для вычислений.",
   "Кандзи-разбор": "Кандзи нет.",

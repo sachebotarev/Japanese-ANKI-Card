@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>ファイル</span>です。<br><span class='study-word'>ファイル</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>ファイル</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это файл.<br>Файл находится на столе.<br>Завтра мне понадобится файл, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится файл, поэтому я положил это в сумку, чтобы не забыть., visual focus: файл; папка для документов, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ファイル.png\">",
   "Произношение": "[sound:ファイル_слово.mp3][sound:ファイル_пример_1.mp3][sound:ファイル_пример_2.mp3][sound:ファイル_пример_3.mp3]",
   "Заметки": "Слово из урока 48 Minna no Nihongo. Единица хранения информации или папка с материалами.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>カップ麺</span>を食べます。<br>昨日、友達と<span class='study-word'>カップ麺</span>を食べました。<br>お腹がすいていたので、店で<span class='study-word'>カップ麺</span>を買って、公園で食べました。",
   "Пример без слова": "_____を食べます。<br>昨日、友達と_____を食べました。<br>お腹がすいていたので、店で_____を買って、公園で食べました。",
   "Пример перевод": "Я ем лапшу в стаканчике.<br>Вчера я ел лапшу в стаканчике с другом.<br>Я был голоден, поэтому купил лапшу в стаканчике в магазине и съел в парке.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я был голоден, поэтому купил лапшу в стаканчике в магазине и съел в парке., visual focus: лапша в стаканчике, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_カップ麺.png\">",
   "Произношение": "[sound:カップ麺_слово.mp3][sound:カップ麺_пример_1.mp3][sound:カップ麺_пример_2.mp3][sound:カップ麺_пример_3.mp3]",
   "Заметки": "Слово из урока 42 Minna no Nihongo. Для приготовления достаточно залить упаковку кипятком.",
   "Кандзи-разбор": "麺 — лапша",

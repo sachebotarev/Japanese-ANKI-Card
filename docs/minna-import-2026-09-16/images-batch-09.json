@@ -1,0 +1,222 @@
+[
+  {
+    "index": 696,
+    "word": "そろばん",
+    "path": "Карточки/Образование/そろばん.json",
+    "note_id": 1789535680685,
+    "third": "明日使うので、<span class='study-word'>そろばん</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится японские счёты, поэтому я купил и принёс домой японские счёты.",
+    "image_path": "Картинки/Образование/そろばん.png",
+    "media_filename": "japanese_words_そろばん.png",
+    "bytes": 2005521
+  },
+  {
+    "index": 701,
+    "word": "カップ麺",
+    "path": "Карточки/Еда/カップ麺.json",
+    "note_id": 1789535680686,
+    "third": "お腹がすいていたので、店で<span class='study-word'>カップ麺</span>を買って、公園で食べました。",
+    "translation": "Я был голоден, поэтому купил лапшу в стаканчике в магазине и съел в парке.",
+    "image_path": "Картинки/Еда/カップ麺.png",
+    "media_filename": "japanese_words_カップ麺.png",
+    "bytes": 2284086
+  },
+  {
+    "index": 714,
+    "word": "パンフレット",
+    "path": "Карточки/Туризм/パンフレット.json",
+    "note_id": 1789535680688,
+    "third": "明日必要なので、<span class='study-word'>パンフレット</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится буклет, поэтому я положил это в сумку, чтобы не забыть.",
+    "image_path": "Картинки/Туризм/パンフレット.png",
+    "media_filename": "japanese_words_パンフレット.png",
+    "bytes": 2330100
+  },
+  {
+    "index": 717,
+    "word": "薔薇",
+    "path": "Карточки/Природа/薔薇.json",
+    "note_id": 1789535680689,
+    "third": "<span class='study-word'>薔薇</span>の花が咲いたので、庭へ出て、写真を撮りました。",
+    "translation": "Зацвела роза, поэтому я вышел в сад и сделал фотографию.",
+    "image_path": "Картинки/Природа/薔薇.png",
+    "media_filename": "japanese_words_薔薇.png",
+    "bytes": 2531715
+  },
+  {
+    "index": 723,
+    "word": "洋食",
+    "path": "Карточки/Еда/洋食.json",
+    "note_id": 1789535680690,
+    "third": "お腹がすいていたので、店で<span class='study-word'>洋食</span>を買って、公園で食べました。",
+    "translation": "Я был голоден, поэтому купил блюдо западной кухни в магазине и съел в парке.",
+    "image_path": "Картинки/Еда/洋食.png",
+    "media_filename": "japanese_words_洋食.png",
+    "bytes": 2362629
+  },
+  {
+    "index": 727,
+    "word": "DVD",
+    "path": "Карточки/Электроника/DVD.json",
+    "note_id": 1789535680691,
+    "third": "明日使うので、<span class='study-word'>DVD</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится DVD-диск, поэтому я купил и принёс домой DVD-диск.",
+    "image_path": "Картинки/Электроника/DVD.png",
+    "media_filename": "japanese_words_dvd.png",
+    "bytes": 1875777
+  },
+  {
+    "index": 730,
+    "word": "シャンプー",
+    "path": "Карточки/Быт/シャンプー.json",
+    "note_id": 1789535680692,
+    "third": "明日使うので、<span class='study-word'>シャンプー</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится шампунь, поэтому я купил и принёс домой шампунь.",
+    "image_path": "Картинки/Быт/シャンプー.png",
+    "media_filename": "japanese_words_シャンプー.png",
+    "bytes": 1801773
+  },
+  {
+    "index": 743,
+    "word": "保証書",
+    "path": "Карточки/Торговля/保証書.json",
+    "note_id": 1789535680693,
+    "third": "明日必要なので、<span class='study-word'>保証書</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится гарантийный талон, поэтому я положил это в сумку, чтобы не забыть.",
+    "image_path": "Картинки/Торговля/保証書.png",
+    "media_filename": "japanese_words_保証書.png",
+    "bytes": 2156649
+  },
+  {
+    "index": 744,
+    "word": "領収書",
+    "path": "Карточки/Финансы/領収書.json",
+    "note_id": 1789535680694,
+    "third": "明日必要なので、<span class='study-word'>領収書</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится квитанция, поэтому я положил это в сумку, чтобы не забыть.",
+    "image_path": "Картинки/Финансы/領収書.png",
+    "media_filename": "japanese_words_領収書.png",
+    "bytes": 1996113
+  },
+  {
+    "index": 747,
+    "word": "梅",
+    "path": "Карточки/Природа/梅.json",
+    "note_id": 1789535680695,
+    "third": "<span class='study-word'>梅</span>の花が咲いたので、庭へ出て、写真を撮りました。",
+    "translation": "Зацвела японская слива, поэтому я вышел в сад и сделал фотографию.",
+    "image_path": "Картинки/Природа/梅.png",
+    "media_filename": "japanese_words_梅.png",
+    "bytes": 2532082
+  },
+  {
+    "index": 753,
+    "word": "係員",
+    "path": "Карточки/Профессии/係員.json",
+    "note_id": 1789535680696,
+    "third": "仕事のことを聞きたかったので、<span class='study-word'>係員</span>に会って、いろいろ教えてもらいました。",
+    "translation": "Я хотел узнать о работе, поэтому встретил специалиста — ответственного сотрудника — и получил от него много полезных объяснений.",
+    "image_path": "Картинки/Профессии/係員.png",
+    "media_filename": "japanese_words_係員.png",
+    "bytes": 1706974
+  },
+  {
+    "index": 757,
+    "word": "目覚まし時計",
+    "path": "Карточки/Быт/目覚まし時計.json",
+    "note_id": 1789535680697,
+    "third": "明日使うので、<span class='study-word'>目覚まし時計</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится будильник, поэтому я купил и принёс домой будильник.",
+    "image_path": "Картинки/Быт/目覚まし時計.png",
+    "media_filename": "japanese_words_目覚まし時計.png",
+    "bytes": 1818282
+  },
+  {
+    "index": 770,
+    "word": "ガスサービスセンター",
+    "path": "Карточки/Быт/ガスサービスセンター.json",
+    "note_id": 1789535680698,
+    "third": "<span class='study-word'>ガスサービスセンター</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить центр газового обслуживания, я выяснил, где это находится, и встретился с другом на станции.",
+    "image_path": "Картинки/Быт/ガスサービスセンター.png",
+    "media_filename": "japanese_words_ガスサービスセンター.png",
+    "bytes": 2179798
+  },
+  {
+    "index": 771,
+    "word": "ガスレンジ",
+    "path": "Карточки/Быт/ガスレンジ.json",
+    "note_id": 1789535680699,
+    "third": "明日使うので、<span class='study-word'>ガスレンジ</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится газовая плита, поэтому я купил и принёс домой газовую плиту.",
+    "image_path": "Картинки/Быт/ガスレンジ.png",
+    "media_filename": "japanese_words_ガスレンジ.png",
+    "bytes": 2114046
+  },
+  {
+    "index": 777,
+    "word": "ベル",
+    "path": "Карточки/Быт/ベル.json",
+    "note_id": 1789535680700,
+    "third": "明日使うので、<span class='study-word'>ベル</span>を買って、家に持って帰りました。",
+    "translation": "Завтра мне понадобится звонок, поэтому я купил и принёс домой колокольчик.",
+    "image_path": "Картинки/Быт/ベル.png",
+    "media_filename": "japanese_words_ベル.png",
+    "bytes": 2013839
+  },
+  {
+    "index": 787,
+    "word": "パトカー",
+    "path": "Карточки/Транспорт/パトカー.json",
+    "note_id": 1789535680701,
+    "third": "<span class='study-word'>パトカー</span>を近くで見たかったので、外に出て、写真を撮りました。",
+    "translation": "Я хотел увидеть патрульную машину вблизи, поэтому вышел наружу и сделал фотографию.",
+    "image_path": "Картинки/Транспорт/パトカー.png",
+    "media_filename": "japanese_words_パトカー.png",
+    "bytes": 2369561
+  },
+  {
+    "index": 799,
+    "word": "ファイル",
+    "path": "Карточки/Электроника/ファイル.json",
+    "note_id": 1789535680702,
+    "third": "明日必要なので、<span class='study-word'>ファイル</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится файл, поэтому я положил это в сумку, чтобы не забыть.",
+    "image_path": "Картинки/Электроника/ファイル.png",
+    "media_filename": "japanese_words_ファイル.png",
+    "bytes": 1989241
+  },
+  {
+    "index": 823,
+    "word": "医学部",
+    "path": "Карточки/Образование/医学部.json",
+    "note_id": 1789535680703,
+    "third": "<span class='study-word'>医学部</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить медицинский факультет, я выяснил, где это находится, и встретился с другом на станции.",
+    "image_path": "Картинки/Образование/医学部.png",
+    "media_filename": "japanese_words_医学部.png",
+    "bytes": 2178253
+  },
+  {
+    "index": 827,
+    "word": "マウス",
+    "path": "Карточки/Природа/マウス.json",
+    "note_id": 1789535680704,
+    "third": "<span class='study-word'>マウス</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть лабораторную мышь, я подошёл немного ближе и сделал фотографию.",
+    "image_path": "Картинки/Природа/マウス.png",
+    "media_filename": "japanese_words_マウス.png",
+    "bytes": 1979229
+  },
+  {
+    "index": 829,
+    "word": "講演会",
+    "path": "Карточки/Образование/講演会.json",
+    "note_id": 1789535680705,
+    "third": "<span class='study-word'>講演会</span>に行く前に、場所を調べて、友達と駅で待ち合わせました。",
+    "translation": "Перед тем как посетить публичную лекцию, я выяснил, где это будет, и встретился с другом на станции.",
+    "image_path": "Картинки/Образование/講演会.png",
+    "media_filename": "japanese_words_講演会.png",
+    "bytes": 1858768
+  }
+]

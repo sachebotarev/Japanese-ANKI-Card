@@ -6,7 +6,7 @@
   "Пример": "これは<span class='study-word'>パンフレット</span>です。<br><span class='study-word'>パンフレット</span>は机の上にあります。<br>明日必要なので、<span class='study-word'>パンフレット</span>をかばんに入れて、忘れないようにしました。",
   "Пример без слова": "これは_____です。<br>_____は机の上にあります。<br>明日必要なので、_____をかばんに入れて、忘れないようにしました。",
   "Пример перевод": "Это буклет.<br>Буклет находится на столе.<br>Завтра мне понадобится буклет, поэтому я положил это в сумку, чтобы не забыть.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Завтра мне понадобится буклет, поэтому я положил это в сумку, чтобы не забыть., visual focus: буклет, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_パンフレット.png\">",
   "Произношение": "[sound:パンフレット_слово.mp3][sound:パンフレット_пример_1.mp3][sound:パンフレット_пример_2.mp3][sound:パンフレット_пример_3.mp3]",
   "Заметки": "Слово из урока 43 Minna no Nihongo. Небольшое печатное издание с краткой информацией.",
   "Кандзи-разбор": "Кандзи нет.",
