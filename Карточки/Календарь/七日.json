@@ -6,7 +6,7 @@
   "Пример": "今日は<span class='study-word'>七日</span>です。<br>来月の<span class='study-word'>七日</span>に友達が来ます。<br><span class='study-word'>七日</span>に友達が来るので、その前に部屋を掃除しておきます。",
   "Пример без слова": "今日は_____です。<br>来月の_____に友達が来ます。<br>_____に友達が来るので、その前に部屋を掃除しておきます。",
   "Пример перевод": "Сегодня седьмое число.<br>Друг придёт седьмого числа следующего месяца.<br>Друг придёт седьмого числа, поэтому я заранее уберу комнату.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Друг придёт седьмого числа, поэтому я заранее уберу комнату., visual focus: седьмое число месяца; 7 дней, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_七日.png\">",
   "Произношение": "[sound:七日_слово.mp3][sound:七日_пример_1.mp3][sound:七日_пример_2.mp3][sound:七日_пример_3.mp3]",
   "Заметки": "Особое чтение даты. То же чтение используется для длительности в днях.",
   "Кандзи-разбор": "七 — семь; 日 — день",

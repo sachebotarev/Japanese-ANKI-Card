@@ -1,0 +1,222 @@
+[
+  {
+    "index": 840,
+    "word": "ガイド",
+    "path": "Карточки/Профессии/ガイド.json",
+    "note_id": 1789535680706,
+    "third": "仕事のことを聞きたかったので、<span class='study-word'>ガイド</span>に会って、いろいろ教えてもらいました。",
+    "translation": "Я хотел узнать о работе, поэтому встретил специалиста — гида — и получил от него много полезных объяснений.",
+    "image_path": "Картинки/Профессии/ガイド.png",
+    "media_filename": "japanese_words_ガイド.png",
+    "bytes": 2085974
+  },
+  {
+    "index": 849,
+    "word": "麒麟",
+    "path": "Карточки/Природа/麒麟.json",
+    "note_id": 1789535680707,
+    "third": "<span class='study-word'>麒麟</span>がよく見えるように、少し近くへ行って、写真を撮りました。",
+    "translation": "Чтобы лучше видеть жирафа, я подошёл немного ближе и сделал фотографию.",
+    "image_path": "Картинки/Природа/麒麟.png",
+    "media_filename": "japanese_words_麒麟.png",
+    "bytes": 2353915
+  },
+  {
+    "index": 858,
+    "word": "チケット",
+    "path": "Карточки/Туризм/チケット.json",
+    "note_id": 1789535680708,
+    "third": "明日必要なので、<span class='study-word'>チケット</span>をかばんに入れて、忘れないようにしました。",
+    "translation": "Завтра мне понадобится билет, поэтому я положил это в сумку, чтобы не забыть.",
+    "image_path": "Картинки/Туризм/チケット.png",
+    "media_filename": "japanese_words_チケット.png",
+    "bytes": 2069763
+  },
+  {
+    "index": 35,
+    "word": "一日",
+    "path": "Карточки/Календарь/一日.json",
+    "note_id": 1789535680709,
+    "third": "<span class='study-word'>一日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт первого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/一日.png",
+    "media_filename": "japanese_words_一日.png",
+    "bytes": 2025060
+  },
+  {
+    "index": 36,
+    "word": "二日",
+    "path": "Карточки/Календарь/二日.json",
+    "note_id": 1789535680710,
+    "third": "<span class='study-word'>二日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт второго числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/二日.png",
+    "media_filename": "japanese_words_二日.png",
+    "bytes": 2100957
+  },
+  {
+    "index": 37,
+    "word": "三日",
+    "path": "Карточки/Календарь/三日.json",
+    "note_id": 1789535680711,
+    "third": "<span class='study-word'>三日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт третьего числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/三日.png",
+    "media_filename": "japanese_words_三日.png",
+    "bytes": 2159030
+  },
+  {
+    "index": 38,
+    "word": "四日",
+    "path": "Карточки/Календарь/四日.json",
+    "note_id": 1789535680712,
+    "third": "<span class='study-word'>四日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт четвёртого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/四日.png",
+    "media_filename": "japanese_words_四日.png",
+    "bytes": 1870351
+  },
+  {
+    "index": 39,
+    "word": "五日",
+    "path": "Карточки/Календарь/五日.json",
+    "note_id": 1789535680713,
+    "third": "<span class='study-word'>五日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт пятого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/五日.png",
+    "media_filename": "japanese_words_五日.png",
+    "bytes": 1957231
+  },
+  {
+    "index": 40,
+    "word": "六日",
+    "path": "Карточки/Календарь/六日.json",
+    "note_id": 1789535680714,
+    "third": "<span class='study-word'>六日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт шестого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/六日.png",
+    "media_filename": "japanese_words_六日.png",
+    "bytes": 1933413
+  },
+  {
+    "index": 41,
+    "word": "七日",
+    "path": "Карточки/Календарь/七日.json",
+    "note_id": 1789535680715,
+    "third": "<span class='study-word'>七日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт седьмого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/七日.png",
+    "media_filename": "japanese_words_七日.png",
+    "bytes": 2027045
+  },
+  {
+    "index": 42,
+    "word": "八日",
+    "path": "Карточки/Календарь/八日.json",
+    "note_id": 1789535680716,
+    "third": "<span class='study-word'>八日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт восьмого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/八日.png",
+    "media_filename": "japanese_words_八日.png",
+    "bytes": 1933728
+  },
+  {
+    "index": 43,
+    "word": "九日",
+    "path": "Карточки/Календарь/九日.json",
+    "note_id": 1789535680717,
+    "third": "<span class='study-word'>九日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт девятого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/九日.png",
+    "media_filename": "japanese_words_九日.png",
+    "bytes": 1964702
+  },
+  {
+    "index": 44,
+    "word": "十日",
+    "path": "Карточки/Календарь/十日.json",
+    "note_id": 1789535680718,
+    "third": "<span class='study-word'>十日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт десятого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/十日.png",
+    "media_filename": "japanese_words_十日.png",
+    "bytes": 1850652
+  },
+  {
+    "index": 45,
+    "word": "十四日",
+    "path": "Карточки/Календарь/十四日.json",
+    "note_id": 1789535680719,
+    "third": "<span class='study-word'>十四日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт четырнадцатого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/十四日.png",
+    "media_filename": "japanese_words_十四日.png",
+    "bytes": 1875891
+  },
+  {
+    "index": 46,
+    "word": "二十日",
+    "path": "Карточки/Календарь/二十日.json",
+    "note_id": 1789535680720,
+    "third": "<span class='study-word'>二十日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт двадцатого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/二十日.png",
+    "media_filename": "japanese_words_二十日.png",
+    "bytes": 1800257
+  },
+  {
+    "index": 47,
+    "word": "二十四日",
+    "path": "Карточки/Календарь/二十四日.json",
+    "note_id": 1789535680721,
+    "third": "<span class='study-word'>二十四日</span>に友達が来るので、その前に部屋を掃除しておきます。",
+    "translation": "Друг придёт двадцать четвёртого числа, поэтому я заранее уберу комнату.",
+    "image_path": "Картинки/Календарь/二十四日.png",
+    "media_filename": "japanese_words_二十四日.png",
+    "bytes": 1817341
+  },
+  {
+    "index": 129,
+    "word": "一つ",
+    "path": "Карточки/Счётные суффиксы/一つ.json",
+    "note_id": 1789535680722,
+    "third": "友達にあげたかったので、ケーキを<span class='study-word'>一つ</span>買って、家に持って行きました。",
+    "translation": "Я хотел угостить друга, поэтому купил одно пирожное и принёс к нему домой.",
+    "image_path": "Картинки/Счётные суффиксы/一つ.png",
+    "media_filename": "japanese_words_一つ.png",
+    "bytes": 2167630
+  },
+  {
+    "index": 130,
+    "word": "二つ",
+    "path": "Карточки/Счётные суффиксы/二つ.json",
+    "note_id": 1789535680723,
+    "third": "友達にあげたかったので、ケーキを<span class='study-word'>二つ</span>買って、家に持って行きました。",
+    "translation": "Я хотел угостить друга, поэтому купил два пирожных и принёс к нему домой.",
+    "image_path": "Картинки/Счётные суффиксы/二つ.png",
+    "media_filename": "japanese_words_二つ.png",
+    "bytes": 2064063
+  },
+  {
+    "index": 131,
+    "word": "三つ",
+    "path": "Карточки/Счётные суффиксы/三つ.json",
+    "note_id": 1789535680724,
+    "third": "友達にあげたかったので、ケーキを<span class='study-word'>三つ</span>買って、家に持って行きました。",
+    "translation": "Я хотел угостить друга, поэтому купил три пирожных и принёс к нему домой.",
+    "image_path": "Картинки/Счётные суффиксы/三つ.png",
+    "media_filename": "japanese_words_三つ.png",
+    "bytes": 2098855
+  },
+  {
+    "index": 132,
+    "word": "四つ",
+    "path": "Карточки/Счётные суффиксы/四つ.json",
+    "note_id": 1789535680725,
+    "third": "友達にあげたかったので、ケーキを<span class='study-word'>四つ</span>買って、家に持って行きました。",
+    "translation": "Я хотел угостить друга, поэтому купил четыре пирожных и принёс к нему домой.",
+    "image_path": "Картинки/Счётные суффиксы/四つ.png",
+    "media_filename": "japanese_words_四つ.png",
+    "bytes": 2206436
+  }
+]
