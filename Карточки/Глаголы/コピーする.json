@@ -6,7 +6,7 @@
   "Пример": "これを<span class='study-word'>コピーします</span>。<br>図書館で資料を<span class='study-word'>コピーしました</span>。<br>会議で使うので、資料を<span class='study-word'>コピーして</span>、みんなの机に置いておきました。",
   "Пример без слова": "これを_____。<br>図書館で資料を_____。<br>会議で使うので、資料を_____、みんなの机に置いておきました。",
   "Пример перевод": "Я скопирую это.<br>Я сделал копию материалов в библиотеке.<br>Материалы нужны на совещании, поэтому я сделал копии и заранее положил их всем на столы.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Материалы нужны на совещании, поэтому я сделал копии и заранее положил их всем на столы., visual focus: копировать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_コピーする.png\">",
   "Произношение": "[sound:コピーする_слово.mp3][sound:コピーする_пример_1.mp3][sound:コピーする_пример_2.mp3][sound:コピーする_пример_3.mp3]",
   "Заметки": "Модель: 資料をコピーする; объект отмечается を.",
   "Кандзи-разбор": "Кандзи нет.",

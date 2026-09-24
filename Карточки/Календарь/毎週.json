@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>毎週</span>、本を読みます。<br><span class='study-word'>毎週</span>、友達と映画を見ます。<br>日本語を忘れないように、<span class='study-word'>毎週</span>、友達に会って、日本語で話しています。",
   "Пример без слова": "_____、本を読みます。<br>_____、友達と映画を見ます。<br>日本語を忘れないように、_____、友達に会って、日本語で話しています。",
   "Пример перевод": "Каждую неделю я читаю книги.<br>Каждую неделю я смотрю фильм с другом.<br>Чтобы не забыть японский, каждую неделю я встречаюсь с другом и разговариваю по-японски.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не забыть японский, каждую неделю я встречаюсь с другом и разговариваю по-японски., visual focus: каждую неделю, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_毎週.png\">",
   "Произношение": "[sound:毎週_слово.mp3][sound:毎週_пример_1.mp3][sound:毎週_пример_2.mp3][sound:毎週_пример_3.mp3]",
   "Заметки": "毎 обозначает регулярное повторение.",
   "Кандзи-разбор": "毎 — каждый; 週 — неделя",

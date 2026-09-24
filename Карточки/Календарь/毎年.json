@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>毎年</span>、本を読みます。<br><span class='study-word'>毎年</span>、友達と映画を見ます。<br>日本語を忘れないように、<span class='study-word'>毎年</span>、友達に会って、日本語で話しています。",
   "Пример без слова": "_____、本を読みます。<br>_____、友達と映画を見ます。<br>日本語を忘れないように、_____、友達に会って、日本語で話しています。",
   "Пример перевод": "Каждый год я читаю книги.<br>Каждый год я смотрю фильм с другом.<br>Чтобы не забыть японский, каждый год я встречаюсь с другом и разговариваю по-японски.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не забыть японский, каждый год я встречаюсь с другом и разговариваю по-японски., visual focus: каждый год, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_毎年.png\">",
   "Произношение": "[sound:毎年_слово.mp3][sound:毎年_пример_1.mp3][sound:毎年_пример_2.mp3][sound:毎年_пример_3.mp3]",
   "Заметки": "毎年 имеет также чтение まいねん.",
   "Кандзи-разбор": "毎 — каждый; 年 — год",

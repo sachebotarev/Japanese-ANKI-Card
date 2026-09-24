@@ -6,7 +6,7 @@
   "Пример": "試合に<span class='study-word'>負けました</span>。<br>昨日、兄に<span class='study-word'>負けました</span>。<br>試合に<span class='study-word'>負けた</span>ので、もっと強くなろうと思って、毎日練習しています。",
   "Пример без слова": "試合に_____。<br>昨日、兄に_____。<br>試合に_____ので、もっと強くなろうと思って、毎日練習しています。",
   "Пример перевод": "Я проиграл матч.<br>Вчера я проиграл старшему брату.<br>Я проиграл матч и решил стать сильнее, поэтому тренируюсь каждый день.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я проиграл матч и решил стать сильнее, поэтому тренируюсь каждый день., visual focus: проигрывать; терпеть поражение, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_負ける.png\">",
   "Произношение": "[sound:負ける_слово.mp3][sound:負ける_пример_1.mp3][sound:負ける_пример_2.mp3][sound:負ける_пример_3.mp3]",
   "Заметки": "相手に負ける — проиграть сопернику; 試合に負ける — проиграть матч.",
   "Кандзи-разбор": "負 — проигрывать",

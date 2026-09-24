@@ -6,7 +6,7 @@
   "Пример": "名前を<span class='study-word'>入力します</span>。<br>ここに住所を<span class='study-word'>入力してください</span>。<br>間違えないように、番号をゆっくり<span class='study-word'>入力して</span>、もう一度確かめました。",
   "Пример без слова": "名前を_____。<br>ここに住所を_____。<br>間違えないように、番号をゆっくり_____、もう一度確かめました。",
   "Пример перевод": "Я ввожу имя.<br>Введите здесь адрес.<br>Чтобы не ошибиться, я медленно ввёл номер и ещё раз проверил его.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не ошибиться, я медленно ввёл номер и ещё раз проверил его., visual focus: вводить данные, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_入力する.png\">",
   "Произношение": "[sound:入力する_слово.mp3][sound:入力する_пример_1.mp3][sound:入力する_пример_2.mp3][sound:入力する_пример_3.mp3]",
   "Заметки": "Данные — を, место ввода — に: 名前をフォームに入力する.",
   "Кандзи-разбор": "入 — входить; 力 — сила",
