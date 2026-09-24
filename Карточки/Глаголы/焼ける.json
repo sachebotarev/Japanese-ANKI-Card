@@ -6,7 +6,7 @@
   "Пример": "パンが<span class='study-word'>焼けました</span>。<br>火事で家が<span class='study-word'>焼けました</span>。<br>パンが<span class='study-word'>焼けた</span>ので、熱いうちに切って、家族と一緒に食べました。",
   "Пример без слова": "パンが_____。<br>火事で家が_____。<br>パンが_____ので、熱いうちに切って、家族と一緒に食べました。",
   "Пример перевод": "Хлеб испёкся.<br>Дом сгорел при пожаре.<br>Хлеб испёкся, поэтому я нарезал его ещё горячим и поел вместе с семьёй.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Хлеб испёкся, поэтому я нарезал его ещё горячим и поел вместе с семьёй., visual focus: подгорать; печься; сгорать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_焼ける.png\">",
   "Произношение": "[sound:焼ける_слово.mp3][sound:焼ける_пример_1.mp3][sound:焼ける_пример_2.mp3][sound:焼ける_пример_3.mp3]",
   "Заметки": "Непереходный глагол: パンが焼ける／家が焼ける; переходная пара — 焼く.",
   "Кандзи-разбор": "焼 — жарить",

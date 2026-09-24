@@ -6,7 +6,7 @@
   "Пример": "野菜が<span class='study-word'>煮えました</span>。<br>肉はまだ<span class='study-word'>煮えていません</span>。<br>野菜が柔らかく<span class='study-word'>煮えた</span>ので、火を止めて、皿に入れました。",
   "Пример без слова": "野菜が_____。<br>肉はまだ_____。<br>野菜が柔らかく_____ので、火を止めて、皿に入れました。",
   "Пример перевод": "Овощи сварились.<br>Мясо ещё не сварилось.<br>Овощи сварились до мягкости, поэтому я выключил огонь и переложил их на тарелку.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Овощи сварились до мягкости, поэтому я выключил огонь и переложил их на тарелку., visual focus: свариться; быть готовым после варки, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_煮える.png\">",
   "Произношение": "[sound:煮える_слово.mp3][sound:煮える_пример_1.mp3][sound:煮える_пример_2.mp3][sound:煮える_пример_3.mp3]",
   "Заметки": "Непереходный глагол: 野菜が煮える; переходная пара — 野菜を煮る.",
   "Кандзи-разбор": "煮 — варить",

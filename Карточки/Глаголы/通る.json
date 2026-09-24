@@ -6,7 +6,7 @@
   "Пример": "ここを<span class='study-word'>通ります</span>。<br>毎日、この道を<span class='study-word'>通って</span>学校へ行きます。<br>いつもの道が工事中だったので、公園の中を<span class='study-word'>通って</span>、駅まで歩きました。",
   "Пример без слова": "ここを_____。<br>毎日、この道を_____学校へ行きます。<br>いつもの道が工事中だったので、公園の中を_____、駅まで歩きました。",
   "Пример перевод": "Я прохожу здесь.<br>Я каждый день иду в школу по этой дороге.<br>Обычная дорога была на ремонте, поэтому я прошёл через парк и дошёл до станции.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Обычная дорога была на ремонте, поэтому я прошёл через парк и дошёл до станции., visual focus: проходить; проезжать через, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_通る.png\">",
   "Произношение": "[sound:通る_слово.mp3][sound:通る_пример_1.mp3][sound:通る_пример_2.mp3][sound:通る_пример_3.mp3]",
   "Заметки": "Место движения отмечается を: 道／公園を通る.",
   "Кандзи-разбор": "通 — проходить",

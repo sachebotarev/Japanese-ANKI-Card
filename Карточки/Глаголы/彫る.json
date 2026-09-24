@@ -6,7 +6,7 @@
   "Пример": "木を<span class='study-word'>彫ります</span>。<br>石に名前を<span class='study-word'>彫りました</span>。<br>父に教えてもらいながら、木で小さな鳥を<span class='study-word'>彫って</span>、母にあげました。",
   "Пример без слова": "木を_____。<br>石に名前を_____。<br>父に教えてもらいながら、木で小さな鳥を_____、母にあげました。",
   "Пример перевод": "Я вырезаю по дереву.<br>Я выгравировал имя на камне.<br>Под руководством отца я вырезал маленькую птицу из дерева и подарил маме.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Под руководством отца я вырезал маленькую птицу из дерева и подарил маме., visual focus: вырезать; гравировать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_彫る.png\">",
   "Произношение": "[sound:彫る_слово.mp3][sound:彫る_пример_1.mp3][sound:彫る_пример_2.mp3][sound:彫る_пример_3.mp3]",
   "Заметки": "木を彫る; 石に名前を彫る — вырезать имя на камне.",
   "Кандзи-разбор": "彫 — резьба",

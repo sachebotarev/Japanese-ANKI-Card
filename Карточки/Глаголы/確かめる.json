@@ -6,7 +6,7 @@
   "Пример": "番号を<span class='study-word'>確かめます</span>。<br>出かける前に時間を<span class='study-word'>確かめました</span>。<br>電車を間違えないように、行き先を<span class='study-word'>確かめて</span>から、ホームに入りました。",
   "Пример без слова": "番号を_____。<br>出かける前に時間を_____。<br>電車を間違えないように、行き先を_____から、ホームに入りました。",
   "Пример перевод": "Я проверяю номер.<br>Перед выходом я проверил время.<br>Чтобы не перепутать поезд, я проверил направление, а затем вышел на платформу.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не перепутать поезд, я проверил направление, а затем вышел на платформу., visual focus: проверять; удостоверяться, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_確かめる.png\">",
   "Произношение": "[sound:確かめる_слово.mp3][sound:確かめる_пример_1.mp3][sound:確かめる_пример_2.mp3][sound:確かめる_пример_3.mp3]",
   "Заметки": "内容を確かめる; встроенный вопрос: 正しいかどうか確かめる.",
   "Кандзи-разбор": "確 — надёжный",

@@ -6,7 +6,7 @@
   "Пример": "長さを<span class='study-word'>測ります</span>。<br>毎朝、体の重さを<span class='study-word'>測っています</span>。<br>棚を買う前に、部屋の広さを<span class='study-word'>測って</span>、置けるかどうか確かめました。",
   "Пример без слова": "長さを_____。<br>毎朝、体の重さを_____。<br>棚を買う前に、部屋の広さを_____、置けるかどうか確かめました。",
   "Пример перевод": "Я измеряю длину.<br>Каждое утро я измеряю вес тела.<br>Перед покупкой шкафа я измерил комнату и проверил, поместится ли он.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Перед покупкой шкафа я измерил комнату и проверил, поместится ли он., visual focus: измерять; взвешивать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_測る.png\">",
   "Произношение": "[sound:測る_слово.mp3][sound:測る_пример_1.mp3][sound:測る_пример_2.mp3][sound:測る_пример_3.mp3]",
   "Заметки": "長さ／温度を測る; для веса и объёма также пишут 量る. Объект измерения — を.",
   "Кандзи-разбор": "測 — измерять",

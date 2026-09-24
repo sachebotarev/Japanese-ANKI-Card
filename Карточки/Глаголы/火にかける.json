@@ -6,7 +6,7 @@
   "Пример": "鍋を<span class='study-word'>火にかけます</span>。<br>水を入れてから、鍋を<span class='study-word'>火にかけました</span>。<br>鍋を<span class='study-word'>火にかけて</span>いる間に、野菜を洗って、小さく切っておきました。",
   "Пример без слова": "鍋を_____。<br>水を入れてから、鍋を_____。<br>鍋を_____いる間に、野菜を洗って、小さく切っておきました。",
   "Пример перевод": "Я ставлю кастрюлю на огонь.<br>Я налил воду, а потом поставил кастрюлю на огонь.<br>Пока кастрюля стояла на огне, я вымыл овощи и заранее мелко нарезал их.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Пока кастрюля стояла на огне, я вымыл овощи и заранее мелко нарезал их., visual focus: ставить на огонь (посуду), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_火にかける.png\">",
   "Произношение": "[sound:火にかける_слово.mp3][sound:火にかける_пример_1.mp3][sound:火にかける_пример_2.mp3][sound:火にかける_пример_3.mp3]",
   "Заметки": "鍋を火にかける: посуда — を, источник нагрева — に.",
   "Кандзи-разбор": "火 — огонь",
