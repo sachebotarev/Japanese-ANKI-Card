@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>夢を見ました</span>。<br>昨日、空を飛ぶ<span class='study-word'>夢を見ました</span>。<br>怖い<span class='study-word'>夢を見て</span>目が覚めたので、水を飲んでから、もう一度寝ました。",
   "Пример без слова": "_____。<br>昨日、空を飛ぶ_____。<br>怖い_____目が覚めたので、水を飲んでから、もう一度寝ました。",
   "Пример перевод": "Мне приснился сон.<br>Вчера мне приснилось, что я летаю.<br>Я проснулся от страшного сна, попил воды и снова лёг спать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я проснулся от страшного сна, попил воды и снова лёг спать., visual focus: видеть сон, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_夢を見る.png\">",
   "Произношение": "[sound:夢を見る_слово.mp3][sound:夢を見る_пример_1.mp3][sound:夢を見る_пример_2.mp3][sound:夢を見る_пример_3.mp3]",
   "Заметки": "Устойчивое сочетание 夢を見る; содержание сна может стоять перед 夢.",
   "Кандзи-разбор": "夢 — сон; 見 — видеть",

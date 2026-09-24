@@ -6,7 +6,7 @@
   "Пример": "本を<span class='study-word'>戻します</span>。<br>使った物を棚に<span class='study-word'>戻してください</span>。<br>読み終わった本を棚に<span class='study-word'>戻して</span>から、部屋を掃除することにしました。",
   "Пример без слова": "本を_____。<br>使った物を棚に_____。<br>読み終わった本を棚に_____から、部屋を掃除することにしました。",
   "Пример перевод": "Я возвращаю книгу на место.<br>Верните использованные вещи на полку.<br>Вернув прочитанную книгу на полку, я решил убрать комнату.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Вернув прочитанную книгу на полку, я решил убрать комнату., visual focus: возвращать на прежнее место, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_戻す.png\">",
   "Произношение": "[sound:戻す_слово.mp3][sound:戻す_пример_1.mp3][sound:戻す_пример_2.mp3][sound:戻す_пример_3.mp3]",
   "Заметки": "物を元の所に戻す; переходная пара к 戻る.",
   "Кандзи-разбор": "戻 — возвращать",

@@ -6,7 +6,7 @@
   "Пример": "番号を<span class='study-word'>メモします</span>。<br>友達の住所を<span class='study-word'>メモしました</span>。<br>忘れないように、先生が言ったことを<span class='study-word'>メモして</span>、家に帰ってから読みました。",
   "Пример без слова": "番号を_____。<br>友達の住所を_____。<br>忘れないように、先生が言ったことを_____、家に帰ってから読みました。",
   "Пример перевод": "Я записываю номер.<br>Я записал адрес друга.<br>Чтобы не забыть, я записал слова преподавателя и прочитал запись, вернувшись домой.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не забыть, я записал слова преподавателя и прочитал запись, вернувшись домой., visual focus: делать краткую запись, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_メモする.png\">",
   "Произношение": "[sound:メモする_слово.mp3][sound:メモする_пример_1.mp3][sound:メモする_пример_2.mp3][sound:メモする_пример_3.mp3]",
   "Заметки": "内容をメモする; место записи — 紙に／ノートに.",
   "Кандзи-разбор": "Кандзи нет.",

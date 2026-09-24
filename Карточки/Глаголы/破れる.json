@@ -6,7 +6,7 @@
   "Пример": "紙が<span class='study-word'>破れました</span>。<br>この袋はもう<span class='study-word'>破れています</span>。<br>袋が<span class='study-word'>破れて</span>しまったので、中の物を拾って、別の袋に入れました。",
   "Пример без слова": "紙が_____。<br>この袋はもう_____。<br>袋が_____しまったので、中の物を拾って、別の袋に入れました。",
   "Пример перевод": "Бумага порвалась.<br>Этот пакет уже порван.<br>Пакет порвался, поэтому я собрал содержимое и переложил его в другой пакет.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Пакет порвался, поэтому я собрал содержимое и переложил его в другой пакет., visual focus: рваться (о бумаге, ткани), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_破れる.png\">",
   "Произношение": "[sound:破れる_слово.mp3][sound:破れる_пример_1.mp3][sound:破れる_пример_2.mp3][sound:破れる_пример_3.mp3]",
   "Заметки": "Непереходный глагол: 紙が破れる; переходная пара — 紙を破る.",
   "Кандзи-разбор": "破 — рвать",

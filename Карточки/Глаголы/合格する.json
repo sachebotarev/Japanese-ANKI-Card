@@ -6,7 +6,7 @@
   "Пример": "試験に<span class='study-word'>合格しました</span>。<br>姉は大学の試験に<span class='study-word'>合格しました</span>。<br>試験に<span class='study-word'>合格した</span>と聞いたので、友達に電話して、お祝いを言いました。",
   "Пример без слова": "試験に_____。<br>姉は大学の試験に_____。<br>試験に_____と聞いたので、友達に電話して、お祝いを言いました。",
   "Пример перевод": "Я сдал экзамен.<br>Моя старшая сестра сдала вступительный экзамен в университет.<br>Я услышал, что друг сдал экзамен, поэтому позвонил ему и поздравил.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я услышал, что друг сдал экзамен, поэтому позвонил ему и поздравил., visual focus: сдавать экзамен; проходить отбор, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_合格する.png\">",
   "Произношение": "[sound:合格する_слово.mp3][sound:合格する_пример_1.mp3][sound:合格する_пример_2.mp3][sound:合格する_пример_3.mp3]",
   "Заметки": "試験に合格する; экзамен отмечается に, а не を.",
   "Кандзи-разбор": "合 — соединять; 格 — стандарт",

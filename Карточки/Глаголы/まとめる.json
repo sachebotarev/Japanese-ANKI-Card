@@ -6,7 +6,7 @@
   "Пример": "荷物を<span class='study-word'>まとめます</span>。<br>話の内容を短く<span class='study-word'>まとめました</span>。<br>旅行の前に荷物を<span class='study-word'>まとめて</span>おいたので、朝はすぐに出かけることができました。",
   "Пример без слова": "荷物を_____。<br>話の内容を短く_____。<br>旅行の前に荷物を_____おいたので、朝はすぐに出かけることができました。",
   "Пример перевод": "Я собираю вещи.<br>Я кратко изложил содержание разговора.<br>Я заранее собрал вещи перед поездкой, поэтому утром смог сразу выйти.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я заранее собрал вещи перед поездкой, поэтому утром смог сразу выйти., visual focus: собирать воедино; подводить итог, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_まとめる.png\">",
   "Произношение": "[sound:まとめる_слово.mp3][sound:まとめる_пример_1.mp3][sound:まとめる_пример_2.mp3][sound:まとめる_пример_3.mp3]",
   "Заметки": "荷物をまとめる — собрать вещи; 内容をまとめる — обобщить содержание.",
   "Кандзи-разбор": "Кандзи нет.",

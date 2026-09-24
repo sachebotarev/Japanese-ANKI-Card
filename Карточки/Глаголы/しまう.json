@@ -6,7 +6,7 @@
   "Пример": "本を<span class='study-word'>しまいます</span>。<br>服を引き出しに<span class='study-word'>しまいました</span>。<br>大切な書類なので、なくさないように、かばんの中に<span class='study-word'>しまって</span>おきました。",
   "Пример без слова": "本を_____。<br>服を引き出しに_____。<br>大切な書類なので、なくさないように、かばんの中に_____おきました。",
   "Пример перевод": "Я убираю книгу.<br>Я убрал одежду в ящик.<br>Документ важный, поэтому я заранее убрал его в сумку, чтобы не потерять.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Документ важный, поэтому я заранее убрал его в сумку, чтобы не потерять., visual focus: убирать на хранение, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_しまう.png\">",
   "Произношение": "[sound:しまう_слово.mp3][sound:しまう_пример_1.mp3][sound:しまう_пример_2.mp3][sound:しまう_пример_3.mp3]",
   "Заметки": "物を場所にしまう. Здесь самостоятельный глагол хранения, а не вспомогательное 〜てしまう.",
   "Кандзи-разбор": "Кандзи нет.",

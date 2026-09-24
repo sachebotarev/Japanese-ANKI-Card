@@ -6,7 +6,7 @@
   "Пример": "ボタンが<span class='study-word'>外れました</span>。<br>眼鏡のねじが<span class='study-word'>外れました</span>。<br>ボタンが<span class='study-word'>外れて</span>いたので、鏡を見ながら、もう一度きちんと留めました。",
   "Пример без слова": "ボタンが_____。<br>眼鏡のねじが_____。<br>ボタンが_____いたので、鏡を見ながら、もう一度きちんと留めました。",
   "Пример перевод": "Пуговица расстегнулась.<br>Винтик очков выпал.<br>Пуговица была расстёгнута, поэтому я, глядя в зеркало, снова аккуратно её застегнул.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Пуговица была расстёгнута, поэтому я, глядя в зеркало, снова аккуратно её застегнул., visual focus: отстёгиваться; выпадать из крепления, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_外れる.png\">",
   "Произношение": "[sound:外れる_слово.mp3][sound:外れる_пример_1.mp3][sound:外れる_пример_2.mp3][sound:外れる_пример_3.mp3]",
   "Заметки": "Непереходный глагол: ボタンが外れる. Переходная пара — 外す.",
   "Кандзи-разбор": "外 — снаружи",

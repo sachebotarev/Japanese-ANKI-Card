@@ -6,7 +6,7 @@
   "Пример": "電池を<span class='study-word'>取り替えます</span>。<br>古い電球を新しい物に<span class='study-word'>取り替えました</span>。<br>時計が止まってしまったので、電池を<span class='study-word'>取り替えて</span>、時間を合わせました。",
   "Пример без слова": "電池を_____。<br>古い電球を新しい物に_____。<br>時計が止まってしまったので、電池を_____、時間を合わせました。",
   "Пример перевод": "Я заменю батарейку.<br>Я заменил старую лампочку новой.<br>Часы остановились, поэтому я заменил батарейку и выставил время.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Часы остановились, поэтому я заменил батарейку и выставил время., visual focus: заменять; обменивать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_取り替える.png\">",
   "Произношение": "[sound:取り替える_слово.mp3][sound:取り替える_пример_1.mp3][sound:取り替える_пример_2.mp3][sound:取り替える_пример_3.mp3]",
   "Заметки": "古い物を新しい物に取り替える: что меняют — を, на что — に.",
   "Кандзи-разбор": "取 — брать; 替 — заменять",

@@ -6,7 +6,7 @@
   "Пример": "よく<span class='study-word'>噛みます</span>。<br>この犬は人を<span class='study-word'>噛みません</span>。<br>急いで食べるとお腹が痛くなるので、よく<span class='study-word'>噛んで</span>、ゆっくり食べるようにしています。",
   "Пример без слова": "よく_____。<br>この犬は人を_____。<br>急いで食べるとお腹が痛くなるので、よく_____、ゆっくり食べるようにしています。",
   "Пример перевод": "Я тщательно жую.<br>Эта собака не кусает людей.<br>Если есть поспешно, болит живот, поэтому я стараюсь хорошо пережёвывать пищу и есть медленно.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Если есть поспешно, болит живот, поэтому я стараюсь хорошо пережёвывать пищу и есть медленно., visual focus: жевать; кусать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_噛む.png\">",
   "Произношение": "[sound:噛む_слово.mp3][sound:噛む_пример_1.mp3][sound:噛む_пример_2.mp3][sound:噛む_пример_3.mp3]",
   "Заметки": "食べ物を噛む — жевать пищу; 人を噛む — укусить человека.",
   "Кандзи-разбор": "噛 — кусать",
