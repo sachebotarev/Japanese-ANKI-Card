@@ -6,7 +6,7 @@
   "Пример": "手に<span class='study-word'>傷</span>があります。<br>この机には<span class='study-word'>傷</span>がありません。<br>買ったばかりの机に<span class='study-word'>傷</span>があったので、店に電話して、交換できるか聞きました。",
   "Пример без слова": "手に_____があります。<br>この机には_____がありません。<br>買ったばかりの机に_____があったので、店に電話して、交換できるか聞きました。",
   "Пример перевод": "На руке рана.<br>На этом столе нет царапин.<br>На только что купленном столе была царапина, поэтому я позвонил в магазин и спросил об обмене.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: На только что купленном столе была царапина, поэтому я позвонил в магазин и спросил об обмене., visual focus: рана; повреждение; царапина, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_傷.png\">",
   "Произношение": "[sound:傷_слово.mp3][sound:傷_пример_1.mp3][sound:傷_пример_2.mp3][sound:傷_пример_3.mp3]",
   "Заметки": "体の傷 — рана; 物の傷 — повреждение или царапина.",
   "Кандзи-разбор": "傷 — рана",
