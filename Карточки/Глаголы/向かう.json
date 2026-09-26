@@ -6,7 +6,7 @@
   "Пример": "駅に<span class='study-word'>向かいます</span>。<br>今、会社に<span class='study-word'>向かっています</span>。<br>雨が降り始めたので、傘を開いて、急いで家に<span class='study-word'>向かいました</span>。",
   "Пример без слова": "駅に_____。<br>今、会社に_____。<br>雨が降り始めたので、傘を開いて、急いで家に_____。",
   "Пример перевод": "Я направляюсь к станции.<br>Сейчас я еду в офис.<br>Начался дождь, поэтому я раскрыл зонт и поспешил домой.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Начался дождь, поэтому я раскрыл зонт и поспешил домой., visual focus: направляться, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_向かう.png\">",
   "Произношение": "[sound:向かう_слово.mp3][sound:向かう_пример_1.mp3][sound:向かう_пример_2.mp3][sound:向かう_пример_3.mp3]",
   "Заметки": "場所に／へ向かう; текущее движение — 向かっている.",
   "Кандзи-разбор": "向 — направляться",

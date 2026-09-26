@@ -6,7 +6,7 @@
   "Пример": "水を<span class='study-word'>注ぎます</span>。<br>コップにジュースを<span class='study-word'>注ぎました</span>。<br>こぼさないように、両手で瓶を持って、コップに水を<span class='study-word'>注ぎました</span>。",
   "Пример без слова": "水を_____。<br>コップにジュースを_____。<br>こぼさないように、両手で瓶を持って、コップに水を_____。",
   "Пример перевод": "Я наливаю воду.<br>Я налил сок в стакан.<br>Чтобы не разлить, я взял бутылку двумя руками и налил воду в стакан.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не разлить, я взял бутылку двумя руками и налил воду в стакан., visual focus: наливать; вливать, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_注ぐ.png\">",
   "Произношение": "[sound:注ぐ_слово.mp3][sound:注ぐ_пример_1.mp3][sound:注ぐ_пример_2.mp3][sound:注ぐ_пример_3.mp3]",
   "Заметки": "液体を容器に注ぐ: жидкость — を, сосуд — に. Для наливания напитков употребляется также чтение つぐ.",
   "Кандзи-разбор": "注 — наливать",
