@@ -6,7 +6,7 @@
   "Пример": "私が<span class='study-word'>いたします</span>。<br>明日、お電話<span class='study-word'>いたします</span>。<br>準備ができたら、すぐにご連絡<span class='study-word'>いたします</span>ので、少しお待ちいただけますか。",
   "Пример без слова": "私が_____。<br>明日、お電話_____。<br>準備ができたら、すぐにご連絡_____ので、少しお待ちいただけますか。",
   "Пример перевод": "Это сделаю я.<br>Завтра я вам позвоню.<br>Когда всё будет готово, я сразу свяжусь с вами; не могли бы вы немного подождать?",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Когда всё будет готово, я сразу свяжусь с вами; не могли бы вы немного подождать?, visual focus: делать (скромно), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_いたす.png\">",
   "Произношение": "[sound:いたす_слово.mp3][sound:いたす_пример_1.mp3][sound:いたす_пример_2.mp3][sound:いたす_пример_3.mp3]",
   "Заметки": "Скромный эквивалент する; часто お／ご＋существительное＋いたす.",
   "Кандзи-разбор": "Кандзи нет.",
