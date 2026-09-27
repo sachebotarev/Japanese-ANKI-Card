@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>失礼ですが</span>、お名前は。<br><span class='study-word'>失礼ですが</span>、お仕事は何ですか。<br>名前を忘れてしまったので、<span class='study-word'>失礼ですが</span>、もう一度お名前を教えていただけますか。",
   "Пример без слова": "_____、お名前は。<br>_____、お仕事は何ですか。<br>名前を忘れてしまったので、_____、もう一度お名前を教えていただけますか。",
   "Пример перевод": "Извините, как вас зовут?<br>Извините, кем вы работаете?<br>Я забыл ваше имя; извините, не могли бы вы назвать его ещё раз?",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я забыл ваше имя; извините, не могли бы вы назвать его ещё раз?, visual focus: извините, но…, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_失礼ですが.png\">",
   "Произношение": "[sound:失礼ですが_слово.mp3][sound:失礼ですが_пример_1.mp3][sound:失礼ですが_пример_2.mp3][sound:失礼ですが_пример_3.mp3]",
   "Заметки": "Готовая формула смягчения вопроса; が оставляет фразу открытой для продолжения.",
   "Кандзи-разбор": "失 — терять; 礼 — вежливость",
