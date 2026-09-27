@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>そこ</span>は出口です。<br>かばんは<span class='study-word'>そこ</span>にあります。<br><span class='study-word'>そこ</span>に置くと邪魔になるので、荷物を少し動かしてもらえますか。",
   "Пример без слова": "_____は出口です。<br>かばんは_____にあります。<br>_____に置くと邪魔になるので、荷物を少し動かしてもらえますか。",
   "Пример перевод": "Там выход.<br>Сумка находится там.<br>Если поставить багаж там, он будет мешать; не могли бы вы немного его передвинуть?",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Если поставить багаж там, он будет мешать; не могли бы вы немного его передвинуть?, visual focus: там; это место у собеседника, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_そこ.png\">",
   "Произношение": "[sound:そこ_слово.mp3][sound:そこ_пример_1.mp3][sound:そこ_пример_2.mp3][sound:そこ_пример_3.mp3]",
   "Заметки": "Место рядом с собеседником или упомянутое им ранее.",
   "Кандзи-разбор": "Кандзи нет.",
