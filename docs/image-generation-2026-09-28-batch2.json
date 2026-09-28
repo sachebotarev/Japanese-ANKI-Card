@@ -1,0 +1,186 @@
+{
+  "method": "built-in image_gen",
+  "count": 20,
+  "cards": [
+    {
+      "word": "何年",
+      "card": "Карточки/Вопросительные слова/何年.json",
+      "image": "Картинки/Вопросительные слова/何年.png",
+      "note_id": 1789535680981,
+      "media": "japanese_words_何年.png",
+      "third_example_ru": "Меня спросили, сколько лет я жил в этом городе, и я ответил, что с детства.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two adults only, two friends talking on a city overlook, one thinking back to living here since childhood, a small pictorial memory inset with that same person as a child at the very same street several years ago, visual emphasis on long passage of YEARS using stacked annual calendar sheets represented as completely blank colored squares, questioning gesture, no written dates, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "何日",
+      "card": "Карточки/Вопросительные слова/何日.json",
+      "image": "Картинки/Вопросительные слова/何日.png",
+      "note_id": 1789535680983,
+      "media": "japanese_words_何日.png",
+      "third_example_ru": "Я хотел узнать, за сколько дней придёт посылка, и спросил на почте перед отправкой.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, postal customer asking clerk how many DAYS a parcel will take to arrive, physical sealed parcel prominently on counter, small unnumbered calendar with several successive blank day squares linked to a pictorial delivery truck symbol, curious expression, postal room, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "何月",
+      "card": "Карточки/Вопросительные слова/何月.json",
+      "image": "Картинки/Вопросительные слова/何月.png",
+      "note_id": 1789535680982,
+      "media": "japanese_words_何月.png",
+      "third_example_ru": "Я ещё не знаю, в каком месяце будет поездка, поэтому пока не бронировал отель.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, traveler undecided which MONTH to travel, open suitcase and physical travel notebook on desk, twelve blank monthly calendar leaves arranged in a circle with pictorial winter snow spring blossom summer sun autumn leaf, person pondering travel date, hotel brochure with picture only, no writing, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "何語",
+      "card": "Карточки/Вопросительные слова/何語.json",
+      "image": "Картинки/Вопросительные слова/何語.png",
+      "note_id": 1789535681057,
+      "media": "japanese_words_何語.png",
+      "third_example_ru": "Я не понял, на каком языке говорит человек рядом, и попробовал медленно спросить по-японски.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, curious traveler gently asking another person what LANGUAGE they are speaking, confused yet friendly face, hand beside ear, visual language cue from physical pocket phrasebook with tiny globe illustration and entirely blank pages, quiet train seating, no speech bubbles, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "おる",
+      "card": "Карточки/Глаголы/おる.json",
+      "image": "Картинки/Глаголы/おる.png",
+      "note_id": 1789535681130,
+      "media": "japanese_words_おる.png",
+      "third_example_ru": "Во второй половине дня я буду в офисе; если возникнут вопросы, позвоните.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, polite office worker present at their office desk in afternoon, modest slightly bowed posture picking up physical telephone to answer a question, warm afternoon sunlight through window, personal chair and work desk emphasize being HERE in office, blank documents, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "付く",
+      "card": "Карточки/Глаголы/付く.json",
+      "image": "Картинки/Глаголы/付く.png",
+      "note_id": 1789535681125,
+      "media": "japanese_words_付く.png",
+      "third_example_ru": "Я выбрал одежду с большим карманом и кладу туда ключи, выходя из дома.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only visible from torso, close-up outdoor jacket with large pocket firmly ATTACHED to garment with clearly visible stitched seam, person putting physical house keys inside that pocket before leaving home, pocket seam and attached fabric dominant focus, entryway, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "合う",
+      "card": "Карточки/Глаголы/合う.json",
+      "image": "Картинки/Глаголы/合う.png",
+      "note_id": 1789535681127,
+      "media": "japanese_words_合う.png",
+      "third_example_ru": "При примерке размер не подошёл, и я попросил продавца принести другую вещь.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, shopper in fitting room trying on jacket visibly too small with sleeves too short and button unable to close, asking clerk to bring a different jacket that fits, clerk holding larger jacket, emphasis on size FIT, mirror and hanger, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "無くなる",
+      "card": "Карточки/Глаголы/無くなる.json",
+      "image": "Картинки/Глаголы/無くなる.png",
+      "note_id": 1789535681129,
+      "media": "japanese_words_無くなる.png",
+      "third_example_ru": "Бензин был на исходе, поэтому перед дальней дорогой я заранее заправился.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, driver refueling car before long journey, close foreground inset of physical fuel gauge with needle almost at empty and red tiny fuel icon but no letters numbers, main scene pump nozzle in car fuel port, depleted fuel supply visual focus, no text on pump, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "煮る",
+      "card": "Карточки/Глаголы/煮る.json",
+      "image": "Картинки/Глаголы/煮る.png",
+      "note_id": 1789535681126,
+      "media": "japanese_words_煮る.png",
+      "third_example_ru": "Я варил овощи до мягкости, затем проверил вкус и переложил на тарелку.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, cook gently SIMMERING vegetables in physical pot of bubbling water, tender carrot and potato chunks dominant foreground, cook tasting broth with spoon then serving onto plate beside pot, kitchen steam warm light, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "鳴る",
+      "card": "Карточки/Глаголы/鳴る.json",
+      "image": "Картинки/Глаголы/鳴る.png",
+      "note_id": 1789535681128,
+      "media": "japanese_words_鳴る.png",
+      "third_example_ru": "Зазвонил телефон, я выключил огонь под едой и поспешил ответить.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, home cook reacting to RINGING physical telephone, phone dominant foreground with subtle hand-drawn vibration marks without characters, cook reaching to switch off stove and rushing toward phone, pot of food on stove, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "仲間",
+      "card": "Карточки/Дружба/仲間.json",
+      "image": "Картинки/Дружба/仲間.png",
+      "note_id": 1789535680936,
+      "media": "japanese_words_仲間.png",
+      "third_example_ru": "Товарищ спросил меня дорогу, поэтому я показал карту и объяснил, как дойти до станции.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, two hiking-club teammates wearing matching small plain color patches on backpacks, one asking directions and the other showing physical folded map with unlabeled paths toward railway station visible in distance, friendly teamwork as focus, outdoor street, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "恋人",
+      "card": "Карточки/Дружба/恋人.json",
+      "image": "Картинки/Дружба/恋人.png",
+      "note_id": 1789535680934,
+      "media": "japanese_words_恋人.png",
+      "third_example_ru": "Возлюбленный спросил меня дорогу, поэтому я показал карту и объяснил, как дойти до станции.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two adult people only, romantic partners standing very close affectionately with arms lightly linked, one showing other physical folded street map with unlabeled paths to train station, loving gaze emphasizes romantic partner, warm city walkway, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "恋愛",
+      "card": "Карточки/Дружба/恋愛.json",
+      "image": "Картинки/Дружба/恋愛.png",
+      "note_id": 1789535681041,
+      "media": "japanese_words_恋愛.png",
+      "third_example_ru": "Я прочитал роман о любви и обсудил впечатления с другом, размышляя о чувствах главного героя.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, friends at cafe discussing a ROMANCE novel, physical book prominent foreground with purely pictorial cover showing romantic couple as illustration not additional real people, small heart-shaped bookmark, reader thoughtful about character feelings, warm emotional atmosphere, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "飲み放題",
+      "card": "Карточки/Еда/飲み放題.json",
+      "image": "Картинки/Еда/飲み放題.png",
+      "note_id": 1789535681049,
+      "media": "japanese_words_飲み放題.png",
+      "third_example_ru": "Время предложения заканчивалось, поэтому я напоследок заказал горячий чай и спокойно выпил его.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, customer making final hot tea order to cafe server near end of unlimited-drinks time, physical tea cup and teapot dominant alongside several previously emptied different drink glasses, small hourglass almost out of sand, relaxed drinking atmosphere, no menu text, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "冷房",
+      "card": "Карточки/Жилище/冷房.json",
+      "image": "Картинки/Жилище/冷房.png",
+      "note_id": 1789535681075,
+      "media": "japanese_words_冷房.png",
+      "third_example_ru": "Кондиционер слишком охлаждал и стало холодно, поэтому я надел верхнюю одежду и попросил немного повысить температуру.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, chilly person putting on jacket beneath wall AIR CONDITIONER, faint blue cooling airflow visibly coming from physical vents, hand holding remote and increasing temperature, exaggerated shivering posture, blue cool room light, blank remote display, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "水道",
+      "card": "Карточки/Жилище/水道.json",
+      "image": "Картинки/Жилище/水道.png",
+      "note_id": 1789535681036,
+      "media": "japanese_words_水道.png",
+      "third_example_ru": "Водопроводная вода перестала идти, я позвонил смотрителю и спросил, когда это исправят.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, tenant phoning building manager beside kitchen sink with open faucet producing no water, physical WATER SUPPLY pipe and valve clearly visible under sink cabinet, empty glass under tap, worried expression, faucet pipe main visual focus, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "設備",
+      "card": "Карточки/Жилище/設備.json",
+      "image": "Картинки/Жилище/設備.png",
+      "note_id": 1789535681013,
+      "media": "japanese_words_設備.png",
+      "third_example_ru": "Перед использованием нового оборудования я внимательно выслушал объяснение и проверил, безопасно ли оно.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly two people only, building technician explaining NEW EQUIPMENT to resident before operation, physical ventilation-control unit with access panel open revealing fan and wiring safely enclosed, technician pointing at controls while resident listens attentively, emphasis on installed equipment, no labels, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "非常口",
+      "card": "Карточки/Жилище/非常口.json",
+      "image": "Картинки/Жилище/非常口.png",
+      "note_id": 1789535681048,
+      "media": "japanese_words_非常口.png",
+      "third_example_ru": "Приехав в отель, я заранее проверю расположение аварийного выхода, чтобы быть готовым к неожиданности.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, traveler with suitcase inspecting hotel EMERGENCY EXIT beforehand, fire escape door and illuminated plain green pictogram of running silhouette and direction arrow, no lettering, exterior emergency stairs visible through open door, exit dominant focus, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "この間",
+      "card": "Карточки/Календарь/この間.json",
+      "image": "Картинки/Календарь/この間.png",
+      "note_id": 1789535680975,
+      "media": "japanese_words_この間.png",
+      "third_example_ru": "Недавно взятая книга оказалась интересной, поэтому я решил перечитать её перед возвращением.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, reader rereading physical library book enjoyed RECENTLY before returning, dominant open book with blank pages, small soft memory inset of same reader borrowing this very book a short time ago at library counter, no other person, visual link between recent borrowing and present reread, no writing, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    },
+    {
+      "word": "この頃",
+      "card": "Карточки/Календарь/この頃.json",
+      "image": "Картинки/Календарь/この頃.png",
+      "note_id": 1789535680956,
+      "media": "japanese_words_この頃.png",
+      "third_example_ru": "В последнее время я не занимался физической активностью, поэтому решил ради здоровья ходить до станции пешком.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, readable cinematic composition, exactly one person only, office worker walking energetically to station for health after sedentary RECENT DAYS, sneakers and walking action dominant, small pictorial inset of same person sitting at desk with several blank calendar day squares behind, railway station visible ahead, bright morning light, natural poses, detailed hands, clear physical key objects. Fully opaque rectangular image with background to all edges. No text, letters, numbers, typography, kanji, logos, watermark. Negative: extra real people beyond specified count, bad anatomy, extra fingers, blur, faded edges."
+    }
+  ]
+}

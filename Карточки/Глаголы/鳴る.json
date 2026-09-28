@@ -6,7 +6,7 @@
   "Пример": "ベルが<span class='study-word'>鳴ります</span>。<br>朝六時に時計が<span class='study-word'>鳴りました</span>。<br>電話が<span class='study-word'>鳴った</span>ので、料理の火を止めて、急いで電話に出ました。",
   "Пример без слова": "ベルが_____。<br>朝六時に時計が_____。<br>電話が_____ので、料理の火を止めて、急いで電話に出ました。",
   "Пример перевод": "Звенит звонок.<br>В шесть утра зазвонил будильник.<br>Зазвонил телефон, я выключил огонь под едой и поспешил ответить.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Зазвонил телефон, я выключил огонь под едой и поспешил ответить., visual focus: звенеть; раздаваться (о звуке), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_鳴る.png\">",
   "Произношение": "[sound:鳴る_слово.mp3][sound:鳴る_пример_1.mp3][sound:鳴る_пример_2.mp3][sound:鳴る_пример_3.mp3]",
   "Заметки": "ベル／電話が鳴る; не なる／成る — становиться.",
   "Кандзи-разбор": "鳴 — звучать",
