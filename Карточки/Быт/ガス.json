@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>ガス</span>を使います。<br>この家は<span class='study-word'>ガス</span>で料理をします。<br><span class='study-word'>ガス</span>が使えなくなったので、管理人に連絡して、しばらく外で食事をしました。",
   "Пример без слова": "_____を使います。<br>この家は_____で料理をします。<br>_____が使えなくなったので、管理人に連絡して、しばらく外で食事をしました。",
   "Пример перевод": "Мы пользуемся газом.<br>В этом доме готовят на газе.<br>Газом стало невозможно пользоваться, я сообщил смотрителю и некоторое время ел вне дома.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Газом стало невозможно пользоваться, я сообщил смотрителю и некоторое время ел вне дома., visual focus: газ, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ガス.png\">",
   "Произношение": "[sound:ガス_слово.mp3][sound:ガス_пример_1.mp3][sound:ガス_пример_2.mp3][sound:ガス_пример_3.mp3]",
   "Заметки": "В бытовом контексте обычно топливный газ; ガス代 — плата за газ.",
   "Кандзи-разбор": "Кандзи нет.",

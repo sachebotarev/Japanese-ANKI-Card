@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>人口</span>が多いです。<br>この町の<span class='study-word'>人口</span>は一万人です。<br>町の<span class='study-word'>人口</span>が増えてきたので、新しい学校を建てることになりました。",
   "Пример без слова": "_____が多いです。<br>この町の_____は一万人です。<br>町の_____が増えてきたので、新しい学校を建てることになりました。",
   "Пример перевод": "Население большое.<br>В этом городе десять тысяч жителей.<br>Население города стало расти, поэтому решили построить новую школу.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Население города стало расти, поэтому решили построить новую школу., visual focus: население; численность населения, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_人口.png\">",
   "Произношение": "[sound:人口_слово.mp3][sound:人口_пример_1.mp3][sound:人口_пример_2.mp3][sound:人口_пример_3.mp3]",
   "Заметки": "地域の人口; количество людей, проживающих в регионе, а не временная толпа.",
   "Кандзи-разбор": "人 — человек; 口 — рот; вход",

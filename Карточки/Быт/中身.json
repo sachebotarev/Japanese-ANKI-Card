@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>中身</span>は何ですか。<br>箱の<span class='study-word'>中身</span>を見ました。<br>箱を開ける前に<span class='study-word'>中身</span>を確かめたかったので、送ってくれた友達に電話しました。",
   "Пример без слова": "_____は何ですか。<br>箱の_____を見ました。<br>箱を開ける前に_____を確かめたかったので、送ってくれた友達に電話しました。",
   "Пример перевод": "Что внутри?<br>Я посмотрел содержимое коробки.<br>Я хотел уточнить содержимое до открытия коробки и позвонил приславшему её другу.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хотел уточнить содержимое до открытия коробки и позвонил приславшему её другу., visual focus: содержимое, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_中身.png\">",
   "Произношение": "[sound:中身_слово.mp3][sound:中身_пример_1.mp3][sound:中身_пример_2.mp3][sound:中身_пример_3.mp3]",
   "Заметки": "箱／袋の中身; также содержание рассказа или документа.",
   "Кандзи-разбор": "中 — середина; 身 — тело",

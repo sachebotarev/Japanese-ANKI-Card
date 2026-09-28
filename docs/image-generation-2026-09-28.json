@@ -1,0 +1,186 @@
+{
+  "method": "built-in image_gen",
+  "count": 20,
+  "cards": [
+    {
+      "word": "胃",
+      "card": "Карточки/Анатомия/胃.json",
+      "image": "Картинки/Анатомия/胃.png",
+      "note_id": 1789535681038,
+      "media": "japanese_words_胃.png",
+      "third_example_ru": "Из-за боли в желудке я не мог есть, поэтому пошёл в больницу и обратился к врачу.",
+      "prompt": "Anime illustration, square 1:1, two people only, patient with stomach pain consulting a doctor, physical stethoscope, untouched meal, stomach-shaped anatomical inset, no text, letters, numbers or watermark."
+    },
+    {
+      "word": "カット",
+      "card": "Карточки/Быт/カット.json",
+      "image": "Картинки/Быт/カット.png",
+      "note_id": 1789535681089,
+      "media": "japanese_words_カット.png",
+      "third_example_ru": "Волосы отросли, я записался на стрижку и подумал, какую причёску сделать.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, young adult with overgrown hair in front of a home mirror, holding a smartphone to book a haircut, fingertips lifting long fringe, physical hair scissors and a comb prominently on the dresser, hairstyle planning mood, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "ガス",
+      "card": "Карточки/Быт/ガス.json",
+      "image": "Картинки/Быт/ガス.png",
+      "note_id": 1789535681010,
+      "media": "japanese_words_ガス.png",
+      "third_example_ru": "Газом стало невозможно пользоваться, я сообщил смотрителю и некоторое время ел вне дома.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, worried tenant beside a nonworking gas stove, holding a phone to report outage to building manager, gas supply pipe and closed valve prominent, burner completely unlit, pot of uncooked food and coat ready for eating outside, safe scene no gas leak cloud, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "ガラス",
+      "card": "Карточки/Быт/ガラス.json",
+      "image": "Картинки/Быт/ガラス.png",
+      "note_id": 1789535681024,
+      "media": "japanese_words_ガラス.png",
+      "third_example_ru": "Стекло разбилось и было опасно, поэтому я отправил ребёнка в другую комнату и всё убрал.",
+      "prompt": "Use case: illustration-story. Full rectangular fully opaque anime illustration, square aspect_ratio 1:1. Exactly two people only. Home living room, adult in foreground sweeping broken transparent drinking glass shards into a physical dustpan; child leaving safely through doorway into another room. Broken glass pieces prominently fill lower foreground and glint in sunlight. Complete ordinary room background all the way to all four image edges, ordinary solid wooden floor all the way to bottom edge. No vignette, no faded edges, no transparency, no cutout, no black borders, no noise. Natural hands and poses, high quality detailed anime scene. No text, no letters, no numbers, no watermark, no extra people."
+    },
+    {
+      "word": "クリーニング",
+      "card": "Карточки/Быт/クリーニング.json",
+      "image": "Картинки/Быт/クリーニング.png",
+      "note_id": 1789535681016,
+      "media": "japanese_words_クリーニング.png",
+      "third_example_ru": "Костюм испачкался, я сдал его в химчистку и решил забрать в выходные.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly two people only, customer handing a stained suit jacket to a dry-cleaning clerk over shop counter, stained fabric in foreground, cleaned suits in transparent garment covers hanging behind, physical clothing-focused scene, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "中身",
+      "card": "Карточки/Быт/中身.json",
+      "image": "Картинки/Быт/中身.png",
+      "note_id": 1789535681080,
+      "media": "japanese_words_中身.png",
+      "third_example_ru": "Я хотел уточнить содержимое до открытия коробки и позвонил приславшему её другу.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, person phoning a friend while looking at a closed parcel on a home table, emphasize contents with a clearly illustrative translucent cutaway window through cardboard revealing folded scarf and small gift inside, flaps still sealed, contents visually central, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "使用中",
+      "card": "Карточки/Быт/使用中.json",
+      "image": "Картинки/Быт/使用中.png",
+      "note_id": 1789535681050,
+      "media": "japanese_words_使用中.png",
+      "third_example_ru": "Переговорная была занята, поэтому я не стал ждать в коридоре, а поискал другую комнату.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly three people only, two colleagues actively meeting inside a glass-walled conference room, third person in hallway glancing at the occupied room then walking toward another empty room, physical table with open blank notebooks, occupied room main visual focus, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "忘れ物",
+      "card": "Карточки/Быт/忘れ物.json",
+      "image": "Картинки/Быт/忘れ物.png",
+      "note_id": 1789535681027,
+      "media": "japanese_words_忘れ物.png",
+      "third_example_ru": "Я заметил, что забыл вещь на станции, позвонил и попросил проверить, осталась ли она там.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, station employee holding a ringing phone behind lost-property counter, forgotten unbranded shoulder bag alone on a station bench dominating foreground, empty platform visible beyond, forgotten bag brightly highlighted, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "火",
+      "card": "Карточки/Быт/火.json",
+      "image": "Картинки/Быт/火.png",
+      "note_id": 1789535681116,
+      "media": "japanese_words_火.png",
+      "third_example_ru": "Еда была готова, я выключил огонь и позвал семью, пока всё горячее.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, home cook reaching to turn gas stove knob off after finishing a hot meal, close focus on vivid blue burner flame underneath physical pot, flame shrinking as knob turns, steam rising from finished food, cook turning head to call family offscreen, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "燃えるごみ",
+      "card": "Карточки/Быт/燃えるごみ.json",
+      "image": "Картинки/Быт/燃えるごみ.png",
+      "note_id": 1789535681008,
+      "media": "japanese_words_燃えるごみ.png",
+      "third_example_ru": "Я перепутал день вывоза горючего мусора, принёс его обратно домой и подождал до следующего дня.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, mildly embarrassed resident bringing transparent garbage bag back into apartment after wrong collection day, bag prominently showing paper scraps tissues and food peelings, no glass or metal inside, front door and tidy hallway, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "置き場",
+      "card": "Карточки/Быт/置き場.json",
+      "image": "Картинки/Быт/置き場.png",
+      "note_id": 1789535681009,
+      "media": "japanese_words_置き場.png",
+      "third_example_ru": "Я не знал, где площадка для мусора, спросил смотрителя и пошёл посмотреть вместе с ним.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly two people only, building manager showing resident designated outdoor garbage storage bay, pointing to physical mesh-enclosed garbage collection enclosure with neatly placed bags, storage area dominating foreground, apartment exterior, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "表",
+      "card": "Карточки/Быт/表.json",
+      "image": "Картинки/Быт/表.png",
+      "note_id": 1789535681067,
+      "media": "japanese_words_表.png",
+      "third_example_ru": "На лицевой стороне пакета была инструкция, и перед использованием я внимательно прочитал её и проверил порядок действий.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, close view of person inspecting FRONT face of a household product pouch before use, front surface facing viewer with large purely pictorial instruction illustrations of hands opening and pouring, reverse edges folded away, strong front-surface focus, no actual writing, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "裏",
+      "card": "Карточки/Быт/裏.json",
+      "image": "Картинки/Быт/裏.png",
+      "note_id": 1789535681068,
+      "media": "japanese_words_裏.png",
+      "third_example_ru": "На обороте фотографии была дата, поэтому я сразу понял, когда она была сделана.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only visible as hands, close-up hands turning a physical printed photograph over, blank pale reverse side facing viewer and tiny corner of colorful front image visible at curled edge, album and old mementos on table, rear surface visually dominant, nostalgic mood, no date characters or writing, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "針",
+      "card": "Карточки/Быт/針.json",
+      "image": "Картинки/Быт/針.png",
+      "note_id": 1789535681028,
+      "media": "japanese_words_針.png",
+      "third_example_ru": "Стрелки часов не двигались, поэтому я сменил батарейку и выставил время.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only visible as hands, close-up physical analog clock with especially prominent hour and minute hands, round plain face with simple tick marks no numerals, person replacing battery through open back compartment and adjusting time knob, spare battery beside clock, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "非常時",
+      "card": "Карточки/Быт/非常時.json",
+      "image": "Картинки/Быт/非常時.png",
+      "note_id": 1789535681030,
+      "media": "japanese_words_非常時.png",
+      "third_example_ru": "Чтобы не оказаться в затруднении при чрезвычайной ситуации, мы заранее купили воду и еду и храним дома.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, person arranging emergency preparedness supplies in home cupboard, prominently physical bottled drinking water canned food flashlight and emergency backpack, shaking-window rainstorm outside suggesting emergency conditions, calm prepared atmosphere, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "世界中",
+      "card": "Карточки/География/世界中.json",
+      "image": "Картинки/География/世界中.png",
+      "note_id": 1789535680968,
+      "media": "japanese_words_世界中.png",
+      "third_example_ru": "Я хочу научиться говорить с людьми со всего мира, поэтому каждый день понемногу учу иностранные языки.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, language student studying daily at desk with open blank notebook headphones and laptop with abstract unlabeled video call silhouettes rather than real people, large physical globe dominating scene showing many continents connected by soft light arcs, worldly hopeful mood, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "人口",
+      "card": "Карточки/География/人口.json",
+      "image": "Картинки/География/人口.png",
+      "note_id": 1789535681099,
+      "media": "japanese_words_人口.png",
+      "third_example_ru": "Население города стало расти, поэтому решили построить новую школу.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly eight people only, families and children of a growing town foreground, four adults and four children, new school under construction behind them with crane and school building, emphasis on increasing population through many new homes and families, wide readable composition, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "橋",
+      "card": "Карточки/География/橋.json",
+      "image": "Картинки/География/橋.png",
+      "note_id": 1789535681111,
+      "media": "japanese_words_橋.png",
+      "third_example_ru": "Мост ремонтировали и перейти было нельзя, поэтому я посмотрел карту и поискал другой путь.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, traveler holding physical folded map with only unlabeled colored paths, large bridge over river clearly blocked by barricades and scaffolding for repairs, traveler checking alternative route, bridge dominating frame, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "角",
+      "card": "Карточки/География/角.json",
+      "image": "Картинки/География/角.png",
+      "note_id": 1789535680998,
+      "media": "japanese_words_角.png",
+      "third_example_ru": "За следующим поворотом видна станция, поэтому, думаю, вы сразу найдёте её даже без карты.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly one person only, pedestrian turning a sharp right-angle street corner around a building, railway station and train visible immediately beyond corner, strong L-shaped street composition emphasizing corner itself, no signs or lettering, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    },
+    {
+      "word": "デート",
+      "card": "Карточки/Дружба/デート.json",
+      "image": "Картинки/Дружба/デート.png",
+      "note_id": 1789535681056,
+      "media": "japanese_words_デート.png",
+      "third_example_ru": "Я не хотел опаздывать на свидание, поэтому выбрал одежду накануне и вышел заранее.",
+      "prompt": "Use case: illustration-story. Masterpiece, best quality, anime illustration, square frame aspect_ratio 1:1, preferably 512x512, cinematic storytelling composition, exactly two people only, young adult arriving early for a romantic date outside a cozy cafe, neatly chosen outfit and small bouquet prominent, partner approaching with warm smile, soft inset memory-like silhouette of outfit neatly laid out on chair previous evening but no additional people, warm romantic mood, natural poses, detailed hands, beautiful soft lighting, clear physical key objects. Fully opaque image, complete background to all edges. No text or letters anywhere, no numbers, no typography, no kanji, no logos, no watermark. Negative: extra people beyond specified count, bad anatomy, extra fingers, blurry."
+    }
+  ]
+}
