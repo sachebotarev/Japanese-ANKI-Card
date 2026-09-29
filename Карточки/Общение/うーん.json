@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>うーん</span>、難しいね。<br><span class='study-word'>うーん</span>、どちらがいいですかね。<br>どちらを買うか決められなかったので、<span class='study-word'>うーん</span>と考えて、店員に相談しました。",
   "Пример без слова": "_____、難しいね。<br>_____、どちらがいいですかね。<br>どちらを買うか決められなかったので、_____と考えて、店員に相談しました。",
   "Пример перевод": "Хм, трудно.<br>Хм, какой же вариант лучше?<br>Я не мог решить, что купить, задумался и обратился за советом к продавцу.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я не мог решить, что купить, задумался и обратился за советом к продавцу., visual focus: хм; м-м (размышление), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_うーん.png\">",
   "Произношение": "[sound:うーん_слово.mp3][sound:うーん_пример_1.mp3][sound:うーん_пример_2.mp3][sound:うーん_пример_3.mp3]",
   "Заметки": "Передаёт раздумье или колебание; не путать с отрицательным ううん.",
   "Кандзи-разбор": "Кандзи нет.",

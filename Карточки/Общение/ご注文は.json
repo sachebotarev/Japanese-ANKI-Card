@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>ご注文は</span>。<br>お客様、<span class='study-word'>ご注文は</span>。<br>席に座ってメニューを見ていたら、店員が来て、<span class='study-word'>ご注文は</span>と聞きました。",
   "Пример без слова": "_____。<br>お客様、_____。<br>席に座ってメニューを見ていたら、店員が来て、_____と聞きました。",
   "Пример перевод": "Что будете заказывать?<br>Что желаете заказать?<br>Я сидел и смотрел меню, когда подошёл официант и спросил, что я буду заказывать.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я сидел и смотрел меню, когда подошёл официант и спросил, что я буду заказывать., visual focus: что будете заказывать?, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ご注文は.png\">",
   "Произношение": "[sound:ご注文は_слово.mp3][sound:ご注文は_пример_1.mp3][sound:ご注文は_пример_2.mp3][sound:ご注文は_пример_3.mp3]",
   "Заметки": "Сокращённый вопрос обслуживания; полная вежливая форма — ご注文はお決まりですか.",
   "Кандзи-разбор": "注 — наливать; 文 — текст",

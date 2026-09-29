@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>へえ</span>、そうですか。<br><span class='study-word'>へえ</span>、日本に住んでいましたか。<br>友達が五つの言葉を話せると聞いて、<span class='study-word'>へえ</span>と驚き、どうやって勉強したのか聞きました。",
   "Пример без слова": "_____、そうですか。<br>_____、日本に住んでいましたか。<br>友達が五つの言葉を話せると聞いて、_____と驚き、どうやって勉強したのか聞きました。",
   "Пример перевод": "Надо же, вот как.<br>Надо же, вы жили в Японии?<br>Узнав, что друг говорит на пяти языках, я удивился и спросил, как он учился.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Узнав, что друг говорит на пяти языках, я удивился и спросил, как он учился., visual focus: надо же!; вот как!, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_へえ.png\">",
   "Произношение": "[sound:へえ_слово.mp3][sound:へえ_пример_1.mp3][sound:へえ_пример_2.mp3][sound:へえ_пример_3.mp3]",
   "Заметки": "Разговорная реакция интереса; степень удивления передаёт интонация.",
   "Кандзи-разбор": "Кандзи нет.",
