@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>長生き</span>したいです。<br>祖父は<span class='study-word'>長生き</span>しました。<br>祖母に<span class='study-word'>長生き</span>してほしいので、ときどき電話して、元気かどうか聞いています。",
   "Пример без слова": "_____したいです。<br>祖父は_____しました。<br>祖母に_____してほしいので、ときどき電話して、元気かどうか聞いています。",
   "Пример перевод": "Я хочу прожить долго.<br>Мой дедушка прожил долгую жизнь.<br>Я хочу, чтобы бабушка жила долго, поэтому иногда звоню ей и спрашиваю, как она себя чувствует.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я хочу, чтобы бабушка жила долго, поэтому иногда звоню ей и спрашиваю, как она себя чувствует., visual focus: долголетие; жить долго, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_長生き.png\">",
   "Произношение": "[sound:長生き_слово.mp3][sound:長生き_пример_1.mp3][sound:長生き_пример_2.mp3][sound:長生き_пример_3.mp3]",
   "Заметки": "長生きする; пожелание お元気で長生きしてください.",
   "Кандзи-разбор": "長 — длинный; 生 — жизнь",

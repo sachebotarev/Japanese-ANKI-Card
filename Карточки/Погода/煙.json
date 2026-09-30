@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>煙</span>が出ています。<br>あの家から<span class='study-word'>煙</span>が出ています。<br>窓から<span class='study-word'>煙</span>が入ってきたので、何が起きたのかと思って、外を見ました。",
   "Пример без слова": "_____が出ています。<br>あの家から_____が出ています。<br>窓から_____が入ってきたので、何が起きたのかと思って、外を見ました。",
   "Пример перевод": "Идёт дым.<br>Из того дома идёт дым.<br>В окно пошёл дым, я задумался, что случилось, и выглянул наружу.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: В окно пошёл дым, я задумался, что случилось, и выглянул наружу., visual focus: дым, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_煙.png\">",
   "Произношение": "[sound:煙_слово.mp3][sound:煙_пример_1.mp3][sound:煙_пример_2.mp3][sound:煙_пример_3.mp3]",
   "Заметки": "煙が出る／煙が上がる; не пар 湯気.",
   "Кандзи-разбор": "煙 — дым",

@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>科学</span>を勉強します。<br>これは<span class='study-word'>科学</span>の本です。<br><span class='study-word'>科学</span>に興味を持ったので、図書館で本を借りて、分からない言葉を調べました。",
   "Пример без слова": "_____を勉強します。<br>これは_____の本です。<br>_____に興味を持ったので、図書館で本を借りて、分からない言葉を調べました。",
   "Пример перевод": "Я изучаю естественные науки.<br>Это научная книга.<br>Я заинтересовался наукой, взял книгу в библиотеке и разобрал незнакомые слова.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я заинтересовался наукой, взял книгу в библиотеке и разобрал незнакомые слова., visual focus: наука (особенно естественная), clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_科学.png\">",
   "Произношение": "[sound:科学_слово.mp3][sound:科学_пример_1.mp3][sound:科学_пример_2.mp3][sound:科学_пример_3.mp3]",
   "Заметки": "科学（かがく）— наука; омоним 化学（かがく）— химия.",
   "Кандзи-разбор": "科 — научная область; 学 — учиться",

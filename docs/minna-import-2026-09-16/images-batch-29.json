@@ -1,0 +1,28 @@
+[
+  {
+    "index": 1018,
+    "word": "スキー",
+    "path": "Карточки/Спорт/スキー.json",
+    "source_id": 1508316309446,
+    "note_id": 1789535681123,
+    "translation": "Я впервые катался на лыжах, поэтому попробовал ехать медленно под руководством инструктора.",
+    "third": "<span class='study-word'>スキー</span>は初めてだったので、先生に教えてもらいながら、ゆっくり滑ってみました。",
+    "image_path": "Картинки/Спорт/スキー.png",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0d30d-2433-7423-855f-a1b40e9adff9/exec-711ce0e2-bdf5-4b2b-93bd-c31201dc6e95.png",
+    "bytes": 2153096,
+    "media_filename": "japanese_words_スキー.png"
+  },
+  {
+    "index": 1019,
+    "word": "キー",
+    "path": "Карточки/Электроника/キー.json",
+    "source_id": 1549520278631,
+    "note_id": 1789535681124,
+    "translation": "Я нажал не ту клавишу, внимательно посмотрел на экран и заново ввёл данные.",
+    "third": "間違った<span class='study-word'>キー</span>を押してしまったので、画面をよく見て、もう一度入力し直しました。",
+    "image_path": "Картинки/Электроника/キー.png",
+    "generated_path": "/Users/chebotarev/.codex/generated_images/01a0d30d-2433-7423-855f-a1b40e9adff9/exec-2bf26c4a-82f9-494a-aff4-a74d4166dbc3.png",
+    "bytes": 1757623,
+    "media_filename": "japanese_words_キー.png"
+  }
+]
