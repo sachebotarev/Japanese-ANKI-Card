@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>サイズ</span>が合います。<br>この服の<span class='study-word'>サイズ</span>は大きいです。<br>試着してみたら<span class='study-word'>サイズ</span>が合わなかったので、店員に頼んで、小さい物に替えてもらいました。",
   "Пример без слова": "_____が合います。<br>この服の_____は大きいです。<br>試着してみたら_____が合わなかったので、店員に頼んで、小さい物に替えてもらいました。",
   "Пример перевод": "Размер подходит.<br>У этой одежды большой размер.<br>При примерке размер не подошёл, поэтому я попросил продавца заменить вещь на меньшую.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: При примерке размер не подошёл, поэтому я попросил продавца заменить вещь на меньшую., visual focus: размер, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_サイズ.png\">",
   "Произношение": "[sound:サイズ_слово.mp3][sound:サイズ_пример_1.mp3][sound:サイズ_пример_2.mp3][sound:サイズ_пример_3.mp3]",
   "Заметки": "サイズが合う／合わない; 何サイズ — какой размер.",
   "Кандзи-разбор": "Кандзи нет.",

@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>日にち</span>を決めます。<br>旅行の<span class='study-word'>日にち</span>はいつですか。<br>会う<span class='study-word'>日にち</span>を間違えないように、カレンダーに書いて、友達にも確認しました。",
   "Пример без слова": "_____を決めます。<br>旅行の_____はいつですか。<br>会う_____を間違えないように、カレンダーに書いて、友達にも確認しました。",
   "Пример перевод": "Мы определим дату.<br>На какую дату намечена поездка?<br>Чтобы не перепутать дату встречи, я записал её в календарь и уточнил у друга.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Чтобы не перепутать дату встречи, я записал её в календарь и уточнил у друга., visual focus: дата; число месяца, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_日にち.png\">",
   "Произношение": "[sound:日にち_слово.mp3][sound:日にち_пример_1.mp3][sound:日にち_пример_2.mp3][sound:日にち_пример_3.mp3]",
   "Заметки": "Разговорное обозначение календарной даты; 日付 — более формальное.",
   "Кандзи-разбор": "日 — день",

@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>やけど</span>をしました。<br>手に<span class='study-word'>やけど</span>があります。<br>熱い鍋に触って<span class='study-word'>やけど</span>をしたので、料理をやめて、家族に手伝ってもらいました。",
   "Пример без слова": "_____をしました。<br>手に_____があります。<br>熱い鍋に触って_____をしたので、料理をやめて、家族に手伝ってもらいました。",
   "Пример перевод": "Я обжёгся.<br>На руке ожог.<br>Я коснулся горячей кастрюли и обжёгся, поэтому перестал готовить и попросил семью помочь.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я коснулся горячей кастрюли и обжёгся, поэтому перестал готовить и попросил семью помочь., visual focus: ожог, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_やけど.png\">",
   "Произношение": "[sound:やけど_слово.mp3][sound:やけど_пример_1.mp3][sound:やけど_пример_2.mp3][sound:やけど_пример_3.mp3]",
   "Заметки": "やけどをする — получить ожог; часто пишется каной, кандзи — 火傷.",
   "Кандзи-разбор": "Кандзи нет.",

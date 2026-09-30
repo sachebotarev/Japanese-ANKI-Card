@@ -6,7 +6,7 @@
   "Пример": "彼は<span class='study-word'>主人公</span>です。<br>この映画の<span class='study-word'>主人公</span>は子供です。<br><span class='study-word'>主人公</span>が最後にどうなるか知りたかったので、夜遅くまで本を読んでしまいました。",
   "Пример без слова": "彼は_____です。<br>この映画の_____は子供です。<br>_____が最後にどうなるか知りたかったので、夜遅くまで本を読んでしまいました。",
   "Пример перевод": "Он главный герой.<br>Главный герой этого фильма — ребёнок.<br>Мне хотелось узнать, что будет с главным героем, и я зачитался до поздней ночи.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Мне хотелось узнать, что будет с главным героем, и я зачитался до поздней ночи., visual focus: главный герой, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_主人公.png\">",
   "Произношение": "[sound:主人公_слово.mp3][sound:主人公_пример_1.mp3][sound:主人公_пример_2.mp3][sound:主人公_пример_3.mp3]",
   "Заметки": "物語／映画／小説の主人公; может быть любого пола.",
   "Кандзи-разбор": "主 — главный; 人 — человек; 公 — общественный",

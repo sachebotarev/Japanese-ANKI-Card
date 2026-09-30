@@ -6,7 +6,7 @@
   "Пример": "この<span class='study-word'>デザイン</span>が好きです。<br>かばんの<span class='study-word'>デザイン</span>を変えました。<br>値段は少し高かったですが、<span class='study-word'>デザイン</span>が気に入ったので、この時計を買いました。",
   "Пример без слова": "この_____が好きです。<br>かばんの_____を変えました。<br>値段は少し高かったですが、_____が気に入ったので、この時計を買いました。",
   "Пример перевод": "Мне нравится этот дизайн.<br>Мы изменили дизайн сумки.<br>Цена была немного высокой, но дизайн понравился, поэтому я купил эти часы.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Цена была немного высокой, но дизайн понравился, поэтому я купил эти часы., visual focus: дизайн; оформление, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_デザイン.png\">",
   "Произношение": "[sound:デザイン_слово.mp3][sound:デザイン_пример_1.mp3][sound:デザイン_пример_2.mp3][sound:デザイン_пример_3.mp3]",
   "Заметки": "物のデザイン; デザインする — проектировать внешний вид.",
   "Кандзи-разбор": "Кандзи нет.",

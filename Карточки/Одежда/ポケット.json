@@ -6,7 +6,7 @@
   "Пример": "<span class='study-word'>ポケット</span>があります。<br>鍵は<span class='study-word'>ポケット</span>の中です。<br>財布を<span class='study-word'>ポケット</span>に入れたつもりでしたが、なかったので、かばんの中も探しました。",
   "Пример без слова": "_____があります。<br>鍵は_____の中です。<br>財布を_____に入れたつもりでしたが、なかったので、かばんの中も探しました。",
   "Пример перевод": "Здесь есть карман.<br>Ключ в кармане.<br>Я думал, что положил кошелёк в карман, но его там не было, поэтому проверил и сумку.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, 512x512, scene: Я думал, что положил кошелёк в карман, но его там не было, поэтому проверил и сумку., visual focus: карман, clear physical objects, natural poses, no text, no letters, no watermark. Negative: text, letters, typography, logo, bad anatomy.",
+  "Картинка": "<img src=\"japanese_words_ポケット.png\">",
   "Произношение": "[sound:ポケット_слово.mp3][sound:ポケット_пример_1.mp3][sound:ポケット_пример_2.mp3][sound:ポケット_пример_3.mp3]",
   "Заметки": "ポケットに入れる／ポケットから出す.",
   "Кандзи-разбор": "Кандзи нет.",
