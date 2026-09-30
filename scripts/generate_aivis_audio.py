@@ -12,6 +12,7 @@ import subprocess
 import sys
 import tempfile
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -86,6 +87,23 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Перегенерировать аудио даже если файлы уже существуют.",
     )
+    repair_group = parser.add_mutually_exclusive_group()
+    repair_group.add_argument(
+        "--repair-word",
+        action="store_true",
+        help="Исправить только MP3 отдельного слова по полю «Чтение».",
+    )
+    repair_group.add_argument(
+        "--repair-example",
+        type=int,
+        choices=range(1, NEW_FORMAT_EXAMPLE_COUNT + 1),
+        metavar="N",
+        help="Исправить только пример N (1–3), не меняя текст карточки.",
+    )
+    parser.add_argument(
+        "--hiragana-text",
+        help="Проверенное предложение на хирагане для --repair-example.",
+    )
     parser.add_argument(
         "--startup-timeout",
         type=int,
@@ -108,6 +126,23 @@ def parse_examples(raw_text: str) -> list[str]:
             "разделённых тегом <br>."
         )
     return examples
+
+
+def validate_hiragana_sentence(text: str) -> str:
+    text = text.strip()
+    if not text or not any("\u3040" <= char <= "\u309f" for char in text) or any(
+        not (
+            "\u3040" <= char <= "\u309f"
+            or char in "ー \u3000"
+            or unicodedata.category(char).startswith("P")
+        )
+        for char in text
+    ):
+        raise RuntimeError(
+            "Текст для исправления примера должен быть полностью на хирагане "
+            "(допускаются пробелы, знаки препинания и ー)."
+        )
+    return text
 
 
 def load_json(path: Path) -> dict:
@@ -350,6 +385,9 @@ def process_card(
     style_name: str,
     write_json: bool,
     force: bool,
+    repair_word: bool = False,
+    repair_example: int | None = None,
+    hiragana_text: str | None = None,
 ) -> None:
     payload = load_json(card_path)
     word = str(payload["Слово"]).strip()
@@ -390,10 +428,30 @@ def process_card(
     output_dir = PRONUNCIATION_DIR / topic
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    if repair_word:
+        reading = str(payload.get("Чтение", "")).strip()
+        if not reading:
+            raise RuntimeError(f"У карточки «{word}» пустое поле «Чтение».")
+        word_mp3 = output_dir / f"{word}_слово.mp3"
+        generate_audio(engine_url, next_style_id(), reading, word_mp3)
+        print(f"Исправлено: {word_mp3.relative_to(ROOT_DIR)}")
+        return
+
+    if repair_example is not None:
+        assert hiragana_text is not None
+        spoken_text = validate_hiragana_sentence(hiragana_text)
+        example_mp3 = output_dir / f"{word}_пример_{repair_example}.mp3"
+        generate_audio(engine_url, next_style_id(), spoken_text, example_mp3)
+        print(f"Исправлено: {example_mp3.relative_to(ROOT_DIR)}")
+        return
+
     word_mp3 = output_dir / f"{word}_слово.mp3"
 
     if force or not word_mp3.exists():
-        generate_audio(engine_url, next_style_id(), word, word_mp3)
+        reading = str(payload.get("Чтение", "")).strip()
+        if not reading:
+            raise RuntimeError(f"У карточки «{word}» пустое поле «Чтение».")
+        generate_audio(engine_url, next_style_id(), reading, word_mp3)
         print(f"Сгенерировано: {word_mp3.relative_to(ROOT_DIR)}")
     else:
         print(f"Пропуск, файл уже есть: {word_mp3.relative_to(ROOT_DIR)}")
@@ -417,6 +475,18 @@ def process_card(
 
 def main() -> int:
     args = parse_args()
+    if (args.repair_example is None) != (args.hiragana_text is None):
+        raise SystemExit("--repair-example и --hiragana-text указываются вместе.")
+    if args.repair_word or args.repair_example is not None:
+        if len(args.cards) != 1 or args.all_empty:
+            raise SystemExit("Для исправления укажите ровно одну JSON-карточку.")
+        if args.write_json:
+            raise SystemExit("--write-json не нужен при исправлении аудио.")
+    if args.repair_example is not None:
+        try:
+            validate_hiragana_sentence(args.hiragana_text)
+        except RuntimeError as exc:
+            raise SystemExit(str(exc)) from exc
     cards = resolve_cards(args)
     if not cards:
         print("Карточек для обработки не найдено.")
@@ -448,6 +518,9 @@ def main() -> int:
                         style_name=chosen_style,
                         write_json=args.write_json,
                         force=args.force,
+                        repair_word=args.repair_word,
+                        repair_example=args.repair_example,
+                        hiragana_text=args.hiragana_text,
                     )
                     break
                 except (urllib.error.URLError, urllib.error.HTTPError) as exc:
