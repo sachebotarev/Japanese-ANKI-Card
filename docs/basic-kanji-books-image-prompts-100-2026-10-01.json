@@ -1,0 +1,802 @@
+[
+  {
+    "word": "手足",
+    "topic": "Анатомия",
+    "card": "Карточки/Анатомия/手足.json",
+    "image": "Картинки/Анатомия/手足.png",
+    "third_example_ru": "Так как я долго сидел, я встал и вытянул руки и ноги.",
+    "prompt": "Use case: illustration-story. Asset type: square illustration for a Japanese vocabulary flashcard. Anime illustration, polished, 1:1 square composition. Exactly one adult person, full body visible, standing beside a chair after sitting for a long time, stretching both arms and both legs. The hands, arms, feet, and legs are the clear visual focus, anatomically natural. Simple quiet room, soft daylight, expressive but realistic pose. No other people. No text, letters, kanji, numbers, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "先",
+    "topic": "Быт",
+    "card": "Карточки/Быт/先.json",
+    "image": "Картинки/Быт/先.png",
+    "third_example_ru": "Так как дорога тёмная, пожалуйста, идите, внимательно смотря вперёд.",
+    "prompt": "Use case: illustration-story. Asset type: Japanese vocabulary flashcard. Polished anime illustration, square 1:1. Exactly one traveler on a dark path at dusk, carefully looking ahead while walking with a small flashlight. Make the path ahead and the person's attentive forward gaze the visual center; safe, natural pose, deep blue evening light, simple surroundings. No other people, no text, letters, numbers, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "何時何分",
+    "topic": "Вопросительные слова",
+    "card": "Карточки/Вопросительные слова/何時何分.json",
+    "image": "Картинки/Вопросительные слова/何時何分.png",
+    "third_example_ru": "Так как я хотел узнать время поезда, я спросил у работника станции, во сколько часов и минут он отправляется.",
+    "prompt": "Use case: illustration-story. Asset type: Japanese vocabulary flashcard. Polished anime illustration, square 1:1. Exactly two people at a train station: a traveler politely asks a station worker about a train's departure time, gesturing toward a large analog clock with hands but a completely blank unnumbered face; a train visible beyond them. The question about exact time is the visual focus. No other people, no text, letters, digits, timetables, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "金田",
+    "topic": "География",
+    "card": "Карточки/География/金田.json",
+    "image": "Картинки/География/金田.png",
+    "third_example_ru": "Перед приходом гостя по фамилии Канеда я убрал комнату и приготовил чай.",
+    "prompt": "Use case: illustration-story. Asset type: Japanese vocabulary flashcard. Polished anime illustration, square 1:1. Exactly two people in a neat Japanese living room: a host with tea welcomes a guest named Kaneda who has just arrived at the doorway. The arriving guest is the clear visual focus; warm friendly atmosphere, simple room, natural poses. Do not depict any written name. No other people, no text, letters, kanji, numbers, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "下車する",
+    "topic": "Глаголы",
+    "card": "Карточки/Глаголы/下車する.json",
+    "image": "Картинки/Глаголы/下車する.png",
+    "third_example_ru": "Так как дождь был сильный, я вышел на станции, а потом сел в такси.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime flashcard illustration. Exactly one traveler getting off a train onto a rain-soaked station platform, then heading toward a waiting taxi visible nearby. The act of stepping down from the train is the central focus. Heavy rain, umbrella, natural pose, clear train doorway. No other people, no text, letters, numbers, station signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "友",
+    "topic": "Дружба",
+    "card": "Карточки/Дружба/友.json",
+    "image": "Картинки/Дружба/友.png",
+    "third_example_ru": "Так как дорогой друг пришёл за мной на станцию, мы вместе пообедали, а потом я вернулся домой.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime flashcard illustration. Exactly two close friends meeting happily at a train station; one has arrived to pick up the other, and they walk together toward a small restaurant. Their friendship and warm reunion are the visual focus. Natural gestures, luggage, soft daytime light. No other people, no text, letters, numbers, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "好物",
+    "topic": "Еда",
+    "card": "Карточки/Еда/好物.json",
+    "image": "Картинки/Еда/好物.png",
+    "third_example_ru": "Так как придёт друг, я решил приготовить его любимое блюдо, а потом всем вместе поужинать.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime flashcard illustration. Exactly two friends at a home dining table. One proudly serves the other person's favorite freshly cooked dish; make the appetizing food the large, unmistakable visual center, with the guest's delighted reaction. Warm kitchen light, physical plates and ingredients, natural poses. No other people, no text, letters, numbers, labels, logos, subtitles, or watermark."
+  },
+  {
+    "word": "門",
+    "topic": "Жилище",
+    "card": "Карточки/Жилище/門.json",
+    "image": "Картинки/Жилище/門.png",
+    "third_example_ru": "Так как начинаются занятия, студенты прошли через ворота и поспешили в аудиторию.",
+    "prompt": "Use case: illustration-story. Square 1:1 anime flashcard illustration. Exactly three students hurry through a large physical school gate toward a classroom as lessons begin. The gate itself dominates the foreground and frames their movement; clear architecture, bright morning, natural motion. No other people, no text, letters, numbers, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "十一月",
+    "topic": "Календарь",
+    "card": "Карточки/Календарь/十一月.json",
+    "image": "Картинки/Календарь/十一月.png",
+    "third_example_ru": "Я уже сейчас коплю деньги, чтобы в ноябре следующего года поехать в путешествие.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one person at a desk saving money for a trip planned in November next year, placing coins and bills into a small travel savings jar beside a simple suitcase and autumn-colored leaves outside the window. The visual focus is November as a future travel goal, represented by late-autumn atmosphere and careful saving. Warm indoor light, hopeful mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "様式",
+    "topic": "Канцелярия",
+    "card": "Карточки/Канцелярия/様式.json",
+    "image": "Картинки/Канцелярия/様式.png",
+    "third_example_ru": "Так как есть правила компании, пожалуйста, прочитайте объяснение, а затем подайте в этом формате.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one office worker reading company rules and then carefully submitting documents in a required format. The strongest visual focus is the standardized form layout as a physical paper stack with neat blank sections, check boxes, and aligned fields, shown without readable writing. Clean office desk, calm concentration, polished everyday anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "喜劇",
+    "topic": "Кинематограф",
+    "card": "Карточки/Кинематограф/喜劇.json",
+    "image": "Картинки/Кинематограф/喜劇.png",
+    "third_example_ru": "Так как я устал на работе, после возвращения домой я посмотрел весёлую комедию и немного взбодрился.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one tired office worker back at home, sitting on a sofa and watching a cheerful comedy on television, visibly perking up with a small smile. The strongest visual focus is the comedy experience, shown through the bright funny scene glow from the TV and the person's revived expression. Cozy evening room, work bag nearby, natural anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "仮病",
+    "topic": "Медицина",
+    "card": "Карточки/Медицина/仮病.json",
+    "image": "Картинки/Медицина/仮病.png",
+    "third_example_ru": "Так как ему не хотелось писать тест, он попытался притвориться больным и отдохнуть, но мама сразу это поняла.",
+    "prompt": "Square 1:1 polished anime illustration, exactly two people in a child's room: a student pretending to be sick in bed to avoid a test, holding a blanket dramatically, while the mother stands nearby with a knowing expression. The strongest visual focus is fake illness, shown through exaggerated weak posing, untouched school bag, and the mother's immediate suspicion. Simple domestic scene, clear comedic mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "一日中",
+    "topic": "Наречия",
+    "card": "Карточки/Наречия/一日中.json",
+    "image": "Картинки/Наречия/一日中.png",
+    "third_example_ru": "Так как шёл дождь, я весь день не выходил на улицу, читал книги и смотрел фильмы.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person indoors during a rainy day, sitting beside a window with rain streaking outside from morning-to-evening mood. The strongest focus is the full-day stay-at-home routine: an open book in their hands, a movie playing on a laptop, and untouched shoes by the door showing they never went outside. Warm room light, simple natural composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "専門",
+    "topic": "Образование",
+    "card": "Карточки/Образование/専門.json",
+    "image": "Картинки/Образование/専門.png",
+    "third_example_ru": "Так как я хочу использовать это в будущей работе, я сначала определился со специальностью, а затем выбрал университет.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at a study desk choosing a future university path. The strongest focus is selecting a specialization: several blank subject folders spread out, the student firmly placing one chosen folder at the center before a laptop and university brochures. Thoughtful expression, practical career-planning atmosphere, clean room background. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "年上",
+    "topic": "Общение",
+    "card": "Карточки/Общение/年上.json",
+    "image": "Картинки/Общение/年上.png",
+    "third_example_ru": "Так как собеседник был старше, я спросил имя, а потом говорил вежливо.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in a quiet indoor meeting. The strongest focus is the age relationship and polite behavior: a younger person slightly bows while respectfully asking an older person their name, hands neatly placed, careful posture. The older person appears clearly senior through age and demeanor, both natural and non-caricatured. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "毛糸",
+    "topic": "Одежда",
+    "card": "Карточки/Одежда/毛糸.json",
+    "image": "Картинки/Одежда/毛糸.png",
+    "third_example_ru": "Так как приближается зима, я выберу в магазине шерстяную пряжу и сделаю шарф.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person in a small craft shop as winter approaches. The strongest focus is soft wool yarn: the person carefully chooses thick colorful balls of yarn from a shelf, with a half-finished scarf sample nearby. Cozy lighting, winter coat on the shopper, simple store interior, warm tactile detail on the yarn fibers. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "小雨",
+    "topic": "Погода",
+    "card": "Карточки/Погода/小雨.json",
+    "image": "Картинки/Погода/小雨.png",
+    "third_example_ru": "Шёл небольшой дождь, поэтому я вышел с зонтом, но дождь вскоре закончился.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person standing outside with an umbrella after a light rain. The strongest focus is the small drizzle ending: only a few thin raindrops fall from a pale sky, puddles are shallow, and the person lowers the umbrella slightly as the rain stops. Quiet street, fresh wet pavement, gentle natural mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "速達",
+    "topic": "Почта",
+    "card": "Карточки/Почта/速達.json",
+    "image": "Картинки/Почта/速達.png",
+    "third_example_ru": "Так как документы нужны до завтра, я проверил адрес, а потом отправил их экспресс-доставкой.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at a post office counter urgently sending documents by express delivery. The strongest focus is the fast-mail action: a sealed document envelope being handed over after the sender checks the address carefully, with a delivery stamp and counter scale visible but blank. Clear deadline tension, tidy modern interior, natural gesture. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "区役所",
+    "topic": "Право",
+    "card": "Карточки/Право/区役所.json",
+    "image": "Картинки/Право/区役所.png",
+    "third_example_ru": "Так как мой адрес изменился, я оформил документы в районной администрации, а потом пошёл в банк.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person inside a local ward office completing address-change paperwork before going to the bank. The strongest focus is the government office procedure: the person submits official-looking blank forms at a public service counter, with folders and a reception window. A bankbook peeks from their bag, hinting at the next errand. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "速い",
+    "topic": "Прилагательные_い",
+    "card": "Карточки/Прилагательные_い/速い.json",
+    "image": "Картинки/Прилагательные_い/速い.png",
+    "third_example_ru": "Так как времени не было, я быстро дошел до станции, а потом сел на поезд.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person moving quickly toward a train station because time is short. The strongest focus is speed: the person strides briskly with coat and bag in motion, one foot nearly lifting from the ground, while a train waits ahead with open doors. Dynamic perspective, simple station platform, urgent but natural scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "上手",
+    "topic": "Прилагательные_な",
+    "card": "Карточки/Прилагательные_な/上手.json",
+    "image": "Картинки/Прилагательные_な/上手.png",
+    "third_example_ru": "Так как Ямада каждый день тренируется, он стал играть на пианино лучше, чем раньше.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person practicing piano in a modest music room. The strongest focus is improved skill: confident hands play smoothly across the keys, posture relaxed, with a small practice calendar and earlier messy sheet music pushed aside but unreadable. The scene shows daily training paying off through graceful movement and concentration. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "田んぼ",
+    "topic": "Природа",
+    "card": "Карточки/Природа/田んぼ.json",
+    "image": "Картинки/Природа/田んぼ.png",
+    "third_example_ru": "Когда дождь закончился, я отправился посмотреть на рисовое поле и сделал фотографию.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person after rain taking a photo of a rice paddy. The strongest focus is the rice field: bright green rows reflected in shallow water, raindrops on leaves, and a phone camera aimed at the field. Clouds part gently, rural path remains wet, scene simple and fresh. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "町長",
+    "topic": "Профессии",
+    "card": "Карточки/Профессии/町長.json",
+    "image": "Картинки/Профессии/町長.png",
+    "third_example_ru": "Так как из-за тайфуна дорога была повреждена, глава посёлка провёл собрание и объяснил ситуацию жителям.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people at a small town meeting after a typhoon damaged a road. The strongest focus is the town mayor explaining the situation: one older official gestures toward a damaged-road photo board with no writing, while two residents listen seriously. Community hall setting, practical emergency atmosphere, natural expressions. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "土木",
+    "topic": "Работа",
+    "card": "Карточки/Работа/土木.json",
+    "image": "Картинки/Работа/土木.png",
+    "third_example_ru": "Так как есть план построить новую дорогу, компания сначала посоветовалась со специалистом по гражданскому строительству, а затем начала план.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people at a roadside planning site before a new road project begins. The strongest focus is civil engineering work: a specialist points to a blank construction plan on a clipboard while a company representative observes the surveyed road area, measuring tripod and safety cones nearby. Simple realistic setting, early planning stage, clear engineering tools. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "女",
+    "topic": "Семья",
+    "card": "Карточки/Семья/女.json",
+    "image": "Картинки/Семья/女.png",
+    "third_example_ru": "Так как багаж был тяжёлым, я помог женщине, а потом вернулся домой.",
+    "prompt": "Polished square 1:1 anime illustration: exactly two people at a quiet station entrance, a tired adult woman with a heavy suitcase as the clear visual focus while another person lifts one end to help her. The suitcase looks weighty, with strained posture and kind gestures; a homeward path in the background suggests returning afterward. Natural daylight, simple composition, warm colors. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "走者",
+    "topic": "Спорт",
+    "card": "Карточки/Спорт/走者.json",
+    "image": "Картинки/Спорт/走者.png",
+    "third_example_ru": "Так как шёл дождь, бегуны сначала разогрелись, а потом стартовали.",
+    "prompt": "Polished square 1:1 anime illustration: exactly three runners in rain gear warming up beside a wet starting line before a race, stretching calves and shaking out arms under light rain. The runners are the strongest focus, with puddles, damp track surface, and a simple start area visible. Energetic but natural scene, no crowd, cinematic anime lighting. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "三人",
+    "topic": "Счётные суффиксы",
+    "card": "Карточки/Счётные суффиксы/三人.json",
+    "image": "Картинки/Счётные суффиксы/三人.png",
+    "third_example_ru": "Так как магазин был переполнен, мы втроём записали имя, а потом ждали снаружи.",
+    "prompt": "Polished square 1:1 anime illustration: exactly three people standing together outside an overcrowded small shop after writing their name on a waiting list clipboard. The group of three is the strongest visual focus, huddled near the entrance while crowded silhouettes remain inside behind glass. Simple urban storefront, evening light, natural expressions of patient waiting. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "テレビ局",
+    "topic": "Телевидение",
+    "card": "Карточки/Телевидение/テレビ局.json",
+    "image": "Картинки/Телевидение/テレビ局.png",
+    "third_example_ru": "Так как они делают новую программу, сотрудники собрались на телестанции рано утром.",
+    "prompt": "Polished square 1:1 anime illustration: exactly three TV station staff members gathered early in the morning inside a television studio control room, preparing a new program. The television station environment is the strongest focus: cameras, monitors with blank colored screens, cables, microphones, and studio lights around them. Calm professional atmosphere, sunrise light through high windows, clean composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "本店",
+    "topic": "Торговля",
+    "card": "Карточки/Торговля/本店.json",
+    "image": "Картинки/Торговля/本店.png",
+    "third_example_ru": "Так как товара не хватало, продавец связался с главным магазином, а потом оформил заказ.",
+    "prompt": "Polished square 1:1 anime illustration: exactly one shop clerk at a counter contacting the main store office about low stock, with empty product shelves and an order form beside the register. The head store connection is shown visually through a phone call and a simple office branch map without readable markings. Natural retail interior, focused expression, tidy anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "七夕",
+    "topic": "Традиции",
+    "card": "Карточки/Традиции/七夕.json",
+    "image": "Картинки/Традиции/七夕.png",
+    "third_example_ru": "Так как в школе мы сделали украшения, после уроков я прикрепил полоски с желаниями для Танабаты к бамбуку и сфотографировался с друзьями.",
+    "prompt": "Polished square 1:1 anime illustration: exactly three students after school beside a bamboo branch decorated for Tanabata, with colorful wish strips being tied on as the central physical focus. One student attaches a strip while the others pose for a photo, school craft decorations nearby. Bright, gentle classroom courtyard mood, culturally simple and natural. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "馬車",
+    "topic": "Транспорт",
+    "card": "Карточки/Транспорт/馬車.json",
+    "image": "Картинки/Транспорт/馬車.png",
+    "third_example_ru": "Так как дорога была узкой, мы вышли из кареты и дошли до города пешком.",
+    "prompt": "Polished square 1:1 anime illustration: exactly two travelers stepping down from a horse-drawn carriage on a narrow country road, preparing to walk toward a small town visible ahead. The carriage is the strongest visual focus, close in the foreground with wooden wheels and harness details, while the narrow road explains why they got out. Soft adventure atmosphere, natural anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "手荷物",
+    "topic": "Туризм",
+    "card": "Карточки/Туризм/手荷物.json",
+    "image": "Картинки/Туризм/手荷物.png",
+    "third_example_ru": "Так как ручная кладь была тяжёлой, я сначала поискал камеру хранения на станции, а потом пошёл в отель.",
+    "prompt": "Polished square 1:1 anime illustration: exactly one traveler in a train station struggling with heavy carry-on luggage while looking toward coin lockers before going to a hotel. The hand luggage is the strongest physical focus: a bulky shoulder bag and small suitcase pulling the traveler downward. Station interior, locker wall, travel fatigue, clean square anime composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "五千円",
+    "topic": "Финансы",
+    "card": "Карточки/Финансы/五千円.json",
+    "image": "Картинки/Финансы/五千円.png",
+    "third_example_ru": "Так как эта книга стоила пять тысяч иен, я купил её и показал другу.",
+    "prompt": "Polished square 1:1 anime illustration: exactly two people in a bookstore, one person proudly showing a newly bought expensive book to a friend after paying five thousand yen. The price value is shown physically by a single yen banknote held near the book, without any visible numbers or writing. Warm shop lighting, shelves blurred, book as a key object. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "原色",
+    "topic": "Фотография",
+    "card": "Карточки/Фотография/原色.json",
+    "image": "Картинки/Фотография/原色.png",
+    "third_example_ru": "Я хочу сделать плакат заметным, поэтому сначала сделаю фон белым, а потом использую основные цвета.",
+    "prompt": "Polished square 1:1 anime illustration: exactly one designer making a poster at a desk, first laying down a clean white background and then choosing vivid primary-color paints. The strongest focus is the set of pure red, blue, and yellow color materials beside the blank poster board. Simple studio scene, bright anime rendering, orderly tools, clear creative action. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "画面",
+    "topic": "Электроника",
+    "card": "Карточки/Электроника/画面.json",
+    "image": "Картинки/Электроника/画面.png",
+    "third_example_ru": "Так как глаза устали, я выключил экран, а потом немного отдохнул.",
+    "prompt": "Polished square 1:1 anime illustration: exactly one person at a desk turning off a glowing computer screen because their eyes are tired, then leaning back to rest. The screen is the strongest visual focus, fading dark while the room becomes calm. Include gentle eye-rubbing gesture, simple workspace, evening atmosphere, polished anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "別離",
+    "topic": "Эмоции",
+    "card": "Карточки/Эмоции/別離.json",
+    "image": "Картинки/Эмоции/別離.png",
+    "third_example_ru": "Так как настал день переезда, я принял разлуку с семьёй и направился в новый город.",
+    "prompt": "Polished square 1:1 anime illustration: exactly three people at a home entrance on moving day, one person leaving with luggage while two family members remain behind in a quiet farewell. The separation is made concrete through distance, a doorway, packed bags, and restrained goodbye gestures. A new city skyline is faintly visible beyond the road, emotional but simple anime composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "肉体",
+    "topic": "Анатомия",
+    "card": "Карточки/Анатомия/肉体.json",
+    "image": "Картинки/Анатомия/肉体.png",
+    "third_example_ru": "Так как матч приближается, я хорошо ем и даю телу отдохнуть.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person. A determined amateur athlete sits at a simple kitchen table after training, eating a balanced meal while resting tired legs on a cushion, with a sports bag and ball nearby. The strongest focus is the healthy physical body recovering: relaxed muscles, nourishing food, and a calm pre-match routine. Warm evening indoor light, natural composition, simple details. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "火力",
+    "topic": "Быт",
+    "card": "Карточки/Быт/火力.json",
+    "image": "Картинки/Быт/火力.png",
+    "third_example_ru": "Так как суп вот-вот собирался убежать, я убавил огонь, а потом снял крышку.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person. In a modest home kitchen, a cook quickly lowers the stove heat with one hand while lifting the pot lid with the other as soup foam rises close to spilling over. The strongest visual focus is the controlled flame and heating power under the pot, visibly reduced from strong to gentle. Steam, soup bubbles, tense but natural moment. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "何人",
+    "topic": "Вопросительные слова",
+    "card": "Карточки/Вопросительные слова/何人.json",
+    "image": "Картинки/Вопросительные слова/何人.png",
+    "third_example_ru": "Так как я хочу подготовить места, скажите, пожалуйста, сколько человек придёт завтра.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people. A host preparing for tomorrow stands beside a table with many empty chairs and place settings, politely asking a guest while gesturing toward the seats. The strongest visual focus is the question of how many people will come, shown through the arranged chairs and the host’s counting gesture without written marks. Bright room, simple natural scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "富士山",
+    "topic": "География",
+    "card": "Карточки/География/富士山.json",
+    "image": "Картинки/География/富士山.png",
+    "third_example_ru": "Так как мы вышли рано утром, после посадки на поезд на станции мы сфотографировали гору Фудзи.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people. Early morning at a quiet train station platform, two travelers with small bags pause after boarding preparations to photograph Mount Fuji visible beyond the tracks in soft dawn light. The strongest visual focus is the majestic snow-capped mountain framed in the distance, with one traveler holding up a camera. Natural travel atmosphere, clean composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "上る",
+    "topic": "Глаголы",
+    "card": "Карточки/Глаголы/上る.json",
+    "image": "Картинки/Глаголы/上る.png",
+    "third_example_ru": "Так как лифт не работает, я поднимусь по лестнице, а потом пойду в класс.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person. A student carrying a school bag climbs a staircase inside a school building because the nearby elevator doors are closed and inactive. The strongest visual focus is the upward motion: one foot on a higher step, body leaning forward, stairs rising toward a classroom hallway above. Simple interior, purposeful morning mood, no extra characters. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "焼き鳥",
+    "topic": "Еда",
+    "card": "Карточки/Еда/焼き鳥.json",
+    "image": "Картинки/Еда/焼き鳥.png",
+    "third_example_ru": "Так как я проголодался, после работы пошел с другом поесть якитори.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people. After work, two friends sit at a small casual table enjoying grilled chicken skewers, one person eagerly reaching for yakitori while looking hungry and relieved. The strongest visual focus is the skewers themselves: glossy grilled chicken pieces on wooden sticks, light smoke, small plates, warm restaurant lighting. Keep the scene simple, appetizing, and natural. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "広さ",
+    "topic": "Жилище",
+    "card": "Карточки/Жилище/広さ.json",
+    "image": "Картинки/Жилище/広さ.png",
+    "third_example_ru": "Так как ребёнок будет играть, мы искали просторный дом, даже если он немного далеко от станции.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people. Two adults inspect an unfurnished house while a child happily plays in the wide open living room, far from a distant train station implied through a window view of tiny tracks on the horizon. The strongest visual focus is spaciousness: broad floor area, open walls, room for movement around the child. Calm house-hunting scene, airy composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "二月",
+    "topic": "Календарь",
+    "card": "Карточки/Календарь/二月.json",
+    "image": "Картинки/Календарь/二月.png",
+    "third_example_ru": "Я уже сейчас коплю деньги, чтобы в феврале следующего года поехать в путешествие.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person. A young traveler sits at a desk saving coins into a clear jar beside a winter travel plan shown only with pictures: snowy scenery, suitcase, and train ticket shapes without writing. The strongest visual focus is February as a cold future travel month, shown through snow outside the window and winter trip preparation. Cozy indoor evening, hopeful mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "記号",
+    "topic": "Канцелярия",
+    "card": "Карточки/Канцелярия/記号.json",
+    "image": "Картинки/Канцелярия/記号.png",
+    "third_example_ru": "Так как карта была трудной для понимания, я спросил сотрудника на станции, а потом стал искать этот знак.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people. In a train station, a confused traveler holds a difficult-to-understand map while asking a uniformed station employee for help, then points toward a simple colored geometric mark on the map. The strongest visual focus is the nonverbal symbol itself, large enough to notice, with no writing anywhere. Clean station interior, natural helpful gesture, simple composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "悲劇",
+    "topic": "Кинематограф",
+    "card": "Карточки/Кинематограф/悲劇.json",
+    "image": "Картинки/Кинематограф/悲劇.png",
+    "third_example_ru": "Так как главный герой потерял семью, зрители тихо плакали, смотря эту трагедию.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people. In a dim small theater, three audience members sit quietly watching a sorrowful stage scene where the main character kneels alone clutching a family keepsake, conveying loss without showing violence. The strongest visual focus is tragedy: tearful faces, hushed posture, dark stage lighting, and the painful emotional relationship between viewer and scene. Respectful, dramatic, simple anime composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "医院",
+    "topic": "Медицина",
+    "card": "Карточки/Медицина/医院.json",
+    "image": "Картинки/Медицина/医院.png",
+    "third_example_ru": "Так как температура не спадала, я позвонил и потом пошёл в ближайшую клинику.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person. A feverish patient with a scarf and tired expression approaches a small neighborhood clinic after making a phone call, holding a phone in one hand and a handkerchief near the face. The strongest visual focus is the clinic visit: modest medical entrance, clean doorway, waiting area visible inside, and the patient moving toward care. Quiet daytime street scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "遠く",
+    "topic": "Наречия",
+    "card": "Карточки/Наречия/遠く.json",
+    "image": "Картинки/Наречия/遠く.png",
+    "third_example_ru": "Так как автобус не пришёл, мы дошли до далёкого магазина и купили воду.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people. After waiting at an empty bus stop, two travelers walk along a long road toward a small distant shop and carry bottled water after finally reaching it. The strongest visual focus is distance: the shop far away down the road, stretched perspective, tired walking posture, and wide space between the bus stop and destination. Bright afternoon, simple rural edge setting. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "私立大学",
+    "topic": "Образование",
+    "card": "Карточки/Образование/私立大学.json",
+    "image": "Картинки/Образование/私立大学.png",
+    "third_example_ru": "Так как я хочу узнать стоимость обучения, я прочитаю материалы, а потом пойду посмотреть частный университет.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person standing at the entrance area of a modern private university campus, holding admission brochures and carefully checking a tuition-fee page. The university buildings, open campus gate, and stacked school materials are the strongest visual focus, showing a visit to inspect the private university after reading documents. Soft daylight, natural colors, calm student-life atmosphere. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "目上",
+    "topic": "Общение",
+    "card": "Карточки/Общение/目上.json",
+    "image": "Картинки/Общение/目上.png",
+    "third_example_ru": "Так как на совещание пришёл начальник отдела, я сначала передал материалы вышестоящему человеку, а потом сел на место.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people in a simple meeting room: a seated department manager has just arrived, while a younger employee respectfully hands documents to a clearly higher-ranking senior person before sitting down. The respectful transfer of materials to the superior is the strongest visual focus, with formal posture, modest office furniture, and quiet workplace tension. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "和服",
+    "topic": "Одежда",
+    "card": "Карточки/Одежда/和服.json",
+    "image": "Картинки/Одежда/和服.png",
+    "third_example_ru": "Так как младшая сестра хотела сфотографироваться, она попросила бабушку помочь и надела красивую японскую традиционную одежду.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in a cozy home dressing room: a younger sister wearing beautiful traditional Japanese clothing while her grandmother gently helps adjust the sash before a photo. The elegant kimono-like garment, layered fabric, sleeves, and careful dressing gesture are the strongest visual focus. Warm indoor light, natural family moment, simple background. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "雨天",
+    "topic": "Погода",
+    "card": "Карточки/Погода/雨天.json",
+    "image": "Картинки/Погода/雨天.png",
+    "third_example_ru": "Говорят, завтра будет дождливая погода, поэтому матч на улице, возможно, отменят.",
+    "prompt": "Polished square 1:1 anime illustration, no people, an outdoor sports field under steady rainy weather, with puddles spreading across the ground and sports equipment left unused near the sideline. The rain, wet field, and cancellation mood are the strongest visual focus, suggesting tomorrow's outside match may be called off. Overcast sky, soft anime rain effects, simple composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "書留",
+    "topic": "Почта",
+    "card": "Карточки/Почта/書留.json",
+    "image": "Картинки/Почта/書留.png",
+    "third_example_ru": "Так как это важные документы, я отправил их заказным письмом, а потом сохранил номер.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at a post office counter sending important documents as registered mail, carefully placing a sealed envelope in the clerk area while keeping a small receipt slip. The registered envelope and saved tracking receipt are the strongest visual focus. Clean interior, calm practical mood, hands and documents clearly emphasized. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "県庁",
+    "topic": "Право",
+    "card": "Карточки/Право/県庁.json",
+    "image": "Картинки/Право/県庁.png",
+    "third_example_ru": "Так как адрес изменился, я сходил в администрацию префектуры и получил нужные документы.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person inside a prefectural government office, receiving official documents at a service counter after reporting an address change. The administrative office counter, document folder, and formal public-building interior are the strongest visual focus. Natural bureaucratic scene, neat desks, waiting area, polite atmosphere, no specific real building depicted. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "親しい",
+    "topic": "Прилагательные_い",
+    "card": "Карточки/Прилагательные_い/親しい.json",
+    "image": "Картинки/Прилагательные_い/親しい.png",
+    "third_example_ru": "Так как раньше мы работали в одной компании, я и сейчас могу непринуждённо разговаривать с Ямадой.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people who seem like former coworkers chatting casually at a small cafe table, relaxed smiles and open body language showing a close, friendly relationship. The easy conversation and familiar gestures are the strongest visual focus, with simple coffee cups and work bags nearby. Natural modern setting, warm light, no written names or identity claims. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "大切",
+    "topic": "Прилагательные_な",
+    "card": "Карточки/Прилагательные_な/大切.json",
+    "image": "Картинки/Прилагательные_な/大切.png",
+    "third_example_ru": "Так как это вещь, которую я получил от друга, я пользуюсь ей бережно, чтобы не потерять.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person gently holding and carefully using a cherished item received from a friend, such as a small handmade keychain or keepsake, with protective hands and a soft expression. The precious personal object is the strongest visual focus, suggesting it must not be lost. Simple room background, warm emotional lighting, tender anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "小川",
+    "topic": "Природа",
+    "card": "Карточки/Природа/小川.json",
+    "image": "Картинки/Природа/小川.png",
+    "third_example_ru": "Так как было жарко, после прогулки по лесу мы немного отдохнули рядом с ручьём.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people resting after a forest walk beside a small clear stream on a hot day. The narrow flowing creek, cool water, shaded stones, and relaxed pause by the bank are the strongest visual focus. Lush green forest, summer light filtering through trees, simple natural composition, peaceful cooling atmosphere. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "市長",
+    "topic": "Профессии",
+    "card": "Карточки/Профессии/市長.json",
+    "image": "Картинки/Профессии/市長.png",
+    "third_example_ru": "Так как дорога опасная, жители города написали мэру письмо и сказали, что хотят, чтобы её быстро отремонтировали.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three townspeople gathered around a table preparing a letter to the mayor about a dangerous road that needs quick repair. The civic action toward the city mayor is shown through a formal envelope, road photos, and concerned gestures, with the dangerous street visible through a window. Natural local-community scene, no official portrait or real identity. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "林業",
+    "topic": "Работа",
+    "card": "Карточки/Работа/林業.json",
+    "image": "Картинки/Работа/林業.png",
+    "third_example_ru": "Так как много людей использует древесину, в деревне сохраняют лесное хозяйство и обучают молодых людей работе.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people in a village forest work area, an experienced forestry worker teaching two younger people how to handle cut logs responsibly. The managed woodland, stacked timber, tools, and training action are the strongest visual focus, clearly showing forestry work preserved for wood use. Bright rural daylight, respectful environmental mood, simple practical scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "男",
+    "topic": "Семья",
+    "card": "Карточки/Семья/男.json",
+    "image": "Картинки/Семья/男.png",
+    "third_example_ru": "Так как я не знал дорогу, я спросил мужчину, который был рядом, а потом пошёл к станции.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people near a quiet street corner on the way to a station: one lost traveler politely asks directions from a nearby adult man, who gestures toward the route ahead. The man being asked for help is the strongest visual focus, with clear body language and a simple urban background. Natural everyday anime scene, no written signs. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "運動場",
+    "topic": "Спорт",
+    "card": "Карточки/Спорт/運動場.json",
+    "image": "Картинки/Спорт/運動場.png",
+    "third_example_ru": "Так как начался обеденный перерыв, мы пошли на спортивную площадку и решили побегать с друзьями.",
+    "prompt": "Square 1:1 polished anime illustration, exactly three students on a sunny school sports ground during lunch break, beginning to run together across a wide dirt athletic field. The sports ground is the strongest visual focus: track lines, open yard space, sports equipment at the edge, and energetic motion. Natural midday light, simple school setting, cheerful but not crowded, clean composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "二百",
+    "topic": "Счётные суффиксы",
+    "card": "Карточки/Счётные суффиксы/二百.json",
+    "image": "Картинки/Счётные суффиксы/二百.png",
+    "third_example_ru": "Поскольку коробок было двести, я проверил количество и записал его на бумаге.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one person in a quiet storeroom carefully checking a large orderly stack of cardboard boxes, emphasizing the idea of two hundred boxes through many repeated boxes arranged in rows. The person holds a pencil and paper while counting, with the boxes as the dominant physical focus. Simple natural lighting, tidy shelves, clear counting action. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "放送局",
+    "topic": "Телевидение",
+    "card": "Карточки/Телевидение/放送局.json",
+    "image": "Картинки/Телевидение/放送局.png",
+    "third_example_ru": "Так как пришёл сильный тайфун, вещательная станция продолжала передавать информацию до ночи.",
+    "prompt": "Square 1:1 polished anime illustration, exactly three broadcast station staff working late during a powerful typhoon, with the broadcasting studio equipment as the strongest focus: microphones, monitors, control panels, and storm footage glow through rain-streaked windows. One announcer speaks calmly while others operate equipment, conveying continued information transmission into the night. Dramatic but simple anime scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "魚屋",
+    "topic": "Торговля",
+    "card": "Карточки/Торговля/魚屋.json",
+    "image": "Картинки/Торговля/魚屋.png",
+    "third_example_ru": "Так как я хочу съесть рыбу на ужин, после школы зайду в рыбный магазин.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one student after school entering a small fish shop to buy fish for dinner. Fresh fish displayed on crushed ice are the strongest visual focus, with the student looking toward them while holding a school bag. Natural neighborhood storefront interior, clean counters, cool lighting, simple everyday atmosphere. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "国歌",
+    "topic": "Традиции",
+    "card": "Карточки/Традиции/国歌.json",
+    "image": "Картинки/Традиции/国歌.png",
+    "third_example_ru": "Так как церемония началась, все вместе спели государственный гимн, а затем тихо сели на места.",
+    "prompt": "Square 1:1 polished anime illustration, exactly three people at a formal ceremony standing together and singing a national anthem before quietly taking their seats. The strongest visual focus is their respectful singing posture: upright bodies, hands placed formally, solemn faces, and ceremonial chairs behind them. Simple indoor hall, flags suggested only as plain color fabric without markings, calm dignified mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "馬力",
+    "topic": "Транспорт",
+    "card": "Карточки/Транспорт/馬力.json",
+    "image": "Картинки/Транспорт/馬力.png",
+    "third_example_ru": "Так как там много подъёмов, мы решили выбрать машину с большей мощностью, а потом отправиться в долгое путешествие.",
+    "prompt": "Square 1:1 polished anime illustration, exactly two travelers choosing a powerful car before a long trip through hilly roads. The car’s strong engine and sturdy body are the dominant visual focus, with the hood open and the steep road visible beyond. One person points toward the hills while the other examines the engine, suggesting horsepower and power for climbs. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "名所",
+    "topic": "Туризм",
+    "card": "Карточки/Туризм/名所.json",
+    "image": "Картинки/Туризм/名所.png",
+    "third_example_ru": "После того как я посмотрел карту, я пошёл к ближайшей достопримечательности, поэтому смог сделать много хороших фотографий.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one traveler holding a folded map and photographing a nearby famous scenic spot. The landmark is the strongest physical focus: a beautiful natural overlook with a distinctive stone arch and bright view, presented as a memorable sightseeing place without written signage. Camera raised, map tucked in hand, simple sunny travel atmosphere. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "円",
+    "topic": "Финансы",
+    "card": "Карточки/Финансы/円.json",
+    "image": "Картинки/Финансы/円.png",
+    "third_example_ru": "Так как в кошельке было мало денег, я дал только тысячу иен и получил сдачу.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one shopper at a small checkout counter paying with yen from a nearly empty wallet and receiving change. The strongest focus is the Japanese cash exchange: bills and coins in the cashier tray and the shopper’s hand, with the wallet visibly low on money. Simple store interior, natural everyday mood, clean composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "受話器",
+    "topic": "Электроника",
+    "card": "Карточки/Электроника/受話器.json",
+    "image": "Картинки/Электроника/受話器.png",
+    "third_example_ru": "Так как голос было плохо слышно, я поправил телефонную трубку, а потом ещё раз спросил имя.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one person using an old landline telephone, carefully adjusting the telephone receiver against their ear because the voice is hard to hear. The receiver is the strongest visual focus, held close with a tense listening posture, one hand near the cord. Simple room, warm desk lamp, quiet concentration, natural anime style. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "良心",
+    "topic": "Эмоции",
+    "card": "Карточки/Эмоции/良心.json",
+    "image": "Картинки/Эмоции/良心.png",
+    "third_example_ru": "Так как друг был в беде, я решил сказать правду, следуя совести.",
+    "prompt": "Square 1:1 polished anime illustration, exactly two friends in a quiet room, one friend troubled and seated with lowered shoulders while the other gently tells the truth, guided by conscience. The strongest visual focus is the honest gesture: an open hand placed over the chest and direct, sincere eye contact. Calm emotional atmosphere, simple background, clear relationship and moral choice. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "若さ",
+    "topic": "Анатомия",
+    "card": "Карточки/Анатомия/若さ.json",
+    "image": "Картинки/Анатомия/若さ.png",
+    "third_example_ru": "Так как все хорошо бегают, тренер после тренировки похвалил силу молодости.",
+    "prompt": "Square 1:1 polished anime illustration, exactly three young athletes after training on a sports field, breathing hard but smiling as a coach praises their youthful energy. The strongest visual focus is the vivid power of youth: strong running poses, fresh sweat, bright expressions, and lively posture. Simple athletic field, warm evening light, natural team-practice atmosphere. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "糸",
+    "topic": "Быт",
+    "card": "Карточки/Быт/糸.json",
+    "image": "Картинки/Быт/糸.png",
+    "third_example_ru": "Так как рубашка порвалась, я достал иголку и зашил её ниткой.",
+    "prompt": "Square 1:1 polished anime illustration, exactly one person repairing a torn shirt with a needle and thread. The strongest visual focus is the thin thread passing through the needle and stitching the fabric closed, shown clearly in the person’s hands. Cozy tabletop scene with sewing supplies nearby, soft light, natural careful action, simple anime composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "木村",
+    "topic": "География",
+    "card": "Карточки/География/木村.json",
+    "image": "Картинки/География/木村.png",
+    "third_example_ru": "Перед приходом гостя по фамилии Кимура я убрал комнату и приготовил чай.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person in a tidy apartment room before a guest arrives. The visual focus is a welcoming place setting prepared for the expected visitor: a clean low table, steaming tea, and a neatly arranged cushion by the doorway. The person calmly finishes cleaning, holding a cloth beside the table. Warm natural light, simple domestic details, gentle anticipation. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "分ける",
+    "topic": "Глаголы",
+    "card": "Карточки/Глаголы/分ける.json",
+    "image": "Картинки/Глаголы/分ける.png",
+    "third_example_ru": "Так как людей было много, мы разложили еду по маленьким тарелкам, а потом все вместе поели.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people around a kitchen table, with the strongest focus on food being divided into several small plates. One person carefully portions rice, vegetables, and side dishes with serving chopsticks while the others wait to eat together. The plates are evenly arranged, making the action of sharing and distributing visually clear. Cozy home kitchen, natural expressions, simple composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "魚肉",
+    "topic": "Еда",
+    "card": "Карточки/Еда/魚肉.json",
+    "image": "Картинки/Еда/魚肉.png",
+    "third_example_ru": "Так как придет друг, который не ест мясо, я заранее приготовлю блюдо с рыбным мясом.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person cooking in a home kitchen before a friend arrives. The strongest visual focus is fresh fish meat being prepared as the main dish: pale fillets on a cutting board beside a pan with vegetables. The cook looks thoughtful and careful, avoiding ordinary meat entirely. Clean counters, warm light, natural anime style, appetizing but simple meal preparation. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "住民",
+    "topic": "Жилище",
+    "card": "Карточки/Жилище/住民.json",
+    "image": "Картинки/Жилище/住民.png",
+    "third_example_ru": "Так как станция далеко, жители садятся на автобус, а потом едут в город.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people at a quiet neighborhood bus stop, clearly shown as local residents heading toward the city because the station is far away. The strongest focus is the small group boarding a bus together, carrying daily bags and standing near modest houses. The bus door is open, the road leads outward, and the mood is ordinary morning commute. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "三年",
+    "topic": "Календарь",
+    "card": "Карточки/Календарь/三年.json",
+    "image": "Картинки/Календарь/三年.png",
+    "third_example_ru": "Поскольку я изучал японский три года, я научился говорить лучше, чем раньше.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at a study desk, with the strongest focus on three years of Japanese study shown through three stacked study notebooks, each visibly worn in a different stage of use but without writing. The learner speaks confidently while reviewing notes, looking noticeably more capable than before. Simple room, pencils, flashcards without marks, warm study lamp, calm achievement mood. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "白紙",
+    "topic": "Канцелярия",
+    "card": "Карточки/Канцелярия/白紙.json",
+    "image": "Картинки/Канцелярия/白紙.png",
+    "third_example_ru": "Так как я потерял заметки, я получил у учителя новый чистый лист и написал ещё раз.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in a classroom after lost notes. The strongest focus is a clean blank sheet of paper being handed from teacher to student, bright and empty on the desk, ready to be written on again. The student holds a pencil and looks relieved, with scattered empty space where notes are missing. Soft classroom light, simple natural scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "手当て",
+    "topic": "Медицина",
+    "card": "Карточки/Медицина/手当て.json",
+    "image": "Картинки/Медицина/手当て.png",
+    "third_example_ru": "Так как ребёнок упал и поранил ногу, мать сначала промыла рану, а потом сразу оказала помощь.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people: a mother giving first aid to a child who has fallen and hurt a leg. The strongest focus is the careful treatment action, with clean water, gauze, and a bandage near the child’s scraped knee. The mother gently washes the wound before wrapping it, while the child sits safely on the floor. Warm home setting, tender and realistic. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "間接",
+    "topic": "Наречия",
+    "card": "Карточки/Наречия/間接.json",
+    "image": "Картинки/Наречия/間接.png",
+    "third_example_ru": "Так как я не смог сразу спросить самого человека, я попробовал косвенно узнать причину через друга.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people in a quiet everyday setting, showing indirect communication as the strongest visual focus. One person stands slightly apart, unable to ask directly, while a friend in the middle discreetly speaks to another person, forming a clear chain of inquiry. Use body language, turned shoulders, and subtle gestures to show the reason being learned through someone else. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "女子学生",
+    "topic": "Образование",
+    "card": "Карточки/Образование/女子学生.json",
+    "image": "Картинки/Образование/女子学生.png",
+    "third_example_ru": "Так как экзамен близко, студентка прочитала конспект, а потом задала вопрос преподавателю.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in a classroom: a female student and a teacher. The strongest focus is the student herself, studying before an exam, holding an open notebook and then raising a hand to ask the teacher a question. Desks, school bag, and neat notes without readable writing support the scene. Calm academic atmosphere, clear anime style, natural proportions. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "物語",
+    "topic": "Общение",
+    "card": "Карточки/Общение/物語.json",
+    "image": "Картинки/Общение/物語.png",
+    "third_example_ru": "Так как шёл дождь, я остался дома, прочитал старую историю, а потом лёг спать.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at home on a rainy evening, with the strongest focus on an old storybook being read before sleep. The person sits beside a window with rain outside, holding an aged book open on their lap, then a folded blanket and bed nearby suggest they will sleep afterward. Cozy lamp light, quiet mood, simple interior, no readable pages. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "試着室",
+    "topic": "Одежда",
+    "card": "Карточки/Одежда/試着室.json",
+    "image": "Картинки/Одежда/試着室.png",
+    "third_example_ru": "Так как я не знаю, подойдёт ли размер, я зайду в примерочную и попробую надеть эту одежду.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person in a clothing store entering a fitting room to check whether the size fits. The strongest visual focus is the fitting room itself: curtain half-open, mirror inside, and the person holding the chosen clothing while stepping in to try it on. Nearby hangers and fabric create context, but no store signage. Clean, natural, practical anime scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "晴天",
+    "topic": "Погода",
+    "card": "Карточки/Погода/晴天.json",
+    "image": "Картинки/Погода/晴天.png",
+    "third_example_ru": "Так как дождь прекратился, после наступления утра небо посветлело, и днем установилась ясная погода.",
+    "prompt": "Polished square 1:1 anime illustration, no people, showing the morning after rain has stopped and daytime has become clear. The strongest focus is bright clear weather: a vivid blue sky, clean sunlight, drying pavement, and a few fading raindrops on leaves. Clouds have parted, the scene feels fresh and open, with simple houses and trees below the wide晴 sky atmosphere without any written elements. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "送料",
+    "topic": "Почта",
+    "card": "Карточки/Почта/送料.json",
+    "image": "Картинки/Почта/送料.png",
+    "third_example_ru": "Так как я купил две книги, я оплатил доставку и попросил отправить их домой.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person at a small home desk after buying two books online. The strongest focus is a delivery fee being paid: two new books, a parcel box, a wallet, coins and a payment slip beside a shipping form, all arranged clearly. The person calmly prepares the package to be sent home. Warm indoor light, simple natural composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "市民",
+    "topic": "Право",
+    "card": "Карточки/Право/市民.json",
+    "image": "Картинки/Право/市民.png",
+    "third_example_ru": "Так как появился новый парк, горожане идут гулять после окончания работы.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people representing ordinary city residents walking together through a newly opened neighborhood park after work. The strongest focus is the group of citizens using the public park: office bags, relaxed post-work clothing, fresh paths, young trees, benches, and evening city apartments in the background. Natural friendly atmosphere, simple composition centered on the residents strolling. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "良い",
+    "topic": "Прилагательные_い",
+    "card": "Карточки/Прилагательные_い/良い.json",
+    "image": "Картинки/Прилагательные_い/良い.png",
+    "third_example_ru": "Друг посоветовал мне это хорошее заведение, поэтому я зашёл туда и пообедал.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person entering a pleasant small restaurant for lunch after a friend's recommendation. The strongest focus is the good, suitable place: clean counter, inviting meal tray, warm lighting, tidy table, and a welcoming doorway without any written signage. The person looks satisfied while sitting down to eat, emphasizing the restaurant’s positive quality. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "下手",
+    "topic": "Прилагательные_な",
+    "card": "Карточки/Прилагательные_な/下手.json",
+    "image": "Картинки/Прилагательные_な/下手.png",
+    "third_example_ru": "Так как практики пока мало, я плохо играю на пианино, но хочу играть каждый день и понемногу становиться лучше.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person practicing piano at home and visibly playing awkwardly. The strongest focus is being unskilled: tense fingers hitting wrong keys, slightly embarrassed expression, open practice book shown only as blank pages, and a small daily practice calendar shape without marks. Despite the clumsy playing, the person looks determined to improve little by little. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "水田",
+    "topic": "Природа",
+    "card": "Карточки/Природа/水田.json",
+    "image": "Картинки/Природа/水田.png",
+    "third_example_ru": "Когда дождь закончился, я отправился посмотреть на заливное рисовое поле и сделал фотографию.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person standing after rain beside a flooded rice paddy, raising a camera to take a photograph. The strongest focus is the water-filled rice field: mirror-like shallow water, neat young rice plants, wet soil banks, cloudy sky reflected on the surface, and raindrops on leaves. Calm rural scene, natural and visually simple. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "大使",
+    "topic": "Профессии",
+    "card": "Карточки/Профессии/大使.json",
+    "image": "Картинки/Профессии/大使.png",
+    "third_example_ru": "Перед началом церемонии я прочитал материалы, а потом послушал речь посла.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person delivering a formal speech at a ceremony after materials have been read. The strongest focus is the ambassador role: a dignified speaker at a podium, official-looking folder, ceremonial flowers, flags shown only as plain colors without emblems, and attentive atmosphere. No specific real country or person is implied. Elegant indoor lighting, simple composition centered on the speech. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "目下",
+    "topic": "Работа",
+    "card": "Карточки/Работа/目下.json",
+    "image": "Картинки/Работа/目下.png",
+    "third_example_ru": "Нельзя поручать работу людям ниже по положению без объяснений только потому, что ты спешишь.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in an office, showing a workplace hierarchy through action. The strongest focus is the subordinate: a junior employee standing with documents while a hurried senior worker hands over a task without explaining, creating visible confusion. Keep it natural and respectful, with desks, folders, and a busy atmosphere. No written content on papers or screens. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "長男",
+    "topic": "Семья",
+    "card": "Карточки/Семья/長男.json",
+    "image": "Картинки/Семья/長男.png",
+    "third_example_ru": "Так как отец был занят, мой старший брат, старший сын в семье, сходил за покупками, а потом приготовил ужин.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person shown as the eldest son of a family returning from grocery shopping and preparing dinner because his father is busy. The strongest focus is the eldest son’s responsible family role: shopping bags on the counter, vegetables, rice pot, apron, and a caring expression while cooking. Cozy home kitchen, simple natural scene, no other family members visible. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "合宿",
+    "topic": "Спорт",
+    "card": "Карточки/Спорт/合宿.json",
+    "image": "Картинки/Спорт/合宿.png",
+    "third_example_ru": "Так как матч близко, мы решили собраться рано утром и поехать на сбор.",
+    "prompt": "Polished square 1:1 anime illustration, exactly three people gathering early in the morning with sports bags before leaving for a live-in training camp because a match is near. The strongest focus is the training camp departure: packed duffel bags, team jackets without logos, a small bus waiting nearby, sunrise light, and focused expressions. Simple energetic composition centered on preparation for camp. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "八百",
+    "topic": "Счётные суффиксы",
+    "card": "Карточки/Счётные суффиксы/八百.json",
+    "image": "Картинки/Счётные суффиксы/八百.png",
+    "third_example_ru": "Поскольку коробок было восемьсот, я проверил количество и записал его на бумаге.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person in a storeroom checking an enormous quantity of cardboard boxes, visually emphasizing eight hundred through overwhelming abundance. The strongest focus is the mass of boxes arranged in many neat stacks, with the person holding a plain clipboard and looking carefully across the rows. No visible writing or numbers on boxes or paper. Clean warehouse lighting, orderly composition. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "週刊誌",
+    "topic": "Телевидение",
+    "card": "Карточки/Телевидение/週刊誌.json",
+    "image": "Картинки/Телевидение/週刊誌.png",
+    "third_example_ru": "Поскольку я ждал поезд, я купил еженедельный журнал в киоске и прочитал его на платформе.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person waiting for a train on a platform, reading a weekly magazine bought from a kiosk. The strongest focus is the physical weekly magazine: a colorful bound magazine held open in both hands, with blank cover shapes and picture blocks but no readable marks. A small kiosk and train platform sit softly in the background. Calm commuting atmosphere, natural scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "肉屋",
+    "topic": "Торговля",
+    "card": "Карточки/Торговля/肉屋.json",
+    "image": "Картинки/Торговля/肉屋.png",
+    "third_example_ru": "Так как было недорого, после работы я зашёл в мясную лавку и купил продукты для ужина.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person stopping after work at a butcher shop to buy dinner ingredients because the prices are low. The strongest focus is the butcher shop and meat purchase: chilled display case with fresh cuts, wrapped package in the shopper’s hand, simple counter, scales without markings, and grocery bag. Warm evening storefront, natural everyday mood, no shop signs. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "日本画",
+    "topic": "Традиции",
+    "card": "Карточки/Традиции/日本画.json",
+    "image": "Картинки/Традиции/日本画.png",
+    "third_example_ru": "Так как комната была тихой, я сел на стул и медленно рассматривал картину в японском стиле.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person in a quiet room, seated on a simple chair and slowly studying a framed Japanese-style painting on the wall. Make the painting the strongest visual focus: delicate ink-like mountains, soft mineral colors, empty space, and subtle brush texture. Calm indoor light, sparse furniture, natural contemplative posture, simple composition centered on the artwork. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "速度",
+    "topic": "Транспорт",
+    "card": "Карточки/Транспорт/速度.json",
+    "image": "Картинки/Транспорт/速度.png",
+    "third_example_ru": "Так как дорога мокрая, водитель снизил скорость, а потом переехал мост.",
+    "prompt": "Polished square 1:1 anime illustration, exactly one person: a driver inside a car on a wet road approaching a bridge, carefully slowing down. Make reduced speed the strongest visual focus through the driver's foot pressing the brake, gentle tire spray, brake lights glowing, and the car moving cautiously before crossing. Rain-damp asphalt, simple bridge ahead, natural realistic action. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "新婚旅行",
+    "topic": "Туризм",
+    "card": "Карточки/Туризм/新婚旅行.json",
+    "image": "Картинки/Туризм/新婚旅行.png",
+    "third_example_ru": "Так как свадебная церемония закончилась, они выехали из отеля и отправились в свадебное путешествие к морю.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people, a newly married couple leaving a seaside hotel after their wedding ceremony, carrying travel bags and walking toward the ocean for their honeymoon. Make the honeymoon journey the strongest visual focus: suitcases, light wedding attire details, ocean path ahead, warm hopeful expressions, hotel entrance behind them. Natural coastal setting, simple romantic scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  },
+  {
+    "word": "千円",
+    "topic": "Финансы",
+    "card": "Карточки/Финансы/千円.json",
+    "image": "Картинки/Финансы/千円.png",
+    "third_example_ru": "Так как эта книга стоила тысячу иен, я купил её и показал другу.",
+    "prompt": "Polished square 1:1 anime illustration, exactly two people in a bookstore: one person has just bought a book and is showing it proudly to a friend. Make the thousand-yen cost the strongest visual focus through a single plain yen banknote and coins near the book at the counter, with the purchased book centered in hand. Cozy shelves, natural gestures, simple everyday scene. No text, letters, kanji, numerals, labels, signs, logos, subtitles, or watermark."
+  }
+]
