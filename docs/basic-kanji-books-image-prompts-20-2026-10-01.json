@@ -1,0 +1,182 @@
+[
+  {
+    "path": "Карточки/Анатомия/左利き.json",
+    "topic": "Анатомия",
+    "word": "左利き",
+    "translation": "левша; леворукость",
+    "jp3": "この道具は<span class='study-word'>左利き</span>の人にも使いやすいので、店で見てから買いました。",
+    "ru3": "Так как этот инструмент удобен и для левшей, я посмотрел его в магазине и потом купил.",
+    "prompt": "Square anime illustration. One left-handed adult in a tool shop comfortably testing an ergonomic hand tool with their left hand; the left-hand grip and tool dominate the foreground, shelves soft in background. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Быт/油絵.json",
+    "topic": "Быт",
+    "word": "油絵",
+    "translation": "картина маслом; масляная живопись",
+    "jp3": "時間があったので、美術館に入って、静かな部屋で大きな<span class='study-word'>油絵</span>をゆっくり見ました。",
+    "ru3": "Так как было время, я зашёл в музей и спокойно посмотрел большую картину маслом в тихом зале.",
+    "prompt": "Square anime illustration. One visitor quietly admiring a large richly textured oil painting in a calm museum gallery; visible thick brushstrokes and the framed painting dominate the scene. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/География/ナイル川.json",
+    "topic": "География",
+    "word": "ナイル川",
+    "translation": "река Нил",
+    "jp3": "宿題で調べることになったので、図書館へ行ってから<span class='study-word'>ナイル川</span>について読みました。",
+    "ru3": "Так как мне нужно было исследовать это для домашнего задания, я пошёл в библиотеку, а потом прочитал о реке Нил.",
+    "prompt": "Square anime illustration. One student at a library desk studying a large illustrated geography book opened to a sweeping view of the Nile river winding through desert and green banks; river image prominent. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Глаголы/計画する.json",
+    "topic": "Глаголы",
+    "word": "計画する",
+    "translation": "планировать; составлять план",
+    "jp3": "時間が少ないので、先に仕事の順番を<span class='study-word'>計画して</span>から始めます。",
+    "ru3": "Так как времени мало, я сначала планирую порядок работы, а потом начинаю.",
+    "prompt": "Square anime illustration. One office worker at a desk arranging a clear work plan using blank colored task cards in sequence beside a clock, then reaching to start the first task; organized plan is central. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Еда/新茶.json",
+    "topic": "Еда",
+    "word": "新茶",
+    "translation": "чай нового урожая",
+    "jp3": "店でいい香りがしたので、<span class='study-word'>新茶</span>を買って家族と飲みました。",
+    "ru3": "Так как в магазине был приятный аромат, я купил чай нового урожая и выпил его с семьей.",
+    "prompt": "Square anime illustration. Three family members at home sharing freshly brewed first-harvest Japanese green tea after a shop visit; vivid young green tea leaves, teapot and steaming cups in foreground. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Жилище/賃貸マンション.json",
+    "topic": "Жилище",
+    "word": "賃貸マンション",
+    "translation": "арендная квартира в многоквартирном доме",
+    "jp3": "会社から遠かったので、私は駅に近い<span class='study-word'>賃貸マンション</span>を見つけて、そこへ引っ越しました。",
+    "ru3": "Так как было далеко от компании, я нашёл арендную квартиру рядом со станцией и переехал туда.",
+    "prompt": "Square anime illustration. One person carrying moving boxes into a rented apartment in a modern multi-unit building near a train station; apartment entrance, balcony and moving boxes clearly visible. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Календарь/生年月日.json",
+    "topic": "Календарь",
+    "word": "生年月日",
+    "translation": "дата рождения",
+    "jp3": "申し込みをするので、住所を確認してから<span class='study-word'>生年月日</span>を入力しました。",
+    "ru3": "Так как я подаю заявку, после проверки адреса я ввёл дату рождения.",
+    "prompt": "Square anime illustration. One person applying at a desk, looking at an ID card and selecting a birth date on a blank calendar-style digital form; calendar day, month and year controls visual without readable writing. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Канцелярия/発行.json",
+    "topic": "Канцелярия",
+    "word": "発行",
+    "translation": "выпуск; издание; выдача документа",
+    "jp3": "新しい雑誌を作ったので、来月<span class='study-word'>発行</span>してから店で売ります。",
+    "ru3": "Так как мы сделали новый журнал, в следующем месяце издадим его, а потом будем продавать в магазине.",
+    "prompt": "Square anime illustration. Two people at a small publishing studio proudly holding the first freshly printed issue of a colorful magazine while stacks roll out of a printing press, with a shop display in background; published magazines prominent. Blank covers. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Медицина/意識.json",
+    "topic": "Медицина",
+    "word": "意識",
+    "translation": "сознание; осознание",
+    "jp3": "頭が痛かったので、病院へ行って、<span class='study-word'>意識</span>があるか聞かれました。",
+    "ru3": "Так как у меня болела голова, я пошёл в больницу, и меня спросили, в сознании ли я.",
+    "prompt": "Square anime illustration. In a hospital room, one patient awake on a bed responding to a doctor checking awareness with a small penlight; alert eyes and attentive interaction clearly visible. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Наречия/約.json",
+    "topic": "Наречия",
+    "word": "約",
+    "translation": "примерно; около",
+    "jp3": "時間がないので、<span class='study-word'>約</span>二十分歩いてからバスに乗ります。",
+    "ru3": "Так как времени нет, я примерно двадцать минут иду пешком, а потом сажусь на автобус.",
+    "prompt": "Square anime illustration. One traveler walking a path toward a bus stop, glancing at a wristwatch and a bus approaching; visual sense of an approximate twenty-minute walk via clock hands, no numerals. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Образование/力学.json",
+    "topic": "Образование",
+    "word": "力学",
+    "translation": "механика; динамика",
+    "jp3": "試験が近いので、図を見ながら<span class='study-word'>力学</span>を復習しています。",
+    "ru3": "Так как экзамен близко, я повторяю механику, глядя на схемы.",
+    "prompt": "Square anime illustration. One student revising mechanics for an exam at a desk, studying a textbook with clear unlabeled diagrams of a pendulum, inclined plane and moving ball, hands tracing forces; diagrams prominent. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Общение/彼ら.json",
+    "topic": "Общение",
+    "word": "彼ら",
+    "translation": "они; они мужчины; они люди",
+    "jp3": "<span class='study-word'>彼ら</span>は忙しかったので、仕事が終わってから来ました。",
+    "ru3": "Так как они были заняты, они пришли после того, как закончили работу.",
+    "prompt": "Square anime illustration. A group of three male coworkers arriving together at a meeting place after finishing work, still carrying work bags, a waiting friend greeting them; the three as a group are central. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Одежда/流行.json",
+    "topic": "Одежда",
+    "word": "流行",
+    "translation": "мода; тренд; распространение",
+    "jp3": "友だちが着ていた服がすてきだったので、店へ行って、今の<span class='study-word'>流行</span>を見ました。",
+    "ru3": "Так как одежда, которую носил друг, была красивой, я пошёл в магазин и посмотрел нынешнюю моду.",
+    "prompt": "Square anime illustration. One shopper in a clothing boutique examining a mannequin dressed in fashionable contemporary clothes inspired by a stylish friend; coordinated fashionable outfit and display dominate. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Погода/天気図.json",
+    "topic": "Погода",
+    "word": "天気図",
+    "translation": "карта погоды; синоптическая карта",
+    "jp3": "雨が降りそうだったので、出かける前に<span class='study-word'>天気図</span>を見て、傘を持って行きました。",
+    "ru3": "Так как, похоже, собирался дождь, перед выходом я посмотрел карту погоды и взял с собой зонт.",
+    "prompt": "Square anime illustration. One person before leaving home studies a large visual weather map with cloud and rain symbols, then picks up an umbrella; weather map clearly central, rainy sky outside. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Почта/暑中見舞.json",
+    "topic": "Почта",
+    "word": "暑中見舞",
+    "translation": "летнее приветственное письмо или открытка",
+    "jp3": "暑い日が続いているので、近況を書いてから、先生に<span class='study-word'>暑中見舞</span>を送りました。",
+    "ru3": "Так как жаркие дни продолжаются, я написал о том, как у меня дела, а потом отправил учителю летнюю приветственную открытку.",
+    "prompt": "Square anime illustration. One person at a summer desk writing a seasonal greeting postcard for a teacher, then placing it into a mailbox; postcard with a painted fan and watermelon motif prominent, blank message area. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Право/村役場.json",
+    "topic": "Право",
+    "word": "村役場",
+    "translation": "сельская администрация; сельская управа",
+    "jp3": "書類が必要なので、名前を書いてから<span class='study-word'>村役場</span>へ出します。",
+    "ru3": "Так как нужны документы, я напишу имя, а потом подам их в сельскую администрацию.",
+    "prompt": "Square anime illustration. One villager holding completed blank forms at the service counter of a modest rural village hall, a clerk receiving them; village office building and counter clearly identifiable. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Прилагательные_い/深い.json",
+    "topic": "Прилагательные_い",
+    "word": "深い",
+    "translation": "глубокий",
+    "jp3": "池が思ったより<span class='study-word'>深かった</span>ので、近くに行かないで、橋から見ました。",
+    "ru3": "Пруд оказался глубже, чем я думал, поэтому я не стал подходить близко и посмотрел с моста.",
+    "prompt": "Square anime illustration. One person stands safely on a bridge looking down into a surprisingly deep pond with visible underwater depth fading into dark blue; depth of water is central. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Прилагательные_な/安全.json",
+    "topic": "Прилагательные_な",
+    "word": "安全",
+    "translation": "безопасный; безопасность",
+    "jp3": "暗くなったので、<span class='study-word'>安全</span>な道を選んで帰りました。",
+    "ru3": "Так как стемнело, я выбрал безопасную дорогу и вернулся домой.",
+    "prompt": "Square anime illustration. One person returning home at dusk chooses a bright well-lit sidewalk with guardrail and pedestrian lights instead of an unlit alley; safe path glows clearly in foreground. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Природа/土.json",
+    "topic": "Природа",
+    "word": "土",
+    "translation": "земля; почва; грунт",
+    "jp3": "雨が降ったので、靴の<span class='study-word'>土</span>を落としてから部屋に入りました。",
+    "ru3": "Так как прошёл дождь, я стряхнул землю с обуви, а потом вошёл в комнату.",
+    "prompt": "Square anime illustration. One person at a home entrance after rain carefully brushes wet dark soil off muddy shoes before stepping indoors; clumps of earth on shoes and brush dominate foreground. No text, letters, numbers, signs, logos, watermarks."
+  },
+  {
+    "path": "Карточки/Профессии/学者.json",
+    "topic": "Профессии",
+    "word": "学者",
+    "translation": "учёный; исследователь",
+    "jp3": "新しい資料が見つかったので、その<span class='study-word'>学者</span>は図書館へ行って、朝から調べています。",
+    "ru3": "Так как нашлись новые материалы, этот учёный пошёл в библиотеку и с утра их изучает.",
+    "prompt": "Square anime illustration. One scholar in a library researching newly discovered historical materials from morning, carefully examining old blank manuscripts with a magnifying glass amid books; scholarly investigation prominent. No text, letters, numbers, signs, logos, watermarks."
+  }
+]
