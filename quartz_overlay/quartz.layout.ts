@@ -50,8 +50,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
-      // В боковой панели показываем только темы; список слов есть на странице темы.
-      filterFn: (node) => node.isFolder && node.slugSegment !== "tags" && node.slugSegment !== "Темы",
+      // На верхнем уровне — темы, внутри каждой темы — её слова.
+      filterFn: (node) =>
+        node.isFolder
+          ? node.slugSegment !== "tags" && node.slugSegment !== "Темы"
+          : node.slug.includes("/"),
       mapFn: explorerThemeFolderTitle,
       useSavedState: false,
     }),
@@ -76,7 +79,10 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
-      filterFn: (node) => node.isFolder && node.slugSegment !== "tags" && node.slugSegment !== "Темы",
+      filterFn: (node) =>
+        node.isFolder
+          ? node.slugSegment !== "tags" && node.slugSegment !== "Темы"
+          : node.slug.includes("/"),
       mapFn: explorerThemeFolderTitle,
       useSavedState: false,
     }),
