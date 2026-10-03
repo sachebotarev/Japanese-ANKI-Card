@@ -6,16 +6,14 @@
 
 1. **`quartz_overlay/`** — единственное «наше» в Quartz‑части репозитория:
    - `quartz_overlay/quartz.config.ts` — конфигурация сайта (заголовок, `locale: ru-RU`, `baseUrl` для project Pages — `sachebotarev.github.io/Japanese-ANKI-Card`).
-   - `quartz_overlay/quartz.layout.ts` — layout: проводник с `mapFn` (имя темы из пути, не из `title` в `contentIndex.json`), список тегов, `MyGraph` вместо стандартного `Component.Graph`.
-   - `quartz_overlay/quartz/components/custom/MyGraph.tsx` — обёртка над штатным `Component.Graph`, подменяющая inline‑скрипт.
-   - `quartz_overlay/quartz/components/custom/scripts/myGraph.inline.ts` — копия `graph.inline.ts` с двумя точечными правками: `pixi.preference: "webgl"` (у части браузеров WebGPU «вешает» первый кадр) и старт `renderLocalGraph` через `requestIdleCallback`, чтобы навигация SPA не казалась «зависшей». Полный граф открывается иконкой у блока графа или **Ctrl+G** / **⌘+G**.
+   - `quartz_overlay/quartz.layout.ts` — layout: проводник с `mapFn` (имя темы из пути, не из `title` в `contentIndex.json`), список тегов и план страницы. Граф связей отключён, чтобы тяжёлый скрипт визуализации не блокировал взаимодействие со страницей.
    - `quartz_overlay/quartz/components/pages/TagContent.tsx` — облегчённый индекс `/tags/`: один список тегов с числом карточек вместо списка карточек под каждым тегом. Страницы отдельных тегов показывают список слов без повторения всех тегов у каждого слова.
 
 2. **`scripts/sync_quartz_content.py`** — копирует `Записи/` → `quartz_content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`). Текст карточек в `Записи/` задаётся [zapisi-spec.md](zapisi-spec.md): в разделе примеров на сайте **нет** японской строки с пропусками `_____` (она только в JSON для Anki).
 
 3. **Ключ тегов в frontmatter — `tags:`** (английский), как и ожидает ванильный Quartz. Все элементы массива `Теги` из JSON карточки (в том числе тег урока Minna вида `みんな初級I-第03課`, см. [cards-spec.md](cards-spec.md)) уходят на сайт и по ним можно отбирать страницы. Каталог тегов — `https://<...>/tags/`.
 
-4. **Граф в сайдбаре** («локальный»): рёбра только из **markdown‑ссылок** в `.md`; скрипт `sync_quartz_content.py` создаёт `Записи/<тема>/index.md` со списком карточек и ссылку с карточки на `index` темы. Глубина **`localGraph.depth: 2`**. Рендер графа **не блокирует** навигацию (см. `MyGraph` выше).
+4. **Навигация по темам:** скрипт `sync_quartz_content.py` создаёт `Записи/<тема>/index.md` со списком карточек и ссылку с карточки на оглавление темы. Граф связей на страницах не показывается.
 
 5. **Версия Quartz** — фиксируется в `scripts/build_quartz.sh` и в workflow переменной **`QUARTZ_VERSION`** (по умолчанию `v4.5.2`). Чтобы попробовать другой релиз/коммит — переопределите её при запуске.
 

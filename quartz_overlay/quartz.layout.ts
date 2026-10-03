@@ -1,6 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import MyGraph from "./quartz/components/custom/MyGraph"
 import type { FileTrieNode } from "./quartz/util/fileTrie"
 
 /** Имя темы в проводнике из пути (не из title в JSON — надёжнее при кэше CDN/браузера). */
@@ -56,14 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
       mapFn: explorerThemeFolderTitle,
     }),
   ],
-  right: [
-    // Глубина 2 — меньше узлов при первом рендере (см. отложенный init графа в MyGraph).
-    MyGraph({
-      // Для ученика полезнее видеть связи между словами, а не шум от тегов.
-      localGraph: { depth: 2, showTags: false },
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
