@@ -9,6 +9,7 @@
    - `quartz_overlay/quartz.layout.ts` — layout: проводник с `mapFn` (имя темы из пути, не из `title` в `contentIndex.json`), список тегов, `MyGraph` вместо стандартного `Component.Graph`.
    - `quartz_overlay/quartz/components/custom/MyGraph.tsx` — обёртка над штатным `Component.Graph`, подменяющая inline‑скрипт.
    - `quartz_overlay/quartz/components/custom/scripts/myGraph.inline.ts` — копия `graph.inline.ts` с двумя точечными правками: `pixi.preference: "webgl"` (у части браузеров WebGPU «вешает» первый кадр) и старт `renderLocalGraph` через `requestIdleCallback`, чтобы навигация SPA не казалась «зависшей». Полный граф открывается иконкой у блока графа или **Ctrl+G** / **⌘+G**.
+   - `quartz_overlay/quartz/components/pages/TagContent.tsx` — облегчённый индекс `/tags/`: один список тегов с числом карточек вместо списка карточек под каждым тегом. Страницы отдельных тегов показывают список слов без повторения всех тегов у каждого слова.
 
 2. **`scripts/sync_quartz_content.py`** — копирует `Записи/` → `quartz_content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`). Текст карточек в `Записи/` задаётся [zapisi-spec.md](zapisi-spec.md): в разделе примеров на сайте **нет** японской строки с пропусками `_____` (она только в JSON для Anki).
 
