@@ -50,9 +50,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
-      // Служебный каталог "Темы" дублирует список разделов и путает пользователя.
-      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Темы",
+      // В боковой панели показываем только темы; список слов есть на странице темы.
+      filterFn: (node) => node.isFolder && node.slugSegment !== "tags" && node.slugSegment !== "Темы",
       mapFn: explorerThemeFolderTitle,
+      useSavedState: false,
     }),
   ],
   right: [Component.DesktopOnly(Component.TableOfContents())],
@@ -75,8 +76,9 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Проводник",
-      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Темы",
+      filterFn: (node) => node.isFolder && node.slugSegment !== "tags" && node.slugSegment !== "Темы",
       mapFn: explorerThemeFolderTitle,
+      useSavedState: false,
     }),
   ],
   right: [],
