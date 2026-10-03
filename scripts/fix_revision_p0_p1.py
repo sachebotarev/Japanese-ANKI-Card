@@ -348,10 +348,6 @@ def infer_jlpt(data: dict, lookup: dict[str, str]) -> str | None:
             return "N4"
     if any("みんな" in t for t in tags):
         return "N5"
-    if any(t == "Genki" for t in tags):
-        return "N5"
-    if any(t == "Duolingo" for t in tags):
-        return "N5"
     # fallback for remaining known-ish lexicon
     return "N4"
 

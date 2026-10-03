@@ -242,14 +242,12 @@ def classify_topic(word: str, tags: list[str], translation: str, word_themes: di
         for topic, hints in NOUN_HINTS.items():
             if any(h in tr for h in hints):
                 return topic
-        if "表現" in tags or "Genki" in tags:
-            return "Общение"
         return "Общение"
     if "形容詞・い" in tags or "い-прилагательное" in tags:
         return "Прилагательные_い"
-    if "な-прилагательное" in tags or "形容動詞" in tags:
+    if "形容動詞" in tags:
         return "Прилагательные_な"
-    if "表現" in tags or "Genki" in tags or "TRY!" in tags:
+    if "表現" in tags:
         return "Общение"
     return "Общение"
 

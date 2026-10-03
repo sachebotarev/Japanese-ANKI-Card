@@ -20,5 +20,4 @@ for r in json.loads((DATA/'created.json').read_text()):
   d['Пример']='<br>'.join(re.sub(r'\{(.+?)\}',r"<span class='study-word'>\1</span>",s) for s in jp)
   d['Пример без слова']='<br>'.join(re.sub(r'\{.+?\}','_____',s) for s in jp);d['Пример перевод']='<br>'.join(ru)
   d['Картинка']='anime illustration, square 1:1, one student at a desk, chewing gum from an open gum packet beside a notebook, evening study room, visual focus on gum and chewing, no text, no letters, no watermark'
- if 'Импорт::Minna_2026_09_16' not in d['Теги']:d['Теги'].append('Импорт::Minna_2026_09_16')
  p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
