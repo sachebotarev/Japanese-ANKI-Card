@@ -1,1 +1,13 @@
 @use "./base.scss";
+
+// Keep the topic disclosure control visible even if another Quartz style
+// overrides the explorer's default display rules.
+.explorer .folder-container .folder-icon {
+  display: block !important;
+  width: 1rem;
+  height: 1rem;
+}
+
+.explorer .folder-outer {
+  display: grid !important;
+}
