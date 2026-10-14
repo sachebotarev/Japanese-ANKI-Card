@@ -6,14 +6,14 @@
   "Пример": "彼の答えは<span class='study-word'>完璧</span>です。<br>この計画は<span class='study-word'>完璧</span>だと思います。<br>何度も練習したので、発表は<span class='study-word'>完璧</span>にできました。",
   "Пример без слова": "彼の答えは_____です。<br>この計画は_____だと思います。<br>何度も練習したので、発表は_____にできました。",
   "Пример перевод": "Его ответ идеален.<br>Думаю, этот план совершенен.<br>Я много раз тренировался, поэтому смог провести выступление идеально.",
-  "Картинка": "masterpiece, best quality, anime illustration, square 1:1, scene emphasizing the study word in context: Я много раз тренировался, поэтому смог провести выступление идеально., clear central visual focus, natural poses, detailed hands, cinematic storytelling composition, no text, no letters, no watermark",
+  "Картинка": "<img src=\"japanese_words_完璧.png\">",
   "Произношение": "[sound:完璧_слово.mp3][sound:完璧_пример_1.mp3][sound:完璧_пример_2.mp3][sound:完璧_пример_3.mp3]",
   "Заметки": "完璧な — совершенный, без изъянов; 完璧に — идеально.",
   "Кандзи-разбор": "完 — завершённость; 璧 — драгоценный нефритовый диск.",
   "Показать фуригану": "Y",
   "Теги": [
-    "名詞",
     "N3",
-    "Прилагательные_な"
+    "Прилагательные_な",
+    "名詞"
   ]
 }
