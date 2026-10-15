@@ -1,0 +1,23 @@
+{
+  "total": 846,
+  "types": {
+    "переходный": 429,
+    "непереходный": 351,
+    "лабильный": 59,
+    "конструкция": 2,
+    "производная форма": 5
+  },
+  "anki_updated": 845,
+  "anki_missing": [],
+  "markdown_updated": 733,
+  "markdown_created": 113,
+  "markdown_skipped": [],
+  "red_flags_synced": [
+    "見物する",
+    "喉が渇く"
+  ],
+  "anki_created": [
+    "用が入った"
+  ],
+  "anki_verified": 846
+}

@@ -1,0 +1,19 @@
+{
+  "Слово": "しか",
+  "Чтение": "しか",
+  "Перевод": "только; лишь (с отрицательной формой)",
+  "Подсказка": "Осталось всего одно яблоко: больше ни одного нет.",
+  "Пример": "百円<span class='study-word'>しか</span>ありません。<br>今日は一時間<span class='study-word'>しか</span>勉強しません。<br>冷蔵庫に卵が一つ<span class='study-word'>しか</span>なかったので、店へ行って、卵と牛乳を買いました。",
+  "Пример без слова": "百円_____ありません。<br>今日は一時間_____勉強しません。<br>冷蔵庫に卵が一つ_____なかったので、店へ行って、卵と牛乳を買いました。",
+  "Пример перевод": "У меня всего сто иен.<br>Сегодня я буду учиться только один час.<br>В холодильнике было только одно яйцо, поэтому я пошёл в магазин и купил яйца и молоко.",
+  "Картинка": "One square 1:1 anime illustration, masterpiece, best quality, cinematic storytelling composition, exactly one person only looking into physical open refrigerator containing a single egg and otherwise empty shelves, shopping bag in hand, lone egg dominant focus, natural poses, detailed hands, physical objects, no text or letters anywhere. Negative: text, letters, typography, words, subtitles, watermark, logo, signature, extra people, bad anatomy, extra fingers.",
+  "Произношение": "[sound:しか_слово.mp3][sound:しか_пример_1.mp3][sound:しか_пример_2.mp3][sound:しか_пример_3.mp3]",
+  "Заметки": "しか требует отрицательного сказуемого: 一つしかない — есть только одно. В отличие от だけ, подчёркивает ограниченность количества или возможностей.",
+  "Кандзи-разбор": "Кандзи нет: частица записывается хираганой.",
+  "Показать фуригану": "N",
+  "Теги": [
+    "Образование",
+    "助詞",
+    "N4"
+  ]
+}
