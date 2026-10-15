@@ -1,0 +1,32 @@
+[
+  {
+    "word": "日付",
+    "topic": "Календарь",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly one person, young adult at a desk circling one empty calendar cell with a red pen, phone held in other hand, close view of physical monthly calendar grid with blank cells, one red circle is visual focus, no numbers or writing, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  },
+  {
+    "word": "得点",
+    "topic": "Спорт",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly three people, three teenage basketball teammates celebrating after game, looking at physical tabletop abacus-style sports scoring rack with many bright colored counting beads, their side has visibly more beads, foreground scoring beads as focal object, gym background, no numerical digits, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  },
+  {
+    "word": "石鹸",
+    "topic": "Медицина",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly one person, young adult washing hands at bathroom sink after arriving home, close-up foamy hands holding a large plain ivory soap bar, soap bar and bubbles dominate foreground, clean towel nearby, no packaging, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  },
+  {
+    "word": "他動詞",
+    "topic": "Образование",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly one person, student directly pushing a window open with one hand while holding an open blank notebook in the other, close focus on hand causing physical window panel to move, study room, obvious agent acting on window, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  },
+  {
+    "word": "自動詞",
+    "topic": "Образование",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly two people, teacher and student in quiet classroom, gust of wind visibly swings a window open and billows curtain, both people away from window without touching it, student holds blank notebook, physical swinging window and wind movement are central focal point, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  },
+  {
+    "word": "自他両用動詞",
+    "topic": "Образование",
+    "prompt": "masterpiece, best quality, polished anime illustration, square 1:1 frame, exactly two people, two students seated beside an open physical notebook with completely blank pages, one student deliberately gently closes eyes during demonstration, the other student has eyelids that droop sleepily on their own, two distinct faces prominent above same notebook, calm classroom scene, focus on matching closed eyelids contrasted deliberate versus sleepy posture, natural poses, detailed hands, clear visual storytelling, soft daylight. No text, no letters, no kanji, no typography, no digits, no watermark, no logo. Negative: extra people, crowd, background people, bad anatomy, extra fingers, blurry, text, letters."
+  }
+]
