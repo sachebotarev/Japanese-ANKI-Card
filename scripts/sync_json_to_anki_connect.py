@@ -3,7 +3,7 @@
 Синхронизация JSON-карточек с Anki через AnkiConnect (порт по умолчанию 8765).
 
 Для каждой карточки в Карточки/<тема>/<Слово>.json находит заметку в колоде «Японские слова»
-по точному совпадению поля «Слово», затем при необходимости загружает mp3 из Произношение/<тема>/,
+по точному совпадению полей «Слово» и «Чтение», затем при необходимости загружает mp3 из Произношение/<тема>/,
 обновляет поля и заменяет набор тегов на содержимое поля Теги в JSON.
 
 При обновлении существующей заметки соблюдаются правила из docs/anki-sync.md (раздел
@@ -140,7 +140,10 @@ def upload_card_image_media(url: str, topic: str, data: dict) -> None:
     word = str(data.get("Слово", "")).strip()
     if not word:
         return
-    base = ROOT / "Картинки" / topic / word
+    reading = str(data.get("Чтение", "")).strip()
+    base = ROOT / "Картинки" / topic / f"{word}（{reading}）"
+    if not any(base.with_suffix(ext).is_file() for ext in (".png", ".jpg", ".jpeg", ".webp")):
+        base = ROOT / "Картинки" / topic / word
     for ext in (".png", ".jpg", ".jpeg", ".webp"):
         src = base.with_suffix(ext)
         if not src.is_file():
@@ -153,10 +156,10 @@ def upload_card_image_media(url: str, topic: str, data: dict) -> None:
     )
 
 
-def words_present_in_deck(url: str) -> set[str]:
-    """Все значения поля «Слово» в колоде (для --create-all-missing)."""
+def words_present_in_deck(url: str) -> set[tuple[str, str]]:
+    """Все пары «Слово», «Чтение» в колоде (для --create-all-missing)."""
     nids: list = invoke(url, "findNotes", query=f'deck:"{DECK}"') or []
-    out: set[str] = set()
+    out: set[tuple[str, str]] = set()
     for i in range(0, len(nids), NOTES_INFO_BATCH):
         chunk = nids[i : i + NOTES_INFO_BATCH]
         infos = invoke(url, "notesInfo", notes=chunk) or []
@@ -164,7 +167,7 @@ def words_present_in_deck(url: str) -> set[str]:
             fm = _note_fields_map(ni)
             w = (fm.get("Слово") or "").strip()
             if w:
-                out.add(w)
+                out.add((w, (fm.get("Чтение") or "").strip()))
     return out
 
 
@@ -239,16 +242,19 @@ def sync_note(url: str, topic: str, data: dict, dry_run: bool) -> tuple[str | No
     nids = invoke(url, "findNotes", query=q)
     if not nids:
         return None, f"нет заметки для «{word}»"
-    if len(nids) > 1:
-        sys.stderr.write(
-            f"[warn] «{word}»: несколько заметок ({len(nids)}), обновляется первая ({nids[0]}).\n"
-        )
-    nid = nids[0]
+    infos = invoke(url, "notesInfo", notes=nids) or []
+    reading = str(data.get("Чтение", "")).strip()
+    matches = [ni for ni in infos if
+               _note_fields_map(ni).get("Слово", "").strip() == word and
+               _note_fields_map(ni).get("Чтение", "").strip() == reading]
+    if not matches:
+        return None, f"нет заметки для «{word}» с чтением «{reading}»"
+    if len(matches) > 1:
+        return None, f"неоднозначная заметка для «{word}» с чтением «{reading}»"
+    note0 = matches[0]
+    nid = note0["noteId"]
     if dry_run:
         return str(nid), None
-
-    info_before = invoke(url, "notesInfo", notes=[nid])
-    note0 = info_before[0] if isinstance(info_before, list) and info_before else {}
     anki_fields = _note_fields_map(note0)
     fields_to_write = _merge_fields_respecting_anki_sync_rules(anki_fields, data)
 
@@ -342,7 +348,7 @@ def main() -> int:
         to_create: list[tuple[Path, str, dict]] = []
         for p, topic, data in todo:
             w = str(data.get("Слово", "")).strip()
-            if not w or w in present:
+            if not w or (w, str(data.get("Чтение", "")).strip()) in present:
                 continue
             to_create.append((p, topic, data))
         added = failed = 0
@@ -373,10 +379,10 @@ def main() -> int:
                 added += 1
                 w = str(data.get("Слово", "")).strip()
                 if w:
-                    present.add(w)
+                    present.add((w, str(data.get("Чтение", "")).strip()))
                 print(f"[{rel}] создано nid={nid_new}")
         print(
-            f"Режим --create-all-missing: уникальных «Слово» в колоде было: {n_in_deck}, "
+            f"Режим --create-all-missing: уникальных пар «Слово/Чтение» в колоде было: {n_in_deck}, "
             f"JSON без заметки: {len(to_create)}, создано: {added}, ошибок: {failed}"
             + (" (dry-run)" if args.dry_run else "")
         )

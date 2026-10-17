@@ -390,7 +390,7 @@ def process_card(
     hiragana_text: str | None = None,
 ) -> None:
     payload = load_json(card_path)
-    word = str(payload["Слово"]).strip()
+    word = card_path.stem  # Имя медиа различает омографы с разными чтениями.
     examples = parse_examples(str(payload["Пример"]))
 
     speakers_map = speakers_by_name(engine_url)

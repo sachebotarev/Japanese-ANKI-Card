@@ -112,7 +112,7 @@ def build_markdown(
         f'показать_фуригану: "{furigana}"',
         "---",
         "",
-        f"# {word}",
+        f"# {data['Слово']}",
         "",
         str(data["Чтение"]).strip(),
         "",
