@@ -1,0 +1,191 @@
+[
+  {
+    "stem": "開く（あく）",
+    "word": "開く",
+    "reading": "あく",
+    "path": "Карточки/Глаголы/開く（あく）.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult carrying two bags, automatic glass entrance doors sliding apart by themselves, doorway central, shop entrance, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "沸く",
+    "word": "沸く",
+    "reading": "わく",
+    "path": "Карточки/Глаголы/沸く.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult at kitchen stove switching burner off, kettle with strongly bubbling water and rising steam central, two empty tea cups, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "こぼれる",
+    "word": "こぼれる",
+    "reading": "こぼれる",
+    "path": "Карточки/Глаголы/こぼれる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult reaching for cloth, exactly one cat jumping onto table, tipped physical drinking glass spilling water across tabletop, spill central, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "こぼす",
+    "word": "こぼす",
+    "reading": "こぼす",
+    "path": "Карточки/Глаголы/こぼす.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one student lifting blank notebook and wiping table after knocking juice glass over with elbow, bright orange juice spilling from tilted glass central, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "燃やす",
+    "word": "燃やす",
+    "reading": "もやす",
+    "path": "Карточки/Глаголы/燃やす.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one grandfather feeding small bundle of dry branches gradually into contained outdoor fire pit, branches burning central, garden, safe small fire, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "外す",
+    "word": "外す",
+    "reading": "はずす",
+    "path": "Карточки/Глаголы/外す.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult at home entrance unfastening physical button from buttonhole of wet coat, hands and detached button central, coat rack nearby, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "揃う",
+    "word": "揃う",
+    "reading": "そろう",
+    "path": "Карточки/Глаголы/揃う.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one traveler checking complete set of travel essentials laid beside open suitcase, shoes clothes toiletries all present, complete collection central, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "揃える",
+    "word": "揃える",
+    "reading": "そろえる",
+    "path": "Карточки/Глаголы/揃える.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult kneeling at genkan arranging physical shoes into perfectly aligned pairs with both hands, shoes and alignment central, daylight, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "溜まる",
+    "word": "溜まる",
+    "reading": "たまる",
+    "path": "Карточки/Глаголы/溜まる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one child standing at doorway looking at large accumulated rainwater puddle in garden, pooled water central, wet morning after rain, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "溜める",
+    "word": "溜める",
+    "reading": "ためる",
+    "path": "Карточки/Глаголы/溜める.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one gardener placing large bucket beneath rain downspout to collect rainwater, water collecting in physical bucket central, flowers nearby, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "貯まる",
+    "word": "貯まる",
+    "reading": "たまる",
+    "path": "Карточки/Глаголы/貯まる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one young adult counting accumulated coins beside full transparent savings jar, enough savings central, desired bicycle visible through window, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "貯める",
+    "word": "貯める",
+    "reading": "ためる",
+    "path": "Карточки/Глаголы/貯める.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult deliberately placing coins into physical travel savings jar, hand depositing coins central, plain suitcase and Japan travel photo without lettering nearby, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "倒す",
+    "word": "倒す",
+    "reading": "たおす",
+    "path": "Карточки/Глаголы/倒す.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one professional worker in hard hat pulling long rope from safe distance to bring damaged tree down, tree tilting toward empty clearing central, no other people, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "破る",
+    "word": "破る",
+    "reading": "やぶる",
+    "path": "Карточки/Глаголы/破る.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult tearing physical paper into tiny pieces above waste basket, tearing motion and ragged paper central, paper turned blank side toward viewer, no visible writing, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "冷える",
+    "word": "冷える",
+    "reading": "ひえる",
+    "path": "Карточки/Глаголы/冷える.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult at wintry bus stop with reddened chilled fingers reaching for gloves in bag, cold hands central, visible breath, no text on stop, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "冷める",
+    "word": "冷める",
+    "reading": "さめる",
+    "path": "Карточки/Глаголы/冷める.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult holding phone looking disappointed at untouched bowl of cooled soup, congealed surface and no steam central, kitchen stove nearby, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "冷ます",
+    "word": "冷ます",
+    "reading": "さます",
+    "path": "Карточки/Глаголы/冷ます.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult fanning steaming soup in small physical bowl with plain handheld fan, cooling action and drifting steam central, child-sized place setting, no other people, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "剥ける",
+    "word": "剥ける",
+    "reading": "むける",
+    "path": "Карточки/Глаголы/剥ける.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult examining mild superficial sunburn with small peeling skin flakes on shoulder while putting on loose shirt, peeling shoulder skin central, non-graphic everyday scene, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "延びる",
+    "word": "延びる",
+    "reading": "のびる",
+    "path": "Карточки/Глаголы/延びる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one traveler waiting with suitcase in airport terminal overnight, grounded airplane covered in snow beyond window, stalled departure central, hotel shuttle visible outside, no boards or text, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "延ばす",
+    "word": "延ばす",
+    "reading": "のばす",
+    "path": "Карточки/Глаголы/延ばす.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult shifting trip marker to a later column on blank seven-column calendar while phoning hotel, physical suitcase closed beside table, postponement central, no letters or numbers, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "脱げる",
+    "word": "脱げる",
+    "reading": "ぬげる",
+    "path": "Карточки/Глаголы/脱げる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one commuter abruptly stopping while running, one physical shoe slipping off heel and lying just behind socked foot central, train station exterior, no signs, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "寝かせる",
+    "word": "寝かせる",
+    "reading": "ねかせる",
+    "path": "Карточки/Глаголы/寝かせる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly two people, one parent gently laying one sleepy child into bed and tucking blanket, child being put to sleep central, quiet dim bedroom, no other people, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "当てる",
+    "word": "当てる",
+    "reading": "あてる",
+    "path": "Карточки/Глаголы/当てる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly two young adults at ball throwing game, thrown ball visibly striking center of small red physical target, thrower and friend celebrating, impact central, no other people, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "儲かる",
+    "word": "儲かる",
+    "reading": "もうかる",
+    "path": "Карточки/Глаголы/儲かる.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one shop manager delighted by plentiful coins in till beside newly delivered refrigerator, profitable small shop central, station platform visible through window, no text or currency lettering, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "儲ける",
+    "word": "儲ける",
+    "reading": "もうける",
+    "path": "Карточки/Глаголы/儲ける.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly two friends at closed weekend market stall dividing earned coins into two equal piles after setting aside material costs, hands sharing profit central, no other people, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "濡らす",
+    "word": "濡らす",
+    "reading": "ぬらす",
+    "path": "Карточки/Глаголы/濡らす.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly two people, one parent wetting physical towel under cold running tap beside one child resting on bed, water soaking towel central, caring home scene, natural poses, detailed hands, cinematic storytelling, no text, no letters, no typography, no watermark, no logos. Negative: extra people, text, letters, subtitles, kanji on objects, blurry, bad anatomy, deformed hands."
+  },
+  {
+    "stem": "点く",
+    "word": "点く",
+    "reading": "つく",
+    "path": "Карточки/Глаголы/点く.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 composition, exactly one adult entering dark living room pressing wall light switch, physical ceiling lamp visibly lighting up and casting warm rays central, illuminated room, natural poses, detailed hands, no text, no letters, no logos, no watermark. Negative: extra people, text, letters, typography, blurry, bad anatomy."
+  }
+]
