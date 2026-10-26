@@ -1,0 +1,1602 @@
+[
+  [
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "canonical": "開ける",
+      "noteId": 1773728902375,
+      "has_pair": true
+    },
+    {
+      "word": "開く",
+      "reading": "あく",
+      "canonical": "開く",
+      "noteId": 1792995009222,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "閉める",
+      "reading": "しめる",
+      "canonical": "閉める",
+      "noteId": 1771711277142,
+      "has_pair": true
+    },
+    {
+      "word": "閉まる",
+      "reading": "しまる",
+      "canonical": "閉まる",
+      "noteId": 1771711356952,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "つける",
+      "reading": "つける",
+      "canonical": "つける",
+      "noteId": 1771879072524,
+      "has_pair": true
+    },
+    {
+      "word": "つく",
+      "reading": "つく",
+      "canonical": "点く",
+      "noteId": 1792995063771,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "消す",
+      "reading": "けす",
+      "canonical": "消す",
+      "noteId": 1769976654765,
+      "has_pair": true
+    },
+    {
+      "word": "消える",
+      "reading": "きえる",
+      "canonical": "消える",
+      "noteId": 1776664130239,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "入れる",
+      "reading": "いれる",
+      "canonical": "入れる",
+      "noteId": 1776409682222,
+      "has_pair": true
+    },
+    {
+      "word": "入る",
+      "reading": "はいる",
+      "canonical": "入る",
+      "noteId": 1770786317830,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "出す",
+      "reading": "だす",
+      "canonical": "出す",
+      "noteId": 1769977128854,
+      "has_pair": true
+    },
+    {
+      "word": "出る",
+      "reading": "でる",
+      "canonical": "出る",
+      "noteId": 1772479216467,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "上げる",
+      "reading": "あげる",
+      "canonical": "上げる",
+      "noteId": 1776664125264,
+      "has_pair": true
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "canonical": "上がる",
+      "noteId": 1770792055791,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "下げる",
+      "reading": "さげる",
+      "canonical": "下げる",
+      "noteId": 1776713885435,
+      "has_pair": true
+    },
+    {
+      "word": "下がる",
+      "reading": "さがる",
+      "canonical": "下がる",
+      "noteId": 1770792077699,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "canonical": "止める",
+      "noteId": 1776073449296,
+      "has_pair": true
+    },
+    {
+      "word": "止まる",
+      "reading": "とまる",
+      "canonical": "止まる",
+      "noteId": 1776664129815,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "動かす",
+      "reading": "うごかす",
+      "canonical": "動かす",
+      "noteId": 1776713888136,
+      "has_pair": true
+    },
+    {
+      "word": "動く",
+      "reading": "うごく",
+      "canonical": "動く",
+      "noteId": 1776713888185,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "始める",
+      "reading": "はじめる",
+      "canonical": "始める",
+      "noteId": 1776409682226,
+      "has_pair": true
+    },
+    {
+      "word": "始まる",
+      "reading": "はじまる",
+      "canonical": "始まる",
+      "noteId": 1776664127814,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "終える",
+      "reading": "おえる",
+      "canonical": "終える",
+      "noteId": 1790836165664,
+      "has_pair": true
+    },
+    {
+      "word": "終わる",
+      "reading": "おわる",
+      "canonical": "終わる",
+      "noteId": 1776664131364,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "続ける",
+      "reading": "つづける",
+      "canonical": "続ける",
+      "noteId": 1776713897086,
+      "has_pair": true
+    },
+    {
+      "word": "続く",
+      "reading": "つづく",
+      "canonical": "続く",
+      "noteId": 1776713897035,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "変える",
+      "reading": "かえる",
+      "canonical": "変える",
+      "noteId": 1769977411472,
+      "has_pair": true
+    },
+    {
+      "word": "変わる",
+      "reading": "かわる",
+      "canonical": "変わる",
+      "noteId": 1776713889535,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "決める",
+      "reading": "きめる",
+      "canonical": "決める",
+      "noteId": 1769977879820,
+      "has_pair": true
+    },
+    {
+      "word": "決まる",
+      "reading": "きまる",
+      "canonical": "決まる",
+      "noteId": 1776713894035,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "集める",
+      "reading": "あつめる",
+      "canonical": "集める",
+      "noteId": 1776713902436,
+      "has_pair": true
+    },
+    {
+      "word": "集まる",
+      "reading": "あつまる",
+      "canonical": "集まる",
+      "noteId": 1776713902386,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "並べる",
+      "reading": "ならべる",
+      "canonical": "並べる",
+      "noteId": 1776664125515,
+      "has_pair": true
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "canonical": "並ぶ",
+      "noteId": 1776664125439,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "付ける",
+      "reading": "つける",
+      "canonical": "付ける",
+      "noteId": 1764789270428,
+      "has_pair": true
+    },
+    {
+      "word": "付く",
+      "reading": "つく",
+      "canonical": "付く",
+      "noteId": 1789535681125,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "外す",
+      "reading": "はずす",
+      "canonical": "外す",
+      "noteId": 1792995019446,
+      "has_pair": true
+    },
+    {
+      "word": "外れる",
+      "reading": "はずれる",
+      "canonical": "外れる",
+      "noteId": 1789535680753,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "掛ける",
+      "reading": "かける",
+      "canonical": "かける",
+      "noteId": 1776664124867,
+      "has_pair": true
+    },
+    {
+      "word": "掛かる",
+      "reading": "かかる",
+      "canonical": "掛かる",
+      "noteId": 1780214321619,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "壊す",
+      "reading": "こわす",
+      "canonical": "壊す",
+      "noteId": 1776713889236,
+      "has_pair": true
+    },
+    {
+      "word": "壊れる",
+      "reading": "こわれる",
+      "canonical": "壊れる",
+      "noteId": 1776713889285,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "割る",
+      "reading": "わる",
+      "canonical": "割る",
+      "noteId": 1784063329397,
+      "has_pair": true
+    },
+    {
+      "word": "割れる",
+      "reading": "われる",
+      "canonical": "割れる",
+      "noteId": 1780214314847,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "折る",
+      "reading": "おる",
+      "canonical": "折る",
+      "noteId": 1776713891136,
+      "has_pair": true
+    },
+    {
+      "word": "折れる",
+      "reading": "おれる",
+      "canonical": "折れる",
+      "noteId": 1776713891185,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "破る",
+      "reading": "やぶる",
+      "canonical": "破る",
+      "noteId": 1792995037322,
+      "has_pair": true
+    },
+    {
+      "word": "破れる",
+      "reading": "やぶれる",
+      "canonical": "破れる",
+      "noteId": 1789535680752,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "切る",
+      "reading": "きる",
+      "canonical": "切る",
+      "noteId": 1776664127015,
+      "has_pair": true
+    },
+    {
+      "word": "切れる",
+      "reading": "きれる",
+      "canonical": "切れる",
+      "noteId": 1789535680794,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "汚す",
+      "reading": "よごす",
+      "canonical": "汚す",
+      "noteId": 1784063341014,
+      "has_pair": true
+    },
+    {
+      "word": "汚れる",
+      "reading": "よごれる",
+      "canonical": "汚れる",
+      "noteId": 1784063341348,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "落とす",
+      "reading": "おとす",
+      "canonical": "落とす",
+      "noteId": 1776713897985,
+      "has_pair": true
+    },
+    {
+      "word": "落ちる",
+      "reading": "おちる",
+      "canonical": "落ちる",
+      "noteId": 1776713897836,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "倒す",
+      "reading": "たおす",
+      "canonical": "倒す",
+      "noteId": 1792995035346,
+      "has_pair": true
+    },
+    {
+      "word": "倒れる",
+      "reading": "たおれる",
+      "canonical": "倒れる",
+      "noteId": 1784063328164,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "なくす",
+      "reading": "なくす",
+      "canonical": "無くす",
+      "noteId": 1780246825837,
+      "has_pair": true
+    },
+    {
+      "word": "なくなる",
+      "reading": "なくなる",
+      "canonical": "無くなる",
+      "noteId": 1789535681129,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "残す",
+      "reading": "のこす",
+      "canonical": "残す",
+      "noteId": 1776713893635,
+      "has_pair": true
+    },
+    {
+      "word": "残る",
+      "reading": "のこる",
+      "canonical": "残る",
+      "noteId": 1776713893686,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "戻す",
+      "reading": "もどす",
+      "canonical": "戻す",
+      "noteId": 1789535680756,
+      "has_pair": true
+    },
+    {
+      "word": "戻る",
+      "reading": "もどる",
+      "canonical": "戻る",
+      "noteId": 1780214315345,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "返す",
+      "reading": "かえす",
+      "canonical": "返す",
+      "noteId": 1776664132964,
+      "has_pair": true
+    },
+    {
+      "word": "返る",
+      "reading": "かえる",
+      "canonical": "返る",
+      "noteId": 1792996752856,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "直す",
+      "reading": "なおす",
+      "canonical": "直す",
+      "noteId": 1776664130814,
+      "has_pair": true
+    },
+    {
+      "word": "直る",
+      "reading": "なおる",
+      "canonical": "直る",
+      "noteId": 1776713895835,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "治す",
+      "reading": "なおす",
+      "canonical": "治す",
+      "noteId": 1776713894185,
+      "has_pair": true
+    },
+    {
+      "word": "治る",
+      "reading": "なおる",
+      "canonical": "治る",
+      "noteId": 1776713894236,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "起こす",
+      "reading": "おこす",
+      "canonical": "起こす",
+      "noteId": 1776713899936,
+      "has_pair": true
+    },
+    {
+      "word": "起きる",
+      "reading": "おきる",
+      "canonical": "起きる",
+      "noteId": 1776073449283,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "寝かす",
+      "reading": "ねかす",
+      "canonical": "寝かす",
+      "noteId": 1792996754556,
+      "has_pair": true
+    },
+    {
+      "word": "寝る",
+      "reading": "ねる",
+      "canonical": "寝る",
+      "noteId": 1776198092132,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "育てる",
+      "reading": "そだてる",
+      "canonical": "育てる",
+      "noteId": 1776713897685,
+      "has_pair": true
+    },
+    {
+      "word": "育つ",
+      "reading": "そだつ",
+      "canonical": "育つ",
+      "noteId": 1776713897636,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "増やす",
+      "reading": "ふやす",
+      "canonical": "増やす",
+      "noteId": 1776713889185,
+      "has_pair": true
+    },
+    {
+      "word": "増える",
+      "reading": "ふえる",
+      "canonical": "増える",
+      "noteId": 1776713889136,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "減らす",
+      "reading": "へらす",
+      "canonical": "減らす",
+      "noteId": 1776713894885,
+      "has_pair": true
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "canonical": "減る",
+      "noteId": 1776713894936,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "乗せる",
+      "reading": "のせる",
+      "canonical": "乗せる",
+      "noteId": 1776713885785,
+      "has_pair": true
+    },
+    {
+      "word": "乗る",
+      "reading": "のる",
+      "canonical": "乗る",
+      "noteId": 1776664125689,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "降ろす",
+      "reading": "おろす",
+      "canonical": "降ろす",
+      "noteId": 1776713902235,
+      "has_pair": true
+    },
+    {
+      "word": "降りる",
+      "reading": "おりる",
+      "canonical": "降りる",
+      "noteId": 1776409682224,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "届ける",
+      "reading": "とどける",
+      "canonical": "届ける",
+      "noteId": 1776713889935,
+      "has_pair": true
+    },
+    {
+      "word": "届く",
+      "reading": "とどく",
+      "canonical": "届く",
+      "noteId": 1784063333735,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "通す",
+      "reading": "とおす",
+      "canonical": "通す",
+      "noteId": 1776713900736,
+      "has_pair": true
+    },
+    {
+      "word": "通る",
+      "reading": "とおる",
+      "canonical": "通る",
+      "noteId": 1789535680779,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "渡す",
+      "reading": "わたす",
+      "canonical": "渡す",
+      "noteId": 1776664130415,
+      "has_pair": true
+    },
+    {
+      "word": "渡る",
+      "reading": "わたる",
+      "canonical": "渡る",
+      "noteId": 1776664130489,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "帰す",
+      "reading": "かえす",
+      "canonical": "帰す",
+      "noteId": 1768298455193,
+      "has_pair": true
+    },
+    {
+      "word": "帰る",
+      "reading": "かえる",
+      "canonical": "帰る",
+      "noteId": 1768298364157,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "進める",
+      "reading": "すすめる",
+      "canonical": "進める",
+      "noteId": 1774175397532,
+      "has_pair": true
+    },
+    {
+      "word": "進む",
+      "reading": "すすむ",
+      "canonical": "進む",
+      "noteId": 1776713900885,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "遅らせる",
+      "reading": "おくらせる",
+      "canonical": "遅らせる",
+      "noteId": 1776713901035,
+      "has_pair": true
+    },
+    {
+      "word": "遅れる",
+      "reading": "おくれる",
+      "canonical": "遅れる",
+      "noteId": 1776713901086,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "広げる",
+      "reading": "ひろげる",
+      "canonical": "広げる",
+      "noteId": 1784063334098,
+      "has_pair": true
+    },
+    {
+      "word": "広がる",
+      "reading": "ひろがる",
+      "canonical": "広がる",
+      "noteId": 1792996756706,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "深める",
+      "reading": "ふかめる",
+      "canonical": "深める",
+      "noteId": 1790836165659,
+      "has_pair": true
+    },
+    {
+      "word": "深まる",
+      "reading": "ふかまる",
+      "canonical": "深まる",
+      "noteId": 1790836165658,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "高める",
+      "reading": "たかめる",
+      "canonical": "高める",
+      "noteId": 1792996758682,
+      "has_pair": true
+    },
+    {
+      "word": "高まる",
+      "reading": "たかまる",
+      "canonical": "高まる",
+      "noteId": 1792996760955,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "強める",
+      "reading": "つよめる",
+      "canonical": "強める",
+      "noteId": 1792996762982,
+      "has_pair": true
+    },
+    {
+      "word": "強まる",
+      "reading": "つよまる",
+      "canonical": "強まる",
+      "noteId": 1792996765310,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "弱める",
+      "reading": "よわめる",
+      "canonical": "弱める",
+      "noteId": 1792996767281,
+      "has_pair": true
+    },
+    {
+      "word": "弱まる",
+      "reading": "よわまる",
+      "canonical": "弱まる",
+      "noteId": 1792996769456,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "温める",
+      "reading": "あたためる",
+      "canonical": "温める",
+      "noteId": 1776713895236,
+      "has_pair": true
+    },
+    {
+      "word": "温まる",
+      "reading": "あたたまる",
+      "canonical": "温まる",
+      "noteId": 1776713895185,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "冷やす",
+      "reading": "ひやす",
+      "canonical": "冷やす",
+      "noteId": 1783972481255,
+      "has_pair": true
+    },
+    {
+      "word": "冷える",
+      "reading": "ひえる",
+      "canonical": "冷える",
+      "noteId": 1792995039597,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "冷ます",
+      "reading": "さます",
+      "canonical": "冷ます",
+      "noteId": 1792995043597,
+      "has_pair": true
+    },
+    {
+      "word": "冷める",
+      "reading": "さめる",
+      "canonical": "冷める",
+      "noteId": 1792995041671,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "沸かす",
+      "reading": "わかす",
+      "canonical": "沸かす",
+      "noteId": 1789535680791,
+      "has_pair": true
+    },
+    {
+      "word": "沸く",
+      "reading": "わく",
+      "canonical": "沸く",
+      "noteId": 1792995011271,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "焼く",
+      "reading": "やく",
+      "canonical": "焼く",
+      "noteId": 1783972482806,
+      "has_pair": true
+    },
+    {
+      "word": "焼ける",
+      "reading": "やける",
+      "canonical": "焼ける",
+      "noteId": 1789535680775,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "煮る",
+      "reading": "にる",
+      "canonical": "煮る",
+      "noteId": 1789535681126,
+      "has_pair": true
+    },
+    {
+      "word": "煮える",
+      "reading": "にえる",
+      "canonical": "煮える",
+      "noteId": 1789535680771,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "燃やす",
+      "reading": "もやす",
+      "canonical": "燃やす",
+      "noteId": 1792995017422,
+      "has_pair": true
+    },
+    {
+      "word": "燃える",
+      "reading": "もえる",
+      "canonical": "燃える",
+      "noteId": 1789535680755,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "乾かす",
+      "reading": "かわかす",
+      "canonical": "乾かす",
+      "noteId": 1776713886035,
+      "has_pair": true
+    },
+    {
+      "word": "乾く",
+      "reading": "かわく",
+      "canonical": "乾く",
+      "noteId": 1776713886086,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "濡らす",
+      "reading": "ぬらす",
+      "canonical": "濡らす",
+      "noteId": 1792995061922,
+      "has_pair": true
+    },
+    {
+      "word": "濡れる",
+      "reading": "ぬれる",
+      "canonical": "濡れる",
+      "noteId": 1771498213352,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "溶かす",
+      "reading": "とかす",
+      "canonical": "溶かす",
+      "noteId": 1780214315970,
+      "has_pair": true
+    },
+    {
+      "word": "溶ける",
+      "reading": "とける",
+      "canonical": "溶ける",
+      "noteId": 1792996771355,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "混ぜる",
+      "reading": "まぜる",
+      "canonical": "混ぜる",
+      "noteId": 1783972482143,
+      "has_pair": true
+    },
+    {
+      "word": "混ざる",
+      "reading": "まざる",
+      "canonical": "混ざる",
+      "noteId": 1792996773307,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "こぼす",
+      "reading": "こぼす",
+      "canonical": "こぼす",
+      "noteId": 1792995015321,
+      "has_pair": true
+    },
+    {
+      "word": "こぼれる",
+      "reading": "こぼれる",
+      "canonical": "こぼれる",
+      "noteId": 1792995013346,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "流す",
+      "reading": "ながす",
+      "canonical": "流す",
+      "noteId": 1776713894385,
+      "has_pair": true
+    },
+    {
+      "word": "流れる",
+      "reading": "ながれる",
+      "canonical": "流れる",
+      "noteId": 1776713894436,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "詰める",
+      "reading": "つめる",
+      "canonical": "詰める",
+      "noteId": 1776713899086,
+      "has_pair": true
+    },
+    {
+      "word": "詰まる",
+      "reading": "つまる",
+      "canonical": "詰まる",
+      "noteId": 1776713899035,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "満たす",
+      "reading": "みたす",
+      "canonical": "満たす",
+      "noteId": 1792996775556,
+      "has_pair": true
+    },
+    {
+      "word": "満ちる",
+      "reading": "みちる",
+      "canonical": "満ちる",
+      "noteId": 1792996777631,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "空ける",
+      "reading": "あける",
+      "canonical": "空ける",
+      "noteId": 1792996779606,
+      "has_pair": true
+    },
+    {
+      "word": "空く",
+      "reading": "あく",
+      "canonical": "空く",
+      "noteId": 1792996781756,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "散らかす",
+      "reading": "ちらかす",
+      "canonical": "散らかす",
+      "noteId": 1792996783855,
+      "has_pair": true
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "canonical": "散らかる",
+      "noteId": 1792996785930,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "片付ける",
+      "reading": "かたづける",
+      "canonical": "片付ける",
+      "noteId": 1776713895285,
+      "has_pair": true
+    },
+    {
+      "word": "片付く",
+      "reading": "かたづく",
+      "canonical": "片付く",
+      "noteId": 1789535680744,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "立てる",
+      "reading": "たてる",
+      "canonical": "立てる",
+      "noteId": 1792996788006,
+      "has_pair": true
+    },
+    {
+      "word": "立つ",
+      "reading": "たつ",
+      "canonical": "立つ",
+      "noteId": 1772479155448,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "canonical": "建てる",
+      "noteId": 1784063334448,
+      "has_pair": true
+    },
+    {
+      "word": "建つ",
+      "reading": "たつ",
+      "canonical": "建つ",
+      "noteId": 1790849392504,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "canonical": "開く",
+      "noteId": 1773728865755,
+      "has_pair": true
+    },
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "canonical": "開く",
+      "noteId": 1773728865755,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "閉じる",
+      "reading": "とじる",
+      "canonical": "閉じる",
+      "noteId": 1771788615027,
+      "has_pair": true
+    },
+    {
+      "word": "閉じる",
+      "reading": "とじる",
+      "canonical": "閉じる",
+      "noteId": 1771788615027,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "回す",
+      "reading": "まわす",
+      "canonical": "回す",
+      "noteId": 1790836165541,
+      "has_pair": true
+    },
+    {
+      "word": "回る",
+      "reading": "まわる",
+      "canonical": "回る",
+      "noteId": 1769977965660,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "曲げる",
+      "reading": "まげる",
+      "canonical": "曲げる",
+      "noteId": 1781330504433,
+      "has_pair": true
+    },
+    {
+      "word": "曲がる",
+      "reading": "まがる",
+      "canonical": "曲がる",
+      "noteId": 1772479422973,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "伸ばす",
+      "reading": "のばす",
+      "canonical": "伸ばす",
+      "noteId": 1776713886685,
+      "has_pair": true
+    },
+    {
+      "word": "伸びる",
+      "reading": "のびる",
+      "canonical": "伸びる",
+      "noteId": 1776713886735,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "縮める",
+      "reading": "ちぢめる",
+      "canonical": "縮める",
+      "noteId": 1792996790031,
+      "has_pair": true
+    },
+    {
+      "word": "縮む",
+      "reading": "ちぢむ",
+      "canonical": "縮む",
+      "noteId": 1792996792031,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "揺らす",
+      "reading": "ゆらす",
+      "canonical": "揺らす",
+      "noteId": 1792996794481,
+      "has_pair": true
+    },
+    {
+      "word": "揺れる",
+      "reading": "ゆれる",
+      "canonical": "揺れる",
+      "noteId": 1784063338180,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "飛ばす",
+      "reading": "とばす",
+      "canonical": "飛ばす",
+      "noteId": 1792996796607,
+      "has_pair": true
+    },
+    {
+      "word": "飛ぶ",
+      "reading": "とぶ",
+      "canonical": "飛ぶ",
+      "noteId": 1776664134164,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "転がす",
+      "reading": "ころがす",
+      "canonical": "転がす",
+      "noteId": 1792996798581,
+      "has_pair": true
+    },
+    {
+      "word": "転がる",
+      "reading": "ころがる",
+      "canonical": "転がる",
+      "noteId": 1792996800784,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "滑らす",
+      "reading": "すべらす",
+      "canonical": "滑らす",
+      "noteId": 1792996802631,
+      "has_pair": true
+    },
+    {
+      "word": "滑る",
+      "reading": "すべる",
+      "canonical": "滑る",
+      "noteId": 1781895352932,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "沈める",
+      "reading": "しずめる",
+      "canonical": "沈める",
+      "noteId": 1792996804756,
+      "has_pair": true
+    },
+    {
+      "word": "沈む",
+      "reading": "しずむ",
+      "canonical": "沈む",
+      "noteId": 1792996807032,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "浮かべる",
+      "reading": "うかべる",
+      "canonical": "浮かべる",
+      "noteId": 1792996809207,
+      "has_pair": true
+    },
+    {
+      "word": "浮かぶ",
+      "reading": "うかぶ",
+      "canonical": "浮かぶ",
+      "noteId": 1792996811205,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "埋める",
+      "reading": "うめる",
+      "canonical": "埋める",
+      "noteId": 1792996813631,
+      "has_pair": true
+    },
+    {
+      "word": "埋まる",
+      "reading": "うまる",
+      "canonical": "埋まる",
+      "noteId": 1792996815756,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "隠す",
+      "reading": "かくす",
+      "canonical": "隠す",
+      "noteId": 1776713902286,
+      "has_pair": true
+    },
+    {
+      "word": "隠れる",
+      "reading": "かくれる",
+      "canonical": "隠れる",
+      "noteId": 1776713902336,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "canonical": "見つける",
+      "noteId": 1778076302428,
+      "has_pair": true
+    },
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "canonical": "見つかる",
+      "noteId": 1784063348147,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "見せる",
+      "reading": "みせる",
+      "canonical": "見せる",
+      "noteId": 1768298784378,
+      "has_pair": true
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "canonical": "見える",
+      "noteId": 1780214316970,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "聞く",
+      "reading": "きく",
+      "canonical": "聞く",
+      "noteId": 1768298913772,
+      "has_pair": true
+    },
+    {
+      "word": "聞こえる",
+      "reading": "きこえる",
+      "canonical": "聞こえる",
+      "noteId": 1768298945713,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "伝える",
+      "reading": "つたえる",
+      "canonical": "伝える",
+      "noteId": 1776713886586,
+      "has_pair": true
+    },
+    {
+      "word": "伝わる",
+      "reading": "つたわる",
+      "canonical": "伝わる",
+      "noteId": 1776713886636,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "繋ぐ",
+      "reading": "つなぐ",
+      "canonical": "繋ぐ",
+      "noteId": 1792996817681,
+      "has_pair": true
+    },
+    {
+      "word": "繋がる",
+      "reading": "つながる",
+      "canonical": "繋がる",
+      "noteId": 1769977338558,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "離す",
+      "reading": "はなす",
+      "canonical": "離す",
+      "noteId": 1790836165778,
+      "has_pair": true
+    },
+    {
+      "word": "離れる",
+      "reading": "はなれる",
+      "canonical": "離れる",
+      "noteId": 1790836165779,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "放す",
+      "reading": "はなす",
+      "canonical": "放す",
+      "noteId": 1776713891936,
+      "has_pair": true
+    },
+    {
+      "word": "放れる",
+      "reading": "はなれる",
+      "canonical": "放れる",
+      "noteId": 1792996819906,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "抜く",
+      "reading": "ぬく",
+      "canonical": "抜く",
+      "noteId": 1776713891236,
+      "has_pair": true
+    },
+    {
+      "word": "抜ける",
+      "reading": "ぬける",
+      "canonical": "抜ける",
+      "noteId": 1776713891285,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "剥がす",
+      "reading": "はがす",
+      "canonical": "剥がす",
+      "noteId": 1792996821906,
+      "has_pair": true
+    },
+    {
+      "word": "剥がれる",
+      "reading": "はがれる",
+      "canonical": "剥がれる",
+      "noteId": 1792996824007,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "解く",
+      "reading": "ほどく",
+      "canonical": "解く",
+      "noteId": 1792996826031,
+      "has_pair": true
+    },
+    {
+      "word": "解ける",
+      "reading": "ほどける",
+      "canonical": "解ける",
+      "noteId": 1792996828031,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "解く",
+      "reading": "とく",
+      "canonical": "解く",
+      "noteId": 1792996830106,
+      "has_pair": true
+    },
+    {
+      "word": "解ける",
+      "reading": "とける",
+      "canonical": "解ける",
+      "noteId": 1792996832281,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "整える",
+      "reading": "ととのえる",
+      "canonical": "整える",
+      "noteId": 1776713892186,
+      "has_pair": true
+    },
+    {
+      "word": "整う",
+      "reading": "ととのう",
+      "canonical": "整う",
+      "noteId": 1776713892136,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "揃える",
+      "reading": "そろえる",
+      "canonical": "揃える",
+      "noteId": 1792995023922,
+      "has_pair": true
+    },
+    {
+      "word": "揃う",
+      "reading": "そろう",
+      "canonical": "揃う",
+      "noteId": 1792995021776,
+      "has_pair": true
+    }
+  ],
+  [
+    {
+      "word": "収める",
+      "reading": "おさめる",
+      "canonical": "収める",
+      "noteId": 1792996834309,
+      "has_pair": true
+    },
+    {
+      "word": "収まる",
+      "reading": "おさまる",
+      "canonical": "収まる",
+      "noteId": 1792996836232,
+      "has_pair": true
+    }
+  ]
+]

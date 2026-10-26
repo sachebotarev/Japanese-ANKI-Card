@@ -1,0 +1,14 @@
+[
+  {
+    "word": "割る",
+    "stem": "割る",
+    "path": "Карточки/Глаголы/割る.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 frame, exactly one adult in kitchen carefully sweeping sharp physical ceramic plate fragments into dustpan after dropping plate while washing, large clearly separated white ceramic shards central, intact dishes by sink, no injury, no blood, natural poses, detailed hands, no text, no letters, no numbers, no logos, no watermark. Negative: extra people, text, typography, blurry, deformed anatomy."
+  },
+  {
+    "word": "壊す",
+    "stem": "壊す",
+    "path": "Карточки/Глаголы/壊す.json",
+    "prompt": "masterpiece, best quality, anime illustration, square 1:1 frame, exactly two adult friends packing for trip, one holding dropped nonfunctional physical camera with visibly bent lens barrel and detached button while friend lends intact replacement camera, damaged mechanism central, no shards, plain dark display, suitcase nearby, natural poses, detailed hands, no text, no letters, no numbers, no logos, no watermark. Negative: extra people, text, typography, blurry, deformed anatomy."
+  }
+]
