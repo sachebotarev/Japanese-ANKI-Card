@@ -2,6 +2,9 @@
 import json,re,hashlib,subprocess,urllib.request,base64,sys
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
+from generate_aivis_audio import ALLOWED_TTS_SPEAKERS
+# Старый журнал импорта содержит かりん: это проверка истории, не разрешение новой генерации.
+HISTORICAL_IMPORT_SPEAKERS = {'かりん(現実20代女子AIボイチェン@リアボVC公式モデル)'}
 ROOT=Path(__file__).resolve().parents[1];D=ROOT/'docs/minna-import-2026-09-16'
 rows=json.loads((D/'created.json').read_text());logs={r['file']:r for line in (D/'audio-log.jsonl').read_text().splitlines() if (r:=json.loads(line))}
 media=[];notes=[];words=set();topics=set()
@@ -22,7 +25,7 @@ for row in rows:
   assert f.stat().st_size>1000 and log['sha256']==hashlib.sha256(f.read_bytes()).hexdigest(),f
   assert log['text']==text,(w,log['text'],text)
   assert log['speed']==0.9
-  assert log['speaker'] in ('かりん(現実20代女子AIボイチェン@リアボVC公式モデル)','阿井田 茂','にせ','わかな(現実20代女子AIボイチェン@リアボVC公式モデル)')
+  assert log['speaker'] in set(ALLOWED_TTS_SPEAKERS) | HISTORICAL_IMPORT_SPEAKERS
   media.append(f)
  notes.append({'fields':{k:('' if k=='Картинка' else v) for k,v in d.items() if k!='Теги'},'tags':d['Теги']})
 for t in topics:

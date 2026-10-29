@@ -3,7 +3,7 @@ import json,re,random,hashlib,html
 from pathlib import Path
 import generate_aivis_audio as a
 ROOT=Path(__file__).resolve().parents[1];DATA=ROOT/'docs/minna-import-2026-09-16'
-a.ALLOWED_TTS_SPEAKERS=('かりん(現実20代女子AIボイチェン@リアボVC公式モデル)','阿井田 茂','にせ','わかな(現実20代女子AIボイチェン@リアボVC公式モデル)')
+# Используем актуальный белый список общего генератора, без локального переопределения.
 speakers=a.speakers_by_name(a.DEFAULT_ENGINE_URL);pool=a.compatible_whitelist(speakers,style_name='ノーマル');assert pool
 log=DATA/'audio-log.jsonl';prior={r['file']:r for line in log.read_text().splitlines() if (r:=json.loads(line))}
 made=0
