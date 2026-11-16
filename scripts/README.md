@@ -28,6 +28,10 @@ python3 scripts/audit_example_format.py
 
 `sync_json_to_anki_connect.py` — отправка всех полей `Карточки/**/*.json`, тегов и локальных `[sound:…]` медиафайлов в Anki через AnkiConnect ([docs/anki-sync.md](../docs/anki-sync.md)).
 
+`sync_anki_deck_to_json.py` — обратная синхронизация существующей колоды Anki в JSON и тематические списки с отчётом о недостающих изображениях.
+
+`update_verb_transitivity.py` — проверяемое обновление поля `Заметки` сведениями о переходности из `docs/verb-transitivity/data.json`; поддерживает dry-run и синхронизацию с Anki.
+
 `sync_quartz_content.py` готовит сайт непосредственно из `Карточки/**/*.json`. Markdown создаётся только во временном `quartz_content/`, а изображения и аудио подключаются по raw URL GitHub. Каталог `quartz_content/` — сборочный артефакт (в `.gitignore`).
 
 `build_quartz.sh` — локальная сборка ванильным Quartz: клонирует апстрим в `.quartz-build/`, накатывает `quartz_overlay/`, запускает `sync_quartz_content.py`, выполняет `npx quartz build -d ../quartz_content -o ../quartz_site` (либо `--serve` для dev‑сервера). Версию апстрима можно менять переменной `QUARTZ_VERSION` (по умолчанию `v4.5.2`); подробности — в [docs/quartz-site.md](../docs/quartz-site.md).

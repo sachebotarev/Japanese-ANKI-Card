@@ -17,7 +17,6 @@
 - Озвучка: [docs/audio.md](docs/audio.md)
 - Обработка файлов в `Слова/`: [docs/word-lists.md](docs/word-lists.md)
 - Таксономия смысловых тем (классификация, кроме глаголов/наречий/прилагательных): [docs/theme-taxonomy.md](docs/theme-taxonomy.md), связь с папками репозитория: [docs/theme-repo-bridge.md](docs/theme-repo-bridge.md)
-- Сайт Quartz из JSON-карточек: [docs/quartz-site.md](docs/quartz-site.md)
 - Сайт Quartz на GitHub Pages (raw для картинок и mp3): [docs/quartz-site.md](docs/quartz-site.md)
 
 ## Оперативные правила
