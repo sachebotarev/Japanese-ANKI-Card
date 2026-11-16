@@ -11,15 +11,15 @@
    - `quartz_overlay/quartz/components/pages/TagContent.tsx` — облегчённый индекс `/tags/`: один список тегов с числом карточек вместо списка карточек под каждым тегом. Страницы отдельных тегов показывают список слов без повторения всех тегов у каждого слова.
    - `quartz_overlay/quartz/components/scripts/search.inline.ts` — поисковый индекс строится только при первом вводе запроса, а не при открытии каждой страницы.
 
-2. **`scripts/sync_quartz_content.py`** — копирует `Записи/` → `quartz_content/Записи/` и заменяет вставки `![[Картинки/...]]` и `![[Произношение/...]]` на URL **raw.githubusercontent.com** (картинки — `![](...)`, mp3 — `<audio controls>`). Локальные `Картинки/` и `Произношение/` в сайт **не копируются**. Ссылки на темы с пробелами в имени папки приводятся к тем же slug, что и у Quartz (пробелы → `-`, как в `quartz/util/path.ts`). Текст карточек в `Записи/` задаётся [zapisi-spec.md](zapisi-spec.md): в разделе примеров на сайте **нет** японской строки с пропусками `_____` (она только в JSON для Anki).
+2. **`scripts/sync_quartz_content.py`** — читает `Карточки/**/*.json` и генерирует Markdown только во временном каталоге `quartz_content/`. Текстовые страницы в репозитории не хранятся. Картинки и MP3 подключаются по URL **raw.githubusercontent.com**; локальные `Картинки/` и `Произношение/` в артефакт сайта не копируются. В разделе примеров выводятся полный японский текст и перевод; поле `Пример без слова` остаётся только для Anki.
 
 3. **Ключ тегов в frontmatter — `tags:`** (английский), как и ожидает ванильный Quartz. Все элементы массива `Теги` из JSON карточки (в том числе тег урока Minna вида `みんな初級I-第03課`, см. [cards-spec.md](cards-spec.md)) уходят на сайт и по ним можно отбирать страницы. Каталог тегов — `https://<...>/tags/`.
 
-4. **Навигация по темам:** скрипт `sync_quartz_content.py` создаёт `Записи/<тема>/index.md` со списком карточек и ссылку с карточки на оглавление темы. Граф связей на страницах не показывается.
+4. **Навигация по темам:** скрипт создаёт `quartz_content/<тема>/index.md` со списком карточек и ссылку с каждой страницы на оглавление темы. Граф связей на страницах не показывается.
 
 5. **Версия Quartz** — фиксируется в `scripts/build_quartz.sh` и в workflow переменной **`QUARTZ_VERSION`** (по умолчанию `v4.5.2`). Чтобы попробовать другой релиз/коммит — переопределите её при запуске.
 
-6. **GitHub Actions**: `.github/workflows/quartz-pages.yml` — при push в `main` (изменения в `Записи/`, `quartz_overlay/`, `scripts/sync_quartz_content.py`, `scripts/build_quartz.sh` или сам workflow) или вручную (**Actions → Quartz GitHub Pages → Run workflow**). На этапе сборки клонируется апстрим Quartz в `.quartz-build/`, поверх копируется `quartz_overlay/`, готовится `quartz_content/`, выполняется `npx quartz build -d ../quartz_content -o ../quartz_site`. Артефакт — `quartz_site/`, отгружается через `actions/upload-pages-artifact@v5` и `actions/deploy-pages@v5`.
+6. **GitHub Actions**: `.github/workflows/quartz-pages.yml` запускается при изменениях в `Карточки/`, `Картинки/`, `Произношение/`, Quartz-оверлее или сборочных скриптах, а также вручную. На этапе сборки клонируется апстрим Quartz, генерируется `quartz_content/` из JSON и выполняется `npx quartz build -d ../quartz_content -o ../quartz_site`.
 
 ## Первый запуск на GitHub
 

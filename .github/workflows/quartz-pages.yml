@@ -1,6 +1,6 @@
 # Сборка Quartz и публикация на GitHub Pages (project site).
 # Используется ванильный Quartz из апстрима + наш оверлей в quartz_overlay/.
-# Контент: scripts/sync_quartz_content.py → quartz_content/ (Записи + raw URL для медиа).
+# Контент: scripts/sync_quartz_content.py → quartz_content/ (JSON-карточки + raw URL для медиа).
 
 name: Quartz GitHub Pages
 
@@ -8,7 +8,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "Записи/**"
+      - "Карточки/**"
       - "Картинки/**"
       - "Произношение/**"
       - "quartz_overlay/**"
@@ -49,7 +49,7 @@ jobs:
           cache: npm
           cache-dependency-path: .quartz-build/package-lock.json
 
-      - name: Подготовить content (Записи + raw-ссылки)
+      - name: Подготовить content из JSON-карточек
         env:
           QUARTZ_RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
         run: python3 scripts/sync_quartz_content.py

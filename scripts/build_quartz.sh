@@ -5,7 +5,7 @@
 #   1) Клонирует апстрим Quartz в .quartz-build/ (по умолчанию зафиксирован тег).
 #   2) Накатывает поверх клона наш оверлей quartz_overlay/ (конфиг, layout,
 #      кастомный MyGraph). Никакие исходники Quartz не модифицируются.
-#   3) Готовит quartz_content/ из Записи/ скриптом sync_quartz_content.py.
+#   3) Готовит quartz_content/ из Карточки/ скриптом sync_quartz_content.py.
 #   4) Ставит зависимости и собирает сайт. Артефакты — в quartz_content/public/.
 #
 # Использование:
@@ -39,7 +39,7 @@ git clone --depth 1 --branch "$QUARTZ_VERSION" "$QUARTZ_REPO" "$BUILD_DIR"
 echo "[build_quartz] накатываю оверлей $OVERLAY_DIR"
 cp -R "$OVERLAY_DIR/." "$BUILD_DIR/"
 
-echo "[build_quartz] подготавливаю quartz_content/ из Записи/"
+echo "[build_quartz] подготавливаю quartz_content/ из JSON-карточек"
 python3 "$ROOT_DIR/scripts/sync_quartz_content.py"
 
 pushd "$BUILD_DIR" >/dev/null
