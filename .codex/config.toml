@@ -1,0 +1,15 @@
+[mcp_servers.anki]
+command = "npx"
+args = ["-y", "@ankimcp/anki-mcp-server@0.27.0", "--stdio"]
+enabled = true
+
+[mcp_servers.anki.env]
+ANKI_CONNECT_URL = "http://127.0.0.1:8765"
+
+[mcp_servers.aivisspeech]
+command = "npx"
+args = ["-y", "@shinshin86/mcp-simple-aivisspeech@0.1.3"]
+enabled = true
+
+[mcp_servers.aivisspeech.env]
+AIVISSPEECH_URL = "http://127.0.0.1:10101"
